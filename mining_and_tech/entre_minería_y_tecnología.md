@@ -57,3 +57,5 @@ Empresas emergentes como Mariana Minerals encarnan esta visión. Al tratar la mi
 Asegurar los materiales que nuestra civilización tecnológica necesita no se trata de encontrar nuevos lugares para cavar. Se trata de una cuestión de seguridad nacional y de reinventar por completo una industria fundamental que se quedó anclada en el pasado. La verdadera batalla no es geológica, sino industrial, tecnológica y, sobre todo, de talento y ejecución. El desafío no es descubrir más rocas, sino diseñar un sistema operativo completamente nuevo para transformarlas en el futuro.
 
 La verdadera pregunta no es si podemos encontrar los minerales que necesitamos, sino si podemos construir a la velocidad que el futuro exige. ¿Estamos listos para reinventar una industria fundamental desde sus cimientos para asegurar nuestra soberanía industrial?
+
+Por Javier Jaime y [tu], basado on mis notas de viajes, libros, blogs y podcasts
