@@ -1,4 +1,4 @@
-### **Between a Rock and a Hard Vertical Integration**
+### **Between a Rock and a Hard Tech**
 
 From the copper wiring in an AI data center to the rare earth magnets in a fighter jet, our entire technological infrastructure is built from the ground up. But the foundation of it all is something far humbler: rocks. More specifically, they are "critical minerals," the essential and often fragile inputs for technology, energy, and defense.  
    
