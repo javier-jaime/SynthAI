@@ -1,3 +1,9 @@
-# reports_essays_and_papers
+# Reports, Essays and White Papers
 
-![Examples of Synth AI with NotebookLM](images/SynthAI.png)
+Examples of Synth AI with Obsidian and NotebookLM
+
+![SynthAI](images/SynthAI.png)
+
+Using a Critical Thinking Loop and a "Second Brain"
+
+![Critical Thinking Loop](images/SynthAI.png)
