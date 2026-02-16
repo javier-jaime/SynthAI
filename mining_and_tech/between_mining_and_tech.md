@@ -47,4 +47,4 @@ Mariana Minerals, is an example of a new company that embodies this model. It is
 
 Securing North America's technological and industrial future is not simply a matter of digging more rocks out of the ground. It requires a fundamental re-architecture of an entire industry. The challenge is to transform mining from a series of disjointed, reactive, and inefficient processes into a single, precise systems engineering challenge.The blueprint for a new mining champion exists, built on vertical integration and a software-native core. But in a race where speed is everything, the final question remains: can we build it fast enough to matter?  
 
-By Javier Jaime, based on my notes from trips, books, blogs and podcasts (https://www.youtube.com/watch?v=ofeehL9LHiM).
+By Javier Jaime, based on my notes from trips, books, blogs and [podcasts](https://www.youtube.com/watch?v=ofeehL9LHiM).
