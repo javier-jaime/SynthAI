@@ -40,4 +40,4 @@ Concrete examples include:
 
 The relentless hype around venture capital has created a dangerous myth: that building a large-scale, successful business is synonymous with raising round after round of funding. The stories of North America's most successful entrepreneurs prove otherwise.The real secrets to building a billion-dollar company lie not in the pitch deck, but in the business model itself. The path is paved with capital efficiency, a relentless focus on proving the venture before seeking outside money, and a fierce determination to maintain control of one's vision. This is how you build a business where you, the founder, reap the rewards of your own hard-won success. Knowing that the most common path to a billion-dollar valuation is built on financial discipline rather than VC checks, what is the first step you will take to make your business more efficient?
 
-Based on the book “Finance Secrets of Billion-Dollar Entrepreneurs” by Dileep Rao.  
+By Javier Jaime, based on my personal notes from the book “Finance Secrets of Billion-Dollar Entrepreneurs” by Dileep Rao.  
