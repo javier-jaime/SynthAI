@@ -1,4 +1,4 @@
-### **Seed-strappers & VC Incels: Why Chasing Venture Capital Is a Losing Game**
+### **Seed-strappers vs. VC Incels, why Chasing Venture Capital Is a Losing Game**
 
 #### **Introduction: The Allure of the VC Check**
 
