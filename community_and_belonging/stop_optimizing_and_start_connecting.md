@@ -1,4 +1,4 @@
-# **Stop Optimizing and Start Connecting—We Need a Rainforest**
+# **Stop Optimizing and Start Connecting**
 
 Why do so many well-funded projects, brilliant ideas, and promising communities fail to take off, while others flourish against the odds? We’ve all seen it: the meticulously planned initiative that generates no enthusiasm, or the scrappy startup that captures the world's imagination. Conventional wisdom tells us to seek better plans, more resources, or superior technology.
 
