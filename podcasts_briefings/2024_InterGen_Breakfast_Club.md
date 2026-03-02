@@ -1,4 +1,4 @@
-# Breakfast Club
+# Intergen Breakfast Club
 
 # **Alberta Tech Ecosystem: Innovation and Market Disruption Briefing**
 
@@ -110,7 +110,7 @@ Across all source transcripts, founders and advisors identified several recurrin
 | **Sales Cycles** | "Dinosaur hunting" (selling to super-majors) requires extreme tenacity, often taking years of "sweat, blood, and tears." |
 | **Product-Market Fit** | Startups must avoid becoming "custom software shops" for a single large client and instead find "repeatable" problems to solve. |
 
-### **Summary Table: Featured Organizations**
+### **Featured Organizations**
 
 | Company | Sector | Primary Innovation |
 | :---- | :---- | :---- |
