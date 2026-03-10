@@ -6,7 +6,7 @@
 
 This document synthesizes the key insights, operational challenges, and strategic philosophies discussed in the inaugural episode of the ***Alberta Founders Podcast***. The discussion features [Hems Jay](https://www.linkedin.com/in/hemsjay/), founder of **Simple French**, and  [Odiri Mike-Ifeta](https://www.linkedin.com/in/mikeifetaodiri/) founder of **Discloezy**.
 
-The core findings highlight that technical proficiency in product development is insufficient for business success; founders must overcome a natural aversion to sales and marketing to achieve market awareness. A central theme is the "founder's paradox," where the necessity of wearing multiple hats — ranging from accounting to engineering — creates significant mental exhaustion. The document outlines **Discloezy**’s niche focus on legal tech automation and provides a roadmap for early-stage entrepreneurs, emphasizing that education must be followed by immediate execution.
+The core findings highlight that technical proficiency in product development is insufficient for business success; founders must overcome a natural aversion to sales and marketing to achieve market awareness. A central theme is the "founder's paradox," where the necessity of wearing multiple hats, ranging from accounting to engineering, creates significant mental exhaustion. The document outlines **Discloezy**’s niche focus on legal tech automation and provides a roadmap for early-stage entrepreneurs, emphasizing that education must be followed by immediate execution.
 
 ## **Business Profile: Discloezy**
 
@@ -106,7 +106,7 @@ The core takeaways from this discussion include:
 
 * **Product Innovation:** The platform replaces hours of manual CAD (Computer-Aided Design) work with a simple form-based input system, democratizing access to professional technical drawings.  
 * **The Founder’s Reality:** Entrepreneurship is characterized by a "human Swiss Army knife" approach, requiring founders to balance high-level innovation with "unglamorous" administrative tasks and difficult sales cycles.  
-* **Market Misconceptions:** The "Field of Dreams" fallacy—the belief that building a product is sufficient to attract customers—is debunked. Success requires intentional funnel building and proven market traction.  
+* **Market Misconceptions:** The "Field of Dreams" fallacy, the belief that building a product is sufficient to attract customers, is debunked. Success requires intentional funnel building and proven market traction.  
 * **Resilience and Autonomy:** Founders must remain resistant to external skepticism and focus on solving tangible user problems through iterative development and disciplined execution.
 
 \--------------------------------------------------------------------------------
@@ -153,7 +153,7 @@ The podcast highlights the discrepancy between popular media portrayals of start
 
 ### **Shiny Object Syndrome**
 
-While Tamara admits to "shiny object syndrome"—the urge to start new projects—she emphasizes the importance of sticking to a core idea. Her current business began as a "shiny object" inspired by a legal form generator, leading to a prototype built in just three days.
+While Tamara admits to "shiny object syndrome", the urge to start new projects, she emphasizes the importance of sticking to a core idea. Her current business began as a "shiny object" inspired by a legal form generator, leading to a prototype built in just three days.
 
 \--------------------------------------------------------------------------------
 
@@ -181,7 +181,7 @@ A critical warning is issued regarding securing investment.
 
 Tamara encourages founders to ignore those who claim a goal is impossible. She cites her own experience as a published author without an English degree as evidence that traditional requirements and external doubts should not be barriers to entry.
 
-* **Quote:** "Just because somebody tells you something's not possible that doesn't mean they're right."
+* **Quote:** "Just because somebody tells you something's not possible, that doesn't mean they're right."
 
 ### **Future Outlook**
 
@@ -207,7 +207,7 @@ The platform is moving toward becoming a comprehensive project management tool f
 
 ## **Executive Summary**
 
-This briefing document synthesizes key insights from an interview with [AJ Leece](https://www.linkedin.com/in/anthony-leece/), the founder and managing director of **Briade** (Business Resiliency Arcade). [Leece](https://www.linkedin.com/in/anthony-leece/)’s venture occupies a unique intersection of business consulting, information security, and video game design. The central mission of the organization is to transform mundane or "boring" business requirements — initially focusing on cybersecurity foundational tasks — into engaging, accessible video games.
+This briefing document synthesizes key insights from an interview with [AJ Leece](https://www.linkedin.com/in/anthony-leece/), the founder and managing director of **Briade** (Business Resiliency Arcade). [Leece](https://www.linkedin.com/in/anthony-leece/)’s venture occupies a unique intersection of business consulting, information security, and video game design. The central mission of the organization is to transform mundane or "boring" business requirements, initially focusing on cybersecurity foundational tasks, into engaging, accessible video games.
 
 The core takeaways from Leece’s experience include:
 
@@ -247,9 +247,9 @@ The core takeaways from Leece’s experience include:
 
 ### **Overcoming Content Creation Friction**
 
-The most "hated" yet critical part of [Leece](https://www.linkedin.com/in/anthony-leece/)’s business is writing game "events" — short narratives that intersect technical cyber scenarios with stand-up comedy and business applicability. To solve this, [Leece](https://www.linkedin.com/in/anthony-leece/) developed a custom application using a "citizen developer suite" (prior to the advent of modern AI tools like ChatGPT).
+The most "hated" yet critical part of [Leece](https://www.linkedin.com/in/anthony-leece/)’s business is writing game "events", short narratives that intersect technical cyber scenarios with stand-up comedy and business applicability. To solve this, [Leece](https://www.linkedin.com/in/anthony-leece/) developed a custom application using a "citizen developer suite" (prior to the advent of modern AI tools like ChatGPT).
 
-* **Solution:** This mobile tool allows him to capture inspiration immediately — whether at a bar, getting an oil change, or on a train — reducing the friction of sitting down to write from scratch.
+* **Solution:** This mobile tool allows him to capture inspiration immediately, whether at a bar, getting an oil change, or on a train, reducing the friction of sitting down to write from scratch.
 
 ### **The Customer Retention Hump**
 
@@ -308,7 +308,7 @@ Critical takeaways include:
 
 * **The Utility of "Frictionless" AI:** **Robin** leverages LLMs to automate repetitive customer service tasks via standard SMS, removing the barrier of specialized apps or web interfaces.  
 * **The Hidden Complexity of Infrastructure:** While AI workflows are prominent, the most significant technical hurdles involve foundational systems such as Role-Based Access Control (RBAC), billing, and data siloing.  
-* **Founder Mindset and Grit:** Success is attributed to "being where your feet are" (total presence), rigorous time-blocking — including intentional all-nighters for deep work — and a commitment to the local tech ecosystem despite the "talent drain" to Silicon Valley.  
+* **Founder Mindset and Grit:** Success is attributed to "being where your feet are" (total presence), rigorous time-blocking, including intentional all-nighters for deep work, and a commitment to the local tech ecosystem despite the "talent drain" to Silicon Valley.  
 * **Strategic Evolution:** The company is transitioning from simple automated messaging to "Agentic AI," which involves deeper tool integrations (e.g., calendars) and expansion into the United States market.
 
 \--------------------------------------------------------------------------------
@@ -330,7 +330,7 @@ As the lead of technology, [Rogers](https://www.linkedin.com/in/nick--rogers/) e
 
 ### **The "Hidden" Technical Challenges**
 
-Contrary to popular belief, the advanced AI workflows — defining system prompts and toolsets — are not the most difficult parts of the build. The actual complexity lies in:
+Contrary to popular belief, the advanced AI workflows, defining system prompts and toolsets, are not the most difficult parts of the build. The actual complexity lies in:
 
 * **Organizational Structure:** Implementing robust RBAC, team invitations, and user permissions.  
 * **Data Security:** Ensuring total siloing of data so information never leaks between different organizations.  
@@ -375,7 +375,7 @@ The document highlights the mental and operational friction inherent in building
 Networking is reframed as "finding your people" rather than forced card exchanges.
 
 * **Co-working Spaces:** Engagement with spaces like **House 831** in Calgary provides a community of builders and influencers that helps maintain accountability.  
-* **Niche Interest Groups:** Participation in informal groups like "Bike Club" — a Saturday morning coffee meetup for developers to discuss code, mechanical keyboards, and brewing — provides a necessary social outlet for "geeking out."  
+* **Niche Interest Groups:** Participation in informal groups like "Bike Club", a Saturday morning coffee meetup for developers to discuss code, mechanical keyboards, and brewing, provides a necessary social outlet for "geeking out."  
 * **Teaching and Speaking:** Public speaking is highlighted as a dual-purpose tool: it provides company exposure and forces the speaker to understand their subject matter more deeply through the act of explaining it.
 
 \--------------------------------------------------------------------------------
@@ -403,7 +403,7 @@ The roadmap for **Robin** indicates a shift toward more complex automation and g
 
 # Episode 005
 
-# **Insights from Alberta Founders Podcast — Jeremy Hunter (Omnio Inc.)**
+# **Insights from Alberta Founders Podcast, Jeremy Hunter (Omnio Inc.)**
 
 ## **Executive Summary**
 
@@ -422,7 +422,7 @@ Key takeaways include:
 
 **Omnio Inc.** was founded to address the rising issue of vehicle theft in Canada. Unlike traditional security systems that rely on wireless signals, **Omnio** utilizes a physical/analog-focused methodology.
 
-* **Technology Gap:** Hunter argues that current wireless software — including Bluetooth, RFID, and cellular signals—makes vehicles vulnerable to hacking.  
+* **Technology Gap:** Hunter argues that current wireless software, including Bluetooth, RFID, and cellular signals, makes vehicles vulnerable to hacking.  
 * **Vehicle Compatibility:** The solution is designed to be versatile:  
   * **Legacy Vehicles:** Focuses on specific analog functions, such as the steering column and wheel weld connections.  
   * **Modern Vehicles:** Interfaces with systems primarily handled by software and wireless signals.  
@@ -443,7 +443,7 @@ Key takeaways include:
 
 The process of securing funding through grants is highlighted as an unexpectedly exhausting facet of business.
 
-* **Secret Language:** Grant applications are described as requiring a "secret password" — a specific colloquial or technical language that is not documented and often expires before it can be mastered.  
+* **Secret Language:** Grant applications are described as requiring a "secret password", a specific colloquial or technical language that is not documented and often expires before it can be mastered.  
 * **Bureaucratic Friction:** The system requires navigating numerous channels and personas, which adds layers of complexity to an already ambiguous process.
 
 \--------------------------------------------------------------------------------
