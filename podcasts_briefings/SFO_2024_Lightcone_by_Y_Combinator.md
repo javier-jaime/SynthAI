@@ -1824,7 +1824,7 @@ The startup community successfully navigated significant regulatory threats in 2
 
 # Summary Table
 
-| Company Name | Sector/Industry | Founder(s) | Key Innovation or Technology | YC Batch | Initial Progress During YC Batch | Commercial Traction or Metric | Status or Outcome |
+| Company | Sector/Industry | Founder(s) | Key Innovation or Technology | YC Batch | Initial Progress During YC Batch | Commercial Traction or Metric | Status or Outcome |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | **Boom** | Aerospace | [Blake Scholl](https://www.linkedin.com/in/blakescholl) | Supersonic passenger jet | W16 | Built a styrofoam scale model to de-risk technology and commercial interest. | Secured a $100M Letter of Intent (LOI) from [Richard Branson](https://en.wikipedia.org/wiki/Richard_Branson) of Virgin Airlines. | Built a supersonic jet that completed its first flight in 2024\. |
 | **Cruise** | Autonomous Vehicles | [Kyle Vogt](https://www.linkedin.com/in/kylevogt) | Self-driving car technology and highway ADAS retrofit kits. | W14 (Inferred) | Developed a control system and retrofit kit for an Audi S4. | Gained commercial validation through pre-orders and credit card sign-ups for retrofit kits. | Acquired by GM for almost $1B, currently operating driverless cars in cities like San Francisco. |
