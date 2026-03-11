@@ -2046,7 +2046,7 @@ At Smart Technologies, pricing was used as a competitive lever:
 
 # Summary Table
 
-| Company Name | Industry Focus | Founding Team | Core Business Model | Target Customers | Key Technology or Product | Funding Status | Geographic Markets |
+| Company | Industry | Founder(s) | Core Business Model | Target Customers | Key Technology or Product | Funding Status | Geographic Markets |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | Eavor Technologies | ClimateTech / Geothermal | [John Redfern](https://www.linkedin.com/in/johnredfern/) (CEO), [Paul Cairns](https://www.linkedin.com/in/paul-cairns-103b2a40/) (Chief Business Development Officer), [Matt Toews](https://www.linkedin.com/in/matthew-toews-a3126349/) (CTO), [Jeanine Vany](https://www.linkedin.com/in/jeanine-vany-a46b302a/) | Technology licensing | Oil and gas service companies, energy producers, municipalities, and utility companies | Eavor-Loop: a proprietary closed-loop geothermal system for conductive heat harvesting | Raised $225 million in equity; 91.6 million Euro EU Innovation grant; raising Series B | Global (Germany, Europe, USA, Canada, Japan) |
 | Circle Cardiovascular Imaging | HealthTech | [Greg Ogrodnik](https://www.linkedin.com/in/greg-ogrodnick-918b847/) (CEO), Dr. [Matthias Friedrich](https://www.linkedin.com/in/matthiasfriedrich/) (Co-founder) | SaaS / Subscription and OEM partnerships | Cardiologists and cardiovascular imaging centers at hospitals | CVI 42 software; AI-driven cardiac MRI and CT imaging post-processing tools | Acquired by Thoma Bravo in 2022; previously raised 20 million CAD Series A | Global (Canada, USA, Europe, China, Japan, Australia, South America) |
