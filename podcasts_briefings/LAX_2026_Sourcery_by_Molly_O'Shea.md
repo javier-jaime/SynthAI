@@ -1,4 +1,4 @@
-<!-- FIXME: Add Introduction -->
+<!-- FIXME: Add Introduction Here -->
 
 # Episode 101
 
@@ -2046,3 +2046,5 @@ As technology evolves, the "moat" (competitive advantage) must be redefined.
 ## **Conclusion**
 
 The overarching sentiment is one of extreme optimism. [Lin](https://www.linkedin.com/in/linalfred/) rejects dystopian views of AI-induced unemployment, suggesting that as productivity increases, humans will simply solve new, more strategic problems. For both investors and founders, the directive is clear: embrace the "shifting sands" of technology, utilize every available tool, and focus on the next investment or innovation rather than relying on past successes.
+
+<!-- FIXME: Add Summary Table Here -->
