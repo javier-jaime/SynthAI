@@ -27,7 +27,7 @@ For the lucky few who can attract VC interest early, the price is exceptionally 
 
 #### **Fourth Takeaway: Your Best Investor is a Capital-Efficient Business Model**
 
-The core skill of a finance-smart entrepreneur isn't raising money—it's *not needing to*. This is the art of capital efficiency: designing a business model that generates cash and grows with minimal outside investment. North America's Seed-strappers were masters of this craft. Instead of relying on financiers, they built businesses that funded themselves by cleverly linking business operations to financial outcomes. 
+The core skill of a finance-smart entrepreneur isn't raising money, it's *not needing to*. This is the art of capital efficiency: designing a business model that generates cash and grows with minimal outside investment. North America's Seed-strappers were masters of this craft. Instead of relying on financiers, they built businesses that funded themselves by cleverly linking business operations to financial outcomes. 
 
 Concrete examples include:
 
