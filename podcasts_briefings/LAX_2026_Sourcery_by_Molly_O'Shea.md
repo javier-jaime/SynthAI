@@ -1,6 +1,6 @@
 <!-- FIXME: Add Introduction Here -->
 
-[//]: <> (This is also a comment.)
+[//]: <> (This is also a comment that is not rendered.)
 
 # Episode 101
 
