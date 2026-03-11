@@ -83,13 +83,13 @@ The emergence of reasoning models (like OpenAI's o1) is shifting the focus from 
 
 ## **6\. Strategic Insights and Quotes**
 
-"Technology of a self-driving car but on a headset... this is maybe where Founders should sort of pay attention.", *On the **Apple** Vision Pro as a startup platform.*
+"Technology of a self-driving car but on a headset... this is maybe where Founders should sort of pay attention", *On the **Apple** Vision Pro as a startup platform.*
 
-"You actually can make some significant progress with like half a million dollars in 3 months... there’s always some small part that you can peel off.", *Advice for Hard Tech founders.*
+"You actually can make some significant progress with like half a million dollars in 3 months... there’s always some small part that you can peel off", *Advice for Hard Tech founders.*
 
-"The best pitch is relatively small simple ideas when you put them together and you zoom out, that’s actually a really big story.", *On presenting ambitious hardware projects.*
+"The best pitch is relatively small simple ideas when you put them together and you zoom out, that’s actually a really big story", *On presenting ambitious hardware projects.*
 
-"Learning how to code will literally make you smarter... LLMs learn to think logically by reading all the code in GitHub.", *The argument for continued computer science education in the AI age.*
+"Learning how to code will literally make you smarter... LLMs learn to think logically by reading all the code in GitHub", *The argument for continued computer science education in the AI age.*
 
 # Episode 001
 
@@ -1449,7 +1449,7 @@ The **Replit** team views "Functional AGI", the automation of economically usefu
 2. **Out-of-Distribution Handling:** Navigating scenarios the model was not specifically trained for.  
 3. **Human-Like Adaptability:** Moving beyond specialized "neuro-symbolic" systems toward generalized reasoning.
 
-"Computers are fundamentally better by being extensions of us and by joining with us as opposed to being this competitor.", [Amjad Masad](https://www.linkedin.com/in/amjadmasad)
+"Computers are fundamentally better by being extensions of us and by joining with us as opposed to being this competitor", [Amjad Masad](https://www.linkedin.com/in/amjadmasad)
 
 # Episode 016
 

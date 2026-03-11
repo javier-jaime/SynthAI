@@ -1025,11 +1025,11 @@ The company identifies a significant cultural and speed-to-market difference bet
 
 **Oden** rejects the industry-standard "long sales cycle," asserting that cycles are only long (12–18 months) if the problem isn't a current priority for the customer.
 
-* **Sales Cycle:** Targeted sales cycles are 4–6 months by focusing on companies ready to spend on specific problems.  
+* **Sales Cycle:** Targeted sales cycles are 4-6 months by focusing on companies ready to spend on specific problems.  
 * **Building Trust:** To overcome skepticism, **Oden** provides "interpretable" models. Operators can see the weights and coefficients of a model (e.g., how much starch flow or refiner energy impacts paper strength).  
 * **Risk Mitigation:** Contracts often include "opt-out gates" or money-back guarantees during the first two months to ensure the technology delivers statistical significance before a long-term commitment begins.
 
-"To sell into manufacturing, you can't be bullshitting. You have to be very specific... If we can give these operators the right tools, we can change the nature of those jobs, change the nature of those companies, and just be more effective across the board.", [**Willem Sundblad,**](https://www.linkedin.com/in/willem-sundblad) **CEO**
+"To sell into manufacturing, you can't be bullshitting. You have to be very specific... If we can give these operators the right tools, we can change the nature of those jobs, change the nature of those companies, and just be more effective across the board", [**Willem Sundblad,**](https://www.linkedin.com/in/willem-sundblad) **CEO**
 
 # Episode 010
 
