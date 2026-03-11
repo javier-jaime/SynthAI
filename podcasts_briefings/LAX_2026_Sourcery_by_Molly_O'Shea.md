@@ -1,8 +1,3 @@
-<!-- FIXME: Add Introduction Here -->
-
-[//]: # "This is a comment using reference links"
-[//]: <> (This is also a comment that is not rendered.)
-
 # Episode 101
 
 # **Strategic Analysis of Robinhood’s Growth and Future Initiatives**
@@ -295,7 +290,7 @@ Management views automated logistics as the "Internet of physical goods."
 3. **Mentorship from Scale:** CFO [Deepak Ahuja](https://www.linkedin.com/in/deepak-ahuja-9532b69) (formerly of **Tesla**) joined to manage the transition from a startup to a global infrastructure giant.  
 4. **Global Network:** The ultimate goal is to connect every human on earth to healthcare and economic opportunity through a unified, autonomous network.
 
-"Automated logistics is going to connect every human on earth to economic opportunity... and I think it's going to feel as important as the internet feels today.", [**Keller Rinaudo Cliffton**](https://www.linkedin.com/in/kellerrc)**, CEO**
+"Automated logistics is going to connect every human on earth to economic opportunity... and I think it's going to feel as important as the internet feels today", [**Keller Rinaudo Cliffton**](https://www.linkedin.com/in/kellerrc)**, CEO**
 
 # Episode 104
 
@@ -808,7 +803,7 @@ The CEO described the last two and a half years at **Brex** as "really fucking h
 * The need for high rigor in hiring and culture.  
 * The transition from a cash-burning entity to a borderline cash-flow-positive company growing at 40–50%.
 
-"We never thought of selling the company and we did it because we thought it was fundamentally different than any other combination... It doesn’t feel like an exit; it feels like doubling down on war mode.", [**Pedro Franceschi**](https://www.linkedin.com/in/pfranceschi)**, CEO of Brex**
+"We never thought of selling the company and we did it because we thought it was fundamentally different than any other combination... It doesn’t feel like an exit; it feels like doubling down on war mode", [**Pedro Franceschi**](https://www.linkedin.com/in/pfranceschi)**, CEO of Brex**
 
 # Episode 109
 
@@ -1043,7 +1038,7 @@ There is a natural "mind meld" between AI algorithms and analog hardware:
 * **AI Characteristics:** LLMs and neural networks are also stochastic. Digital computers were adopted for their reliability and precision, but AI does not require this level of exactitude.  
 * **The Trade-off:** By accepting the stochastic nature of analog computation, engineers can dramatically reduce power consumption, the single greatest constraint on modern AI.
 
-"People are stochastic in how they think and the trouble with analog computers historically was that stochastic nature... this is the moment to dramatically reduce power which everybody knows is a if not the major constraint of AI and have a trade-off that's much more reasonable in the AI world.", [Konstantine Buhler](https://www.linkedin.com/in/konstantinebuhler)
+"People are stochastic in how they think and the trouble with analog computers historically was that stochastic nature... this is the moment to dramatically reduce power which everybody knows is a if not the major constraint of AI and have a trade-off that's much more reasonable in the AI world", [Konstantine Buhler](https://www.linkedin.com/in/konstantinebuhler)
 
 ## **Strategic Investment and the "Cognitive Revolution"**
 
@@ -1076,7 +1071,7 @@ To break the existing paradigm, [Naveen Rao](https://www.linkedin.com/in/naveen-
 * **Recurrence and Convergence:** Current Transformers are essentially dynamical systems being "simulated in this horrific algorithmic way" on digital hardware. The goal is to build physical systems where these dynamics converge naturally using physics rather than brute-force digital simulation.  
 * **The Talent Matching Problem:** The ultimate limiting factor for humanity’s success is not necessarily capital or technology, but the "matching problem", optimizing the placement of brilliant minds into their highest and best use.
 
-"I think we are entering a period of incredibly dynamic change in every aspect of the way we do computation from the light sources to the materials to the architectures to the kinds of models we run... all of that is a jump ball right now.", [Peter Barrett](https://www.linkedin.com/in/peter-barrett-1b4b6439) (**Playground Global**)
+"I think we are entering a period of incredibly dynamic change in every aspect of the way we do computation from the light sources to the materials to the architectures to the kinds of models we run... all of that is a jump ball right now", [Peter Barrett](https://www.linkedin.com/in/peter-barrett-1b4b6439) (**Playground Global**)
 
 # Episode 112
 
@@ -1180,7 +1175,7 @@ As AI commoditizes content execution, the partners believe the "highest order of
 
 ### **Notable Quote on Entrepreneurship**
 
-"I wasn't the best boxer right away, but I branded myself, controlled the market and taste-made, and knew how to do that with AI... Whoever can control culture and taste that decides which creative thing is better... that's therefore the highest order of value.", [**Jake Paul**](https://en.wikipedia.org/wiki/Jake_Paul)
+"I wasn't the best boxer right away, but I branded myself, controlled the market and taste-made, and knew how to do that with AI... Whoever can control culture and taste that decides which creative thing is better... that's therefore the highest order of value", [**Jake Paul**](https://en.wikipedia.org/wiki/Jake_Paul)
 
 # Episode 113
 
@@ -1600,7 +1595,7 @@ The platform has demonstrated immediate ROI for early adopters:
 
 \--------------------------------------------------------------------------------
 
-"One character wrong in one of these lines of code is the difference between total success and then like maybe no more launch site... what tools do you want to have that are going to help you be successful? That’s why we were really motivated to go build totally new infrastructure.", [**Scott Morton**](https://www.linkedin.com/in/scott-morton-68334a15/)
+"One character wrong in one of these lines of code is the difference between total success and then like maybe no more launch site... what tools do you want to have that are going to help you be successful? That’s why we were really motivated to go build totally new infrastructure", [**Scott Morton**](https://www.linkedin.com/in/scott-morton-68334a15/)
 
 # Episode 117
 
@@ -1819,15 +1814,15 @@ The current administration (noted as 2025–2026 in context) has shown a refresh
 
 ## **7\. Significant Quotes**
 
-"If you are growing, then you’re probably undervalued.", [**Cameron McCord**](https://www.linkedin.com/in/cameron-mccord)
+"If you are growing, then you’re probably undervalued", [**Cameron McCord**](https://www.linkedin.com/in/cameron-mccord)
 
-"What’s better than $75 million? $155 million.", [**Trae Stephens**](https://www.linkedin.com/in/trae-stephens-485a811/)
+"What’s better than $75 million? $155 million", [**Trae Stephens**](https://www.linkedin.com/in/trae-stephens-485a811/)
 
-"In the software fantasy land on the internet... there’s a real world out there. **Nominal** is an incredibly important part of the stack to ensure that we can do that test and evaluation stuff as efficiently and elegantly as possible.", [**Trae Stephens**](https://www.linkedin.com/in/trae-stephens-485a811/)
+"In the software fantasy land on the internet... there’s a real world out there. **Nominal** is an incredibly important part of the stack to ensure that we can do that test and evaluation stuff as efficiently and elegantly as possible", [**Trae Stephens**](https://www.linkedin.com/in/trae-stephens-485a811/)
 
-"It’s not magic; it’s sorcery.", [**Cameron McCord**](https://www.linkedin.com/in/cameron-mccord)
+"It’s not magic; it’s sorcery", [**Cameron McCord**](https://www.linkedin.com/in/cameron-mccord)
 
-"If you move fast and break things \[in hardware\], you’re also breaking people. People are going to get hurt.", [**Cameron McCord**](https://www.linkedin.com/in/cameron-mccord)
+"If you move fast and break things \[in hardware\], you’re also breaking people. People are going to get hurt", [**Cameron McCord**](https://www.linkedin.com/in/cameron-mccord)
 
 # Episode 119
 
@@ -2049,5 +2044,3 @@ As technology evolves, the "moat" (competitive advantage) must be redefined.
 ## **Conclusion**
 
 The overarching sentiment is one of extreme optimism. [Lin](https://www.linkedin.com/in/linalfred/) rejects dystopian views of AI-induced unemployment, suggesting that as productivity increases, humans will simply solve new, more strategic problems. For both investors and founders, the directive is clear: embrace the "shifting sands" of technology, utilize every available tool, and focus on the next investment or innovation rather than relying on past successes.
-
-<!-- FIXME: Add Summary Table Here -->
