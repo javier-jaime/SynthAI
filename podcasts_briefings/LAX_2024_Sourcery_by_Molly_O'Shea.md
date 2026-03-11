@@ -12,7 +12,7 @@ Key takeaways include:
 * **The DPI Mandate:** In a tightening market, emerging managers face a "DPI (Distributed to Paid-In Capital) crisis," where institutional LPs are shifting their focus from potential and markups to actual liquidity and cash returns.  
 * **Frontier Diligence:** Deep tech investing (biotech, aerospace, manufacturing) now requires "close to the metal" operational experience. The cost of whole-genome sequencing has plummeted from $10 million to $399, enabling a paradigm shift in consumer health data.  
 * **The Creator Economy as a Data Business:** The next generation of creator platforms (**Passes**) is moving beyond social hype to lean on CRM-driven analytics, treating creators as small-to-medium enterprises (SMEs) capable of generating six-figure monthly revenues.  
-* **Investment Philosophy:** Leading contrarians are doubling down on the "magically weird"—non-consensus ideas that appear absurd at inception but carry the potential to reshape humanity.
+* **Investment Philosophy:** Leading contrarians are doubling down on the "magically weird", non-consensus ideas that appear absurd at inception but carry the potential to reshape humanity.
 
 \--------------------------------------------------------------------------------
 
@@ -61,7 +61,7 @@ Technological innovation is currently concentrated in sectors that require deep 
 The story of **Lucy** (a nicotine replacement company) and **Soylent** highlights the importance of market structure and regulation.
 
 * **Regulatory Moats:** New FDA frameworks (Center for Tobacco Products) have created high barriers to entry. Starting a nicotine-related company post-2016 requires tens or hundreds of millions in upfront regulatory costs.  
-* **Health Misconceptions:** A primary challenge in this sector is the "continuum of risk"—debunking the myth that nicotine itself is the carcinogen rather than the delivery mechanism (combustible tobacco).
+* **Health Misconceptions:** A primary challenge in this sector is the "continuum of risk", debunking the myth that nicotine itself is the carcinogen rather than the delivery mechanism (combustible tobacco).
 
 ### **Deep Tech Diligence**
 
@@ -94,14 +94,14 @@ A core theme among top-performing investors is the rejection of consensus in fav
 
 ### **The Ethos of Long Journey Ventures**
 
-**Long Journey Ventures** focuses on "The Magically Weird" — investing in companies that look "quite weird" or even absurd at the time of their inception.
+**Long Journey Ventures** focuses on "The Magically Weird", investing in companies that look "quite weird" or even absurd at the time of their inception.
 
 * **Examples of "Weird" Success:** **Uber** (getting in strangers' cars), **Crusoe** (mining Bitcoin using wasted gas flares in North Dakota), and **Anduril** (defense tech).  
 * **Non-Consensus Questions:** Instead of asking "What are you excited about?" (which is seen as fishing for ideas), [Peter Thiel](https://en.wikipedia.org/wiki/Peter_Thiel) and his circle ask "What are you upset about?" or "What keeps you up at night?"
 
 ### **Aligning Profit with Purpose**
 
-There is an increasing trend in "Silicon Valley Spirituality" — a post-pandemic shift toward serving a purpose higher than the individual ego.
+There is an increasing trend in "Silicon Valley Spirituality", a post-pandemic shift toward serving a purpose higher than the individual ego.
 
 * **Stewardship of Capital:** Investors are increasingly viewed as "stewards" rather than owners of capital, with many pledging to donate the majority of their wealth (**The Giving Pledge**).  
 * **Social Impact through Capitalism:** Capitalism is seen as a tool for social impact, provided the business itself is sound. "Social impact" is not a separate category but a byproduct of building companies that solve meaningful problems.
@@ -130,9 +130,9 @@ The synthesis of these sources reveals an ecosystem that is maturing and profess
 
 ## **Executive Summary**
 
-This briefing examines a fundamental shift in the technology investment landscape: the decline of the traditional Software-as-a-Service (SaaS) model and the emergence of "vertically integrated monopolies" as the next dominant operating model. Driven by the collapsing cost of software development — fueled by AI leverage, abundant APIs, and cheap infrastructure — pure-play software has lost its traditional "moat," leading to a crisis where zero marginal costs in the short term result in zero margins in the long term.
+This briefing examines a fundamental shift in the technology investment landscape: the decline of the traditional Software-as-a-Service (SaaS) model and the emergence of "vertically integrated monopolies" as the next dominant operating model. Driven by the collapsing cost of software development, fueled by AI leverage, abundant APIs, and cheap infrastructure, pure-play software has lost its traditional "moat," leading to a crisis where zero marginal costs in the short term result in zero margins in the long term.
 
-The analysis highlights a strategic pivot toward companies that integrate software with physical infrastructure, hardware, and internal operating systems to achieve hyperscalability in historically non-scalable industries like manufacturing and aerospace. Key takeaways include the identification of vertical integration as a superior financial lever — demonstrated by **Tesla**’s profitability relative to **Ford** — and predictions for 2024 that suggest a resurgence in venture activity and a return to the public markets for startups.
+The analysis highlights a strategic pivot toward companies that integrate software with physical infrastructure, hardware, and internal operating systems to achieve hyperscalability in historically non-scalable industries like manufacturing and aerospace. Key takeaways include the identification of vertical integration as a superior financial lever, demonstrated by **Tesla**’s profitability relative to **Ford,** and predictions for 2024 that suggest a resurgence in venture activity and a return to the public markets for startups.
 
 \--------------------------------------------------------------------------------
 
@@ -215,7 +215,7 @@ The analysis concludes with three major predictions for the upcoming year:
 
 The current venture capital landscape is undergoing a significant "Changing of the Guard," characterized by a structural exodus of capital and a right-sizing of fund expectations following the 2021 market peak. While the industry faces an oversupply of capital relative to investable opportunities, the "grassroots" energy of Silicon Valley has returned to a focus on building technology for its own sake rather than purely for financial momentum.
 
-The emergence of Artificial Intelligence (AI) represents the latest catalyst in a long-term technological evolution. However, a "90/10 problem" — where AI models are 90% accurate but fail in the 10% of cases that require enterprise-grade reliability — suggests a looming "despair period" in the next one to three years. Despite short-term hype and potential infrastructure disappointments, the long-term outlook (5–10 years) remains transformative for knowledge work and vertical software. Success in this era will depend on navigating declining software development costs and identifying sustainable "moats" in a market where incumbents and open-source models are aggressively subsidizing the technology.
+The emergence of Artificial Intelligence (AI) represents the latest catalyst in a long-term technological evolution. However, a "90/10 problem", where AI models are 90% accurate but fail in the 10% of cases that require enterprise-grade reliability, suggests a looming "despair period" in the next one to three years. Despite short-term hype and potential infrastructure disappointments, the long-term outlook (5–10 years) remains transformative for knowledge work and vertical software. Success in this era will depend on navigating declining software development costs and identifying sustainable "moats" in a market where incumbents and open-source models are aggressively subsidizing the technology.
 
 \--------------------------------------------------------------------------------
 
@@ -363,7 +363,7 @@ LPs maintain internal, often unstated, hierarchies for their managers:
 
 ## **Generating Alpha and Portfolio Construction**
 
-LPs hire GPs specifically to generate "Alpha" — returns that exceed market benchmarks through concentrated risk-taking.
+LPs hire GPs specifically to generate "Alpha", returns that exceed market benchmarks through concentrated risk-taking.
 
 | Strategy Component | Weisburd's Perspective |
 | :---- | :---- |
@@ -386,7 +386,7 @@ Venture capitalists act as "narrative dealers," and while they are often accused
 
 ### **The Threat of Displacement**
 
-Founders are advised to view the threat of AI disruption probabilistically. While general rules suggest founders should not worry about "**Google** or **OpenAI** killing them," [Weisburd](https://www.linkedin.com/in/dweisburd) notes the "paperclip issue" — where a large AI company might accidentally destroy a smaller startup's niche while pursuing a larger goal.
+Founders are advised to view the threat of AI disruption probabilistically. While general rules suggest founders should not worry about "**Google** or **OpenAI** killing them," [Weisburd](https://www.linkedin.com/in/dweisburd) notes the "paperclip issue", where a large AI company might accidentally destroy a smaller startup's niche while pursuing a larger goal.
 
 \--------------------------------------------------------------------------------
 
@@ -512,7 +512,7 @@ El Segundo has emerged as a hub for the "Hard Tech" and Aerospace sectors.
 Reflecting on achieving his personal goals by age 30 (becoming a father, a partner at a billion-dollar fund, and founding a space company), [Asparouhov](https://www.linkedin.com/in/delian-asparouhov-87447742) defines the duty of life as "expanding and extending life."
 
 * **Fatherhood:** He describes fatherhood as the most fulfilling human experience and a cerebral commitment to a future where the next generation is "wealthier, wiser, and lives longer."  
-* **Industrial Legacy:** **Varda**’s ultimate goal is to become the "**Foxconn**" or "**TSMC**" of space — a contract manufacturer for the future orbital economy.
+* **Industrial Legacy:** **Varda**’s ultimate goal is to become the "**Foxconn**" or "**TSMC**" of space, a contract manufacturer for the future orbital economy.
 
 # Episode 005
 
@@ -535,7 +535,7 @@ The core takeaways are:
 
 ### **Debunking the "Secret Sauce"**
 
-A recurring theme in the growth sector is the belief in "secret sauce" — the idea that specific tools, contractors, or hidden platform settings are the primary drivers of success. This is characterized as a "farce" designed to justify exorbitant consulting rates. In reality, growth is the result of disciplined hard work and persistent experimentation.
+A recurring theme in the growth sector is the belief in "secret sauce", the idea that specific tools, contractors, or hidden platform settings are the primary drivers of success. This is characterized as a "farce" designed to justify exorbitant consulting rates. In reality, growth is the result of disciplined hard work and persistent experimentation.
 
 ### **The Recruitment and Management of Growth Talent**
 
@@ -670,7 +670,7 @@ Unlike some historical attempts at "lights-out" (fully automated) factories, **H
 
 A critical component of **Hadrian**’s ability to scale is its proprietary training system, which decouples precision manufacturing from the traditional decade-long apprenticeship model.
 
-* **Rapid Onboarding:** **Hadrian** can train and onboard new recruits — many with no prior factory experience (e.g., former bus drivers or retail workers) — in 20 to 30 days.  
+* **Rapid Onboarding:** **Hadrian** can train and onboard new recruits, many with no prior factory experience (e.g., former bus drivers or retail workers), in 20 to 30 days.  
 * **Talent Pipeline:** The company actively recruits from the military and from demographics traditionally outside of the Skilled Manufacturing sector.  
 * **Engineering Culture:** **Hadrian** hires software engineers who can act as their own product managers. Engineers are expected to work on the factory floor hand-in-hand with operations, dealing with "real engineering" problems where software bugs can physically damage multi-million dollar equipment.
 
@@ -687,7 +687,7 @@ With its Series B capital, **Hadrian** is preparing for an aggressive expansion 
 Founder [Chris Power](https://www.linkedin.com/in/powerc) emphasizes that building in "deep tech" requires a significantly higher pain tolerance than traditional software startups.
 
 * **The "Acid Test":** [Power](https://www.linkedin.com/in/powerc) believes founders must be willing to do the "boots on the ground" work, such as his own early days of visiting manufacturing plants while living on a minimal budget.  
-* **Binary Outcomes:** Deep tech companies often face binary outcomes — they either become near-monopolies (like **SpaceX** or **Palantir**) or they fail completely. There are few "middle ground" exits.  
+* **Binary Outcomes:** Deep tech companies often face binary outcomes, they either become near-monopolies (like **SpaceX** or **Palantir**) or they fail completely. There are few "middle ground" exits.  
 * **Organizational Design:** As the company grows, the founder’s role shifts from individual output to organizational design and incentive structures. [Power](https://www.linkedin.com/in/powerc) notes that scaling teams more than 30% a year can risk damaging the core culture, which he identifies as the ultimate moat of the company.
 
 ## **Key Quotes**
@@ -710,7 +710,7 @@ This briefing document synthesizes the key themes and insights from an analysis 
 
 The following analysis explores the intersection of human behavior, financial cycles, and the unique nature of "outlier" individuals. Critical takeaways include:
 
-* **Tail-Driven Returns:** Success in both content creation and venture capital is driven by "tails" — extreme outliers that are nearly impossible to predict at the outset.  
+* **Tail-Driven Returns:** Success in both content creation and venture capital is driven by "tails", extreme outliers that are nearly impossible to predict at the outset.  
 * **Luck vs. Risk:** Luck and risk are functional opposites, both represent factors outside an individual's control that influence outcomes. The greater the success, the larger the role luck likely played.  
 * **The Duality of Genius:** Exceptional "crazy genius" thinkers like [Elon Musk](https://en.wikipedia.org/wiki/Elon_Musk) or [Steve Jobs](https://en.wikipedia.org/wiki/Steve_Jobs) possess personality traits that are often inseparable from the behaviors society finds abrasive or uncivil.  
 * **The "ZIRP" Transition:** The shift from a Zero Interest Rate Policy (ZIRP) environment to higher interest rates has moved the market focus from speculative "stories about tomorrow" to the blunt reality of building sustainable businesses.  
@@ -727,7 +727,7 @@ Success in high-stakes fields is rarely linear and almost always driven by extre
 [Housel](https://www.linkedin.com/in/morgan-housel-5b473821/) notes that even for established professionals, predicting which project or investment will "blow up" is impossible. He cites his own book, *The Psychology of Money*, which had an initial print run of 5,000 copies but eventually sold over 5 million. This reflects a broader truth in venture capital:
 
 * **VC Power Laws:** The winners that drive portfolio returns are rarely the companies investors initially identified as the "sure things."  
-* **The Role of Luck:** [Housel](https://www.linkedin.com/in/morgan-housel-5b473821/) estimates that a significant portion — potentially 90% — of virality and massive success is attributable to luck or serendipity. This includes factors like being born at the right time or attending a specific school (e.g., [Bill Gates](https://en.wikipedia.org/wiki/Bill_Gates) having access to a computer in high school).
+* **The Role of Luck:** [Housel](https://www.linkedin.com/in/morgan-housel-5b473821/) estimates that a significant portion, potentially 90%, of virality and massive success is attributable to luck or serendipity. This includes factors like being born at the right time or attending a specific school (e.g., [Bill Gates](https://en.wikipedia.org/wiki/Bill_Gates) having access to a computer in high school).
 
 ### **Risk and Luck as Opposites**
 
@@ -811,7 +811,7 @@ While fraud (e.g., **FTX**, **Theranos**) is distinct from failed ambition, stor
 
 ## **Executive Summary**
 
-This briefing synthesizes key insights from [Kyle Harrison](https://www.linkedin.com/in/kyle-harrison-9274b278), General Partner at Contrary and author of the "Investing 101" newsletter. The analysis explores a specialized approach to venture capital that prioritizes the identification and cultivation of "Talent Vortexes" — environments where elite talent clusters before spawning the next generation of innovators.
+This briefing synthesizes key insights from [Kyle Harrison](https://www.linkedin.com/in/kyle-harrison-9274b278), General Partner at Contrary and author of the "Investing 101" newsletter. The analysis explores a specialized approach to venture capital that prioritizes the identification and cultivation of "Talent Vortexes", environments where elite talent clusters before spawning the next generation of innovators.
 
 Critical takeaways include:
 
@@ -825,7 +825,7 @@ Critical takeaways include:
 
 ## **The Strategic Framework of Contrary**
 
-Contrary operates on the premise that identifying and supporting the smartest individuals as early as possible — often during their academic careers — creates an unfair advantage for future investment.
+Contrary operates on the premise that identifying and supporting the smartest individuals as early as possible, often during their academic careers, creates an unfair advantage for future investment.
 
 ### **The "Talent Vortex" Concept**
 
@@ -891,7 +891,7 @@ There is an evolving conviction that belief systems are not just reactions to re
 A "combative divide" has emerged regarding the "Renaissance of Rise and Grind."
 
 * **The Ambition Divide:** On one side, startup participants are naturally ambitious, often viewing work as a core identity. On the other, a growing global movement (visible on social media) emphasizes strict 9-to-5 boundaries and "healthy work-life balance."  
-* **The Intellectual Combat:** The speaker notes that these groups are "doubling down" in their trenches — ambitious workers viewing others as "lazy snowflakes," while 9-to-5 proponents view ambitious workers as "exploited machines."
+* **The Intellectual Combat:** The speaker notes that these groups are "doubling down" in their trenches, ambitious workers viewing others as "lazy snowflakes," while 9-to-5 proponents view ambitious workers as "exploited machines."
 
 \--------------------------------------------------------------------------------
 
@@ -967,7 +967,7 @@ Manufacturing data is often "garbage" due to manual entry errors. Operators may 
 
 ### **3\. Knowledge and Semantic Search**
 
-**Oden** is moving toward capturing "domain knowledge" — the "art" of manufacturing — and turning it into a science.
+**Oden** is moving toward capturing "domain knowledge", the "art" of manufacturing, and turning it into a science.
 
 * **Beyond Numerics:** Future iterations will use semantic search (leveraging specific foundation models for industries like paper making) to provide textual context.  
 * **Contextual Guidance:** Instead of just telling an operator to "change temperature from X to Y," the system will explain *how* to execute the change based on digitized work instructions and textbook processes.
@@ -1029,7 +1029,7 @@ The company identifies a significant cultural and speed-to-market difference bet
 * **Building Trust:** To overcome skepticism, **Oden** provides "interpretable" models. Operators can see the weights and coefficients of a model (e.g., how much starch flow or refiner energy impacts paper strength).  
 * **Risk Mitigation:** Contracts often include "opt-out gates" or money-back guarantees during the first two months to ensure the technology delivers statistical significance before a long-term commitment begins.
 
-"To sell into manufacturing, you can't be bullshitting. You have to be very specific... If we can give these operators the right tools, we can change the nature of those jobs, change the nature of those companies, and just be more effective across the board." — [**Willem Sundblad,**](https://www.linkedin.com/in/willem-sundblad) **CEO**
+"To sell into manufacturing, you can't be bullshitting. You have to be very specific... If we can give these operators the right tools, we can change the nature of those jobs, change the nature of those companies, and just be more effective across the board.", [**Willem Sundblad,**](https://www.linkedin.com/in/willem-sundblad) **CEO**
 
 # Episode 010
 
@@ -1129,7 +1129,7 @@ A central theme in [Hecht](https://www.linkedin.com/in/jaredhecht)’s perspecti
 
 ## **Executive Summary**
 
-The United States immigration system for high-skilled workers is currently defined by a significant supply-and-demand imbalance, primarily driven by an over-reliance on the H-1B lottery system. While hundreds of thousands of talented individuals apply for a limited pool of 65,000 H-1B visas annually, more viable, uncapped pathways — specifically the O-1 "Extraordinary Ability" visa — remain vastly underutilized by the technology sector.
+The United States immigration system for high-skilled workers is currently defined by a significant supply-and-demand imbalance, primarily driven by an over-reliance on the H-1B lottery system. While hundreds of thousands of talented individuals apply for a limited pool of 65,000 H-1B visas annually, more viable, uncapped pathways, specifically the O-1 "Extraordinary Ability" visa, remain vastly underutilized by the technology sector.
 
 **Lighthouse**, an early-stage immigration solution founded by [Minn Kim](https://www.linkedin.com/in/minnkim), aims to democratize access to these high-skilled pathways. By leveraging a "full-stack" approach that combines proprietary software, artificial intelligence, and deep domain expertise, **Lighthouse** seeks to transform a traditionally slow, opaque, and bureaucratic process into a streamlined experience focused on speed and trust. The ultimate objective is to ensure the U.S. remains the premier destination for global talent in a landscape of increasing international competition.
 
@@ -1150,7 +1150,7 @@ The current framework for employment-based immigration in the United States is c
 While the U.S. has historically been the default destination for ambitious innovators, other nations are aggressively courting this talent:
 
 * **Streamlined Alternatives:** Countries such as Canada, Australia, the United Kingdom, Portugal, and Estonia have implemented fast, online-based application processes that allow talent to relocate in weeks rather than months or years.  
-* **Systemic Failure:** The U.S. system’s failure to provide clear pathways for foreign nationals — particularly those already educated in U.S. universities — risks a long-term atrophy of American innovation as talent seeks more welcoming ecosystems.
+* **Systemic Failure:** The U.S. system’s failure to provide clear pathways for foreign nationals, particularly those already educated in U.S. universities, risks a long-term atrophy of American innovation as talent seeks more welcoming ecosystems.
 
 \--------------------------------------------------------------------------------
 
@@ -1231,7 +1231,7 @@ The mission of **Lighthouse** is inextricably linked to the unique "agglomeratio
 
 **Critical Takeaways:**
 
-* **The Product:** A 1MW microreactor — enough to power 1,000 homes — that is air-transportable and capable of operating for five years without refueling.  
+* **The Product:** A 1MW microreactor, enough to power 1,000 homes, that is air-transportable and capable of operating for five years without refueling.  
 * **Safety Innovation:** Utilizing TRISO (ceramic-coated) fuel and helium coolant, the design eliminates the risk of meltdown and radioactive liquid leaks.  
 * **Market Focus:** Immediate applications include remote communities (e.g., Alaska), mining operations, disaster relief, and military use, with long-term potential for space exploration.  
 * **Strategic Timeline:** **Radiant** has committed to a critical fuel test in 2026, marking a significant milestone for a new nuclear design in the United States.  
@@ -1294,7 +1294,7 @@ The reactor design employs a "High-Temperature Gas Reactor" (HTGR) concept, whic
 
 ### **Economic Model**
 
-**Radiant** aims to achieve economies of scale through factory mass production. The goal is to produce 50 units per year — one reactor per week — rather than treating each reactor as a unique, multi-billion-dollar construction project.
+**Radiant** aims to achieve economies of scale through factory mass production. The goal is to produce 50 units per year, one reactor per week, rather than treating each reactor as a unique, multi-billion-dollar construction project.
 
 \--------------------------------------------------------------------------------
 
@@ -1417,7 +1417,7 @@ Venture capital moves slowly due to human bias and institutional structures. It 
 * **Chime** (Fintech)  
 * **Plaid** (Fintech)  
 * **Gusto** (HR/Payroll)  
-* **Cruise** (Autonomous Driving \- Exited)  
+* **Cruise** (Autonomous Driving, Exited)  
 * **Shield** (Defense Tech)
 
 ### **The "Product Background" Edge**
@@ -1493,7 +1493,7 @@ Empirical data from **Upfront**’s 28-year history shows that approximately six
 
 ### **3\. Case Study: Pivot and Persistence (Rula formerly Path)**
 
-The company originally targeted alcoholism — a pervasive but often overlooked social issue. The founder eventually shifted to a broader mental health platform. **Upfront**’s conviction in the founder allowed them to support this pivot, which saw massive growth during the COVID-19 pandemic as tele-health adoption soared.
+The company originally targeted alcoholism, a pervasive but often overlooked social issue. The founder eventually shifted to a broader mental health platform. **Upfront**’s conviction in the founder allowed them to support this pivot, which saw massive growth during the COVID-19 pandemic as tele-health adoption soared.
 
 \--------------------------------------------------------------------------------
 
@@ -1686,7 +1686,7 @@ The hardware design industry is characterized by a significant technological lag
 
 ### **The Market Opportunity**
 
-The market for hardware development — comprising labor and software licensing — is estimated at approximately $1 trillion. **Zoo** identifies the world’s leading companies at the intersection of hardware and software (e.g., robotics, aerospace, and server manufacturers) as the primary cohort suffering from this technological gap.
+The market for hardware development, comprising labor and software licensing, is estimated at approximately $1 trillion. **Zoo** identifies the world’s leading companies at the intersection of hardware and software (e.g., robotics, aerospace, and server manufacturers) as the primary cohort suffering from this technological gap.
 
 \--------------------------------------------------------------------------------
 
@@ -1718,10 +1718,10 @@ Released in October 2023, the Modeling App provides a CAD interface that mimics 
 
 ### **2\. Text-to-CAD (Generative AI)**
 
-Launched in December 2023, this tool provides a chat-based interface — similar to ChatGPT — that generates functional CAD files from text prompts.
+Launched in December 2023, this tool provides a chat-based interface, similar to ChatGPT, that generates functional CAD files from text prompts.
 
 * **Immediate Impact:** Upon launch, the platform generated 13,000 CAD files in its first day.  
-* **Training Advantage:** **Zoo** uses its geometry engine to generate "virtual data sets" — millions of geometries created from design rules — to train its ML models where existing data is sparse.
+* **Training Advantage:** **Zoo** uses its geometry engine to generate "virtual data sets", millions of geometries created from design rules, to train its ML models where existing data is sparse.
 
 ### **3\. Integrated Generative Workflow**
 
@@ -1739,7 +1739,7 @@ A critical upcoming evolution is the integration of Text-to-CAD into the Modelin
 
 ### **CNC Tool Pathing and Manufacturing Awareness**
 
-**Zoo** is developing tools for CNC (Computer Numerical Control) tool pathing — the generation of instructions for machines that cut physical parts.
+**Zoo** is developing tools for CNC (Computer Numerical Control) tool pathing, the generation of instructions for machines that cut physical parts.
 
 * **Design for Manufacturability (DFM):** By integrating manufacturing awareness into the design phase, the ML models can ensure a generated part is actually capable of being produced on specific machines.  
 * **Reducing Human Touch Points:** Currently, checking if a part can be manufactured requires manual review by machinists. **Zoo** aims to bake these checks directly into the geometry engine and ML models.
@@ -1783,7 +1783,7 @@ The company currently employs 20 people and expects to grow to 50 by next year. 
 
 ## **Executive Summary**
 
-**Nucleus Genomics**, led by Founder and CEO [Kian Sadeghi](https://www.linkedin.com/in/kian-sadeghi-8273ba178), aims to spearhead a "trillion-dollar consumer healthcare business" by integrating whole genome sequencing (WGS) into everyday life. Unlike legacy consumer genomics companies that utilize 20-year-old genotyping technology to analyze small snippets of DNA, **Nucleus** leverages WGS to read the entire genome — approximately 1,000 times more data than traditional tests.
+**Nucleus Genomics**, led by Founder and CEO [Kian Sadeghi](https://www.linkedin.com/in/kian-sadeghi-8273ba178), aims to spearhead a "trillion-dollar consumer healthcare business" by integrating whole genome sequencing (WGS) into everyday life. Unlike legacy consumer genomics companies that utilize 20-year-old genotyping technology to analyze small snippets of DNA, **Nucleus** leverages WGS to read the entire genome, approximately 1,000 times more data than traditional tests.
 
 The company’s platform is designed to move beyond novelty ancestry reports toward a comprehensive health ecosystem. This ecosystem combines genetic insights with real-time data from wearables (e.g., **Apple** Watch, **Whoop**) and clinical diagnostics to provide holistic assessments of disease risk, personal traits, and generational health. With over $18 million in venture funding from high-profile investors like [Alexis Ohanian](https://en.wikipedia.org/wiki/Alexis_Ohanian) and **Founders Fund**, **Nucleus** is positioned to address a critical gap in clinical practice: the fact that 90% of individuals with life-threatening, preventable genetic markers are currently unaware of their status.
 
@@ -1882,7 +1882,7 @@ The 14-person team consists of a mix of high-level academic expertise and young 
 
 ## **Executive Summary**
 
-The rapid maturation of artificial intelligence has transitioned from a period of experimental hype to a critical inflection point characterized by deep enterprise adoption and the emergence of new geographic hubs. This briefing document, based on insights from [Grace Isford](https://www.linkedin.com/in/graceisford), Partner at **Lux Capital**, examines the strategic shift toward "Computational Sciences"—the intersection of technical risk and scientific discovery.
+The rapid maturation of artificial intelligence has transitioned from a period of experimental hype to a critical inflection point characterized by deep enterprise adoption and the emergence of new geographic hubs. This briefing document, based on insights from [Grace Isford](https://www.linkedin.com/in/graceisford), Partner at **Lux Capital**, examines the strategic shift toward "Computational Sciences", the intersection of technical risk and scientific discovery.
 
 Key takeaways include:
 
@@ -1984,7 +1984,7 @@ For organizations looking to build an AI strategy, the focus should shift from "
 
 ## **Executive Summary**
 
-**Zamp** is a rapidly scaling sales tax compliance startup that has achieved significant market traction within 15 months of its launch. Following a $10 million Series A funding round led by **Valor Equity Partners** — bringing total funding to $14 million — the company has reached mid-seven-figure Annual Recurring Revenue (ARR) and expanded its customer base to nearly 400 clients.
+**Zamp** is a rapidly scaling sales tax compliance startup that has achieved significant market traction within 15 months of its launch. Following a $10 million Series A funding round led by **Valor Equity Partners,** bringing total funding to $14 million, the company has reached mid-seven-figure Annual Recurring Revenue (ARR) and expanded its customer base to nearly 400 clients.
 
 The company’s value proposition centers on automating the complex sales tax landscape created by the 2018 **Wayfair** vs. South Dakota Supreme Court ruling. **Zamp** specifically targets the e-commerce and SaaS mid-market ($1 million to $200 million in revenue), a segment increasingly underserved by legacy providers like **Avalara** and **TaxJar**. By reducing monthly compliance management from dozens of hours to mere minutes, **Zamp** positions itself as a critical operational partner for high-growth digital businesses and accounting firms.
 
@@ -2090,10 +2090,10 @@ This briefing document synthesizes the strategic insights and investment theses 
 **Key Takeaways:**
 
 * **Regional Performance:** Contrary to perceptions of Europe as a "museum," European VC funds have yielded higher net IRR over a 15-year horizon compared to North American funds, driven by capital efficiency and lower entry prices.  
-* **Vertical AI Supremacy:** As foundational AI layers become saturated, the primary investment opportunity lies in vertical AI — tools that integrate deeply into specific industry workflows (e.g., legal, construction, healthcare) to create defensible moats.  
+* **Vertical AI Supremacy:** As foundational AI layers become saturated, the primary investment opportunity lies in vertical AI, tools that integrate deeply into specific industry workflows (e.g., legal, construction, healthcare) to create defensible moats.  
 * **Hybrid SAS Model:** The next generation of successful software companies will combine AI, workflow automation, fintech, and B2B marketplaces, moving beyond the "thin GPT wrapper" model.  
 * **Industrial Software Revolution:** Hardware development is entering a "why now" moment for software modernization, spurred by leadership turnover, geopolitical pressures (onshoring), and the need for cloud-based simulation and program management.  
-* **Institutional Discipline:** Success in venture capital requires identifying and mitigating cognitive biases — such as discovery bias and "angst" bias — while maintaining a meritocratic, non-political firm culture.
+* **Institutional Discipline:** Success in venture capital requires identifying and mitigating cognitive biases, such as discovery bias and "angst" bias, while maintaining a meritocratic, non-political firm culture.
 
 \--------------------------------------------------------------------------------
 
@@ -2179,7 +2179,7 @@ Several macro factors are forcing hardware manufacturers to modernize:
 
 * **Asset Management:** $4 billion AUM with a portfolio including successes like **Frame.io** (sold to **Adobe** for $1.2B) and **Glia**.  
 * **Geographic Interconnectivity:** Leveraging insights from one region to predict trends in another. For instance, observing Scandinavia’s early adoption of mental health care led to a Series A investment in **Spring Health** in the US.  
-* **Founder Intensity:** A primary "green flag" is founder intensity—treating company building with the same total devotion as an Olympic athlete.
+* **Founder Intensity:** A primary "green flag" is founder intensity, treating company building with the same total devotion as an Olympic athlete.
 
 ### **Identifying Investor Biases**
 
@@ -2218,7 +2218,7 @@ The central thesis of **Impulse Labs** is that the most effective way to decentr
 
 ### **Power and Efficiency**
 
-* **Performance Bump:** The stove is three times more powerful per heating element than traditional stoves. It can boil one liter of water in under 40 seconds — a task that takes roughly seven minutes on a high-end gas stove.  
+* **Performance Bump:** The stove is three times more powerful per heating element than traditional stoves. It can boil one liter of water in under 40 seconds, a task that takes roughly seven minutes on a high-end gas stove.  
 * **Direct DC Power:** By using an internal battery, the stove can push massive amounts of DC power directly to the induction coils, bypassing the limitations of standard home wiring.  
 * **Thermal Efficiency:** Unlike gas stoves, which lose roughly 60% of their heat to the surrounding air, the Impulse induction system is over 95% efficient, heating the cookware directly via a magnetic field.
 
@@ -2269,7 +2269,7 @@ The long-term vision for **Impulse Labs** extends beyond the kitchen to a 20-yea
 
 The current technological landscape is defined by a significant "phase shift" driven by Artificial Intelligence, creating a period of peak uncertainty for both entrepreneurs and investors. While private markets are seeing AI startups "priced to perfection" with multiples reaching 100x–200x revenue, the public software market has normalized to historical averages.
 
-A critical "Capabilities Gap" exists where current Large Language Models (LLMs) provide an illusion of intelligence but lack the reliability for 100% autonomous production, leading to a model of "man-machine symbiosis." In the defense sector, a "renaissance" is underway, driven by changes in modern warfare and procurement reforms. Startups are successfully challenging traditional defense primes by excelling in software and autonomy — areas where incumbents traditionally struggle. The following document provides a detailed examination of these themes, market dynamics, and the evolving exit environment.
+A critical "Capabilities Gap" exists where current Large Language Models (LLMs) provide an illusion of intelligence but lack the reliability for 100% autonomous production, leading to a model of "man-machine symbiosis." In the defense sector, a "renaissance" is underway, driven by changes in modern warfare and procurement reforms. Startups are successfully challenging traditional defense primes by excelling in software and autonomy, areas where incumbents traditionally struggle. The following document provides a detailed examination of these themes, market dynamics, and the evolving exit environment.
 
 \--------------------------------------------------------------------------------
 
@@ -2423,7 +2423,7 @@ According to **NVCA** and **Pitchbook** data, the number of active venture inves
 
 ### **The Shift to DPI**
 
-LPs have shifted their focus from "mark-ups" or paper wealth (TVPI) to actual cash returns (DPI). The "teenage years" of emerging funds — where they are waiting for portfolio companies to exit — are particularly precarious due to:
+LPs have shifted their focus from "mark-ups" or paper wealth (TVPI) to actual cash returns (DPI). The "teenage years" of emerging funds, where they are waiting for portfolio companies to exit, are particularly precarious due to:
 
 * **Stagnant Exit Markets:** A restricted M\&A environment and a quiet IPO window.  
 * **Secondary Market Discounts:** Managers seeking to show DPI are often forced to take 40% discounts on their positions in secondary markets.
@@ -2500,7 +2500,7 @@ The geographic concentration of venture capital is evolving, with Los Angeles em
 
 ## **Executive Summary**
 
-**You.com**, led by CEO and former **Salesforce** Chief Scientist [Richard Socher](https://www.linkedin.com/in/richardsocher), has transitioned from a traditional search engine into a high-powered "productivity engine" tailored for complex knowledge work. Having recently secured a $50 million Series B funding round — bringing total capital to $99 million — the company distinguishes itself through a rigorous focus on accuracy, a dual-track business model (Subscription and API), and a multi-LLM platform architecture.
+**You.com**, led by CEO and former **Salesforce** Chief Scientist [Richard Socher](https://www.linkedin.com/in/richardsocher), has transitioned from a traditional search engine into a high-powered "productivity engine" tailored for complex knowledge work. Having recently secured a $50 million Series B funding round, bringing total capital to $99 million, the company distinguishes itself through a rigorous focus on accuracy, a dual-track business model (Subscription and API), and a multi-LLM platform architecture.
 
 Critical takeaways include:
 
@@ -2553,7 +2553,7 @@ A central theme of **You.com**’s value proposition is the critique of competit
 
 ## **Technical Innovation and AI Agents**
 
-**You.com** utilizes "agentic AI" — multi-step systems that can decide when to search the web, when to write code, and when to execute that code in a secure environment.
+**You.com** utilizes "agentic AI", multi-step systems that can decide when to search the web, when to write code, and when to execute that code in a secure environment.
 
 ### **Agentic Capabilities**
 
@@ -2588,7 +2588,7 @@ To align with enterprise needs, **You.com** offers both:
 
 ### **The Cost of Intelligence**
 
-[Socher](https://www.linkedin.com/in/richardsocher) posits that the marginal cost of intelligence is trending toward zero. Drawing a parallel to the "Jevons Paradox" — where increased efficiency in steam engines led to *more* coal consumption — he predicts that cheaper AI will lead to the ubiquitous application of intelligence in every facet of life and industry.
+[Socher](https://www.linkedin.com/in/richardsocher) posits that the marginal cost of intelligence is trending toward zero. Drawing a parallel to the "Jevons Paradox", where increased efficiency in steam engines led to *more* coal consumption, he predicts that cheaper AI will lead to the ubiquitous application of intelligence in every facet of life and industry.
 
 ### **Investment Philosophy (AIX Ventures)**
 
@@ -2615,7 +2615,7 @@ The document envisions a shift where:
 
 This briefing document examines the investment philosophy and operational frameworks of **Left Lane Capital**, as detailed by Managing Partner [Jason Fiedler](https://www.linkedin.com/in/fiedlerjason). **Left Lane Capital** has rapidly scaled to over $2 billion in assets under management (AUM) by applying software-level data rigor to traditionally "atypical" venture-backed sectors, including Consumer Packaged Goods (CPG), sports leagues, and "four-wall" (physical location-based) businesses.
 
-The central thesis posits that massive consumer markets — beverages, pet food, and local services — are dominated by slow-moving incumbents with low Net Promoter Scores (NPS). By leveraging digitally native marketing, localized defensibility, and superior product-market fit (the "NPS Delta"), new entrants can achieve retention and unit economics that rival or exceed traditional software-as-a-service (SaaS) models. Key strategies include the "Pearls and Strings" sourcing framework and a transition from LTV:CAC metrics to LTV:Capex for physical assets.
+The central thesis posits that massive consumer markets, beverages, pet food, and local services, are dominated by slow-moving incumbents with low Net Promoter Scores (NPS). By leveraging digitally native marketing, localized defensibility, and superior product-market fit (the "NPS Delta"), new entrants can achieve retention and unit economics that rival or exceed traditional software-as-a-service (SaaS) models. Key strategies include the "Pearls and Strings" sourcing framework and a transition from LTV:CAC metrics to LTV:Capex for physical assets.
 
 \--------------------------------------------------------------------------------
 
@@ -2633,7 +2633,7 @@ The central thesis posits that massive consumer markets — beverages, pet food,
 
 ### **2\. The NPS Delta**
 
-A critical component of **Left Lane**’s conviction is the "NPS Delta" — the gap between a new entrant's Net Promoter Score and that of the incumbent.
+A critical component of **Left Lane**’s conviction is the "NPS Delta", the gap between a new entrant's Net Promoter Score and that of the incumbent.
 
 * **Incumbent Vulnerability:** High objective NPS is less valuable if the industry standard is already high. Investment opportunities are greatest in large spending categories where incumbents have negligible or negative NPS.  
 * **Ease of Market Capture:** A stark contrast in customer satisfaction makes it "unfairly easy" for superior brands (e.g., **Farmer’s Dog** in pet food or **Talkiatry** in psychiatry) to steal market share.
@@ -2722,7 +2722,7 @@ Fiedler identifies several emerging areas of interest and contrarian views on th
 
 ## **Executive Summary**
 
-Founded in 2022, **Armada** is a full-stack edge computing company designed to bridge the "digital divide" by bringing advanced compute and AI capabilities to the world’s most remote and hostile environments. Led by a team of veteran Silicon Valley executives from **AppDynamics**, **Okta**, and **Microsoft** Azure, the company addresses the infrastructure gap that currently traps data at the "remote edge" — areas beyond the reach of traditional 4G/5G and cloud networks.
+Founded in 2022, **Armada** is a full-stack edge computing company designed to bridge the "digital divide" by bringing advanced compute and AI capabilities to the world’s most remote and hostile environments. Led by a team of veteran Silicon Valley executives from **AppDynamics**, **Okta**, and **Microsoft** Azure, the company addresses the infrastructure gap that currently traps data at the "remote edge", areas beyond the reach of traditional 4G/5G and cloud networks.
 
 **Armada**’s core value proposition lies in its integrated platform, Commander, which orchestrates connectivity (via Starlink and other providers), modular ruggedized data centers (Galleons), and a specialized AI software layer (Ops). By aligning its growth with the global expansion of satellite connectivity, **Armada** has scaled to nearly 50 countries in under two years. The company’s strategic objective is to become the "one-stop shop" for edge operations, utilizing a marketplace model and deep industrial partnerships to automate high-stakes sectors like energy, mining, and public safety.
 
@@ -2730,7 +2730,7 @@ Founded in 2022, **Armada** is a full-stack edge computing company designed to b
 
 ## **Foundational Vision and Strategic Origins**
 
-**Armada** was conceived not as a traditional startup, but as what co-founder [Trae Stevens](https://www.linkedin.com/in/trae-stephens-485a811/) terms a "Good Quest" — a mission-driven endeavor intended to solve a significant global problem. The company’s inception was driven by three converging macro trends:
+**Armada** was conceived not as a traditional startup, but as what co-founder [Trae Stevens](https://www.linkedin.com/in/trae-stephens-485a811/) terms a "Good Quest", a mission-driven endeavor intended to solve a significant global problem. The company’s inception was driven by three converging macro trends:
 
 * **Rapid Satellite Connectivity:** The emergence of Starlink providing high-speed internet to previously disconnected regions.  
 * **IoT Proliferation:** A 10x reduction in the cost of sensors, cameras, and robotics over the last five years.  
@@ -2946,7 +2946,7 @@ While the firm remains rooted in early-stage investing, it has expanded to inclu
 
 ## **The "Magically Weird" Investment Ethos**
 
-The central tenet of **Long Journey Ventures** is the identification of "magically weird" opportunities. This approach is based on the observation that the most successful historical investments — such as **Uber**, **SpaceX**, and **Niantic** — initially appeared irrational or socially "nuts."
+The central tenet of **Long Journey Ventures** is the identification of "magically weird" opportunities. This approach is based on the observation that the most successful historical investments, such as **Uber**, **SpaceX**, and **Niantic,** initially appeared irrational or socially "nuts."
 
 * **Defining the "Weird":** The firm seeks companies that do not fit "central casting." This includes frontier technologies or "magically boring" businesses, like government RSPs, run by "crazy" people.  
 * **The Defense of Non-Consensus:** [Jacobs](https://www.linkedin.com/in/lee-jacobs) notes that if an idea is easy to talk about or immediately liked by everyone, it is likely too obvious. The firm looks for a "glimmer of intuition" where a founder has an inkling they cannot yet fully express.  
@@ -3008,40 +3008,40 @@ The current venture capital landscape is characterized by cynicism, which the pa
 
 ## **Conclusion: The Venture Artist**
 
-The long-term vision for **Long Journey Ventures** is to merge the roles of capitalist and artist. The firm recently established a "permanent home" — an office designed to feel like a residence, complete with a fireplace and cookies — to serve as a hub for their "flock" of misfits.
+The long-term vision for **Long Journey Ventures** is to merge the roles of capitalist and artist. The firm recently established a "permanent home", an office designed to feel like a residence, complete with a fireplace and cookies, to serve as a hub for their "flock" of misfits.
 
 The partners conclude that the ultimate strategy is "just to make more friends," believing that authentic human integration and the pursuit of the "magically weird" are the most effective ways to reshape humanity and achieve outsized impact.
 
 # Summary Table
 
-| Speaker Name | Company/Fund | Role | Investment Focus/Strategy | Key Outcomes or Successes | Core Philosophy/Ethos |
+| Company | Founder(s) | Role | Investment Focus/Strategy | Key Outcomes or Successes | Core Philosophy/Ethos |
 | :---- | :---- | :---- | :---- | :---- | :---- |
-| [Alex Kolicich](https://www.linkedin.com/in/alex-kolicich-b71732a) | **8VC** | Founding Partner | Institutional fund specializing in AI, defense tech, and complex incubations. | Early investor in Anduril, Palantir, Oculus, and Guardant Health; incubated Epirus and Chaos Industries; raised fifth fund of $880M. | Focus on man-machine symbiosis and the defense tech renaissance; belief that startups out-execute legacy primes via software and autonomy. |
-| [Cyan Banister](https://www.linkedin.com/in/cyanb/) | **Long Journey Ventures** | Partner | Institutional fund. | Early investor in Uber, SpaceX, Postmates, and Niantic. | Investing in the "magically weird"; disarming small talk to reach authentic, non-consensus human connections; aligning profit with higher purpose. |
-| [Delian Asparouhov](https://www.linkedin.com/in/delian-asparouhov-87447742) | **Founders Fund** | Partner | Institutional fund. | Varda Space Industries, SpaceX; oversaw Varda's first commercial re-entry capsule landing. | Operating experience as a prerequisite for elite investing; moving close to the "bare metal" to understand technical problems. |
-| [Hunter Walk](https://www.linkedin.com/in/hunterwalk/) | **Homebrew / Screendoor** | Partner / Founder | Self-funded structure (Homebrew) and Fund-of-funds (Screen Door). | Investments in Chime, Plaid, Gusto, Cruise, and Shield. | Alignment of founder-investor incentives by removing ownership friction; supporting emerging managers with high-conviction differentiated strategies. |
-| [Jeff Morris Jr.](https://www.linkedin.com/in/jeffmorrisjr) | **Chapter One** | General Partner (GP) | Institutional product-driven early-stage fund focusing on consumer, gaming, and deep tech. | Seed investor in 13 unicorns including Mercury, Superbase, and Compound Finance; former VP Product Revenue at Tinder. | Treating the venture fund as a product that must find its own "product-market fit" through continuous iteration and distinct differentiation. |
-| [Mark Suster](https://www.linkedin.com/in/marksuster) | **Upfront Ventures** | Managing Partner | Institutional fund running Seed ($300M), Early Growth ($200M), and Secondary strategies. | Led investments in Invoca, Density, Nanit, and Maker Studios (sold to Disney); former founder of two companies sold to Salesforce. | A "barbell strategy" focusing on high-conviction, concentrated seed investments where the investor acts as a direct sparring partner on the board. |
-| [Grace Isford](https://www.linkedin.com/in/graceisford) | **Lux Capital** | Partner | Institutional fund focusing on Frontier and Computational Sciences. | Sourced investments in Runway ($1.5B), LangChain, and Sakana AI; youngest partner in Lux history. | Investing at the nexus of computational and physical sciences; belief in NYC as an AI hub; high-conviction support for "weird" contrarian research. |
-| [Kyle Harrison](https://www.linkedin.com/in/kyle-harrison-9274b278) | **Contrary** | General Partner (GP) | Institutional fund backing companies from seed to scale (pre-seed to Series B+). | Investor in Ramp, Replit, Anduril, and Armada; formerly at TCV, Coatue, and Index. | Identifying the smartest people as early as possible and supporting them throughout their career to gain an unfair advantage in talent vortexes. |
-| [Jason Fiedler](https://www.linkedin.com/in/fiedlerjason) | **Left Lane Capital** | Managing Partner | Institutional growth and venture fund ($2B+ AUM). | Investments in Ollipop, Blank Street, Holy, Talkiatry, Kings League, Farmer's Dog, and Figs. | Focus on "NPS Delta" relative to slow incumbents; "Pearls and Strings" framework; belief in mass distrust of legacy CPG brands. |
-| [Molly Alter](https://www.linkedin.com/in/molly-alter-3ab1159a) | **Northzone** | Partner | Institutional fund ($4B AUM) investing $2.5M to $60M across US and Europe. | Sourced and served on the board of Frame.io (sold to Adobe for $1.2B); investments in Lightricks, Glee, and Trackable. | Intellectual honesty regarding VC biases; focus on vertical AI/SaaS where specificity creates a defensible moat against horizontal AI giants. |
-| [David Weisburd](https://www.linkedin.com/in/dweisburd) | **10X Capital** | Co-founder and Head of Venture Capital | Institutional fund (Venture Capital franchise within a multi-asset class firm). | Early investor in Worldcoin and Anthropic; host of the 10X Capital podcast. | Venture capital is an access class, not an asset class; emphasizes time/stage diversification and alignment of incentives regarding portfolio concentration. |
-| [Richard Socher](https://www.linkedin.com/in/richardsocher) | **AIX Ventures / You.com** | Managing Director (AIX) / Founder & CEO (You.com) | Institutional venture fund (AIX) and an AI productivity engine company (You.com). | Founder of MetaMind (sold to Salesforce); investor in Hugging Face, Perplexity, and Weights & Biases. | Focusing on the "GenAI Insight" that AI value is highest when artifacts are long to generate but fast to verify; emphasis on accuracy over hype. |
-| [Jordan Noone](https://www.linkedin.com/in/jordan-noone) | **Embedded Ventures / Zoo** | Founding GP / Executive Chairman | Institutional fund focusing on deep tech; Zoo is a research and infrastructure company. | Co-founded Relativity Space (valued at $4.2B); launched Text-to-CAD via Zoo with 13,000 files generated on day one. | Bringing automation and code-based design to hardware development to bridge the asymmetry between software and archaic hardware workflows. |
-| [Xander Oltmann](https://www.linkedin.com/in/xanderoltmann) | **Commodity Capital** | Founder and GP | Institutional fund focusing on vertically integrated monopolies and hard tech at pre-seed and seed stages. | Investments in Hadrian, Varda, Senra, and Armada. | Leveraging declining software development costs to build hyperscalable, vertically integrated monopolies in historically non-scalable industries. |
-| [Lee Jacobs](https://www.linkedin.com/in/lee-jacobs) | **Long Journey Ventures** | Partner | Institutional fund. | Investments in Cruso, Anduril, and Modern Animal. | Searching for "snowflake" companies that look weird at the time of investment; willingness to stick one's neck out for unpopular secrets. |
-| [Jared Hecht](https://www.linkedin.com/in/jaredhecht) | **Union Square Ventures (USV)** | Venture Partner | Institutional fund (thesis-driven generalist). | Founded GroupMe (sold to Skype/Microsoft) and Fundera (sold to NerdWallet); early employee at Tumblr. | Radical honesty with founders; investing at the "edge" of large markets transformed by societal pressure; reverence for the entrepreneur. |
-| [Morgan Housel](https://www.linkedin.com/in/morgan-housel-5b473821/) | **Collaborative Fund** | Partner | Institutional fund. | Author of 'The Psychology of Money' (5 million+ copies sold). | Focusing on behaviors that never change (greed, fear) rather than forecasts; survival is the only performance metric that counts. |
-| [John Coogan](https://www.linkedin.com/in/jacoogan) | **Founders Fund** | EIR | Institutional fund. | Co-founder of Soylent and Lucy. | Transparency in science (e.g., nicotine vs. carcinogens); leveraging consumer storytelling to disrupt non-innovative industries like big tobacco. |
-| [Chris Power](https://www.linkedin.com/in/powerc) | **Hadrian** | Founder | Venture-backed startup (raised $200M+ to date). | Raised $117M Series B; built automated precision factories providing parts for SpaceX and Blue Origin. | National mission focused on "American dynamism"; belief that reshoring manufacturing via software and robotics is the only way to compete with China. |
-| [Dan Wright](https://www.linkedin.com/in/wrightdh) | **Armada** | CEO | Venture-backed full stack Edge Computing infrastructure. | Raised $100M; partnerships with Starlink, Halliburton, and Microsoft; operating in nearly 50 countries. | Bridging the digital divide by building the "Cloud for the Edge"; focusing on "Good Quests" (high-impact problems) in hostile environments. |
-| [Kian Sadeghi](https://www.linkedin.com/in/kian-sadeghi-8273ba178) | **Nucleus Genomics** | Founder and CEO | Self-funded and venture-backed consumer health platform. | Raised over $18M; launched Nucleus IQ; specialized in Whole Genome Sequencing at consumer price points ($399). | Transparency in genetics; anti-paternalistic view of data; belief that individuals should own frontier genetic insights without gatekeeping. |
-| [Lucy Guo](https://www.linkedin.com/in/lucy-guo-a7804955) | **Passes** | CEO and Founder | Venture-backed creator platform ($50M raised). | Co-founder of Scale AI; creators on platform earning $500k/month; top talent includes Shaq and Olivia Dunne. | Creating generational wealth for creators; direct fan-to-creator interactions to replace unpredictable algorithms; pro-creator transparency. |
-| [Doug Bernauer](https://www.linkedin.com/in/doug-bernauer) | **Radiant** | Founder and CEO | Venture-backed startup (raised $60M+ to date). | Ex-SpaceX engineer; raised Series B led by a16z; developed "Kaleidos" microreactor to replace diesel generators. | Portable, factory-mass-produced nuclear energy; decoupling nuclear from permanent infrastructure to enable energy independence in remote areas. |
-| [Rohit Bhadange](https://www.linkedin.com/in/rohitbhadange) | **Zamp** | Founder and CEO | Venture-backed startup (raised $14M to date). | Raised $10M Series A led by Valor Equity Partners; hit mid-seven figures ARR in 15 months; serves 400+ customers. | Sales tax compliance as a trust-based relationship; focus on speed and accuracy; belief that founders must iterate faster than incumbents. |
-| [Willem Sundblad](https://www.linkedin.com/in/willem-sundblad) | **Oden Technologies** | Co-founder and CEO | Institutional fund-backed startup (Series B). | Raised $28.5M Series B led by Nordstjernan Growth; 3x growth during austerity; 10% throughput increase for customers. | Adding "science" to the "art" of manufacturing; using process AI to democratize domain knowledge and reduce turnover friction. |
-| [Sam D'Amico](https://www.linkedin.com/in/s-damico) | **Impulse Labs** | Founder | Backed by Institutional fund (Lux Capital). | Developed battery-integrated induction stove; $20 million Series A. | Using appliances as a "Trojan Horse" for home electrification and decentralized energy storage; high-power/precision future vs. degrowth. |
-| [Nick Abouzeid](https://www.linkedin.com/in/nickabouzeid) | **Rivet** | Co-founder | Venture-backed startup (formerly at Shrug Capital, Main Street, and Ramp). | Grew Ramp to $5.8B valuation; referer for Superhuman; raised pre-seed for Rivet from XYZ Ventures and Shrug Capital. | Growth hacking myths debunked; focusing on "level zero" improvements like button text over sexy solutions; accountability to "own the number." |
-| [Minn Kim](https://www.linkedin.com/in/minnkim) | **Lighthouse** | Founder | Vertically integrated service (formerly AI/Robotics VC). | Launched global accelerator at On Deck; served dozens of individuals and companies like the HF0 team. | Democratizing access to high-skilled immigration; treating immigration as a "complicated" problem solvable through software and proprietary processes. |
+| **8VC** | [Alex Kolicich](https://www.linkedin.com/in/alex-kolicich-b71732a) | Founding Partner | Institutional fund specializing in AI, defense tech, and complex incubations. | Early investor in Anduril, Palantir, Oculus, and Guardant Health; incubated Epirus and Chaos Industries; raised fifth fund of $880M. | Focus on man-machine symbiosis and the defense tech renaissance; belief that startups out-execute legacy primes via software and autonomy. |
+| **Long Journey Ventures** | [Cyan Banister](https://www.linkedin.com/in/cyanb/) | Partner | Institutional fund. | Early investor in Uber, SpaceX, Postmates, and Niantic. | Investing in the "magically weird"; disarming small talk to reach authentic, non-consensus human connections; aligning profit with higher purpose. |
+| **Founders Fund** | [Delian Asparouhov](https://www.linkedin.com/in/delian-asparouhov-87447742) | Partner | Institutional fund. | Varda Space Industries, SpaceX; oversaw Varda's first commercial re-entry capsule landing. | Operating experience as a prerequisite for elite investing; moving close to the "bare metal" to understand technical problems. |
+| **Homebrew / Screendoor** | [Hunter Walk](https://www.linkedin.com/in/hunterwalk/) | Partner / Founder | Self-funded structure (Homebrew) and Fund-of-funds (Screen Door). | Investments in Chime, Plaid, Gusto, Cruise, and Shield. | Alignment of founder-investor incentives by removing ownership friction; supporting emerging managers with high-conviction differentiated strategies. |
+| **Chapter One** | [Jeff Morris Jr.](https://www.linkedin.com/in/jeffmorrisjr) | General Partner (GP) | Institutional product-driven early-stage fund focusing on consumer, gaming, and deep tech. | Seed investor in 13 unicorns including Mercury, Superbase, and Compound Finance; former VP Product Revenue at Tinder. | Treating the venture fund as a product that must find its own "product-market fit" through continuous iteration and distinct differentiation. |
+| **Upfront Ventures** | [Mark Suster](https://www.linkedin.com/in/marksuster) | Managing Partner | Institutional fund running Seed ($300M), Early Growth ($200M), and Secondary strategies. | Led investments in Invoca, Density, Nanit, and Maker Studios (sold to Disney); former founder of two companies sold to Salesforce. | A "barbell strategy" focusing on high-conviction, concentrated seed investments where the investor acts as a direct sparring partner on the board. |
+| **Lux Capital** | [Grace Isford](https://www.linkedin.com/in/graceisford) | Partner | Institutional fund focusing on Frontier and Computational Sciences. | Sourced investments in Runway ($1.5B), LangChain, and Sakana AI; youngest partner in Lux history. | Investing at the nexus of computational and physical sciences; belief in NYC as an AI hub; high-conviction support for "weird" contrarian research. |
+| **Contrary** | [Kyle Harrison](https://www.linkedin.com/in/kyle-harrison-9274b278) | General Partner (GP) | Institutional fund backing companies from seed to scale (pre-seed to Series B+). | Investor in Ramp, Replit, Anduril, and Armada; formerly at TCV, Coatue, and Index. | Identifying the smartest people as early as possible and supporting them throughout their career to gain an unfair advantage in talent vortexes. |
+| **Left Lane Capital** | [Jason Fiedler](https://www.linkedin.com/in/fiedlerjason) | Managing Partner | Institutional growth and venture fund ($2B+ AUM). | Investments in Ollipop, Blank Street, Holy, Talkiatry, Kings League, Farmer's Dog, and Figs. | Focus on "NPS Delta" relative to slow incumbents; "Pearls and Strings" framework; belief in mass distrust of legacy CPG brands. |
+| **Northzone** | [Molly Alter](https://www.linkedin.com/in/molly-alter-3ab1159a) | Partner | Institutional fund ($4B AUM) investing $2.5M to $60M across US and Europe. | Sourced and served on the board of Frame.io (sold to Adobe for $1.2B); investments in Lightricks, Glee, and Trackable. | Intellectual honesty regarding VC biases; focus on vertical AI/SaaS where specificity creates a defensible moat against horizontal AI giants. |
+| **10X Capital** | [David Weisburd](https://www.linkedin.com/in/dweisburd) | Co-founder and Head of Venture Capital | Institutional fund (Venture Capital franchise within a multi-asset class firm). | Early investor in Worldcoin and Anthropic; host of the 10X Capital podcast. | Venture capital is an access class, not an asset class; emphasizes time/stage diversification and alignment of incentives regarding portfolio concentration. |
+| **AIX Ventures / You.com** | [Richard Socher](https://www.linkedin.com/in/richardsocher) | Managing Director (AIX) / Founder & CEO (You.com) | Institutional venture fund (AIX) and an AI productivity engine company (You.com). | Founder of MetaMind (sold to Salesforce); investor in Hugging Face, Perplexity, and Weights & Biases. | Focusing on the "GenAI Insight" that AI value is highest when artifacts are long to generate but fast to verify; emphasis on accuracy over hype. |
+| **Embedded Ventures / Zoo** | [Jordan Noone](https://www.linkedin.com/in/jordan-noone) | Founding GP / Executive Chairman | Institutional fund focusing on deep tech; Zoo is a research and infrastructure company. | Co-founded Relativity Space (valued at $4.2B); launched Text-to-CAD via Zoo with 13,000 files generated on day one. | Bringing automation and code-based design to hardware development to bridge the asymmetry between software and archaic hardware workflows. |
+| **Commodity Capital** | [Xander Oltmann](https://www.linkedin.com/in/xanderoltmann) | Founder and GP | Institutional fund focusing on vertically integrated monopolies and hard tech at pre-seed and seed stages. | Investments in Hadrian, Varda, Senra, and Armada. | Leveraging declining software development costs to build hyperscalable, vertically integrated monopolies in historically non-scalable industries. |
+| **Long Journey Ventures** | [Lee Jacobs](https://www.linkedin.com/in/lee-jacobs) | Partner | Institutional fund. | Investments in Cruso, Anduril, and Modern Animal. | Searching for "snowflake" companies that look weird at the time of investment; willingness to stick one's neck out for unpopular secrets. |
+| **Union Square Ventures (USV)** | [Jared Hecht](https://www.linkedin.com/in/jaredhecht) | Venture Partner | Institutional fund (thesis-driven generalist). | Founded GroupMe (sold to Skype/Microsoft) and Fundera (sold to NerdWallet); early employee at Tumblr. | Radical honesty with founders; investing at the "edge" of large markets transformed by societal pressure; reverence for the entrepreneur. |
+| **Collaborative Fund** | [Morgan Housel](https://www.linkedin.com/in/morgan-housel-5b473821/) | Partner | Institutional fund. | Author of 'The Psychology of Money' (5 million+ copies sold). | Focusing on behaviors that never change (greed, fear) rather than forecasts; survival is the only performance metric that counts. |
+| **Founders Fund** | [John Coogan](https://www.linkedin.com/in/jacoogan) | EIR | Institutional fund. | Co-founder of Soylent and Lucy. | Transparency in science (e.g., nicotine vs. carcinogens); leveraging consumer storytelling to disrupt non-innovative industries like big tobacco. |
+| **Hadrian** | [Chris Power](https://www.linkedin.com/in/powerc) | Founder | Venture-backed startup (raised $200M+ to date). | Raised $117M Series B; built automated precision factories providing parts for SpaceX and Blue Origin. | National mission focused on "American dynamism"; belief that reshoring manufacturing via software and robotics is the only way to compete with China. |
+| **Armada** | [Dan Wright](https://www.linkedin.com/in/wrightdh) | CEO | Venture-backed full stack Edge Computing infrastructure. | Raised $100M; partnerships with Starlink, Halliburton, and Microsoft; operating in nearly 50 countries. | Bridging the digital divide by building the "Cloud for the Edge"; focusing on "Good Quests" (high-impact problems) in hostile environments. |
+| **Nucleus Genomics** | [Kian Sadeghi](https://www.linkedin.com/in/kian-sadeghi-8273ba178) | Founder and CEO | Self-funded and venture-backed consumer health platform. | Raised over $18M; launched Nucleus IQ; specialized in Whole Genome Sequencing at consumer price points ($399). | Transparency in genetics; anti-paternalistic view of data; belief that individuals should own frontier genetic insights without gatekeeping. |
+| **Passes** | [Lucy Guo](https://www.linkedin.com/in/lucy-guo-a7804955) | CEO and Founder | Venture-backed creator platform ($50M raised). | Co-founder of Scale AI; creators on platform earning $500k/month; top talent includes Shaq and Olivia Dunne. | Creating generational wealth for creators; direct fan-to-creator interactions to replace unpredictable algorithms; pro-creator transparency. |
+| **Radiant** | [Doug Bernauer](https://www.linkedin.com/in/doug-bernauer) | Founder and CEO | Venture-backed startup (raised $60M+ to date). | Ex-SpaceX engineer; raised Series B led by a16z; developed "Kaleidos" microreactor to replace diesel generators. | Portable, factory-mass-produced nuclear energy; decoupling nuclear from permanent infrastructure to enable energy independence in remote areas. |
+| **Zamp** | [Rohit Bhadange](https://www.linkedin.com/in/rohitbhadange) | Founder and CEO | Venture-backed startup (raised $14M to date). | Raised $10M Series A led by Valor Equity Partners; hit mid-seven figures ARR in 15 months; serves 400+ customers. | Sales tax compliance as a trust-based relationship; focus on speed and accuracy; belief that founders must iterate faster than incumbents. |
+| **Oden Technologies** | [Willem Sundblad](https://www.linkedin.com/in/willem-sundblad) | Co-founder and CEO | Institutional fund-backed startup (Series B). | Raised $28.5M Series B led by Nordstjernan Growth; 3x growth during austerity; 10% throughput increase for customers. | Adding "science" to the "art" of manufacturing; using process AI to democratize domain knowledge and reduce turnover friction. |
+| **Impulse Labs** | [Sam D'Amico](https://www.linkedin.com/in/s-damico) | Founder | Backed by Institutional fund (Lux Capital). | Developed battery-integrated induction stove; $20 million Series A. | Using appliances as a "Trojan Horse" for home electrification and decentralized energy storage; high-power/precision future vs. degrowth. |
+| **Rivet** | [Nick Abouzeid](https://www.linkedin.com/in/nickabouzeid) | Co-founder | Venture-backed startup (formerly at Shrug Capital, Main Street, and Ramp). | Grew Ramp to $5.8B valuation; referer for Superhuman; raised pre-seed for Rivet from XYZ Ventures and Shrug Capital. | Growth hacking myths debunked; focusing on "level zero" improvements like button text over sexy solutions; accountability to "own the number." |
+| **Lighthouse** | [Minn Kim](https://www.linkedin.com/in/minnkim) | Founder | Vertically integrated service (formerly AI/Robotics VC). | Launched global accelerator at On Deck; served dozens of individuals and companies like the HF0 team. | Democratizing access to high-skilled immigration; treating immigration as a "complicated" problem solvable through software and proprietary processes. |
 
