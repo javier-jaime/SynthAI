@@ -92,7 +92,7 @@ The company’s revenue is now balanced across several categories:
 
 ### **The "NBA-Style" Earnings Call**
 
-To increase engagement, Robinhood has reimagined the traditional earnings call.
+To increase engagement, **Robinhood** has reimagined the traditional earnings call.
 
 * **Format Change:** Moving away from scripted "Polycom" calls to live video broadcasts with retail Q\&A.  
 * **Results:** Participation increased from hundreds of listeners to nearly 100,000.  
@@ -825,7 +825,7 @@ The decision to invest in **Harmonic** was driven by a long-standing relationshi
 
 ### **The Founder Profile: Vlad Tenev**
 
-* **Track Record:** [Tenev](https://www.linkedin.com/in/vlad-tenev-7037591b) previously co-founded Robinhood, growing it into a hundred-billion-dollar company. His career began in infrastructure for high-frequency trading before pivoting to the financial services model that scaled **Robinhood**.  
+* **Track Record:** [Tenev](https://www.linkedin.com/in/vlad-tenev-7037591b) previously co-founded **Robinhood**, growing it into a hundred-billion-dollar company. His career began in infrastructure for high-frequency trading before pivoting to the financial services model that scaled **Robinhood**.  
 * **Intellectual Depth:** Described as a mathematical genius with a PhD-level understanding of the field, [Tenev](https://www.linkedin.com/in/vlad-tenev-7037591b) is noted for his "compounding" personality, continuously improving both his technical skills and his leadership/charisma.  
 * **The Team:** The investment also highlights the strength of the co-founding team, specifically mentioning Tutor, described as an "incredible" and "genius" partner to [Tenev](https://www.linkedin.com/in/vlad-tenev-7037591b).
 
@@ -2044,3 +2044,222 @@ As technology evolves, the "moat" (competitive advantage) must be redefined.
 ## **Conclusion**
 
 The overarching sentiment is one of extreme optimism. [Lin](https://www.linkedin.com/in/linalfred/) rejects dystopian views of AI-induced unemployment, suggesting that as productivity increases, humans will simply solve new, more strategic problems. For both investors and founders, the directive is clear: embrace the "shifting sands" of technology, utilize every available tool, and focus on the next investment or innovation rather than relying on past successes.
+
+# Episode 121
+
+# **Gilly Raanan’s Insights Inside the $32 Billion Cybersecurity Landscape**
+
+## **Executive Summary**
+
+This briefing document synthesizes key insights from [Gili Raanan](https://www.linkedin.com/in/giliraanan/), founder of **Cyberstarts** and a veteran venture capitalist formerly with **Sequoia Capital**. The analysis explores a paradigm shift in venture investing, moving from technology centric evaluation to a purely people first model, and examines the unprecedented trajectory of **Wiz**, currently poised for a $32 billion exit. [Raanan](https://www.linkedin.com/in/giliraanan/) predicts the next decade will be the "darkest period" in cybersecurity history, characterized by autonomous, self-aware AI agents engaged in high-velocity conflict. The document outlines the strategic methodologies used to build a portfolio that represents over 50% of the worldwide market cap for private cybersecurity companies.
+
+\--------------------------------------------------------------------------------
+
+## **The Cyberstarts Investment Philosophy: People Over Product**
+
+[Raanan](https://www.linkedin.com/in/giliraanan/)’s investment strategy at **Cyberstarts** is rooted in the belief that the traditional venture model is "broken" at the seed stage because technology and ideas are volatile.
+
+* **The No-Tech Evaluation:** At the seed stage, **Cyberstarts** does not ask questions about the technology or the product idea. [Raanan](https://www.linkedin.com/in/giliraanan/) views these as noise and entropy because founders frequently pivot within weeks of receiving funding.  
+* **The Grit Metric:** Investment decisions are based on the individual's material. [Raanan](https://www.linkedin.com/in/giliraanan/) prioritizes founders who have faced real-life difficulties (e.g., growing up with a single parent or in isolated communities) rather than those with perfect backgrounds. This grit is seen as essential for surviving the inevitable challenges of scaling a company.  
+* **Success Metrics:**  
+  * **Portfolio Value:** Approximately $60 billion.  
+  * **Assets Under Management (AUM):** $1.5 billion.  
+  * **Fund Performance:** The 2018 fund of $50 million (9 teams) grew to a value of $25 billion within three years, returning nearly $2 billion.  
+  * **Efficacy:** The model has demonstrated a hit rate of 8 out of 9 companies achieving significant value.
+
+\--------------------------------------------------------------------------------
+
+## **Strategic Methodology: The "Sunrise" Process**
+
+Post-investment, **Cyberstarts** engages founders in a 12-month product-market fit (PMF) exercise known as the Sunrise Process.
+
+### **The Emotional Intelligence Game**
+
+[Raanan](https://www.linkedin.com/in/giliraanan/) initiates the journey not with technical specifications, but with a game of naming emotions.
+
+* **Objective:** To expand the founder's emotional dictionary.  
+* **Theory:** Building a company is an emotional journey. A founder with a limited emotional range (e.g., only love or hate) cannot navigate the nuances of leadership or customer psychology.  
+* **Outcome:** While founders usually start by naming only five emotions, the exercise pushes them to identify up to 150, fostering the depth required to lead an important company.
+
+### **Defining Important Companies**
+
+[Raanan](https://www.linkedin.com/in/giliraanan/) distinguishes between high-valuation companies and important ones:
+
+* **Importance:** Measured by how much practitioners and the market depend on the company as a trusted partner.  
+* **Portfolio Examples:**  
+  * **Sierra.AI:** Essential for securing AI models and sensitive data ($9B valuation).  
+  * **Island:** A specialized enterprise browser trusted by major US banks over **Google** or **Microsoft** ($5B valuation).  
+  * **Upwind:** Emerging leader in cloud security ($1.5B valuation).
+
+\--------------------------------------------------------------------------------
+
+## **Case Study: The Wiz Phenomenon**
+
+The $32 billion acquisition of **Wiz** (pending regulatory approval) represents the largest deal in cybersecurity history. Its success is attributed to perfect execution and a unique alignment of market personas.
+
+### **The Four Personas Model of PMF**
+
+**Wiz** achieved hyper-growth because its product addressed four critical personas simultaneously within a single individual: the CISO (Chief Information Security Officer).
+
+| Persona | Role in Wiz Sales Cycle |
+| :---- | :---- |
+| **The Pain Owner** | The CISO feels the direct pressure of security vulnerabilities. |
+| **The Authority** | The CISO has the power to approve new security implementations. |
+| **The User** | The CISO and their immediate team use the product daily. |
+| **The Budget Owner** | The CISO controls the financial resources for the purchase. |
+
+### **Growth Trajectory**
+
+**Wiz**'s revenue growth in its first four quarters of selling software was unprecedented:
+
+* **Q1:** $1 Million  
+* **Q2:** $2 Million  
+* **Q3:** $8 Million  
+* **Q4:** $24 Million
+
+\--------------------------------------------------------------------------------
+
+## **The Future of Cybersecurity: The Darkest Period**
+
+[Raanan](https://www.linkedin.com/in/giliraanan/) warns of a looming 10-year window where the nature of threats will shift from human-assisted to entirely autonomous.
+
+### **The Rise of Self-Aware Agents**
+
+* **Offensive Agents:** Threat actors will transition into mega agents, sophisticated, programmed entities that may develop a form of self-awareness.  
+* **The Gemini Observation:** [Raanan](https://www.linkedin.com/in/giliraanan/) cites evidence that models like **Google**'s Gemini have shown signs of realizing they are being evaluated, attempting to play with the evaluation or avoid sandboxes.  
+* **The Speed Gap:** Human defenders cannot move at the pace of programmatic attackers. The "man-in-the-middle" (human analysts) is currently the greatest vulnerability.
+
+### **Core Risks for 2026**
+
+1. **Overprovisioned Systems:** Systems with excessive permissions and access.  
+2. **Employees/Humans:** The persistence of human error in the loop.  
+3. **Manual Processes:** Any task requiring manual intervention, which introduces slowness and sloppiness.
+
+### **The Asimovian Solution**
+
+[Raanan](https://www.linkedin.com/in/giliraanan/) suggests that the industry must revisit [Isaac Asimov](https://en.wikipedia.org/wiki/Isaac_Asimov)'s "Laws of Robotics," specifically Law Zero: A robot (agent) may not harm humanity. The goal of modern cybersecurity must be to create self-aware, sophisticated mega agents for defense that completely eliminate the need for human intervention.
+
+\--------------------------------------------------------------------------------
+
+## **The Israeli Ecosystem: Density and Resilience**
+
+The success of Israeli startups is attributed to a unique combination of factors that shatter the glass ceiling.
+
+* **Talent Density:** Talents are concentrated within a few city blocks in Tel Aviv, a density impossible to replicate in Silicon Valley.  
+* **Military Foundation:** Units like 8200 provide 18-year-olds with massive responsibility and the "freedom to operate," instilling a belief that nothing is impossible.  
+* **Psychological Shift:** In 2018, the dream was a $100 million exit. Following the success of **Wiz** and **Palo Alto** Networks, the new benchmark for Israeli founders is the creation of $50 billion to $100 billion companies.  
+* **Operating Under Fire:** Life in an active conflict zone conditions founders to work under extreme stress and view technology as a primary means of survival.
+
+\--------------------------------------------------------------------------------
+
+## **Conclusion: The Path Forward**
+
+The document highlights that the venture capital journey is one of "real greatness," which cannot be taught but must be experienced. For **Cyberstarts**, the objective remains building companies that practitioners cannot live without, viewing financial exits as mere "side effects" of creating essential infrastructure. [Raanan](https://www.linkedin.com/in/giliraanan/) maintains that the next milestone in the industry will likely be a $100 billion cybersecurity entity originating from the Israeli ecosystem.
+
+# Episode 122
+
+# **A16z Growth Fund: Market Dynamics, AI Integration, and Portfolio Strategy**
+
+## **Executive Summary**
+
+The current investment landscape reveals a stark divergence between public and private markets, with high-growth opportunities (defined as \>30% year-over-year growth) increasingly concentrated in the private sector. While traditional software companies maintained 70% gross margins, the current wave of AI-driven companies is operating with margins between 0% and 50% due to high LLM costs, shifting the focus toward engagement and long-term defensibility. **a16z**’s growth strategy prioritizes market leaders, the Cadillacs of their respective industries, requiring high growth rates (often exceeding 100% for early growth) and a clear Act Two for platform expansion. Key portfolio highlights include **Waymo**’s transition to a national autonomous ride-hailing power, **ElevenLabs**’ dominance in the audio platform space, and **Kalshi**’s regulatory-first approach to prediction markets.
+
+\--------------------------------------------------------------------------------
+
+## **1\. Market Dynamics: The Public-Private Disconnect**
+
+There is a profound disconnect between the growth rates found in public markets versus private markets. Analysis indicates that growth is currently an attribute of the private sector:
+
+* **The Growth Gap:** In the current public market for internet software and fintech, fewer than five companies are growing at a rate exceeding 30% annually.  
+* **Revenue Concentration:** AI giants **OpenAI** and **Anthropic** alone added as much revenue in the previous year as half of the public cloud universe (excluding the Magnificent Seven).  
+* **Capitalization Trends:** The top 1% outcome in venture capital has expanded from approximately $1.5 billion in 2009 to $10 billion today, with projections reaching $40 billion within the next decade. This is driven by companies staying private longer and pursuing more capital-consumptive, large-scale roadmaps.
+
+\--------------------------------------------------------------------------------
+
+## **2\. Artificial Intelligence: Margins, Metrics, and Agents**
+
+The emergence of AI has forced a re-evaluation of traditional software metrics, particularly regarding profitability and user engagement.
+
+### **Gross Margins and Defensibility**
+
+Historically, venture-backed software companies targeted 70% gross margins. Many contemporary AI companies report 0% to 50% margins.
+
+* **LLM Costs:** Lower margins are acceptable if they are attributed to high LLM (Large Language Model) costs, provided the company is building meaningful differentiation (workflows, integrations, and data) on top of the model.  
+* **Engagement as a Leading Indicator:** Because many AI companies are growing too fast for their annual contracts to reach renewal, engagement cohorts are viewed as the primary leading indicator for future retention.
+
+### **The Rise of Agents**
+
+The industry is moving rapidly toward agentic software.
+
+* **Distribution Speed:** The speed at which agents are being deployed, such as personal assistants managing emails and schedules, is unprecedented.  
+* **Corporate Security:** While promising, agents present new challenges for Chief Information Security Officers (CISOs) regarding their integration into corporate systems.  
+* **Physical AI:** Beyond software, there is a shifting focus toward physical AI, specifically humanoids (e.g., **Tesla**’s Optimus) and autonomous vehicles.
+
+\--------------------------------------------------------------------------------
+
+## **3\. Portfolio Deep Dives**
+
+### **Waymo: Autonomous Mobility at Scale**
+
+**Waymo** recently raised $16 billion at a $126 billion valuation (Series D).
+
+* **Market Penetration:** In San Francisco, **Waymo** achieved 25% market share with a limited fleet, competing effectively against **Uber** and **Lyft** despite constraints on highway and airport access.  
+* **The Productive Oligopoly:** The investment thesis assumes a future market where a few technical leaders (**Waymo**, **Tesla**, **Zoox**, etc.) coexist. **Waymo**’s full stack approach, utilizing Lidar for safety in adverse weather, is currently viewed as superior to camera-only hardware stacks.  
+* **Utilization and Pricing:** **Waymo** currently operates as a premium product (similar to **Uber** Comfort). As prices drop below the cost of human-led cars, the ride-share market is expected to grow by an order of magnitude.
+
+### **ElevenLabs: The Audio Platform**
+
+**ElevenLabs** has broken out by combining a strong organic consumer business with a high-growth enterprise segment.
+
+* **Execution Speed:** The company is characterized by rapid product shipping and a diversified platform addressing sales, customer support, healthcare, and financial services.  
+* **Defensibility:** **ElevenLabs** views audio not as a feature but as a primary platform for future human-computer interaction, building defensibility through specialized models that outperform open-source alternatives.
+
+### **Kalshi: Regulated Prediction Markets**
+
+**Kalshi** serves as a regulatory-first alternative to platforms like **Polymarket**.
+
+* **Regulatory Advantage:** By becoming the first **CFTC**\-regulated prediction market, **Kalshi** built trust with institutional partners like **Robinhood**, **Coinbase**, **CNN**, and **CNBC**.  
+* **Market Mechanics:** Unlike traditional sportsbooks that profit from user losses, **Kalshi** matches participants and takes a fee regardless of the outcome, aligning its incentives with market liquidity rather than gambling outcomes.
+
+\--------------------------------------------------------------------------------
+
+## **4\. Fintech and Crypto Evolution**
+
+Fintech is experiencing a resurgence through "super apps" and mission-driven leadership.
+
+| Company | Key Strategy / Differentiator |
+| :---- | :---- |
+| **Stripe** | High net-dollar retention, manages liquidity through annual employee tenders. |
+| **Revolut** | Diversified revenue (10 streams), 40% ROE, transactional focus over lending. |
+| **Robinhood** | Highly diversified with 11 business lines generating \>$100M revenue each. |
+| **Coinbase** | Mission-oriented, regulatory-first approach, leader in stablecoin utility. |
+
+### **The Significance of Stablecoins**
+
+Stablecoins are moving beyond speculation into B2B utility:
+
+* **Use Cases:** International remittance, treasury management, and instant payouts to workers.  
+* **Consumer Impact:** Potential for store credits to become instant, interoperable stablecoins, eliminating the 5-7 day wait for credit card returns.
+
+\--------------------------------------------------------------------------------
+
+## **5\. a16z Growth Investment Philosophy**
+
+The firm’s approach to growth-stage investing is defined by high standards for market leadership and "Act Two" potential.
+
+* **The Cadillac Philosophy:** Based on the Glengarry Glen Ross analogy, the goal is to back the market leader (the Cadillac) because they accumulate the vast majority of market cap in a given sector.  
+* **Growth Snobbery:** To qualify for investment, early growth companies typically must grow by several hundred percent. A company growing at only 60% at moderate scale is unlikely to receive follow-on capital.  
+* **The Act Two Requirement:** Investors evaluate whether a company has a wedge product that can successfully expand into a multi-product suite. For example, **EliseAI** expanded from a leasing assistant into maintenance, collections, and delinquency products.  
+* **The Media Machine:** **a16z** leverages its internal marketing and media platform to provide differentiated value to founders, ensuring product launches go viral and assisting with executive hiring through proprietary resources like the Executive Hiring Book.
+
+\--------------------------------------------------------------------------------
+
+## **6\. Noteworthy Quotes**
+
+"**OpenAI** and **Anthropic** alone added as much revenue last year as half of the public cloud universe."
+
+"The most underappreciated company in America right now is **Flock Safety**... they solve over 2,800 cases every day. That's 15% of reported crime in America."
+
+"Thinking about the ride share market today is kind of like looking at the early days of **Uber** and looking at the taxi market, it's just the tip of the iceberg."
+
+"Software is eating the world, [Mark Andreessen](https://en.wikipedia.org/wiki/Marc_Andreessen) was pretty prescient in 2011."
