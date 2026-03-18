@@ -14,6 +14,6 @@ Using Google Tools (Keep, Books, Docs, Gemini) & NotebookLM as a Synth AI Engine
 
 And extracting context to build a Semantic Layer for Knowledge Graphs on Neo4j.
 
-Next Step: To make it Collaborative Knowledge Management System for a Services Company.
+Next Step: To make a Collaborative Knowledge Management System for a Services Company.
 
 
