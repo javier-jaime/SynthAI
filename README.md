@@ -12,7 +12,7 @@ Using Google Tools (Keep, Books, Docs, Gemini) & NotebookLM as a SynthAI Engine.
 
 ![SynthAI](images/SynthAI.png)
 
-And extracting context to build a Semantic Layer for Knowledge Graphs on Neo4j.
+And extracting entities & context to build a Semantic Layer for Knowledge Graphs on Neo4j.
 
 Next Step: To make a Collaborative Knowledge Management System for a Services Company.
 
