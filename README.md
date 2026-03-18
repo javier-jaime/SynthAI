@@ -6,7 +6,7 @@ To avoid the Negative Reactive Loop to Information Overload.
 
 We need a Positive Critical Thinking Loop on a Second Brain.
 
-
+![Critical Thinking Loop](images/CT_Loop.png)
 
 Using Google (Books, Docs, Gemini & NotebookLM) as a Synth AI Engine
 
