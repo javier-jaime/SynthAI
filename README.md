@@ -1,10 +1,10 @@
 # A Second Brain PKMS (Personal Knowledge Management System)
 
-To avoid the Reactive Loop to Information Overload.
+To avoid the Negative Reactive Loop to Information Overload.
 
 ![Reactive Loop](images/Reactive_Loop.png)
 
-We need a Critical Thinking Loop on a Second Brain (PKMS)
+We need a Positive Critical Thinking Loop on a Second Brain.
 
 ![Critical Thinking Loop](images/CT_Loop.png)
 
