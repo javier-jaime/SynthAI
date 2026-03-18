@@ -1,6 +1,6 @@
 # A Second Brain for Personal Knowledge Management
 
-To avoid the Negative "Reactive Loop" to Information Overload.
+To avoid the Negative "Reactivity Loop" to Information Overload.
 
 ![Reactive Loop](images/Reactive_Loop.png)
 
