@@ -1,4 +1,4 @@
-# A Second Brain PKMS (Personal Knowledge Management System)
+# A Second Brain for Personal Knowledge Management
 
 To avoid the Negative Reactive Loop to Information Overload.
 
