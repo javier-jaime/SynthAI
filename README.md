@@ -8,9 +8,12 @@ We need a Positive Critical Thinking Loop on a Second Brain.
 
 ![Critical Thinking Loop](images/CT_Loop.png)
 
-Using Google (Books, Docs, Gemini & NotebookLM) as a Synth AI Engine.
+Using Google (Books, Docs, Gemini) & NotebookLM as a Synth AI Engine.
 
 ![SynthAI](images/SynthAI.png)
 
 And building the Semantic Layer for Knowledge Graphs on Neo4j.
+
+Next Step: To make it Collaborative for a Company.
+
 
