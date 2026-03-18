@@ -1,10 +1,10 @@
 # A Second Brain for Personal Knowledge Management
 
-To avoid the Negative Reactive Loop to Information Overload.
+To avoid the Negative "Reactive Loop" to Information Overload.
 
 ![Reactive Loop](images/Reactive_Loop.png)
 
-We need a Positive Critical Thinking Loop on a Second Brain.
+We need a Positive "Critical Thinking Loop" on a Second Brain.
 
 ![Critical Thinking Loop](images/CT_Loop.png)
 
