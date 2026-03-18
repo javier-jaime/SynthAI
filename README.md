@@ -12,7 +12,7 @@ Using Google (Books, Docs, Gemini) & NotebookLM as a Synth AI Engine.
 
 ![SynthAI](images/SynthAI.png)
 
-And building the Semantic Layer for Knowledge Graphs on Neo4j.
+And extracting context to build a Semantic Layer for Knowledge Graphs on Neo4j.
 
 Next Step: To make it Collaborative for a Company.
 
