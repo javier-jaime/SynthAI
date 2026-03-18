@@ -1,6 +1,6 @@
 # Second Brain Synth AI
 
-Examples of Synth AI on a Second Brain with Google: Books, Docs, Gemini, NotebookLM; & Neo4j Graph Database
+Examples of Synth AI on a Second Brain with Google (Books, Docs, Gemini, NotebookLM) & Neo4j Graph Database
 
 ![SynthAI](images/SynthAI.png)
 
