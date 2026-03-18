@@ -12,6 +12,6 @@ Using Google (Books, Docs, Gemini & NotebookLM) as a Synth AI Engine
 
 ![SynthAI](images/SynthAI.png)
 
-And building a Semantic Layer on Neo4j Graph Database
+And building the Semantic Layer for Knowledge Graphs on Neo4j Graph Database
 
 
