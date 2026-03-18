@@ -1,10 +1,17 @@
-# Second Brain Synth AI
+# A Second Brain PKMS (Personal Knowledge Management System)
 
-Examples of Synth AI on a Second Brain with Google (Books, Docs, Gemini, NotebookLM) & Neo4j Graph Database
+To avoid the Reactive Loop to Information Overload.
+
+![Reactive Loop](images/Reactive_Loop.png)
+
+We need a Critical Thinking Loop on a Second Brain (PKMS)
+
+![Critical Thinking Loop](images/CT_Loop.png)
+
+Using Google (Books, Docs, Gemini & NotebookLM) as a Synth AI Engine
 
 ![SynthAI](images/SynthAI.png)
 
-Using a Critical Thinking Loop on a "Second Brain" PKMS
-(Personal Knowledge Management System)
+And building a Semantic Layer on Neo4j Graph Database
 
-![Critical Thinking Loop](images/CT_Loop.png)
+
