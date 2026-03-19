@@ -26,7 +26,7 @@ The residential real estate sector is described as one of the last "B2C industri
 * **Origin:** Founded by [Jason Hardy](https://www.linkedin.com/in/jasonghardy/) after a 20-minute online vehicle purchase highlighted the comparative "red tape" and stress of home buying.  
 * **Core Product (Ownly Verified):** A five-stage verification tool that handles identity credential verification, mortgage pre-approvals, income/liability verification, and soft credit checks.  
 * **Market Impact:** The platform acts as a "sales enablement tool" for builders and brokers. In an environment where 50% of US real estate transactions fail at the final hour, **Ownly** provides qualified buyers with greater certainty.  
-* **Key Quote:** "Nobody wants to be sold... people want the opportunity to be able to educate themselves and they want the opportunity to buy rather than be sold.", [Jason Hardy](https://www.linkedin.com/in/jasonghardy/), Co-founder & CEO.
+* **Key Quote:** "Nobody wants to be sold... people want the opportunity to be able to educate themselves and they want the opportunity to buy rather than be sold", [Jason Hardy](https://www.linkedin.com/in/jasonghardy/), Co-founder & CEO.
 
 ### **Bōde: Marketplace and Platform Play**
 
@@ -216,13 +216,13 @@ Mentorship is cited as the "backbone" of successful PropTech ventures. Key entre
 
 ## **Key Quotes**
 
-"Real estate is truly the last B2C industry on the planet that's digitized the buying process. There's no real reason for it.", [**Jason Hardy**](https://www.linkedin.com/in/jasonghardy/)
+"Real estate is truly the last B2C industry on the planet that's digitized the buying process. There's no real reason for it", [**Jason Hardy**](https://www.linkedin.com/in/jasonghardy/)
 
-"When it comes to real estate, nobody wants to be sold. People want the opportunity to be able to educate themselves and they want the opportunity to buy rather than be sold.", [**Jason Hardy**](https://www.linkedin.com/in/jasonghardy/)
+"When it comes to real estate, nobody wants to be sold. People want the opportunity to be able to educate themselves and they want the opportunity to buy rather than be sold", [**Jason Hardy**](https://www.linkedin.com/in/jasonghardy/)
 
-"Unless you have complete buy-in from your team, implementing any new direction... is going to fail. You need buy-in right from the top down.", [**Shane Wenzel**](https://www.linkedin.com/in/shane-wenzel-%F0%9F%8F%98%EF%B8%8F-a940a413/)
+"Unless you have complete buy-in from your team, implementing any new direction... is going to fail. You need buy-in right from the top down", [**Shane Wenzel**](https://www.linkedin.com/in/shane-wenzel-%F0%9F%8F%98%EF%B8%8F-a940a413/)
 
-"We're building homes for people to live in now as opposed to simply for resale.", [**Shane Wenzel**](https://www.linkedin.com/in/shane-wenzel-%F0%9F%8F%98%EF%B8%8F-a940a413/)
+"We're building homes for people to live in now as opposed to simply for resale", [**Shane Wenzel**](https://www.linkedin.com/in/shane-wenzel-%F0%9F%8F%98%EF%B8%8F-a940a413/)
 
 # Episode 002
 
@@ -306,13 +306,13 @@ Both [Casey](https://www.linkedin.com/in/casey-kachur-08881111/) and [Chris](htt
 
 ## **Notable Quotes**
 
-"Buying a home is extremely exciting and awesome until the next day when you realize you don't have internet, you move in, and you forgot about the mail.", [**Casey Kachur**](https://www.linkedin.com/in/casey-kachur-08881111/)**, Virtuo**
+"Buying a home is extremely exciting and awesome until the next day when you realize you don't have internet, you move in, and you forgot about the mail", [**Casey Kachur**](https://www.linkedin.com/in/casey-kachur-08881111/)**, Virtuo**
 
-"Luck is where preparation meets opportunity... Virtuo comes along at a time where the alignment of value proposition is almost perfect.", [**Chris Richer**](https://www.linkedin.com/in/christopher-richer-4348a23/)**, Brookfield Properties**
+"Luck is where preparation meets opportunity... Virtuo comes along at a time where the alignment of value proposition is almost perfect", [**Chris Richer**](https://www.linkedin.com/in/christopher-richer-4348a23/)**, Brookfield Properties**
 
-"I always thought the customer would get easier as we went down market; it actually gets more difficult... the emotions are high and this is an emotional purchase.", [**Chris Richer**](https://www.linkedin.com/in/christopher-richer-4348a23/)**, Brookfield Properties**
+"I always thought the customer would get easier as we went down market; it actually gets more difficult... the emotions are high and this is an emotional purchase", [**Chris Richer**](https://www.linkedin.com/in/christopher-richer-4348a23/)**, Brookfield Properties**
 
-"The only people who should be learning in a startup at our stage are the founders; everybody else should have been there, done that.", [**Casey Kachur**](https://www.linkedin.com/in/casey-kachur-08881111/)**, quoting a mentor**
+"The only people who should be learning in a startup at our stage are the founders; everybody else should have been there, done that", [**Casey Kachur**](https://www.linkedin.com/in/casey-kachur-08881111/)**, quoting a mentor**
 
 # Episode 003
 
@@ -789,11 +789,11 @@ PLC is positioning itself as a leader in agricultural carbon protocols. The comp
 
 ## **Key Insights from Leadership**
 
-"The growing medium itself... has no degradation and performance through time... That turns our business model from a sales model into a leasing model. We effectively rent the dirt.", [**John Horseman**](https://www.linkedin.com/in/jon-horsman-35278583)**, CFAO**
+"The growing medium itself... has no degradation and performance through time... That turns our business model from a sales model into a leasing model. We effectively rent the dirt", [**John Horseman**](https://www.linkedin.com/in/jon-horsman-35278583)**, CFAO**
 
-"We always thought it was all about creating a product that costs similar but was recyclable... what we didn't realize is it really significantly enhances the quality of the food. We make a better tomato.", [**Gordon Anderson**](https://www.linkedin.com/in/gordon-anderson-b101735b/)**, Director**
+"We always thought it was all about creating a product that costs similar but was recyclable... what we didn't realize is it really significantly enhances the quality of the food. We make a better tomato", [**Gordon Anderson**](https://www.linkedin.com/in/gordon-anderson-b101735b/)**, Director**
 
-"Trying to map bamboo from a carbon perspective is incredibly difficult... there’s 1500 species of bamboo... we’ll be only the second \[company\] that’s going to be able to monetize a forestry bamboo project.", [**Chris Vance**](https://www.linkedin.com/in/christopherjamesvance/)**, Sustainability Leader**
+"Trying to map bamboo from a carbon perspective is incredibly difficult... there’s 1500 species of bamboo... we’ll be only the second \[company\] that’s going to be able to monetize a forestry bamboo project", [**Chris Vance**](https://www.linkedin.com/in/christopherjamesvance/)**, Sustainability Leader**
 
 # Episode 007
 
@@ -1008,13 +1008,13 @@ Addressing the shift to Electric Vehicles (EVs), [Alice Reimer](https://www.link
 
 ## **Key Quotes**
 
-"Everybody wants to be the CEO until they're the CEO and they recognize how difficult the job itself can be.", [**Alice Reimer**](https://www.linkedin.com/in/alice-reimer/)
+"Everybody wants to be the CEO until they're the CEO and they recognize how difficult the job itself can be", [**Alice Reimer**](https://www.linkedin.com/in/alice-reimer/)
 
-"If you look at how investors add value post-investment, they add value all around the business side... What they don't focus on is helping to grow the founders themselves.", [**Janet Bannister**](https://www.linkedin.com/in/janetbannister/)
+"If you look at how investors add value post-investment, they add value all around the business side... What they don't focus on is helping to grow the founders themselves", [**Janet Bannister**](https://www.linkedin.com/in/janetbannister/)
 
-"Play the long game... don't be afraid of failure. You're never going to learn to hit out of the sand unless you try to hit the ball out of the sand.", [**Janet Bannister**](https://www.linkedin.com/in/janetbannister/) (on lessons from golf)
+"Play the long game... don't be afraid of failure. You're never going to learn to hit out of the sand unless you try to hit the ball out of the sand", [**Janet Bannister**](https://www.linkedin.com/in/janetbannister/) (on lessons from golf)
 
-"I'm doing it because I want to do it... People can see through your intentions, and why you do things is just as important as what you do.", [**Janet Bannister**](https://www.linkedin.com/in/janetbannister/) (on Staircase's founder platform)
+"I'm doing it because I want to do it... People can see through your intentions, and why you do things is just as important as what you do", [**Janet Bannister**](https://www.linkedin.com/in/janetbannister/) (on Staircase's founder platform)
 
 # Episode 009
 
@@ -1056,7 +1056,7 @@ EWA is defined as a tool for "upward financial mobility." It treats earned wages
 | **Risk Management** | High loss rates (15–20%) | Direct payroll deduction (near-zero risk) |
 | **Impact** | Debt cycles/embarrassment | Empowerment/productivity |
 
-"The busiest day for a payday lender is payday because people have borrowed from their future selves... when you use **ZayZoon**, you're not borrowing from yourself. Instead of being embarrassed about it, you should be empowered because you worked hard for this.", [**Darcy Tuer**](https://www.linkedin.com/in/darcytuer/)**,** CEO
+"The busiest day for a payday lender is payday because people have borrowed from their future selves... when you use **ZayZoon**, you're not borrowing from yourself. Instead of being embarrassed about it, you should be empowered because you worked hard for this", [**Darcy Tuer**](https://www.linkedin.com/in/darcytuer/)**,** CEO
 
 ## **Market Strategy and Distribution**
 
@@ -1223,11 +1223,11 @@ The leadership team emphasizes the importance of both formal and informal mentor
 
 ### **Key Insights and Quotes**
 
-"**DrugBank** really, in our mind, was like the Bloomberg terminal for pharmacology. Anybody who’s touching a drug for whatever reason would be using **DrugBank**.", [**Jehangir**](https://www.linkedin.com/in/jehangir-appoo/)**, Investor**
+"**DrugBank** really, in our mind, was like the Bloomberg terminal for pharmacology. Anybody who’s touching a drug for whatever reason would be using **DrugBank**", [**Jehangir**](https://www.linkedin.com/in/jehangir-appoo/)**, Investor**
 
-"We built essentially an AI researcher... Our platform goes out, it reads the literature, it reads patents, it reads clinical trial records... we make it all ready to use and ready to access.", [**Michael Wilson**](https://www.linkedin.com/in/m1chaelwilson/)**, CEO**
+"We built essentially an AI researcher... Our platform goes out, it reads the literature, it reads patents, it reads clinical trial records... we make it all ready to use and ready to access", [**Michael Wilson**](https://www.linkedin.com/in/m1chaelwilson/)**, CEO**
 
-"Healthcare has a 10-year lag at least on technology. Being able to learn from other folks, other industries, is really valuable.", [**Alexa McCarron**](https://www.linkedin.com/in/alexamccarron/)**, CSO**
+"Healthcare has a 10-year lag at least on technology. Being able to learn from other folks, other industries, is really valuable", [**Alexa McCarron**](https://www.linkedin.com/in/alexamccarron/)**, CSO**
 
 # Episode 011
 
@@ -2046,7 +2046,7 @@ At Smart Technologies, pricing was used as a competitive lever:
 
 # Summary Table
 
-| Company | Industry | Founder(s) | Core Business Model | Target Customers | Key Technology or Product | Funding Status | Geographic Markets |
+| Company Name | Industry Focus | Founding Team | Core Business Model | Target Customers | Key Technology or Product | Funding Status | Geographic Markets |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 | Eavor Technologies | ClimateTech / Geothermal | [John Redfern](https://www.linkedin.com/in/johnredfern/) (CEO), [Paul Cairns](https://www.linkedin.com/in/paul-cairns-103b2a40/) (Chief Business Development Officer), [Matt Toews](https://www.linkedin.com/in/matthew-toews-a3126349/) (CTO), [Jeanine Vany](https://www.linkedin.com/in/jeanine-vany-a46b302a/) | Technology licensing | Oil and gas service companies, energy producers, municipalities, and utility companies | Eavor-Loop: a proprietary closed-loop geothermal system for conductive heat harvesting | Raised $225 million in equity; 91.6 million Euro EU Innovation grant; raising Series B | Global (Germany, Europe, USA, Canada, Japan) |
 | Circle Cardiovascular Imaging | HealthTech | [Greg Ogrodnik](https://www.linkedin.com/in/greg-ogrodnick-918b847/) (CEO), Dr. [Matthias Friedrich](https://www.linkedin.com/in/matthiasfriedrich/) (Co-founder) | SaaS / Subscription and OEM partnerships | Cardiologists and cardiovascular imaging centers at hospitals | CVI 42 software; AI-driven cardiac MRI and CT imaging post-processing tools | Acquired by Thoma Bravo in 2022; previously raised 20 million CAD Series A | Global (Canada, USA, Europe, China, Japan, Australia, South America) |

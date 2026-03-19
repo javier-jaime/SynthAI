@@ -4,7 +4,7 @@
 
 ## **Executive Summary**
 
-The provided source context outlines a rapidly evolving Canadian technological landscape characterized by a shift away from legacy systems and toward hyper-efficient, technology-driven ventures. Key leaders from the Fintech, Biotech, and Energy sectors highlight a transition from "kayfabe capitalism"—scripted rivalries among stagnant incumbents—toward genuine competition centered on customer empowerment and technical agility.
+The provided source context outlines a rapidly evolving Canadian technological landscape characterized by a shift away from legacy systems and toward hyper-efficient, technology-driven ventures. Key leaders from the Fintech, Biotech, and Energy sectors highlight a transition from "kayfabe capitalism", scripted rivalries among stagnant incumbents, toward genuine competition centered on customer empowerment and technical agility.
 
 **Critical Takeaways:**
 
@@ -30,7 +30,7 @@ The Canadian banking sector is described as a "sleeping dragon" characterized by
 * **Human-Centric Design:** Wealthsimple emphasizes making finances "simple" to empower economic freedom.  
 * **Grassroots Support:** Neo Financial leverages a network of 12,000 small and local businesses to build community-driven rewards programs.  
 * **Technological Velocity:** Startups use software to deliver products with a radically different cost structure, allowing them to serve segments (like B2B) that are unprofitable for massive banks.  
-* **Operational Discipline:** Wealthsimple utilizes a mechanism called "unshipping"—the deliberate celebration of deleting unnecessary code or processes—to maintain internal simplicity.
+* **Operational Discipline:** Wealthsimple utilizes a mechanism called "unshipping", the deliberate celebration of deleting unnecessary code or processes, to maintain internal simplicity.
 
 \--------------------------------------------------------------------------------
 
@@ -67,7 +67,7 @@ Leadership must evolve as a company moves from a house-based startup to a scalin
 ### **Efficiency in Uncertain Times**
 
 * **Quantum Growth Trifecta:** A model for marketing and growth involving **Data**, **Values**, and **Creativity**.  
-* **The "Default Dead" Reality:** Startups are inherently running out of money every day. Survival requires "shortening units of measurement"—setting weekly or monthly goals rather than annual ones to reduce team anxiety and maintain rhythm.  
+* **The "Default Dead" Reality:** Startups are inherently running out of money every day. Survival requires "shortening units of measurement", setting weekly or monthly goals rather than annual ones to reduce team anxiety and maintain rhythm.  
 * **Reshoring Procurement:** A call for Canadian companies to buy from each other to create a self-sustaining ecosystem rather than relying on US-based SaaS or goods.
 
 \--------------------------------------------------------------------------------
@@ -92,15 +92,15 @@ Future projections suggest a decoupling of wealth from traditional software and 
 
 ## **V. Key Quotes from the Context**
 
-"Growth without efficiency is very expensive chaos." — [*Shannon*](https://ca.linkedin.com/in/shannondougallmarketing)*, Zayzoon*
+"Growth without efficiency is very expensive chaos", [*Shannon*](https://ca.linkedin.com/in/shannondougallmarketing)*, Zayzoon*
 
-"The banks... thrive by complexity, by making things more difficult than they strictly are... We want to empower people with simple products." — [*Diederik*](https://www.linkedin.com/in/diederikvanliere/)*, Wealthsimple*
+"The banks... thrive by complexity, by making things more difficult than they strictly are... We want to empower people with simple products", [*Diederik*](https://www.linkedin.com/in/diederikvanliere/)*, Wealthsimple*
 
-"Startups by definition are default dead... there are not enough examples in Canada of being unashamed of going for gold and going to win." — [*Andrew*](https://www.linkedin.com/in/andrewdaletoronto/)*, Float*
+"Startups by definition are default dead... there are not enough examples in Canada of being unashamed of going for gold and going to win", [*Andrew*](https://www.linkedin.com/in/andrewdaletoronto/)*, Float*
 
-"You can't get away from biology... there was a drop of biology for a while \[in tech-bio\], and that trend is actually coming back." — [*Deborah*](https://ca.linkedin.com/in/deborah-kurrasch-1830b94)*, Stream Neuroscience*
+"You can't get away from biology... there was a drop of biology for a while \[in tech-bio\], and that trend is actually coming back", [*Deborah*](https://ca.linkedin.com/in/deborah-kurrasch-1830b94)*, Stream Neuroscience*
 
-"Every time you sell a piece \[of equity\], you're paying a tax, and they're not working." — [*Jeff Smith*](https://www.linkedin.com/in/jeff-smith-7b18854b/)*, DCBank*
+"Every time you sell a piece \[of equity\], you're paying a tax, and they're not working", [*Jeff Smith*](https://www.linkedin.com/in/jeff-smith-7b18854b/)*, DCBank*
 
 \--------------------------------------------------------------------------------
 
@@ -151,7 +151,7 @@ The beginning of the entrepreneurial journey is characterized by a "blind" navig
 [Lucas McCarthy](https://ca.linkedin.com/in/lucasyyc) noted that the amount of sacrifice required often correlates with the founder’s age and the scale of their aspirations.
 
 * **Social Purging:** To maintain grand aspirations, founders may need to intentionally "ditch" social circles that do not align with the commitment level required for the business.  
-* **Retaining Cathartic Tasks:** It is essential to identify and keep "cathartic tasks" or "cathartic people"—those few elements, like family or simple hobbies (e.g., mowing the lawn), that keep the founder grounded.
+* **Retaining Cathartic Tasks:** It is essential to identify and keep "cathartic tasks" or "cathartic people", those few elements, like family or simple hobbies (e.g., mowing the lawn), that keep the founder grounded.
 
 ### **Blind Confidence vs. Reality**
 
@@ -248,7 +248,7 @@ The following summarizes the panel's consensus on common startup beliefs:
 
 ## **Executive Summary**
 
-The Canadian financial landscape is characterized by a lack of genuine competition, often described as "kayfabe capitalism"—a staged rivalry between legacy institutions that masks a lack of innovation and high costs for consumers. This briefing document synthesizes insights from the CTOs of Neo Financial and Wealthsimple regarding their mission to disrupt this status quo.
+The Canadian financial landscape is characterized by a lack of genuine competition, often described as "kayfabe capitalism", a staged rivalry between legacy institutions that masks a lack of innovation and high costs for consumers. This briefing document synthesizes insights from the CTOs of Neo Financial and Wealthsimple regarding their mission to disrupt this status quo.
 
 The core findings indicate that while Neo and Wealthsimple are often viewed as rivals, their true competition is the "sleeping dragons" of traditional banking. Their success is predicated on leveraging technology to achieve a radically lower cost structure, prioritizing human-centric product design, and maintaining high "product velocity." Despite operating in one of the world's most heavily regulated environments, these organizations are leveraging community support, rigorous compliance standards (such as CDIC insurance and SOC 2), and a relentless focus on talent to provide Canadians with the economic freedom and digital-savvy services they increasingly demand.
 
@@ -299,7 +299,7 @@ The CTOs of these organizations do not view themselves as mere software leads bu
 
 ### **"Unshipping" and Maintenance**
 
-Wealthsimple utilizes a mechanism called **"unshipping"**—the deliberate celebration of deleting code or processes that are no longer needed. This ensures the internal organization remains as simple as the products it provides.
+Wealthsimple utilizes a mechanism called **"unshipping"**, the deliberate celebration of deleting code or processes that are no longer needed. This ensures the internal organization remains as simple as the products it provides.
 
 \--------------------------------------------------------------------------------
 
@@ -346,13 +346,13 @@ The future of the industry is viewed with high "bullishness," driven by generati
 
 ## **Key Quotes**
 
-"In Canada... we pretend we have competition, we pretend there's real rivalry and there really isn't... they thrive by complexity by making things more difficult than they strictly are." — [***Diederik***](https://www.linkedin.com/in/diederikvanliere/)**, Wealthsimple CTO**
+"In Canada... we pretend we have competition, we pretend there's real rivalry and there really isn't... they thrive by complexity by making things more difficult than they strictly are", [***Diederik***](https://www.linkedin.com/in/diederikvanliere/)**, Wealthsimple CTO**
 
-"I actually want every single Canadian to win by actually introducing competition and actually waking up some of those like sleeping dragons in the industry." — [**Kris**](https://ca.linkedin.com/in/krisread)**, Neo Financial CTO**
+"I actually want every single Canadian to win by actually introducing competition and actually waking up some of those like sleeping dragons in the industry", [**Kris**](https://ca.linkedin.com/in/krisread)**, Neo Financial CTO**
 
-"Good intentions don't get \[anything done\]; they need a strong mechanism... we built in a whole mechanism, a muscle we call 'unshipped,' and it's really about celebrating things that are deleted and no longer needed." — [***Diederik***](https://www.linkedin.com/in/diederikvanliere/)**, Wealthsimple CTO**
+"Good intentions don't get \[anything done\]; they need a strong mechanism... we built in a whole mechanism, a muscle we call 'unshipped,' and it's really about celebrating things that are deleted and no longer needed", [***Diederik***](https://www.linkedin.com/in/diederikvanliere/)**, Wealthsimple CTO**
 
-"Part of my job is... imagining a future team that can meet the needs of tomorrow while they build for the needs of today." — [**Kris**](https://ca.linkedin.com/in/krisread)**, Neo Financial CTO**
+"Part of my job is... imagining a future team that can meet the needs of tomorrow while they build for the needs of today", [**Kris**](https://ca.linkedin.com/in/krisread)**, Neo Financial CTO**
 
 # Episode 004
 
@@ -362,7 +362,7 @@ The future of the industry is viewed with high "bullishness," driven by generati
 
 Canada is currently facing a critical productivity crisis, characterized by falling rates of worker output that now rank the nation among the lowest in the G7. This "broken glass" moment, as described by the Bank of Canada, reveals a significant gap between Canadian value creation and that of global peers, particularly the United States. The crisis is not a result of insufficient effort but rather systemic failures in research and development (R\&D), a burdensome regulatory environment, a lack of interprovincial trade, and a national culture that prioritizes stability over risk-taking.
 
-However, the current deficit presents a "trillion-dollar opportunity." By leveraging emerging technologies like Artificial Intelligence (AI), streamlining government procurement, eliminating internal trade barriers, and fostering a collaborative R\&D ecosystem, Canada—and specifically high-growth regions like Alberta—can shift its economic trajectory toward preeminence.
+However, the current deficit presents a "trillion-dollar opportunity." By leveraging emerging technologies like Artificial Intelligence (AI), streamlining government procurement, eliminating internal trade barriers, and fostering a collaborative R\&D ecosystem, Canada, and specifically high-growth regions like Alberta, can shift its economic trajectory toward preeminence.
 
 \--------------------------------------------------------------------------------
 
@@ -429,7 +429,7 @@ Canada lacks the integrated infrastructure seen in countries like Germany, Irela
 
 * **The Triple Helix:** Success requires a cohesive alignment between government, industry, and post-secondary institutions.  
 * **The Research Triangle Model:** Canada should look to models like the Research Triangle Park in the US, where universities and industry collaborate seamlessly.  
-* **Labor Solutions:** Innovation is the only viable solution to labor shortages. For instance, a projected shortage of 51,000 welders cannot be solved by recruitment alone; technology like laser welding—which allows one person to do the work of four—is required.
+* **Labor Solutions:** Innovation is the only viable solution to labor shortages. For instance, a projected shortage of 51,000 welders cannot be solved by recruitment alone; technology like laser welding, which allows one person to do the work of four, is required.
 
 \--------------------------------------------------------------------------------
 
@@ -439,7 +439,7 @@ Alberta is currently viewed as a beacon of optimism within the Canadian ecosyste
 
 * **In-migration:** The province is attracting significant talent from high-cost areas like Toronto and Vancouver.  
 * **Cultural Energy:** Leaders note a tangible "ingenuity and energy" in Calgary that is currently lacking in other Canadian major centers.  
-* **Agency Support:** Organizations like Alberta Innovates provide critical Technology Development Advisors—senior experts who support startups that cannot yet afford high-level executive talent.
+* **Agency Support:** Organizations like Alberta Innovates provide critical Technology Development Advisors, senior experts who support startups that cannot yet afford high-level executive talent.
 
 \--------------------------------------------------------------------------------
 
@@ -453,7 +453,7 @@ To reverse the productivity crisis, the following actions are necessary:
 4. **Strengthen IP Controls:** Canada must improve its pursuit and control of Intellectual Property (IP) to ensure the value created remains within the national economy.  
 5. **Foster Outbound Mobility:** Educational institutions should prioritize outbound exchange programs to allow students to bring global innovation practices back to Canada.
 
-"When people saw it was possible, what they believed to be impossible suddenly became possible... what's going to make them adopt it? When you kick their butt, then they'll say 'Oh shit,' and then they'll adopt it." — *Reflecting on the [”Roger Bannister”](https://en.wikipedia.org/wiki/Roger_Bannister) effect in technological adoption.*
+"When people saw it was possible, what they believed to be impossible suddenly became possible... what's going to make them adopt it? When you kick their butt, then they'll say 'Oh shit,' and then they'll adopt it", *Reflecting on the [”Roger Bannister”](https://en.wikipedia.org/wiki/Roger_Bannister) effect in technological adoption.*
 
 # Episode 005
 
@@ -467,7 +467,7 @@ Critical challenges to this evolution include:
 
 * **The Funding "Valley of Death":** A significant disconnect exists between the capital requirements of small molecule discovery and the risk appetite of regional investors, particularly in nascent ecosystems like Alberta.  
 * **Academic Misalignment:** Current university structures often prioritize hypothesis-driven research and tenure over commercialization, creating a reproducibility crisis and slowing the transition of science from lab to market.  
-* **Commercial Strategy:** Successful ventures are increasingly defined by "multi-modal" teams—blending biology, chemistry, and data science—rather than teams focusing on a single discipline.
+* **Commercial Strategy:** Successful ventures are increasingly defined by "multi-modal" teams, blending biology, chemistry, and data science, rather than teams focusing on a single discipline.
 
 \--------------------------------------------------------------------------------
 
@@ -548,19 +548,19 @@ Biotech ventures face unique operational hurdles that do not exist in traditiona
 
 ### **On the Reality of the "Long Haul"**
 
-"It’s just a cluster fuck of complexity especially when you’re in the intersection of medicines and patients and genetics and biology and chemistry... does the dog hunt? What is it hunting for? Who cares about it? And how are they going to extract value?" — [**Naheed Kurji**](https://x.com/NaheedKurji)
+"It’s just a cluster fuck of complexity especially when you’re in the intersection of medicines and patients and genetics and biology and chemistry... does the dog hunt? What is it hunting for? Who cares about it? And how are they going to extract value?", [**Naheed Kurji**](https://x.com/NaheedKurji)
 
 ### **On Regional Investor Limitations**
 
-"If you're asking me for my revenue slide... we don't speak the same language. You will never see a revenue slide. If I have a revenue slide, it is so disingenuous, it's ridiculous." — [**Deborah Kurrasch**](https://www.linkedin.com/in/deborah-kurrasch-1830b94/)
+"If you're asking me for my revenue slide... we don't speak the same language. You will never see a revenue slide. If I have a revenue slide, it is so disingenuous, it's ridiculous", [**Deborah Kurrasch**](https://www.linkedin.com/in/deborah-kurrasch-1830b94/)
 
 ### **On the Importance of Biology in AI**
 
-"If we don’t get to first principles on biology... we’re going to live in this very sick chronic diseased world... technology is going to allow us to do biology better." — [**Ricky Mehra**](https://www.linkedin.com/in/rickymehravc)
+"If we don’t get to first principles on biology... we’re going to live in this very sick chronic diseased world... technology is going to allow us to do biology better", [**Ricky Mehra**](https://www.linkedin.com/in/rickymehravc)
 
 ### **On the Need for Academic Reform**
 
-"The University of Calgary is like super fluid... but they measure success by how many companies we form. I think that's the wrong metric. They should measure how many companies raise a significant amount or meet their first inflection point." — [**Deborah Kurrasch**](https://www.linkedin.com/in/deborah-kurrasch-1830b94/)
+"The University of Calgary is like super fluid... but they measure success by how many companies we form. I think that's the wrong metric. They should measure how many companies raise a significant amount or meet their first inflection point", [**Deborah Kurrasch**](https://www.linkedin.com/in/deborah-kurrasch-1830b94/)
 
 # Episode 006
 
@@ -606,7 +606,7 @@ To move beyond raw data, organizations should apply a "trifecta" approach to dec
 
 ## **Raising Capital in a Downturn**
 
-Securing funding in a restrictive environment—such as Float’s $70 million raise from Goldman Sachs—requires proving the business is a "safe" yet high-potential investment.
+Securing funding in a restrictive environment, such as Float’s $70 million raise from Goldman Sachs, requires proving the business is a "safe" yet high-potential investment.
 
 | Factor | Description |
 | :---- | :---- |
@@ -622,7 +622,7 @@ Efficiency is not merely cost-cutting; it is the strategic reallocation of resou
 
 ### **Identifying "The Red"**
 
-Leaders must be willing to "cut the red"—the specific products, channels, or segments that are not performing. This involves:
+Leaders must be willing to "cut the red", the specific products, channels, or segments that are not performing. This involves:
 
 * **Focusing on "7s" instead of "3s":** When looking at customer satisfaction (on a scale of 1-10), it is more efficient to invest in moving "7s" to "10s" than trying to save "3s." The "7s" provide the highest retention and expansion value.  
 * **Analyzing Segments:** Identify which customer segments have the lowest churn and shortest payback periods, then redirect all marketing and sales efforts there.
@@ -664,10 +664,10 @@ There is a call for a shift in the Canadian business culture to better compete w
 
 ## **Key Insights and Quotes**
 
-* "Growth without efficiency is very expensive chaos." — [**Shannon Dougall**](https://ca.linkedin.com/in/shannondougallmarketing)  
-* "Startups by definition are default dead... I think Canada needs a much stronger go-for-gold type of mentality." — [**Andrew Dale**](https://www.linkedin.com/in/andrewdaletoronto/)  
-* "If it's not measurable, if it's not repeatable, and it's not profitable, it's not growth." — [**Shannon Dougall**](https://ca.linkedin.com/in/shannondougallmarketing)  
-* "Accuracy and kindness are the same thing." — [**Andrew Dale**](https://www.linkedin.com/in/andrewdaletoronto/)
+* "Growth without efficiency is very expensive chaos", [**Shannon Dougall**](https://ca.linkedin.com/in/shannondougallmarketing)  
+* "Startups by definition are default dead... I think Canada needs a much stronger go-for-gold type of mentality", [**Andrew Dale**](https://www.linkedin.com/in/andrewdaletoronto/)  
+* "If it's not measurable, if it's not repeatable, and it's not profitable, it's not growth", [**Shannon Dougall**](https://ca.linkedin.com/in/shannondougallmarketing)  
+* "Accuracy and kindness are the same thing", [**Andrew Dale**](https://www.linkedin.com/in/andrewdaletoronto/)
 
 # Episode 007
 
@@ -699,7 +699,7 @@ Community in the current era is viewed as a necessary response to the seculariza
 The panelists contrast the Calgary tech community with other Canadian markets:
 
 * **Inclusivity:** Unlike Toronto or Vancouver, which are described as having more rigid social structures based on school or family background, Calgary is noted for a "welcome and introduced" culture.  
-* **Intergenerational Support:** The "OG" community—often from agricultural backgrounds in Manitoba and Saskatchewan—brought a collaborative spirit that now bridges senior business leaders with "NextGen" entrepreneurs.
+* **Intergenerational Support:** The "OG" community, often from agricultural backgrounds in Manitoba and Saskatchewan, brought a collaborative spirit that now bridges senior business leaders with "NextGen" entrepreneurs.
 
 \--------------------------------------------------------------------------------
 
@@ -766,13 +766,13 @@ The panelists provided several practical insights for those managing gatherings:
 
 ## **Notable Quotes on Community**
 
-"Community is the being stuck in a conversation that you want to be stuck in and really enjoying it." — [**Tate Hackert**](https://www.linkedin.com/in/tate-hackert/) 
+"Community is the being stuck in a conversation that you want to be stuck in and really enjoying it", [**Tate Hackert**](https://www.linkedin.com/in/tate-hackert/) 
 
-"The true art of gathering is when you don't get that many RSVPs, text the venue and say to remove a row of chairs so it feels a lot fuller." — [**Philip Burns**](https://ca.linkedin.com/in/philippe-burns)
+"The true art of gathering is when you don't get that many RSVPs, text the venue and say to remove a row of chairs so it feels a lot fuller", [**Philip Burns**](https://ca.linkedin.com/in/philippe-burns)
 
-"Purpose should be your bouncer... it should be what is really driving your decision-making." — [**Ashley Gallant**](https://ca.linkedin.com/in/ashgallant) (referencing **[Pria Parker](https://www.linkedin.com/in/priyaparker)**)
+"Purpose should be your bouncer... it should be what is really driving your decision-making", [**Ashley Gallant**](https://ca.linkedin.com/in/ashgallant) (referencing **[Pria Parker](https://www.linkedin.com/in/priyaparker)**)
 
-"Calgary... doesn't matter where you came from, where you went to school... you will be welcomed and you will be introduced to people that can help you." — [**Sandy Gilbert**](https://ca.linkedin.com/in/sandigilbert)
+"Calgary... doesn't matter where you came from, where you went to school... you will be welcomed and you will be introduced to people that can help you", [**Sandy Gilbert**](https://ca.linkedin.com/in/sandigilbert)
 
 # Episode 008
 
@@ -830,7 +830,7 @@ The new cabinet signals a shift toward economic and technical prioritization:
 
 ### **Governance Style**
 
-[Mark Carney](https://ca.linkedin.com/in/mark-carney-5b9744205) is expected to demand in-person attendance and run the government with high expectations of competency. However, he faces the challenge of "hurting cats"—managing the diverse egos and ideological bands within a minority government.
+[Mark Carney](https://ca.linkedin.com/in/mark-carney-5b9744205) is expected to demand in-person attendance and run the government with high expectations of competency. However, he faces the challenge of "hurting cats", managing the diverse egos and ideological bands within a minority government.
 
 \--------------------------------------------------------------------------------
 
@@ -877,7 +877,7 @@ With a new government and many new faces in cabinet, there is a critical need fo
 * **Utilize Local Channels:** Businesses should leverage local MPs and Chambers of Commerce to establish links.  
 * **Expert Positioning:** Because the government lacks deep expertise in specialized fields like tech, they actively rely on industry experts to inform viable policy.
 
-"If you're not part of the conversation, then your competitor probably is... policy is going to happen whether you're talking to them or not." — [*Bridget Howe*](https://ca.linkedin.com/in/bridgethowe)*, VP of Crestview Strategy*
+"If you're not part of the conversation, then your competitor probably is... policy is going to happen whether you're talking to them or not", [*Bridget Howe*](https://ca.linkedin.com/in/bridgethowe)*, VP of Crestview Strategy*
 
 \--------------------------------------------------------------------------------
 
@@ -893,7 +893,7 @@ With a new government and many new faces in cabinet, there is a critical need fo
 
 ## **Executive Summary**
 
-Despite a pessimistic broader market for seed financing in 2024 — characterized by declining deal sizes and frequency—select startups are successfully bucking the trend to achieve oversubscribed rounds. This briefing document synthesizes key insights from a panel of Calgary-based founders who secured significant capital from both local and high-tier U.S. institutional investors.
+Despite a pessimistic broader market for seed financing in 2024, characterized by declining deal sizes and frequency, select startups are successfully bucking the trend to achieve oversubscribed rounds. This briefing document synthesizes key insights from a panel of Calgary-based founders who secured significant capital from both local and high-tier U.S. institutional investors.
 
 The most critical takeaways for achieving an oversubscribed round include:
 
@@ -916,7 +916,7 @@ Creating an oversubscribed round requires silencing the "noise" in a venture cap
 ### **Narrative Refinement**
 
 * **Proof Points:** Effective messaging involves evolving the pitch based on investor feedback. For example, moving from a general "AI for government" narrative to a specific focus on Architecture, Engineering, and Construction (AEC) helped remove the perceived risk of government-related delays.  
-* **Second-Order Impacts:** While "saving time" is a common pitch, high-tier investors respond better to "capacity building"—showing how time saved translates directly into the capacity to win more work or manage higher safety standards.
+* **Second-Order Impacts:** While "saving time" is a common pitch, high-tier investors respond better to "capacity building", showing how time saved translates directly into the capacity to win more work or manage higher safety standards.
 
 \--------------------------------------------------------------------------------
 
@@ -936,7 +936,7 @@ Securing leads from "gold standard" firms like Inovia Capital or Andreessen Horo
 
 ## **Deal Structuring and Negotiation**
 
-Negotiating terms — especially with U.S.-based investors—requires a deep understanding of venture economics and a willingness to do the investor's "homework."
+Negotiating terms, especially with U.S.-based investors, requires a deep understanding of venture economics and a willingness to do the investor's "homework."
 
 ### **The Art of the Negotiation**
 
@@ -989,7 +989,7 @@ The panelists debated the merits of horizontal platforms (serving multiple indus
 
 ## **Executive Summary**
 
-The landscape of cloud security is undergoing a fundamental shift driven by rapid infrastructure scaling, increasing regulatory pressure, and the transformative impact of generative AI. Current industry discourse emphasizes a transition from manual oversight to automated, "sublinear" scaling of security teams. Key findings from industry leaders indicate that while security must support development velocity, foundational "hygiene" items—such as software-defined networking and physical multi-factor authentication (MFA)—remain non-negotiable.
+The landscape of cloud security is undergoing a fundamental shift driven by rapid infrastructure scaling, increasing regulatory pressure, and the transformative impact of generative AI. Current industry discourse emphasizes a transition from manual oversight to automated, "sublinear" scaling of security teams. Key findings from industry leaders indicate that while security must support development velocity, foundational "hygiene" items, such as software-defined networking and physical multi-factor authentication (MFA), remain non-negotiable.
 
 Generative AI presents a dual-edged sword: it has demonstrated the potential to increase developer productivity by 2.5 times, yet it simultaneously introduces "slop code," higher defect rates, and new vulnerabilities like prompt injection. Success in this evolving environment requires a "militant" focus on automation, meeting developers within their existing workflows, and utilizing business context to prioritize the overwhelming volume of security alerts.
 
@@ -1025,7 +1025,7 @@ The transition from a small startup to a regulated entity introduces strict Serv
 
 ## **Signal vs. Noise: Alert Prioritization**
 
-The modern cloud environment generates an unmanageable volume of alerts—often exceeding 100,000. Having an excessive number of alerts is functionally equivalent to having none.
+The modern cloud environment generates an unmanageable volume of alerts, often exceeding 100,000. Having an excessive number of alerts is functionally equivalent to having none.
 
 | Strategy | Implementation Focus |
 | :---- | :---- |
@@ -1054,7 +1054,7 @@ Generative AI is currently viewed as an "existential threat" to companies that f
 ### **Productivity Gains vs. Quality**
 
 * **Velocity:** Developers using AI tools have shown 2.5 times higher sustained production velocity.  
-* **The "Intern" Analogy:** AI is currently viewed as an "intern"—it can produce a vast volume of work and solve complex analysis problems in hours that would take staff developers weeks, but it requires constant oversight to prevent it from "fucking shit up."  
+* **The "Intern" Analogy:** AI is currently viewed as an "intern", it can produce a vast volume of work and solve complex analysis problems in hours that would take staff developers weeks, but it requires constant oversight to prevent it from "fucking shit up."  
 * **Defect Rates:** There is a measurable increase in defect rates and "slop code" as AI-generated output grows.
 
 ### **Emerging AI Security Risks**
@@ -1166,7 +1166,7 @@ To compete with hubs like Toronto and San Francisco, Calgary leverages its "affo
 ### **The "Calgary Advantage"**
 
 * **Collaboration:** Founders moving from Toronto noted a high degree of accessibility to government ministers and industry leaders, which is less common in larger, more competitive markets.  
-* **Quality of Life:** The Mayor emphasized "city building" that integrates daily routines—daycare, work, and recreation—within walkable or transit-accessible areas.
+* **Quality of Life:** The Mayor emphasized "city building" that integrates daily routines, daycare, work, and recreation, within walkable or transit-accessible areas.
 
 ### **Addressing the Housing Crisis**
 
@@ -1184,13 +1184,13 @@ The creative sector is viewed as an "economic soul" and "table stakes" for a thr
 
 ## **Key Stakeholder Quotes**
 
-"In Calgary and in Canadian tech in general, we don't do a good enough job celebrating our wins... this is a celebration of Clayton and his team." — [**Phillip Burns**](https://ca.linkedin.com/in/philippe-burns)**, Tech Thursday**
+"In Calgary and in Canadian tech in general, we don't do a good enough job celebrating our wins... this is a celebration of Clayton and his team", [**Phillip Burns**](https://ca.linkedin.com/in/philippe-burns)**, Tech Thursday**
 
-"Five to 10 years ago \[the ecosystem\] was honestly non-existent beyond our oil and gas sector... kudos to OCIF for having the innovative, risk-taking mindset to stand up this fund." — [**Crystal Phillips**](https://ca.linkedin.com/in/crystal-phillips-7296b932)**, OCIF**
+"Five to 10 years ago \[the ecosystem\] was honestly non-existent beyond our oil and gas sector... kudos to OCIF for having the innovative, risk-taking mindset to stand up this fund", [**Crystal Phillips**](https://ca.linkedin.com/in/crystal-phillips-7296b932)**, OCIF**
 
-"We've been able to poach so many people from out east because we have a better city... we have greater affordability relative to what they're seeing and we actually care about people's success." — **Mayor [Jyoti Gondek](https://ca.linkedin.com/in/jyotigondek)**
+"We've been able to poach so many people from out east because we have a better city... we have greater affordability relative to what they're seeing and we actually care about people's success", **Mayor [Jyoti Gondek](https://ca.linkedin.com/in/jyotigondek)**
 
-"I think the idea of the capital getting recycled back into the community is super important to keep everything going." — [**Clayton Feick**](https://ca.linkedin.com/in/claytonfeick)**, OnTopical**
+"I think the idea of the capital getting recycled back into the community is super important to keep everything going", [**Clayton Feick**](https://ca.linkedin.com/in/claytonfeick)**, OnTopical**
 
 # Episode 012
 
@@ -1204,7 +1204,7 @@ The core takeaways from [Smith](https://ca.linkedin.com/in/jeff-smith-7b18854b)�
 
 * **The Primacy of Hard Work:** Success is attributed more to unrelenting effort and resiliency than to innate intelligence.  
 * **Strategic Capital Management:** Maintaining control of the "capital stack" is vital; entrepreneurs should prioritize profitability and debt over diluting equity through private equity or public markets when possible.  
-* **Leadership as Replication:** Scaling requires a founder to "replicate" themselves by hiring specialized leaders who can perform specific functions—such as accounting or legal—better than the founder could.  
+* **Leadership as Replication:** Scaling requires a founder to "replicate" themselves by hiring specialized leaders who can perform specific functions, such as accounting or legal, better than the founder could.  
 * **B2B Specialization:** While consumer-facing fintech faces high Customer Acquisition Costs (CAC), the B2B payments space offers more sustainable margins through vertical integration and multiple revenue lines.
 
 \--------------------------------------------------------------------------------
@@ -1323,7 +1323,7 @@ A recurring theme is the necessity of ensuring a customer will pay for a product
 
 Agentic AI represents a shift from linear, single-task automated agents to complex, multi-agent systems characterized by collaborative "handshakes." While traditional Large Language Models (LLMs) function as non-deterministic "stochastic parrots" with an average accuracy of 80%, Agentic AI aims to increase reliability through advanced frameworks such as "Judge and Evals" and multimodal processing.
 
-The successful deployment of these systems depends on managing the "trust barrier." In high-stakes environments—such as energy trading or financial reconciliation—a 95% accuracy rate may still be insufficient, necessitating a "human-in-the-loop" approach where AI augments rather than replaces expert labor. Organizations must also prioritize rigorous cost management, as the "Ferrari-like" power of these tools can lead to rapid budget depletion if user behavior is not curtailed through sandboxing and the strategic use of open-source models for prototyping.
+The successful deployment of these systems depends on managing the "trust barrier." In high-stakes environments, such as energy trading or financial reconciliation, a 95% accuracy rate may still be insufficient, necessitating a "human-in-the-loop" approach where AI augments rather than replaces expert labor. Organizations must also prioritize rigorous cost management, as the "Ferrari-like" power of these tools can lead to rapid budget depletion if user behavior is not curtailed through sandboxing and the strategic use of open-source models for prototyping.
 
 \--------------------------------------------------------------------------------
 
@@ -1452,7 +1452,7 @@ Dynastream’s most significant contribution to the broader tech industry was th
 
 Nike initially intended to use 5 kHz electromagnetic pulses for communication between the shoe and the watch, but the technology was insufficient for the data rates required. Dynastream developed its own solution on the 900 MHz band.
 
-* **ANT and ANT+:** This protocol became the unifying standard for the sports and fitness industry. It allows devices from different manufacturers—such as Shimano shifters and various power meters—to communicate wirelessly.  
+* **ANT and ANT+:** This protocol became the unifying standard for the sports and fitness industry. It allows devices from different manufacturers, such as Shimano shifters and various power meters, to communicate wirelessly.  
 * **Market Reach:** ANT technology has been incorporated into billions of devices, including every Samsung smartphone for several years and nearly all Garmin fitness products.
 
 ### **OEM Partnerships**
@@ -1514,7 +1514,7 @@ The next frontier for Garmin Canada is the transition from fitness tracking to c
 * **Backcountry Safety:** The integration of InReach satellite technology into wrist-worn devices provides a critical safety net for backcountry enthusiasts, offering more reliability than standard smartphones in remote areas.  
 * **Equine Sensors:** Garmin recently expanded its sensor technology to monitor the health and performance of horses, demonstrating the versatility of the core accelerometer and heart rate technology developed in Cochrane.
 
-"People find it hard to imagine what it's like \[to have new technology\]... they’ve never been able to do that before... Sometimes you just have to see the vision and believe it's going to get there." — [**Jim Rooney**](https://ca.linkedin.com/in/jim-rooney-98b7638a)
+"People find it hard to imagine what it's like \[to have new technology\]... they’ve never been able to do that before... Sometimes you just have to see the vision and believe it's going to get there", [**Jim Rooney**](https://ca.linkedin.com/in/jim-rooney-98b7638a)
 
 # Episode 015
 
@@ -1522,7 +1522,7 @@ The next frontier for Garmin Canada is the transition from fitness tracking to c
 
 ## **Executive Summary**
 
-The current federal budget is characterized as an "economist’s budget," designed to methodically address long-standing challenges in productivity, affordability, and strategic global positioning. Leveraging Canada’s favorable fiscal position—including the lowest net debt-to-GDP ratio in the G7—the budget shifts focus from general spending to strategic investment.
+The current federal budget is characterized as an "economist’s budget," designed to methodically address long-standing challenges in productivity, affordability, and strategic global positioning. Leveraging Canada’s favorable fiscal position, including the lowest net debt-to-GDP ratio in the G7, the budget shifts focus from general spending to strategic investment.
 
 The primary objectives are to fundamentally reimagine Canadian productivity, catalyze private sector R\&D, and secure sovereign technological capabilities. Key allocations over the next five years include:
 
@@ -1547,7 +1547,7 @@ The budget is built on the premise that Canada possesses significant "fiscal cap
 
 ## **2\. Addressing the Productivity Crisis**
 
-A central pillar of the budget is addressing the "productivity crisis"—the gap in output per hour worked compared to peers, particularly the United States.
+A central pillar of the budget is addressing the "productivity crisis", the gap in output per hour worked compared to peers, particularly the United States.
 
 ### **The Productivity Super Deduction**
 
@@ -1562,7 +1562,7 @@ The budget addresses systemic issues with the SR\&ED tax credit system, which ha
 
 ### **Cultural Shifts in Corporate Investment**
 
-The budget aims to combat the "slow no"—a culture where Canadian enterprises are risk-averse and slow to trial new technologies. By providing tax incentives and reducing the cost of failure, the government hopes to encourage "sophisticated risk-taking" similar to the American model.
+The budget aims to combat the "slow no", a culture where Canadian enterprises are risk-averse and slow to trial new technologies. By providing tax incentives and reducing the cost of failure, the government hopes to encourage "sophisticated risk-taking" similar to the American model.
 
 \--------------------------------------------------------------------------------
 
@@ -1590,7 +1590,7 @@ Infrastructure spending is heavily weighted toward the digital economy and the e
 Defense spending is undergoing a paradigm shift, moving toward a target of 5% of GDP for NATO obligations.
 
 * **Procurement Reform:** A new agency has been proposed to speed up notoriously slow procurement cycles.  
-* **Dual-Use Technology:** There is a focus on "dual-use" tech—innovations like drones or Arctic ports that serve both military and civilian purposes.  
+* **Dual-Use Technology:** There is a focus on "dual-use" tech, innovations like drones or Arctic ports that serve both military and civilian purposes.  
 * **The Arctic Frontier:** As the Arctic opens up, the budget emphasizes the need for "Canadian solutions for Canadian problems," such as hardware that can operate in extreme cold and remote environments.  
 * **Subcontracting Requirements:** The government intends to push major defense "primes" (e.g., Boeing, Lockheed Martin) to use more Canadian subcontractors, fostering a domestic defense-tech ecosystem.
 
