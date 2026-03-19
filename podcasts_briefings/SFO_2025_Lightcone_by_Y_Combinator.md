@@ -1596,7 +1596,7 @@ The following table outlines specific instances where startups successfully disr
 
 | Company | Target Industry | Success Story |
 | :---- | :---- | :---- |
-| **Tactile** | Banking | Built a REST API for KYC/AML decisions in real-time. Replaced internal systems that took 3-5 years and tens of millions of dollars to attempt. |
+| **Taktile** | Banking | Built a REST API for KYC/AML decisions in real-time. Replaced internal systems that took 3-5 years and tens of millions of dollars to attempt. |
 | **Greenlight** | Banking | Won a contract after a bank's preferred vendor (**EY**) spent a year failing to build an AI system. |
 | **Castle AI** | Mortgage Servicing | Consistently wins bake-offs against old-school vendors whose AI solutions are considered subpar. |
 | **Reduct** | FANG/Big Tech | Secured a deal with a major tech company just 154 days after their **YC** batch. Replaced internal systems (using **AWS** Textract/Tesseract) that failed to meet performance marks. |
@@ -1825,19 +1825,19 @@ In traditional SaaS, the delivery loop involves asking customers what they want 
 
 # Episode 038
 
-# **Analysis of the 2025 AI Economy: Stabilization, Model Arbitrage, and Infrastructure Frontiers**
+# **The 2025 AI Economy: Stabilization, Model Arbitrage, and Infrastructure Frontiers**
 
 ## **Executive Summary**
 
-As of late 2025, the AI economy has transitioned from a period of volatile experimentation into a stabilized ecosystem defined by distinct infrastructure, model, and application layers. A significant "changing of the guard" has occurred at the model layer, with **Anthropic** surpassing **OpenAI** as the primary choice for **Y Combinator** (**YC**) founders, driven largely by superior performance in coding tasks and "vibe coding" tools. While debates regarding an "AI bubble" persist, current market dynamics suggest the industry is moving from an "installation phase" characterized by massive capital expenditure (CapEx) to a "deployment phase" where value accrues at the application layer. Critical bottlenecks in terrestrial power and land have spurred radical infrastructure innovations, including space-based data centers and fusion energy. Meanwhile, the startup playbook has evolved; while AI allows for unprecedented revenue-to-employee ratios, human execution remains a primary bottleneck for scaling.
+As of late 2025, the AI economy has transitioned from a period of volatile experimentation into a stabilized ecosystem defined by distinct infrastructure, model, and application layers. A significant changing of the guard has occurred at the model layer, with **Anthropic** surpassing **OpenAI** as the primary choice for **Y Combinator** (**YC**) founders, driven largely by superior performance in coding tasks and vibe coding tools. While debates regarding an AI bubble persist, current market dynamics suggest the industry is moving from an installation phase characterized by massive capital expenditure (CapEx) to a deployment phase where value accrues at the application layer. Critical bottlenecks in terrestrial power and land have spurred radical infrastructure innovations, including space-based data centers and fusion energy. Meanwhile, the startup playbook has evolved, while AI allows for unprecedented revenue to employee ratios, human execution remains a primary bottleneck for scaling.
 
 ## **The Stabilized AI Economy**
 
 The rapid, unpredictable shifts of 2023 and 2024 have given way to a more mature and predictable market structure. This stability is characterized by several key developments:
 
 * **Established Layers:** The economy is now clearly divided into model layer companies, application layer companies, and infrastructure layer companies.  
-* **The Startup Playbook:** There is now a recognizable "playbook" for building AI-native companies. The era where a single model announcement could invalidate an entire startup category has slowed, returning the difficulty of finding viable startup ideas to "normal" levels.  
-* **Reduced "Fast Takeoff" Anxiety:** Concerns regarding a "fast takeoff" leading to societal collapse have been tempered by the log-linear nature of scaling laws, which require 10x more compute for incremental gains, and the inherent resistance of human organizations to rapid change.
+* **The Startup Playbook:** There is now a recognizable playbook for building AI-native companies. The era where a single model announcement could invalidate an entire startup category has slowed, returning the difficulty of finding viable startup ideas to normal levels.  
+* **Reduced Fast Takeoff Anxiety:** Concerns regarding a fast takeoff leading to societal collapse have been tempered by the log-linear nature of scaling laws, which require 10x more compute for incremental gains, and the inherent resistance of human organizations to rapid change.
 
 ## **The Changing Landscape of LLM Adoption**
 
@@ -1845,60 +1845,60 @@ A significant shift in model preference among developers and founders has emerge
 
 ### **The Rise of Anthropic and Gemini**
 
-Previously, OpenAI held a dominant 90% share among **YC** founders. This has shifted dramatically:
+Previously, **OpenAI** held a dominant 90% share among **YC** founders. This has shifted dramatically:
 
-* **Anthropic (Claude):** Now the number one API of choice, used by over 52% of founders. This growth is attributed to its "North Star" focus on coding performance, making it the preferred engine for "vibe coding" and coding agents.  
-* **Google Gemini:** Has seen a "hockey stick" growth curve, rising from low single digits to approximately 23% adoption. Users cite its "grounding API" and ability to use the Google index for accurate, real-time information as superior to competitors like Perplexity.  
-* **OpenAI:** While its share has decreased, it remains "sticky" due to consumer features like memory, which acts as a moat for personal and high-context use cases.
+* **Anthropic (Claude):** Now the number one API of choice, used by over 52% of founders. This growth is attributed to its North Star focus on coding performance, making it the preferred engine for vibe coding and coding agents.  
+* **Google Gemini:** Has seen a hockey stick growth curve, rising from low single digits to approximately 23% adoption. Users cite its grounding API and ability to use the Google index for accurate, real-time information as superior to competitors like **Perplexity**.  
+* **OpenAI:** While its share has decreased, it remains sticky due to consumer features like memory, which acts as a moat for personal and high-context use cases.
 
-### **Model "Personalities" and Use Cases**
+### **Model Personalities and Use Cases**
 
-Founders have begun categorize models by their functional "energy" and specific strengths:
+Founders have begun categorize models by their functional energy and specific strengths:
 
 | Model | Perceived Personality | Primary Strength |
 | :---- | :---- | :---- |
-| **Anthropic (Claude)** | "Golden Retriever" (Helpful) | Coding, Vibe Coding, Agents |
-| **OpenAI (GPT)** | "Black Cat" (Detached/Sharp) | Consumer memory, general execution |
-| **Google Gemini** | "In-between" | Reasoning, real-time data, context engineering |
+| **Anthropic (Claude)** | Golden Retriever (Helpful) | Coding, Vibe Coding, Agents |
+| **OpenAI (GPT)** | Black Cat (Detached/Sharp) | Consumer memory, general execution |
+| **Google Gemini** | In-between | Reasoning, real-time data, context engineering |
 
 ## **Strategic Model Orchestration and Arbitrage**
 
-The "new normal" for Series B and more mature AI startups involves abstracting the model layer entirely. Rather than maintaining loyalty to a single provider, founders are building orchestration layers to arbitrage model strengths.
+The new normal for Series B and more mature AI startups involves abstracting the model layer entirely. Rather than maintaining loyalty to a single provider, founders are building orchestration layers to arbitrage model strengths.
 
-* **Functional Swapping:** Companies may use Gemini for context engineering (handling large data sets) and then feed that output into OpenAI models for execution.  
+* **Functional Swapping:** Companies may use Gemini for context engineering (handling large data sets) and then feed that output into **OpenAI** models for execution.  
 * **Proprietary Evals:** Startups in regulated or vertical industries (e.g., healthcare) rely on their own proprietary evaluation datasets to determine which model performs best for their specific task.  
 * **Domain-Specific Superiority:** Smaller, fine-tuned models (e.g., 8-billion parameter models) are occasionally outperforming general frontier models in specialized fields like healthcare by using high-quality, domain-specific data and Reinforcement Learning (RL).
 
-## **Analysis of the "AI Bubble" and the Deployment Phase**
+## **Analysis of the AI Bubble and the Deployment Phase**
 
-The discourse surrounding an "AI bubble" is reframed as a necessary transition in technological revolutions.
+The discourse surrounding an AI bubble is reframed as a necessary transition in technological revolutions.
 
-* **Installation vs. Deployment:** Drawing on the work of economist Carlota Perez, the current era is identified as a transition from "installation" (heavy CapEx, building gigawatt data centers) to "deployment" (proliferation of applications).  
-* **The Telecom Analogy:** Current overinvestment in GPUs and infrastructure is compared to the 1990s fiber-optic glut. Just as excess bandwidth enabled the eventual creation of YouTube, the current "glut" of compute will lower costs and create opportunities for the next generation of application-layer startups.  
-* **CapEx Risk:** The financial risk of overbuilding infrastructure resides with large corporations (e.g., Nvidia, Meta, Google), whereas startups benefit from the resulting cheap, abundant intelligence.
+* **Installation vs. Deployment:** Drawing on the work of economist [Carlota Perez](https://en.wikipedia.org/wiki/Carlota_Perez), the current era is identified as a transition from installation (heavy CapEx, building gigawatt data centers) to deployment (proliferation of applications).  
+* **The Telecom Analogy:** Current overinvestment in GPUs and infrastructure is compared to the 1990s fiber-optic glut. Just as excess bandwidth enabled the eventual creation of YouTube, the current glut of compute will lower costs and create opportunities for the next generation of application-layer startups.  
+* **CapEx Risk:** The financial risk of overbuilding infrastructure resides with large corporations (e.g., **Nvidia**, **Meta**, **Google)**, whereas startups benefit from the resulting cheap, abundant intelligence.
 
 ## **Infrastructure Constraints and the Space Frontier**
 
 Terrestrial limitations have become the primary bottleneck for AI scaling, leading to unconventional infrastructure solutions:
 
-* **The Power Crisis:** Standard power generation cannot meet demand. Companies like Boom Supersonic have pivoted toward using jet engines to generate power for data centers because the supply chain for traditional turbines is backed up for years.  
-* **The "No Land" Problem:** Regulations (such as CEQA in California) and land scarcity have made terrestrial building difficult.  
+* **The Power Crisis:** Standard power generation cannot meet demand. Companies like **Boom Supersonic** have pivoted toward using jet engines to generate power for data centers because the supply chain for traditional turbines is backed up for years.  
+* **The No Land Problem:** Regulations (such as CEQA in California) and land scarcity have made terrestrial building difficult.  
 * **Space-Based Solutions:**  
-  * **StarCloud:** An early pioneer in space-based data centers, once mocked, now sees competition from Google and Elon Musk.  
-  * **Zephyr Fusion:** A **YC** startup focusing on space-based fusion energy, arguing that the physics of fusion "pencils out" more effectively in a space environment, potentially providing the gigawatts of energy required for future scaling.
+  * **Starcloud:** An early pioneer in space-based data centers, once mocked, now sees competition from **Google** and [Elon Musk](https://en.wikipedia.org/wiki/Elon_Musk).  
+  * **Zephyr Fusion:** A **YC** startup focusing on space-based fusion energy, arguing that the physics of fusion pencils out more effectively in a space environment, potentially providing the gigawatts of energy required for future scaling.
 
 ## **The Evolving Startup Playbook**
 
-The relationship between AI, revenue, and human labor is shifting, though not as radically as some "doomer" or "hyper-accelerationist" theories suggested.
+The relationship between AI, revenue, and human labor is shifting, though not as radically as some doomer or hyper accelerationist theories suggested.
 
-* **Revenue Efficiency:** There is a growing trend of "reverse flexing," where companies boast high Annual Recurring Revenue (ARR) with minimal staff. For example, **Gamma** reached $100 million in ARR with only 50 employees.  
-* **The Hiring Bottleneck:** Despite AI efficiencies, startups that raise Series A rounds continue to hire traditional executive teams. The bottleneck has shifted from "idea generation" to "human execution" and the ability to satisfy rising customer expectations.  
-* **Capital as a Moat:** In some sectors (e.g., legal AI with companies like Harvey), massive capital raises are used as a "bludgeon" to lock out competitors, though a second wave of leaner startups (e.g., Lora, Giga) is now challenging these incumbents.
+* **Revenue Efficiency:** There is a growing trend of reverse flexing, where companies boast high Annual Recurring Revenue (ARR) with minimal staff. For example, **Gamma** reached $100 million in ARR with only 50 employees.  
+* **The Hiring Bottleneck:** Despite AI efficiencies, startups that raise Series A rounds continue to hire traditional executive teams. The bottleneck has shifted from idea generation to human execution and the ability to satisfy rising customer expectations.  
+* **Capital as a Moat:** In some sectors (e.g., legal AI with companies like **Harvey**), massive capital raises are used as a bludgeon to lock out competitors, though a second wave of leaner startups (e.g., **Legora**, **Giga**) is now challenging these incumbents.
 
 ## **Critical Insights and Quotes**
 
-* **On Model Loyalty:** "People are expecting... the model companies they're spending all this money and making intelligence faster and better and we can all benefit... It's almost like the era of Intel and AMD... People could just swap them."  
-* **On the Bubble:** "The college students... they're actually like YouTube. If you're doing a startup in your dorm room... it kind of doesn't really matter that much \[if there is a bubble\]... even if Nvidia's stock goes down... that doesn't actually mean that it's a bad time to be working on an AI startup."  
+* **On Model Loyalty:** "People are expecting... the model companies they're spending all this money and making intelligence faster and better and we can all benefit... It's almost like the era of **Intel** and **AMD**... People could just swap them."  
+* **On the Bubble:** "The college students... they're actually like **YouTube**. If you're doing a startup in your dorm room... it kind of doesn't really matter that much \[if there is a bubble\]... even if **Nvidia**'s stock goes down... that doesn't actually mean that it's a bad time to be working on an AI startup."  
 * **On Vibe Coding:** "Vibe coding is not 100% usable and trustable for... 100% of your coding period... It is not true that you can ship 100% solid production code today as of... the end of 2025."  
 * **On Human Resistance:** "Human beings don't like change... that is a real break on the ability of this new really insane technology from actually permeating society... everyone will have enough time to sort of process it."
 
@@ -1906,19 +1906,19 @@ The relationship between AI, revenue, and human labor is shifting, though not as
 
 | Founder/Expert | Startup/Topic | Sector | Key Prediction or Insight | Contrarian Strategy | Business Model Shift (Inferred) |
 | :---- | :---- | :---- | :---- | :---- | :---- |
-| Alexandr Wang, Diana Hu | **Scale AI** | AI Data / Defense | The AI industry lacks rigorous evaluations to show the frontier of model capabilities; high-quality multimodal data (e.g., speaker-separated audio) is essential for the AI boom. | Focused on the narrow problem of self-driving cars and multimodal data early on, despite investors thinking the market was too small. | Moving from human-in-the-loop data labeling to automated AI-assisted curation and agentic workflows for enterprise and government. |
-| Aaron Levie | Box | SaaS / Enterprise Software | The cost of intelligence will converge at zero; software and business outcomes will be the primary value-add as 90% of use cases will not distinguish between model quality. | Betting that model quality will converge in 5 years; pivoting from traditional cloud storage to an AI-first content cloud despite being an incumbent. | Transitioning from seat-based storage and infrastructure pricing to value-based pricing for discrete business outcomes and automated workflows. |
-| Garrett Langley, Garrett Scott | Flock Safety | Defense / Public Safety | Neighborhood safety and crime solving can be scaled via low-cost solar-powered computer vision; AI acts as a massive deflationary force. | Betting on hardware and selling to local government/neighborhood groups, which VCs typically avoid due to perceived small TAM. | Moving from passive CCTV recording to proactive AI alerting monetized through recurring safety-as-a-service contracts. |
-| Gary Tan, Jared Friedman | Macroeconomic Outlook 2025 | Macroeconomics | Interest rates may decrease if government waste is reduced; the AI economy has stabilized into model, application, and infrastructure layers. | Betting on government efficiency initiatives (e.g., 'DOGE') and application layer startups that abstract away specific model providers. | Governments adopting tech-driven efficiency; shift from model loyalty to orchestration layers where intelligence is bought at the lowest spot price. |
-| Tom Brown | Anthropic (Claude) | AI Lab / Software Development | Coding is the primary 'killer app' and north star for model development, leading to higher developer NPS than public benchmarks suggest. | Focusing on developer empathy and 'Claude as the user' rather than optimizing specifically for public benchmarks. | Evolution from a research-focused lab to a product-led company via tools like Claude Code and the Model Context Protocol (MCP). |
-| Spencer Skates | Amplitude | SaaS / Analytics | Analytics will be completely reinvented to be AI-native, functioning similarly to a 'Cursor for analytics'. | Adopted a 'burning the boats' approach to reorient the entire 800-person organization toward AI-first development. | Transitioning from traditional SaaS delivery to technology-first capability delivery where the product dynamically responds to feedback. |
+| [Alexandr Wang](https://www.linkedin.com/in/alexandrwang), [Diana Hu](https://www.linkedin.com/in/sdianahu) | **Scale AI** | AI Data / Defense | The AI industry lacks rigorous evaluations to show the frontier of model capabilities; high-quality multimodal data (e.g., speaker-separated audio) is essential for the AI boom. | Focused on the narrow problem of self-driving cars and multimodal data early on, despite investors thinking the market was too small. | Moving from human-in-the-loop data labeling to automated AI-assisted curation and agentic workflows for enterprise and government. |
+| [Aaron Levie](https://www.linkedin.com/in/boxaaron) | **Box** | SaaS / Enterprise Software | The cost of intelligence will converge at zero; software and business outcomes will be the primary value-add as 90% of use cases will not distinguish between model quality. | Betting that model quality will converge in 5 years; pivoting from traditional cloud storage to an AI-first content cloud despite being an incumbent. | Transitioning from seat-based storage and infrastructure pricing to value-based pricing for discrete business outcomes and automated workflows. |
+| [Garrett Langley](https://www.linkedin.com/in/glangley) | **Flock Safety** | Defense / Public Safety | Neighborhood safety and crime solving can be scaled via low-cost solar-powered computer vision; AI acts as a massive deflationary force. | Betting on hardware and selling to local government/neighborhood groups, which VCs typically avoid due to perceived small TAM. | Moving from passive CCTV recording to proactive AI alerting monetized through recurring safety-as-a-service contracts. |
+| [Gary Tan](https://www.linkedin.com/in/garrytan), [Jared Friedman](https://www.linkedin.com/in/jaredfriedman) | Macroeconomic Outlook 2025 | Macroeconomics | Interest rates may decrease if government waste is reduced; the AI economy has stabilized into model, application, and infrastructure layers. | Betting on government efficiency initiatives (e.g., 'DOGE') and application layer startups that abstract away specific model providers. | Governments adopting tech-driven efficiency; shift from model loyalty to orchestration layers where intelligence is bought at the lowest spot price. |
+| [Tom Brown](https://www.linkedin.com/in/nottombrown) | **Anthropic** (Claude) | AI Lab / Software Development | Coding is the primary 'killer app' and north star for model development, leading to higher developer NPS than public benchmarks suggest. | Focusing on developer empathy and 'Claude as the user' rather than optimizing specifically for public benchmarks. | Evolution from a research-focused lab to a product-led company via tools like Claude Code and the Model Context Protocol (MCP). |
+| [Spencer Skates](https://www.linkedin.com/in/spenserskates) | **Amplitude** | SaaS / Analytics | Analytics will be completely reinvented to be AI-native, functioning similarly to a 'Cursor for analytics'. | Adopted a 'burning the boats' approach to reorient the entire 800-person organization toward AI-first development. | Transitioning from traditional SaaS delivery to technology-first capability delivery where the product dynamically responds to feedback. |
 | [Varun Mohan](https://www.linkedin.com/in/varunkmohan) | **Windsurf** (**Exafunction /** **Codeium**) | DevTools / AI Agents | The definition of a 'developer' will broaden to a 'builder' as software creation becomes fully democratized. | Pivoted the entire company from GPU virtualization to AI coding in 48 hours after seeing the rise of transformers. | Using agentic editors to eliminate boilerplate tasks, allowing engineers to operate as researchers testing hypotheses. |
-| Gary Tan, Brian Armstrong | Stablecoins / Crypto | Fintech | By 2026, real-world item purchases (e.g., coffee) via stablecoins will be common as payments become a solved marketplace problem. | Treating crypto as a practical payment utility and regulatory partner rather than just a speculative or anonymous asset. | Moving from traditional or opaque ledgers to transparent, regulated financial products to prevent loss of funds and earn institutional fees. |
-| Bob McGrew | Palantir (FDE Model) | Defense / Enterprise Software | AI agents require a Forward Deployed Engineer (FDE) model because there is no incumbent product and high discovery is needed. | Using engineers as the primary 'sales' force to solve problems from the inside rather than using traditional account managers. | Selling specific outcomes (e.g., stopping a plot) rather than selling traditional software licenses or seats. |
-| Ryan Peterson | Flexport | Logistics | AI can reduce ocean shipping prices by 8-10% by automating human-intensive email and Excel workflows. | Building an in-house tech stack in an industry that traditionally relies on buying third-party legacy software. | Shifts from human 'freight email forwarding' to autonomous agents handling bookings, customs, and warehouse calls. |
-| Gary Tan | Tactile | Fintech / Banking | Startups can deliver functional AI-driven REST APIs for a fraction of the cost of internal bank IT projects, which often fail. | Building high-level business decision engines that replace multi-year internal IT projects at major global banks. | Moving from opaque, multi-year consulting engagements to high-velocity, API-first consumption models. |
-| Jared Friedman | Greenlight | Fintech / Banking | Enterprises often choose big consultants for trust, but these firms lack the technical expertise to build functional AI systems. | Positioning as an outside vendor to fix failed AI implementations originally attempted by internal IT and big consulting firms. | Shifting from 'trust-based' relationship procurement to performance-based technical deployment. |
-| Diana Hu | Castle AI | Fintech / Real Estate | Incumbents fail by 'slapping AI on top' of old systems, whereas AI-native products win via superior architecture and 'product taste'. | Winning 'bake-offs' against established incumbents by utilizing an AI-native architecture from day one. | Replacing legacy seat-based licensing with outcome-oriented AI servicing (e.g., AI mortgage servicing). |
-| Diana Hu | Reduct | SaaS / Document Processing | Even major tech companies fail at internal document processing, leaving room for startups with 'product excellence'. | Building deep personal friendships with internal champions to navigate corporate politics and do things that do not scale. | Transitioning from generic OCR toolsets to specialized, high-accuracy AI document workflows. |
-| Gary Tan | Triple Bite | HR Tech / Recruitment | Acquired founders within large organizations are the most effective champions for getting startup pilots through procurement. | Using a 'pay it forward' network of former YC founders at major firms to bypass traditional enterprise sales barriers. | Utilizing social capital and founder networks as a primary go-to-market engine over traditional sales reps. |
+| [Gary Tan](https://www.linkedin.com/in/garrytan), [Brian Armstrong](https://www.linkedin.com/in/barmstrong) | **Coinbase** (Stablecoins / Crypto) | Fintech | By 2026, real-world item purchases (e.g., coffee) via stablecoins will be common as payments become a solved marketplace problem. | Treating crypto as a practical payment utility and regulatory partner rather than just a speculative or anonymous asset. | Moving from traditional or opaque ledgers to transparent, regulated financial products to prevent loss of funds and earn institutional fees. |
+| [Bob McGrew](https://www.linkedin.com/in/bobmcgrew) | **Palantir** (FDE Model) | Defense / Enterprise Software | AI agents require a Forward Deployed Engineer (FDE) model because there is no incumbent product and high discovery is needed. | Using engineers as the primary 'sales' force to solve problems from the inside rather than using traditional account managers. | Selling specific outcomes (e.g., stopping a plot) rather than selling traditional software licenses or seats. |
+| [Ryan Peterson](https://www.linkedin.com/in/rpetersen/) | **Flexport** | Logistics | AI can reduce ocean shipping prices by 8-10% by automating human-intensive email and Excel workflows. | Building an in-house tech stack in an industry that traditionally relies on buying third-party legacy software. | Shifts from human 'freight email forwarding' to autonomous agents handling bookings, customs, and warehouse calls. |
+| [Gary Tan](https://www.linkedin.com/in/garrytan) | **Taktile** | Fintech / Banking | Startups can deliver functional AI-driven REST APIs for a fraction of the cost of internal bank IT projects, which often fail. | Building high-level business decision engines that replace multi-year internal IT projects at major global banks. | Moving from opaque, multi-year consulting engagements to high-velocity, API-first consumption models. |
+| [Jared Friedman](https://www.linkedin.com/in/jaredfriedman) | **Greenlight** | Fintech / Banking | Enterprises often choose big consultants for trust, but these firms lack the technical expertise to build functional AI systems. | Positioning as an outside vendor to fix failed AI implementations originally attempted by internal IT and big consulting firms. | Shifting from 'trust-based' relationship procurement to performance-based technical deployment. |
+| [Diana Hu](https://www.linkedin.com/in/sdianahu) | **Castle AI** | Fintech / Real Estate | Incumbents fail by 'slapping AI on top' of old systems, whereas AI-native products win via superior architecture and 'product taste'. | Winning 'bake-offs' against established incumbents by utilizing an AI-native architecture from day one. | Replacing legacy seat-based licensing with outcome-oriented AI servicing (e.g., AI mortgage servicing). |
+| [Diana Hu](https://www.linkedin.com/in/sdianahu) | **Reduct** | SaaS / Document Processing | Even major tech companies fail at internal document processing, leaving room for startups with 'product excellence'. | Building deep personal friendships with internal champions to navigate corporate politics and do things that do not scale. | Transitioning from generic OCR toolsets to specialized, high-accuracy AI document workflows. |
+| [Gary Tan](https://www.linkedin.com/in/garrytan) | **Triplebyte** | HR Tech / Recruitment | Acquired founders within large organizations are the most effective champions for getting startup pilots through procurement. | Using a 'pay it forward' network of former YC founders at major firms to bypass traditional enterprise sales barriers. | Utilizing social capital and founder networks as a primary go-to-market engine over traditional sales reps. |
 
