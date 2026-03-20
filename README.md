@@ -14,6 +14,13 @@ Using Google Tools (Keep, Books, Docs, Gemini) & NotebookLM as a SynthAI Engine.
 
 And extracting entities & context to build a Semantic Layer for Knowledge Graphs on Neo4j Database.
 
-Next Step: To make a Collaborative Knowledge Management System for a Services Company.
+Answers to Possible Questions:
+* Friction is a Feature
+* Content is a bi-product
+* Worflows are the Products
+* Knowledge Graph is the Asset
+* Trust is the Currency
+
+Next Step: To make a Collaborative Knowledge Management System.
 
 
