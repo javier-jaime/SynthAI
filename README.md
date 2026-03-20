@@ -19,6 +19,7 @@ Answers to Possible Questions:
 * Content is a bi-product
 * Worflows are the Products
 * Knowledge Graph is the Asset
+* Everything is Markdown
 * Semantics is the Key
 
 Next Step: To make a Collaborative Knowledge Management System.
