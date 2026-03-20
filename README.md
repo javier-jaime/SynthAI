@@ -17,7 +17,7 @@ Extracting entities & context for the Semantic Layer of a Knowledge Graph on a N
 Answers to Possible Questions:
 
 * Friction is a Feature
-* Content is a bi-product
+* Content is a Bi-product
 * Worflows are the Products
 * Knowledge Graph is the Asset
 * Everything is in markdown
