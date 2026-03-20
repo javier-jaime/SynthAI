@@ -21,8 +21,8 @@ Answers to Possible Questions:
 * Worflows are the Products
 * Knowledge Graph is the Asset
 * Everything is in Markdown
+* Semantic Context is Key
 * Trust is the Currency
-* Semantics is the Key
 
 Next Step: To make a Collaborative Knowledge Management System.
 
