@@ -12,15 +12,15 @@ Using Google Tools (Keep, Books, Drive, Docs, Gemini, Illuminate) & NotebookLM a
 
 ![SynthAI](images/SynthAI.png)
 
-Extracting entities & context to build the Semantic Layer on a Knowledge Graph on Neo4j Database.
+Extracting entities & context for the Semantic Layer of a Knowledge Graph on a Neo4j Database.
 
 Answers to Possible Questions:
 * Friction is a Feature
 * Content is a bi-product
 * Worflows are the Products
-* Context Graph is the Asset
-* Semantics are the Keys
+* Knowledge Graph is the Asset
 * Trust is the Currency
+* Semantics is the Key
 
 Next Step: To make a Collaborative Knowledge Management System.
 
