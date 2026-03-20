@@ -19,7 +19,6 @@ Answers to Possible Questions:
 * Content is a bi-product
 * Worflows are the Products
 * Knowledge Graph is the Asset
-* Trust is the Currency
 * Semantics is the Key
 
 Next Step: To make a Collaborative Knowledge Management System.
