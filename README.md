@@ -20,7 +20,7 @@ Answers to Possible Questions:
 * Content is a bi-product
 * Worflows are the Products
 * Knowledge Graph is the Asset
-* Everything is Markdown now
+* Everything is markdown now
 * Semantic Context is Key
 * Trust is the Currency
 
