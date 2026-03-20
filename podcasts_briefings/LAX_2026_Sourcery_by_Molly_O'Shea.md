@@ -2263,3 +2263,235 @@ The firm’s approach to growth-stage investing is defined by high standards for
 "Thinking about the ride share market today is kind of like looking at the early days of **Uber** and looking at the taxi market, it's just the tip of the iceberg."
 
 "Software is eating the world, [Mark Andreessen](https://en.wikipedia.org/wiki/Marc_Andreessen) was pretty prescient in 2011."
+
+# Episode 123
+
+# **Deel and the Global Growth Playbook**
+
+## **Executive Summary**
+
+**Deel** has emerged as a dominant force in the global payroll and HR infrastructure market, reaching over $1.4 billion in Annual Recurring Revenue (ARR) as of 2024\. Founded in 2019, the company has maintained a unique trajectory characterized by extreme cash efficiency, three years of sustained profitability, and a fully remote workforce of 7,000 people across 120 countries. The core value proposition centers on providing the legal, financial, and HR infrastructure, including entities in over 100 countries, to allow companies to hire talent anywhere in the world. **Deel**'s growth strategy is underpinned by an aggressive M\&A muscle, a "**Deel** on **Deel**" product philosophy, and a regulatory moat that protects the business from pure-software or AI-driven disruption.
+
+\--------------------------------------------------------------------------------
+
+## **Financial Performance and Capital Strategy**
+
+**Deel**’s financial narrative is defined by high growth coupled with unconventional cash discipline.
+
+### **Key Financial Milestones**
+
+* **ARR Growth:** Scaled from approximately $800 million to over $1.4 billion in the last year.  
+* **Profitability:** The company has been profitable for the last three consecutive years, a rarity for startups at this growth pace.  
+* **Valuation:** Most recently valued at over $17 billion.  
+* **Customer Base:** Serves more than 40,000 customers, ranging from **Y Combinator** startups to enterprise giants like **Coinbase**, **Shopify**, **Cloudflare**, **Hermes**, and **LVMH**.
+
+### **Capital Efficiency and Fundraising**
+
+[Alex Bouaziz](https://il.linkedin.com/in/alexbouaziz) emphasizes a "Silicon Valley outsider" mindset regarding capital:
+
+* **Series A Efficiency:** Out of a $4 million seed round, **Deel** had only spent approximately $350,000 by the time it reached its Series A.  
+* **Fundraising Philosophy:** The company views fundraising as selling a part of the business and maintains that founders should ideally be in a position where they do not need the money. This provides leverage to price the company correctly and choose the right partners.  
+* **Recent Rounds:** Recent funding was led by insiders (**Ribbit**, **Andreessen Horowitz**, and **Coatue**) who were close to the data and performed months of due diligence.
+
+\--------------------------------------------------------------------------------
+
+## **The Deel Growth Playbook**
+
+The company’s expansion is driven by a combination of organic product development and a sophisticated M\&A strategy.
+
+### **M\&A as a Core Competency**
+
+Approximately 10% of **Deel**’s revenue is inorganic. The strategy focuses on acquiring expertise and product depth rather than just revenue.
+
+* **Product Expansion:** Acquisitions like **Assemble** (compensation management) and **PaySpace** (payroll engines in Africa) bring decades of specialized knowledge that would be difficult to build from scratch.  
+* **The 12-Month Integration Framework:**  
+  * **Month 1:** Build a v0 of the product using the acquired company's backend but **Deel**’s frontend.  
+  * **Months 1–12:** Train the 2,000+ person Go-To-Market (GTM) team on the new product.  
+  * **Month 12:** Complete the full backend rebuild and integration.  
+* **Advantage:** Most companies wait 12 months to rebuild before training sales, **Deel** overlaps these processes to accelerate market entry.
+
+### **Global Infrastructure and Regulatory Moat**
+
+**Deel**'s defensibility lies in its physical and legal presence:
+
+* **Entity Ownership:** **Deel** owns HR, legal, payroll, and finance entities globally. This allows them to employ individuals in countries like Poland or Brazil on behalf of clients who do not have local structures.  
+* **Complexity as a Moat:** [Bouaziz](https://il.linkedin.com/in/alexbouaziz) notes that while software can be replicated, the regulatory work, acquiring licenses and building payroll engines for 100+ different sets of national laws, is a significant barrier to entry for competitors and AI agents.
+
+\--------------------------------------------------------------------------------
+
+## **Product Philosophy: Deel on Deel**
+
+A central tenet of the company's development is that every employee must use the product they build.
+
+* **Internal Usage:** All 7,000 employees are paid through **Deel**.  
+* **Feedback Loops:** New products are brute-forced onto internal HR and finance teams first. If a product isn't good enough for internal use, it isn't ready for customers.  
+* **Multi-Product Stack:** **Deel** has evolved from a single product to a suite of over 12 products, including EOR (Employer of Record), global payroll, IT management, and compensation tools.
+
+\--------------------------------------------------------------------------------
+
+## **The Role of AI and Future Trends**
+
+**Deel** views AI as a tailwind rather than a threat, citing both internal productivity gains and new product opportunities.
+
+### **Workforce Impacts**
+
+* **Internal Productivity:** [Bouaziz](https://il.linkedin.com/in/alexbouaziz) believes **Deel** could potentially double its revenue without increasing its 7,000-person headcount by leveraging AI superpowers for his team.  
+* **The AI Native Generation:** Contrary to fears that AI will eliminate junior roles, **Deel**’s leadership argues that new grads will be AI native, using tools to perform 10x more work than previous generations.  
+* **AI Agents:** **Deel** is exploring hiring autonomous agents within the HR system, where agents are assigned tasks and their performance is monitored alongside human employees.
+
+### **Industrial Resilience**
+
+While white-collar roles may evolve, **Deel** is seeing rapid growth in non-tech sectors such as oil and gas, airlines, and blue-collar industries, which are less susceptible to immediate AI disruption.
+
+\--------------------------------------------------------------------------------
+
+## **Leadership and Culture**
+
+**Deel**’s success is attributed to a unique partnership and a commitment to remote work.
+
+### **Partnership with Shuo Wang (CRO)**
+
+[Shuo Wang](https://www.linkedin.com/in/shuooo), **Deel**’s co-founder and Chief Revenue Officer, is credited with making **Deel** possible.
+
+* **Founder-Led Sales:** Having a founder lead the GTM motion ensures a level of care for detail that professional hires may lack.  
+* **Resilience:** [Bouaziz](https://il.linkedin.com/in/alexbouaziz) highlights [Wang](https://www.linkedin.com/in/shuooo)'s ability to manage a massive sales organization through difficult periods, such as losing leaders to high-paying AI startups.
+
+### **Remote-First Advantage**
+
+**Deel** operates as a fully remote company with 7,000 people in 120 countries.
+
+* **Talent Access:** Remote work is described as a cheat code that allows **Deel** to hire the best local expertise in every market they enter.  
+* **Operational Insight:** To run payroll in a country like Belize, a company needs people who understand local nuances, which is only possible through a global, remote workforce.
+
+### **Organizational Principles**
+
+* **Default Optimism:** The company filters for happy people or default optimism, believing it is essential for surviving the chaotic journey of a high-growth startup.  
+* **Low Ego:** Executives are expected to be grounded and focused on the customer rather than personal status.
+
+\--------------------------------------------------------------------------------
+
+## **Strategic Outlook and Public Market Readiness**
+
+**Deel** is actively preparing for a potential IPO, though it remains IPO ready rather than committed to a specific date.
+
+### **Corporate Maturation**
+
+* **CFO Appointment:** The company hired [Joe Kauffman](https://www.linkedin.com/in/joe-k-a4aa501) (a former public company CFO/CEO) to institutionalize public-market cadences, including data governance, SOC compliance, and inclusionary accounting.  
+* **Brand Building:** **Deel** is moving beyond Silicon Valley brand to global brand, highlighted by a major partnership with the Premier League club Arsenal to reach a global audience of hundreds of millions.
+
+### **Navigation of Competition and PR**
+
+[Bouaziz](https://il.linkedin.com/in/alexbouaziz) acknowledges the target on his back as the industry leader.
+
+* **Media Relations:** He addresses past inaccurate stories (such as being labeled a "Dubai-fleeing founder") as a learning curve in crisis PR and litigation.  
+* **Competitive Discipline:** Despite public litigations and aggressive competition, **Deel**’s strategy is to remain disciplined and focused on the customer, which has allowed them to consistently outperform their internal forecasts despite external noise.
+
+"The only thing I cared about was our customers and our product... if I look at the business fundamentals, if I look at the tailwinds that we have... I think we're pretty covered",  [Alex Bouaziz](https://il.linkedin.com/in/alexbouaziz)
+
+# Episode 124
+
+# **Reddit’s Business Evolution, Community Dynamics, and AI Strategy**
+
+## **Executive Summary**
+
+**Reddit** has transitioned from a niche community platform into a public corporation with $2.2 billion in annual revenue and a sophisticated business model centered on authenticity and high-intent commercial conversation. Under the leadership of CEO [Steve Huffman](https://www.linkedin.com/in/shuffman56/), the company successfully navigated a March 2024 IPO by prioritizing long-term momentum over peak valuation and including its user base through a Directed Share Program. **Reddit**’s current strategic chapter defines the platform not as social media, but as the fuel for AI, leveraging 24 billion posts and comments to train major language models. The company maintains a stubborn commitment to human authenticity, utilizing "ass-in-seat" verification protocols to distinguish human intelligence from AI-generated slop while evolving its adtech to capture the 40% of user conversations that are inherently commercial.
+
+## **Key Performance Metrics and Financial Status**
+
+As of 2024, **Reddit** has demonstrated significant scaling since its leadership transition in 2015\.
+
+| Metric | Current Status (Approx.) | Historical Context (2015) |
+| :---- | :---- | :---- |
+| **Annual Revenue** | $2.2 Billion (Up 69%) | $12 Million |
+| **Daily Active Uniques (DAU)** | 121 Million | N/A |
+| **Weekly Active Uniques (WAU)** | 471 Million | N/A |
+| **Active Communities** | 100,000+ | N/A |
+| **Total Posts/Comments** | 24 Billion | N/A |
+| **IPO Price** | $34.00 | N/A |
+
+## **The Public Market Transition**
+
+### **IPO Strategy and Valuation**
+
+**Reddit** went public in March 2024 following a two-year purgatory where markets were closed. The company opted for a valuation haircut, pricing the IPO at $34 per share despite a 2021 private valuation of $61 per share.
+
+* **Momentum Over Ego:** [Huffman](https://www.linkedin.com/in/shuffman56/) advocates for going public at a lower price to create upward momentum, satisfy new investors, and generate the best marketing dollars you may ever spend.  
+* **Profitability:** The company achieved GAAP profitability within its first year as a public entity, ahead of its projected schedule.
+
+### **Directed Share Program (DSP)**
+
+**Reddit** implemented one of the largest directed share programs in history, allowing active users to buy into the IPO at the $34 price rather than waiting for the retail pop (which reached $47).
+
+* **User Ownership:** The goal was to reward users who feel a deep sense of ownership over the platform.  
+* **Participation Barriers:** Participation was lower than capacity, attributed to a quiet period preventing company communication and lingering negative sentiment from previous conflicts regarding API access.
+
+## **The Evolution of Reddit Communities**
+
+### **Defining the Community**
+
+[Huffman](https://www.linkedin.com/in/shuffman56/) defines a **Reddit** community by three dimensions:
+
+1. **Shared Interests:** The core topic binding the group.  
+2. **Shared Values and Vernacular:** A distinct vocabulary and set of norms.  
+3. **Affection:** A genuine care for fellow members.
+
+### **The Bullshit Detector**
+
+**Reddit** is characterized as the "world's greatest bullshit detector." The platform's voting system and cultural emphasis on authenticity create an environment where inauthentic, self-serving, or low-effort content is identified and rejected by the community.
+
+### **Historical Shift**
+
+The platform has evolved from a single **Reddit** community with one distinct tone into thousands of specialized sub-communities. This decentralization has protected the soul of the platform even as social media competitors grew faster by focusing on engagement or enraging content, a path **Reddit** intentionally avoided.
+
+## **Advertising and Commercial Alignment**
+
+### **The Commercial Paradox**
+
+Despite an anti-commercial vibe among users, approximately 40% of **Reddit** conversations are commercial in nature. Users seek advice on what to buy, watch, wear, or play, making the platform essential to purchasing decisions.
+
+* **Authentic Brand Presence:** [Huffman](https://www.linkedin.com/in/shuffman56/) notes that users hate ads but they love brands. Brands succeed when they are transparent (e.g., AMAs) and acknowledge their commercial intent rather than attempting to blend in organically.
+
+### **Native Adtech Investment**
+
+In 2018, **Reddit** made a strategic decision to build its own adtech stack (ad server, tracking, and measurement) rather than relying on programmatic networks. This allows the company to own the relationship with customers and capitalize on **Reddit**'s role as both a brand and performance platform.
+
+## **The AI Chapter: Training Data and Bot Governance**
+
+### **Reddit as AI Fuel**
+
+**Reddit** is positioned as a primary source of human intelligence for training Large Language Models (LLMs).
+
+* **Partnerships:** **Reddit** has formal data agreements with **Google** and **OpenAI**. These partnerships help with user discovery by ensuring **Reddit** content appears in search and AI summaries.  
+* **The AI Paradox:** While **Reddit** is not an AI company, its human-generated data is the fuel for the industry.
+
+### **Battle Against Slop**
+
+**Reddit** differentiates between utility bots (which help moderate or provide tools) and AI masquerading as humans.
+
+* **Immune System:** Communities act as an immune system, flaming and downvoting AI-generated content (slop) that lacks the specific tone or effort of human writing.  
+* **The Ass in Seat Philosophy:** **Reddit**’s goal is to ensure a human is physically behind every interaction. The company is exploring third-party verification (like World ID/Tools for Humanity) that confirms humanness without compromising anonymity.
+
+## **Leadership and Organizational Culture**
+
+### **Remote Work and Productivity**
+
+**Reddit** does not enforce a Return to Office (RTO) policy. Huffman argues that the company is more productive now than before the pandemic.
+
+* **Talent Retention:** Avoiding forced commutes is seen as vital for employees who moved away from San Francisco or started families during COVID.  
+* **In-Person Intentionality:** Teams are encouraged to meet in person approximately once a quarter for planning and social bonding rather than daily attendance.
+
+### **Hiring for the AI Era**
+
+The company is prioritizing the hiring of new graduates who are "AI native." [Huffman](https://www.linkedin.com/in/shuffman56/) observes that younger engineers use AI tools (like **Cursor**) without the baggage of traditional coding, leading to massive increases in output. The current bottleneck is not code production, but the speed of code review and deployment.
+
+### **Authentic Leadership**
+
+[Huffman](https://www.linkedin.com/in/shuffman56/)’s philosophy centers on being stubborn about the right things (core values/principles) while being flexible on pixels and formats. He emphasizes that a leader must be authentic and direct, even when saying things people do not want to hear, to build essential trust within the organization.
+
+## **Significant Quotes**
+
+* "Being public is great... it’s also made us a better business. The rigor, the routine, the pressure, I think all of that has really helped us."  
+* "**Reddit** is the world's greatest bullshit detector."  
+* "If you go out at a lower price... it’s the best marketing dollars you may ever spend. You make a lot of friends that way."  
+* "**Reddit**’s not social media... **Reddit**’s different... it’s organized around communities, not the 'Fs': friends, family, famous people, followers."  
+* "We want to make sure there’s an ass in seat, are you physically watching this thing?"
