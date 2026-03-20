@@ -21,7 +21,7 @@ Answers to Possible Questions:
 * Worflows are the Products
 * Knowledge Graph is the Asset
 * Derivative Work is Fair Use
-* Everything is in Markdown
+* Everything is Markdown now
 * Semantic Context is Key
 * Trust is the Currency
 
