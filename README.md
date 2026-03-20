@@ -15,11 +15,13 @@ Using Google Tools (Keep, Books, Drive, Docs, Gemini, Illuminate) & NotebookLM a
 Extracting entities & context for the Semantic Layer of a Knowledge Graph on a Neo4j Database.
 
 Answers to Possible Questions:
+
 * Friction is a Feature
 * Content is a bi-product
 * Worflows are the Products
 * Knowledge Graph is the Asset
-* Everything is Markdown
+* Everything is in Markdown
+* Trust is the Currency
 * Semantics is the Key
 
 Next Step: To make a Collaborative Knowledge Management System.
