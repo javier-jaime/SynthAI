@@ -20,7 +20,7 @@ Answers to Possible Questions:
 * Content is a Bi-product
 * Worflows are the Products
 * Knowledge Graph is the Asset
-* Derivative Work is Fair use
+* Derivative work is Fair use
 * Everything is in Markdown
 * Semantic Context is Key
 * Trust is the Currency
