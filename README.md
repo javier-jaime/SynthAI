@@ -25,6 +25,8 @@ Answers to Possible Questions:
 * Semantic Context is Key
 * Trust is the Currency
 
-Next Step: To make a Collaborative Knowledge Management System.
+Welcome to the Loopy Era,
+the next step is to build a Collaborative Knowledge Management System,
+with your help of course.
 
 
