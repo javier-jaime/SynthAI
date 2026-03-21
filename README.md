@@ -29,6 +29,6 @@ Welcome to the Loopy Era,
 
 the next step is to build a Collaborative Knowledge Management System,
 
-with your help of course.
+with your help, of course.
 
 
