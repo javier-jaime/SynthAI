@@ -9,30 +9,30 @@ The provided source outlines a rapidly maturing technology ecosystem in Alberta,
 **Critical Takeaways:**
 
 * **Industry Modernization:** Startups like **Ownly** and **Bōde** are transforming real estate into an e-commerce experience, while **SensorUp** and **Pure Life Carbon** are applying advanced data and material sciences to the energy and agricultural sectors.  
-* **Data as a Strategic Asset:** Companies such as **DrugBank** and **SensorUp** are leveraging "structured intelligence" and "single pane of glass" visibility to solve complex problems in drug discovery and methane emission monitoring.  
+* **Data as a Strategic Asset:** Companies such as **DrugBank** and **SensorUp** are leveraging structured intelligence and single pane of glass visibility to solve complex problems in drug discovery and methane emission monitoring.  
 * **Alternative Financial Models:** **ZayZoon** is disrupting the predatory payday loan industry through Earned Wage Access (EWA), utilizing a high-velocity capital model.  
-* **Strategic Ecosystem Growth:** There is a heavy emphasis on mentorship and the "intergenerational" transfer of knowledge, with founders frequently citing advisory boards and programs like **Creative Destruction Lab** (CDL) as pivotal to their scale-up success.
+* **Strategic Ecosystem Growth:** There is a heavy emphasis on mentorship and the intergenerational transfer of knowledge, with founders frequently citing advisory boards and programs like **Creative Destruction Lab** (CDL) as pivotal to their scale-up success.
 
 \--------------------------------------------------------------------------------
 
 ## **I. PropTech: Digitizing the Real Estate Transaction**
 
-The residential real estate sector is described as one of the last "B2C industries on the planet" to digitize. Two Calgary-based companies, **Ownly** and **Bōde**, are leading the shift toward a frictionless, transparent buying and selling process.
+The residential real estate sector is described as one of the last B2C industries on the planet to digitize. Two Calgary-based companies, **Ownly** and **Bōde**, are leading the shift toward a frictionless, transparent buying and selling process.
 
 ### **Ownly: E-commerce for New Homes**
 
 **Ownly** focuses on bringing the e-commerce experience to the residential real estate industry, specifically for new home construction.
 
-* **Origin:** Founded by [Jason Hardy](https://www.linkedin.com/in/jasonghardy/) after a 20-minute online vehicle purchase highlighted the comparative "red tape" and stress of home buying.  
+* **Origin:** Founded by [Jason Hardy](https://www.linkedin.com/in/jasonghardy/) after a 20-minute online vehicle purchase highlighted the comparative red tape and stress of home buying.  
 * **Core Product (Ownly Verified):** A five-stage verification tool that handles identity credential verification, mortgage pre-approvals, income/liability verification, and soft credit checks.  
-* **Market Impact:** The platform acts as a "sales enablement tool" for builders and brokers. In an environment where 50% of US real estate transactions fail at the final hour, **Ownly** provides qualified buyers with greater certainty.  
+* **Market Impact:** The platform acts as a sales enablement tool for builders and brokers. In an environment where 50% of US real estate transactions fail at the final hour, **Ownly** provides qualified buyers with greater certainty.  
 * **Key Quote:** "Nobody wants to be sold... people want the opportunity to be able to educate themselves and they want the opportunity to buy rather than be sold", [Jason Hardy](https://www.linkedin.com/in/jasonghardy/), Co-founder & CEO.
 
 ### **Bōde: Marketplace and Platform Play**
 
 **Bōde** operates as a marketplace for both independent homeowners (B2C) and new home builders (B2B).
 
-* **Value Proposition:** By leveraging technology to handle the "intellectual work" (pricing, searching, negotiations), **Bōde** reduces traditional commission costs.  
+* **Value Proposition:** By leveraging technology to handle the intellectual work (pricing, searching, negotiations), **Bōde** reduces traditional commission costs.  
 * **B2B Strategy:** Large home builders utilize **Bōde** to maximize exposure and access better transaction data. On average, home builders are reported to make $500,000 more per year by selling through the platform.  
 * **Operational Scale:** The platform is highly scalable, entering new markets (like Ontario) by connecting to APIs rather than increasing human capital.
 
@@ -47,17 +47,17 @@ Innovation in this sector focuses on ESG (Environmental, Social, and Governance)
 **Pure Life Carbon** has developed a carbon-negative, reusable growing medium made from bamboo to replace traditional substrates like peat moss and rockwool.
 
 * **The Technology:** The product is sterile and does not degrade; the source notes a study showing 18+ years of performance without loss of specification.  
-* **Business Model (Substrate as a Service):** Instead of selling a single-use product, the company leases the "dirt" to greenhouses and recharges it after each growth cycle.  
+* **Business Model (Substrate as a Service):** Instead of selling a single-use product, the company leases the dirt to greenhouses and recharges it after each growth cycle.  
 * **Environmental Impact:** Existing growing mediums contribute nearly 10% of global greenhouse gas emissions. **Pure Life Carbon**’s process is carbon net negative.  
-* **Key Insight:** The medium reduces water usage by 70–80% and enhances food quality (e.g., producing "better tomatoes").
+* **Key Insight:** The medium reduces water usage by 70–80% and enhances food quality (e.g., producing better tomatoes).
 
-### **SensorUp: The "ERP for Methane"**
+### **SensorUp: The ERP for Methane**
 
 **SensorUp** provides a software platform designed to aggregate data from disparate sensors (satellites, drones, and ground sensors) into a single interface for methane emission reduction.
 
-* **Market Positioning:** **SensorUp** does not manufacture sensors but acts as the "plumbing" or "thin layer" of software that connects various data sources.  
+* **Market Positioning:** **SensorUp** does not manufacture sensors but acts as the plumbing or thin layer of software that connects various data sources.  
 * **Strategic Partners:** The company is backed by the Oil and Gas Climate Initiative (OGCI) and was validated by **BCG** as a leader in the space.  
-* **Strategic Objective:** Helping super-major oil companies "find the leak early and fix it early," which allows for the sale of "responsible gas" at premium prices.
+* **Strategic Objective:** Helping super-major oil companies find the leak early and fix it early, which allows for the sale of responsible gas at premium prices.
 
 \--------------------------------------------------------------------------------
 
@@ -69,9 +69,9 @@ The FinTech sector, represented by **ZayZoon**, focuses on social impact and ope
 
 **ZayZoon** provides employees with on-demand access to wages they have already earned but have not yet received due to traditional payroll cycles.
 
-* **Disruption of Payday Loans:** **ZayZoon** offers an alternative to the "egregious fees" of payday lenders. Unlike payday loans, EWA is not a loan from the future, it is liquidity provided on accrued income.  
+* **Disruption of Payday Loans:** **ZayZoon** offers an alternative to the egregious fees of payday lenders. Unlike payday loans, EWA is not a loan from the future, it is liquidity provided on accrued income.  
 * **Economic Viability:** The company turns its capital every nine days, allowing it to remain profitable while keeping fees low for the consumer.  
-* **Go-to-Market:** **ZayZoon** partners with over 160 payroll providers (including ADP) to reach over 10,000 businesses. This "B2B2C" model allows for massive distribution with minimal friction.  
+* **Go-to-Market:** **ZayZoon** partners with over 160 payroll providers (including ADP) to reach over 10,000 businesses. This B2B2C model allows for massive distribution with minimal friction.  
 * **Key Metric:** **ZayZoon** maintains a high employee Net Promoter Score (eNPS) of 82, significantly higher than industry giants like Nike or Apple.
 
 \--------------------------------------------------------------------------------
@@ -85,7 +85,7 @@ Calgary and Edmonton’s HealthTech presence is underscored by high-level academ
 **DrugBank** is a biomedical knowledge base that structures and organizes scientific details about drugs and clinical trials to accelerate discovery research.
 
 * **Scale and Reach:** Originating at the **University of Alberta**, it now serves 21 million unique users annually and is cited in over 40,000 academic publications.  
-* **The "Bloomberg of Pharmacology":** The platform uses natural language processing (NLP) to curate and link data points, making it an essential tool for biologists and data scientists.  
+* **The Bloomberg of Pharmacology:** The platform uses natural language processing (NLP) to curate and link data points, making it an essential tool for biologists and data scientists.  
 * **Market Authority:** It is a trusted source linked by the FDA and NIH. **DrugBank** identifiers have become an industry standard for referring to biomedical concepts.  
 * **Revenue Model:** A B2B SaaS model serving 11 of the top 20 pharmaceutical companies globally.
 
@@ -97,9 +97,9 @@ Across all source transcripts, founders and advisors identified several recurrin
 
 ### **The Role of Mentorship and Governance**
 
-* **Vulnerability and Growth:** Founders emphasize being "coachable" and seeking mentors they "do not deserve" to challenge their assumptions.  
-* **Formal vs. Informal:** Startups benefit from formal boards (as seen with **Bōde** and **Pure Life Carbon**) and informal peer networks to navigate the "lonely" CEO experience.  
-* **Intergenerational Collision:** Programs like **InterGen** focus on pairing "young" entrepreneurs with "experienced" business advisors to bridge gaps in talent and strategic direction.
+* **Vulnerability and Growth:** Founders emphasize being coachable and seeking mentors they do not deserve to challenge their assumptions.  
+* **Formal vs. Informal:** Startups benefit from formal boards (as seen with **Bōde** and **Pure Life Carbon**) and informal peer networks to navigate the lonely CEO experience.  
+* **Intergenerational Collision:** Programs like **InterGen** focus on pairing young entrepreneurs with experienced business advisors to bridge gaps in talent and strategic direction.
 
 ### **Operational Challenges**
 
@@ -107,8 +107,8 @@ Across all source transcripts, founders and advisors identified several recurrin
 | :---- | :---- |
 | **Talent Acquisition** | The shift to hybrid/remote work has expanded the talent pool but increased competition from global giants like Google. |
 | **Capital Raising** | Raising money in Alberta outside of the energy sector remains difficult, **Pure Life Carbon** raised $20M through retail investors because institutional AgTech capital is sparse in Canada. |
-| **Sales Cycles** | "Dinosaur hunting" (selling to super-majors) requires extreme tenacity, often taking years of "sweat, blood, and tears." |
-| **Product-Market Fit** | Startups must avoid becoming "custom software shops" for a single large client and instead find "repeatable" problems to solve. |
+| **Sales Cycles** | Dinosaur hunting (selling to super-majors) requires extreme tenacity, often taking years of sweat, blood, and tears. |
+| **Product-Market Fit** | Startups must avoid becoming custom software shops for a single large client and instead find repeatable problems to solve. |
 
 ### **Featured Organizations**
 
@@ -127,14 +127,14 @@ Across all source transcripts, founders and advisors identified several recurrin
 
 ## **Executive Summary**
 
-The residential real estate industry is undergoing a fundamental shift from traditional, paper-heavy processes to a frictionless e-commerce model. Despite being a primary "B2C" (Business-to-Consumer) sector, real estate has historically lagged behind other industries in digitization by approximately 40 years. This document summarizes key insights from industry leaders [Jason Hardy](https://www.linkedin.com/in/jasonghardy/) (CEO of **Ownly**) and [Shane Wenzel](https://www.linkedin.com/in/shane-wenzel-%F0%9F%8F%98%EF%B8%8F-a940a413/) (CEO of **Shane Homes**) regarding the evolution of PropTech, the launch of "**Ownly** Verified," and the critical role of transparency in high-value consumer transactions.
+The residential real estate industry is undergoing a fundamental shift from traditional, paper-heavy processes to a frictionless e-commerce model. Despite being a primary B2C (Business-to-Consumer) sector, real estate has historically lagged behind other industries in digitization by approximately 40 years. This document summarizes key insights from industry leaders [Jason Hardy](https://www.linkedin.com/in/jasonghardy/) (CEO of **Ownly**) and [Shane Wenzel](https://www.linkedin.com/in/shane-wenzel-%F0%9F%8F%98%EF%B8%8F-a940a413/) (CEO of **Shane Homes**) regarding the evolution of PropTech, the launch of **Ownly** Verified, and the critical role of transparency in high-value consumer transactions.
 
 **Critical Takeaways:**
 
 * **The Digitization Gap:** Real estate is identified as the last major B2C industry to digitize its buying process, plagued by complacency and a lack of price transparency.  
-* **Consumer Demand for Frictionless Experiences:** Modern buyers seek self-education and "due diligence" online before engaging with sales personnel.  
+* **Consumer Demand for Frictionless Experiences:** Modern buyers seek self-education and due diligence online before engaging with sales personnel.  
 * **Ownly Verified:** A new flagship 5-stage verification tool aims to reduce the 50% transaction failure rate currently seen in the U.S. market by qualifying buyers early in the funnel.  
-* **Market Resiliency:** Despite interest rate hikes, the Alberta market, particularly Calgary, remains insulated due to affordability and inward migration, creating a "perfect storm" for PropTech adoption as sellers seek efficiency.
+* **Market Resiliency:** Despite interest rate hikes, the Alberta market, particularly Calgary, remains insulated due to affordability and inward migration, creating a perfect storm for PropTech adoption as sellers seek efficiency.
 
 \--------------------------------------------------------------------------------
 
@@ -142,19 +142,19 @@ The residential real estate industry is undergoing a fundamental shift from trad
 
 ### **Conceptual Origin**
 
-The concept for **Ownly** was born in mid-2019, pre-dating the pandemic-driven shift toward digital services. Founder [Jason Hardy](https://www.linkedin.com/in/jasonghardy/) conceived the idea after a frictionless online vehicle purchase, noting the stark contrast between buying a car and the "stressful" administrative "red tape" associated with purchasing a home.
+The concept for **Ownly** was born in mid-2019, pre-dating the pandemic-driven shift toward digital services. Founder [Jason Hardy](https://www.linkedin.com/in/jasonghardy/) conceived the idea after a frictionless online vehicle purchase, noting the stark contrast between buying a car and the stressful administrative red tape associated with purchasing a home.
 
 ### **Overcoming Industry Inertia**
 
 The initial market entry was met with significant resistance, highlighting the industry's traditionalist stance:
 
-* **Resistance Metrics:** **Ownly** received 15 "no's" from home builders during its initial pitch phase.  
-* **Core Barriers:** The primary obstacles to adoption were industry complacency and a "fear of putting the price out there."  
+* **Resistance Metrics:** **Ownly** received 15 no's from home builders during its initial pitch phase.  
+* **Core Barriers:** The primary obstacles to adoption were industry complacency and a fear of putting the price out there.  
 * **Market Reality:** Approximately 94% of the new construction industry in North America requires a phone call to obtain pricing, a barrier **Ownly** aims to eliminate.
 
 \--------------------------------------------------------------------------------
 
-## **Product Evolution: From "Build and Price" to "Ownly Verified"**
+## **Product Evolution: From Build and Price to Ownly Verified**
 
 **Ownly**’s technology has transitioned from a basic configurator to a comprehensive verification and transaction platform.
 
@@ -163,7 +163,7 @@ The initial market entry was met with significant resistance, highlighting the i
 | Feature | Description |
 | :---- | :---- |
 | **Build and Price Tool** | Allows consumers to review models and communities, increasing website engagement time from minutes to over an hour. |
-| **Ownly Verified** | A proprietary, patent-pending flagship product launching in mid-2023. It serves as a "sales enablement tool" rather than a replacement for brokers. |
+| **Ownly Verified** | A proprietary, patent-pending flagship product launching in mid-2023. It serves as a sales enablement tool rather than a replacement for brokers. |
 | **5-Stage Verification** | Includes identity credential verification, mortgage pre-approval, income/liability verification, soft credit checks, and real-time home valuations. |
 | **E-commerce Integration** | Features a shopping cart experience where buyers can place deposits and sign purchase agreements online. |
 
@@ -182,15 +182,15 @@ The initial market entry was met with significant resistance, highlighting the i
 
 [Shane Wenzel](https://www.linkedin.com/in/shane-wenzel-%F0%9F%8F%98%EF%B8%8F-a940a413/) notes that consumer priorities have shifted significantly since 2008, with transparency becoming a top priority.
 
-* **"Buy vs. Sold":** Consumers want the opportunity to buy through self-education rather than the feeling of being "sold" by a salesperson.  
+* **Buy vs. Sold:** Consumers want the opportunity to buy through self-education rather than the feeling of being sold by a salesperson.  
 * **Remote Transactions:** There is an increasing trend of out-of-province buyers (e.g., from Ontario or British Columbia moving to Alberta) completing entire verification and purchase processes remotely.
 
 ### **Industry Forecasts**
 
-The real estate sector is moving toward "Office 2.0" and "fully integrated neighborhoods" where residents can live, work, and play for decades.
+The real estate sector is moving toward Office 2.0 and fully integrated neighborhoods where residents can live, work, and play for decades.
 
-* **Transaction Failure Rates:** Currently, 50% of U.S. real estate transactions fail in the "11th hour" due to a lack of communication and transparency. Verified buyer tools are positioned to solve this.  
-* **Economic Outlook:** While global markets face a slowdown due to interest rates, leaders argue this is a "blessing" for PropTech. It forces sellers to adopt tools that allow them to sell more homes with fewer resources.
+* **Transaction Failure Rates:** Currently, 50% of U.S. real estate transactions fail in the 11th hour due to a lack of communication and transparency. Verified buyer tools are positioned to solve this.  
+* **Economic Outlook:** While global markets face a slowdown due to interest rates, leaders argue this is a blessing for PropTech. It forces sellers to adopt tools that allow them to sell more homes with fewer resources.
 
 \--------------------------------------------------------------------------------
 
@@ -198,19 +198,19 @@ The real estate sector is moving toward "Office 2.0" and "fully integrated neigh
 
 ### **Strategic Growth and Fundraising**
 
-**Ownly** is currently in a "Sprint" rather than a "Marathon," focusing on rapid expansion:
+**Ownly** is currently in a Sprint rather than a Marathon, focusing on rapid expansion:
 
 * **Current Footprint:** Operating with over 20 customers in 17 cities, including aggressive moves into Texas, Georgia, and Florida.  
-* **Revenue Model:** A "SaaS Plus" model involving a platform subscription fee plus a price-per-poll for individual buyer verifications.  
-* **Fundraising:** The company is currently "friend-raising" in anticipation of a Seed extension or Series A round in late 2023\.
+* **Revenue Model:** A SaaS Plus model involving a platform subscription fee plus a price-per-poll for individual buyer verifications.  
+* **Fundraising:** The company is currently friend-raising in anticipation of a Seed extension or Series A round in late 2023\.
 
 ### **The Role of Mentorship**
 
-Mentorship is cited as the "backbone" of successful PropTech ventures. Key entrepreneurial advice included:
+Mentorship is cited as the backbone of successful PropTech ventures. Key entrepreneurial advice included:
 
-* **Vulnerability:** Founders must be "coachable" and act as "sponges" for information.  
-* **Team Buy-In:** No new digital policy or marketing plan succeeds without total buy-in from the internal team (the "tail wagging the dog" scenario).  
-* **Cross-Industry Learning:** Entrepreneurs are encouraged to "get outside their box" and learn from pitfalls in unrelated industries.
+* **Vulnerability:** Founders must be coachable and act as sponges for information.  
+* **Team Buy-In:** No new digital policy or marketing plan succeeds without total buy-in from the internal team (the tail wagging the dog scenario).  
+* **Cross-Industry Learning:** Entrepreneurs are encouraged to get outside their box and learn from pitfalls in unrelated industries.
 
 \--------------------------------------------------------------------------------
 
@@ -232,9 +232,9 @@ Mentorship is cited as the "backbone" of successful PropTech ventures. Key entre
 
 The following briefing document synthesizes key insights from a PropTech Breakfast Club session featuring leadership from **Virtuo**, a home management platform, and **Brookfield Properties**, a major North American developer.
 
-The central thesis of the discussion is that the traditional home-buying and moving process is fundamentally broken, often cited as one of life’s most stressful events. **Virtuo** addresses this through a "human-led, tech-enabled" concierge service that manages the complexities of moving, such as utility transfers, mail forwarding, and service sourcing.
+The central thesis of the discussion is that the traditional home-buying and moving process is fundamentally broken, often cited as one of life’s most stressful events. **Virtuo** addresses this through a human-led, tech-enabled concierge service that manages the complexities of moving, such as utility transfers, mail forwarding, and service sourcing.
 
-A critical takeaway is the strategic shift in the real estate industry: established builders like **Brookfield** are increasingly partnering with PropTech startups to enhance customer experience (CX). This partnership aims to create "customer advocacy," which is viewed as a primary lever to reduce the high cost of sales and marketing (currently estimated between $4,500 and $7,500 per customer). Furthermore, while originally intended for high-end markets, these services have found their most significant value proposition among first-time homebuyers and newcomers to Canada, who face the steepest learning curves and highest emotional stakes.
+A critical takeaway is the strategic shift in the real estate industry: established builders like **Brookfield** are increasingly partnering with PropTech startups to enhance customer experience (CX). This partnership aims to create customer advocacy, which is viewed as a primary lever to reduce the high cost of sales and marketing (currently estimated between $4,500 and $7,500 per customer). Furthermore, while originally intended for high-end markets, these services have found their most significant value proposition among first-time homebuyers and newcomers to Canada, who face the steepest learning curves and highest emotional stakes.
 
 \--------------------------------------------------------------------------------
 
@@ -253,9 +253,9 @@ A critical takeaway is the strategic shift in the real estate industry: establis
 
 ### **1\. The Genesis and Evolution of Virtuo**
 
-**Virtuo** was born from the realization that homeownership, the largest purchase most people ever make, is historically the least supported. [Casey](https://www.linkedin.com/in/casey-kachur-08881111/), the CEO, noted that the stress of moving is statistically compared to the trauma of "going to prison."
+**Virtuo** was born from the realization that homeownership, the largest purchase most people ever make, is historically the least supported. [Casey](https://www.linkedin.com/in/casey-kachur-08881111/), the CEO, noted that the stress of moving is statistically compared to the trauma of going to prison.
 
-* **Background:** The founders spent 17 years in executive relocation, building "high touch, high trust" programs for corporate leaders before applying that expertise to the general consumer market.  
+* **Background:** The founders spent 17 years in executive relocation, building high touch, high trust programs for corporate leaders before applying that expertise to the general consumer market.  
 * **The Pivot:** Initially, **Virtuo** utilized a Direct-to-Consumer (D2C) strategy, but found it too expensive to scale due to competition with realtors and mortgage brokers. The company successfully pivoted to a Business-to-Business (B2B) model, partnering directly with home builders.  
 * **The Model:** **Virtuo** provides a dedicated human concierge and a digital platform to manage the \~40 hours of coordination required for a move. This includes sourcing movers, cleaners, and managing documentation.
 
@@ -264,32 +264,32 @@ A critical takeaway is the strategic shift in the real estate industry: establis
 The partnership between **Brookfield** and **Virtuo** highlights a shift in how large developers view innovation.
 
 * **Customer Acquisition Costs:** **Brookfield** identifies sales, marketing, and closing costs as their single biggest escalating expense. By providing **Virtuo**’s services (often at no cost to the end consumer), they aim to increase customer satisfaction and referrals, thereby lowering long-term acquisition costs.  
-* **Operational Focus:** [Chris Richer](https://www.linkedin.com/in/christopher-richer-4348a23/) noted that building a home involves coordinating roughly "65,000 parts." Builders focus on this physical assembly, while Virtuo manages the "65,000 things going on in the customer's life" during the transition.  
-* **Rockland Park Pilot:** In the Rockland Park development, the partnership moved from a "builder initiative" to a "community level" service, where every buyer, regardless of which builder they use, receives **Virtuo**’s concierge service.
+* **Operational Focus:** [Chris Richer](https://www.linkedin.com/in/christopher-richer-4348a23/) noted that building a home involves coordinating roughly 65,000 parts. Builders focus on this physical assembly, while Virtuo manages the 65,000 things going on in the customer's life during the transition.  
+* **Rockland Park Pilot:** In the Rockland Park development, the partnership moved from a builder initiative to a community level service, where every buyer, regardless of which builder they use, receives **Virtuo**’s concierge service.
 
 ### **3\. Customer Psychology and Market Demographics**
 
 The discussion revealed a significant misalignment between industry assumptions and actual customer needs regarding support services.
 
-* **High Emotional Stakes:** Contrary to expectations that high-end "estate" buyers would value concierge services most, the highest engagement comes from first-time buyers and new Canadians.  
+* **High Emotional Stakes:** Contrary to expectations that high-end estate buyers would value concierge services most, the highest engagement comes from first-time buyers and new Canadians.  
 * **The Surprise Metric:** For first-time buyers, the level of emotional investment and passion is higher than for retirees or luxury buyers. These customers view the home not as a commodity, but as a hard-earned milestone, making them more sensitive to experience failures.  
-* **Demographic Influx:** There is a notable trend of buyers moving from Ontario and British Columbia to Alberta, seeking affordability and a "vibrant, livable" environment.
+* **Demographic Influx:** There is a notable trend of buyers moving from Ontario and British Columbia to Alberta, seeking affordability and a vibrant, livable environment.
 
 ### **4\. Industry Trends and Challenges in Alberta**
 
 The session provided an incisive look at the state of the Alberta real estate market and the hurdles facing developers.
 
-* **Affordability vs. Expectation:** To maintain affordability as land and levy costs rise, developers are exploring "more with less space," such as smaller lot footprints with high-quality communal green amenities.  
-* **Suburban vs. Infill:** While suburban development is the most efficient way to provide affordable housing at scale, **Brookfield** is increasingly interested in "Brownfield" or underutilized urban spaces (e.g., redeveloping mall sites).  
-* **The Policy "Rub":** A major obstacle to densification and infill is the "red tape" and financial pressure of city policies. Without removing these hurdles, it is difficult to align capital return with the high costs of complex mixed-use builds.
+* **Affordability vs. Expectation:** To maintain affordability as land and levy costs rise, developers are exploring more with less space, such as smaller lot footprints with high-quality communal green amenities.  
+* **Suburban vs. Infill:** While suburban development is the most efficient way to provide affordable housing at scale, **Brookfield** is increasingly interested in Brownfield or underutilized urban spaces (e.g., redeveloping mall sites).  
+* **The Policy Rub:** A major obstacle to densification and infill is the red tape and financial pressure of city policies. Without removing these hurdles, it is difficult to align capital return with the high costs of complex mixed-use builds.
 
 ### **5\. Leadership and Mentorship Insights**
 
 Both [Casey](https://www.linkedin.com/in/casey-kachur-08881111/) and [Chris](https://www.linkedin.com/in/christopher-richer-4348a23/) emphasized the human element of scaling a business in a competitive landscape.
 
-* **Truth-Telling Mentors:** Effective mentorship requires finding people who are not "intimidated by your reality" and will provide uncomfortable truths.  
+* **Truth-Telling Mentors:** Effective mentorship requires finding people who are not intimidated by your reality and will provide uncomfortable truths.  
 * **Ego Management:** Successful leaders must keep their egos in check to listen to advice they don't want to hear.  
-* **Domain Expertise:** [Casey](https://www.linkedin.com/in/casey-kachur-08881111/) attributed **Virtuo**'s survival to "domain expertise", the founders' deep background in relocation provided the confidence to persist when the D2C model initially struggled.
+* **Domain Expertise:** [Casey](https://www.linkedin.com/in/casey-kachur-08881111/) attributed **Virtuo**'s survival to domain expertise, the founders' deep background in relocation provided the confidence to persist when the D2C model initially struggled.
 
 \--------------------------------------------------------------------------------
 
@@ -298,9 +298,9 @@ Both [Casey](https://www.linkedin.com/in/casey-kachur-08881111/) and [Chris](htt
 **Virtuo** and **Brookfield** outlined several areas for expansion and focus in 2023 and beyond:
 
 * **Resale Market Entry:** **Virtuo** plans to enter the resale market by partnering with high-volume real estate teams, mortgage lenders, and brokers.  
-* **Membership Models:** A post-possession "membership model" is in the roadmap, aimed at helping homeowners manage their properties long-term.  
+* **Membership Models:** A post-possession membership model is in the roadmap, aimed at helping homeowners manage their properties long-term.  
 * **Geographic Expansion:** Scaling existing builder partnerships across the United States.  
-* **Capital Turn:** **Brookfield** is shifting toward "shortening the turn time" on capital by potentially bringing in partners on long-term land holdings to focus on faster-moving projects.
+* **Capital Turn:** **Brookfield** is shifting toward shortening the turn time on capital by potentially bringing in partners on long-term land holdings to focus on faster-moving projects.
 
 \--------------------------------------------------------------------------------
 
@@ -312,7 +312,7 @@ Both [Casey](https://www.linkedin.com/in/casey-kachur-08881111/) and [Chris](htt
 
 "I always thought the customer would get easier as we went down market; it actually gets more difficult... the emotions are high and this is an emotional purchase", [**Chris Richer**](https://www.linkedin.com/in/christopher-richer-4348a23/)**, Brookfield Properties**
 
-"The only people who should be learning in a startup at our stage are the founders; everybody else should have been there, done that", [**Casey Kachur**](https://www.linkedin.com/in/casey-kachur-08881111/)**, quoting a mentor**
+"The only people who should be learning in a startup at our stage are the founders; everybody else should have been there, done that", [**Casey Kachur**](https://www.linkedin.com/in/casey-kachur-08881111/)**,** quoting a mentor
 
 # Episode 003
 
@@ -320,9 +320,9 @@ Both [Casey](https://www.linkedin.com/in/casey-kachur-08881111/) and [Chris](htt
 
 ## **Executive Summary**
 
-**Bōde** is a Calgary-based prop-tech company designed to modernize and digitize the residential real estate market by providing a platform-based marketplace for buyers, sellers, and home builders. Founded to address the high costs and intellectual inefficiencies of traditional real estate transactions, the company leverages technology to automate the "paint-by-numbers" process of selling a home, resulting in significant savings, averaging $15,000 to $40,000 per transaction for consumers.
+**Bōde** is a Calgary-based prop-tech company designed to modernize and digitize the residential real estate market by providing a platform-based marketplace for buyers, sellers, and home builders. Founded to address the high costs and intellectual inefficiencies of traditional real estate transactions, the company leverages technology to automate the paint-by-numbers process of selling a home, resulting in significant savings, averaging $15,000 to $40,000 per transaction for consumers.
 
-The business operates on a dual model, serving both individual homeowners (B2C) and large-scale builders (B2B). For builders, **Bōde** offers a subscription-based model that increases bottom-line profits by an average of $500,000 annually. Currently active in Alberta, British Columbia, and Ontario, **Bōde** eyes a $200 billion annual revenue opportunity across North America. The company’s growth is driven by a philosophy of "customer centricity," rigorous demand profiling for product development, and a lean operational structure that allows for rapid scaling without the high human capital costs of traditional brokerages.
+The business operates on a dual model, serving both individual homeowners (B2C) and large-scale builders (B2B). For builders, **Bōde** offers a subscription-based model that increases bottom-line profits by an average of $500,000 annually. Currently active in Alberta, British Columbia, and Ontario, **Bōde** eyes a $200 billion annual revenue opportunity across North America. The company’s growth is driven by a philosophy of customer centricity, rigorous demand profiling for product development, and a lean operational structure that allows for rapid scaling without the high human capital costs of traditional brokerages.
 
 \--------------------------------------------------------------------------------
 
@@ -330,7 +330,7 @@ The business operates on a dual model, serving both individual homeowners (B2C) 
 
 ### **The Catalyst for Innovation**
 
-The company was founded following CEO [Robert Price](https://www.linkedin.com/in/robert-price-903652b/)’s personal experience selling a property in 2017\. Despite performing the majority of the "intellectual work", including pricing research, negotiation scripts, and buyer vetting, Price paid a $50,000 commission to an agent whose role felt primarily administrative. This friction point led to the realization that the industry lacked a digital, online option for those capable of managing their own transactions.
+The company was founded following CEO [Robert Price](https://www.linkedin.com/in/robert-price-903652b/)’s personal experience selling a property in 2017\. Despite performing the majority of the intellectual work, including pricing research, negotiation scripts, and buyer vetting, Price paid a $50,000 commission to an agent whose role felt primarily administrative. This friction point led to the realization that the industry lacked a digital, online option for those capable of managing their own transactions.
 
 ### **Founders and Vision**
 
@@ -344,11 +344,11 @@ The founding team includes [Robert Price](https://www.linkedin.com/in/robert-pri
 
 ## **The Bōde Business Model**
 
-**Bōde** functions as a marketplace platform rather than a traditional consultative service, allowing for superior "tech unit economics."
+**Bōde** functions as a marketplace platform rather than a traditional consultative service, allowing for superior tech unit economics.
 
 ### **B2C: Independent Homeowners**
 
-* **Target Demographic:** While initially targeting millennials, the user base mirrors the "Airbnb age curve," with significant adoption by sellers in their 50s, 60s, and 70s.  
+* **Target Demographic:** While initially targeting millennials, the user base mirrors the Airbnb age curve, with significant adoption by sellers in their 50s, 60s, and 70s.  
 * **User Experience:** **Bōde** provides an automated, end-to-end journey. Users can message, book showings, and make offers directly through the platform.  
 * **Cost Savings:** By removing the listing agent's commission, sellers save substantial amounts, ranging from 15,000–20,000 in Western Canada to 30,000–40,000 in the Toronto market.
 
@@ -377,7 +377,7 @@ The founding team includes [Robert Price](https://www.linkedin.com/in/robert-pri
 
 ### **Listing Syndication**
 
-The platform creates a "hub and spoke" connection. While 95% of Canadians start their search online, **Bōde** ensures listings appear on:
+The platform creates a hub and spoke connection. While 95% of Canadians start their search online, **Bōde** ensures listings appear on:
 
 * Realtor.ca  
 * **Zillow**  
@@ -397,7 +397,7 @@ To combat industry challenges like title fraud, **Bōde** utilizes sophisticated
 
 ### **Demand-Led Development**
 
-Rather than relying on internal "idea catchers," **Bōde** uses demand profiling. This involves:
+Rather than relying on internal idea catchers, **Bōde** uses demand profiling. This involves:
 
 * Quantitative analysis (surveys with hundreds of responses).  
 * Qualitative interviews with customers to validate new features.
@@ -406,7 +406,7 @@ Rather than relying on internal "idea catchers," **Bōde** uses demand profiling
 
 A major upcoming feature is a digital auction tool designed to address specific pain points:
 
-* **Transparency:** Moves negotiations out of "backrooms" and into an open, predetermined format.  
+* **Transparency:** Moves negotiations out of backrooms and into an open, predetermined format.  
 * **Efficiency:** Eliminates the negotiation and condition removal phases.  
 * **Flexibility:** Sellers can set a reserve price and toggle between a traditional listing and an auction at the click of a button if they receive multiple competing offers.
 
@@ -416,14 +416,14 @@ A major upcoming feature is a digital auction tool designed to address specific 
 
 ### **Relationship with Realtors**
 
-**Bōde** does not view itself as an "anti-agent" platform but as a source of competition and modernization.
+**Bōde** does not view itself as an anti-agent platform but as a source of competition and modernization.
 
 * **Cooperation:** **Bōde** currently has over 1,200 agent accounts. Agents representing buyers still interact with **Bōde** listings to facilitate sales.  
 * **Future Licensing:** **Bōde** plans to license its proprietary technology to other brokerages to help them modernize their own customer experiences.
 
 ### **Competitive Synergies**
 
-**Bōde** positions itself as "earlier in the funnel" than other prop-tech firms. For example, **Bōde** views companies like "Only" as synergistic partners. **Bōde** finds the buyers via listing syndication and can then funnel those buyers into "Only’s" customization or verification tools based on the builder’s preference.
+**Bōde** positions itself earlier in the funnel than other prop-tech firms. For example, **Bōde** views companies like **Only** as synergistic partners. **Bōde** finds the buyers via listing syndication and can then funnel those buyers into **Only**’s customization or verification tools based on the builder’s preference.
 
 \--------------------------------------------------------------------------------
 
@@ -432,8 +432,8 @@ A major upcoming feature is a digital auction tool designed to address specific 
 [Robert Price](https://www.linkedin.com/in/robert-price-903652b/) emphasizes several winning conditions for scaling a startup in a volatile environment:
 
 * **Customer Centricity:** Every internal decision is weighed against its impact on the customer experience and value.  
-* **Differentiating Pressure vs. Stress:** [Price](https://www.linkedin.com/in/robert-price-903652b/) defines pressure as a positive, high-performance driver necessary for entrepreneurship, whereas stress occurs when a team lacks the tools to meet that pressure. Maintaining a "performance zone" is critical.  
-* **Strategic Oversight:** **Bōde** established a full board and three advisors at the outset. This "gray hair in the room" strategy forces the CEO to move out of the daily details and focus on quarterly strategic reviews and high-performing operational protocols.  
+* **Differentiating Pressure vs. Stress:** [Price](https://www.linkedin.com/in/robert-price-903652b/) defines pressure as a positive, high-performance driver necessary for entrepreneurship, whereas stress occurs when a team lacks the tools to meet that pressure. Maintaining a performance zone is critical.  
+* **Strategic Oversight:** **Bōde** established a full board and three advisors at the outset. This gray hair in the room strategy forces the CEO to move out of the daily details and focus on quarterly strategic reviews and high-performing operational protocols.  
 * **Funding:** The company is currently in the midst of a late seed round and is on a fast track to reach profitability by Q4 of the current year or Q1 of the following year.
 
 # Episode 004
@@ -450,7 +450,7 @@ A major upcoming feature is a digital auction tool designed to address specific 
 * **Carbon Utilization:** The company’s technology allows for the mineralization of CO2 directly into its products, with the potential to reach carbon-negative status within the next 12 months.  
 * **Business Momentum:** The firm has transitioned from a startup to a scale-up, reporting a sales pipeline of $151 million and a projected revenue of $6 million to $8 million for the current fiscal year.  
 * **Market Strategy:** Utilizing a hybrid distribution model, **ZS2** partners with local construction experts across North America to overcome the fractured and change-resistant nature of the industry.  
-* **Strategic Goal:** **ZS2** aims to become a "gigacorn", a company with the capacity to remove one gigaton of CO2 from the atmosphere annually.
+* **Strategic Goal:** **ZS2** aims to become a gigacorn, a company with the capacity to remove one gigaton of CO2 from the atmosphere annually.
 
 \--------------------------------------------------------------------------------
 
@@ -496,14 +496,14 @@ The company is developing point-source capture and direct-air capture technologi
 
 ### **Hybrid Distribution Model**
 
-**ZS2** utilizes a distribution model similar to heavy equipment manufacturers (e.g., **Caterpillar**). They partner with local "Tech Partners" who have existing construction pipelines and local expertise.
+**ZS2** utilizes a distribution model similar to heavy equipment manufacturers (e.g., **Caterpillar**). They partner with local Tech Partners who have existing construction pipelines and local expertise.
 
 * **Current Partners:** 15+ partners across North America, including Alabama, Florida, Utah, Colorado, California, Ontario, and British Columbia.  
 * **Target Customers:** Home builders, commercial developers, and institutional builders focused on sustainability and energy efficiency.
 
 ### **Prefabricated Solutions**
 
-The primary product is a structural insulated panel (SIP) described as an "Oreo cookie" construction:
+The primary product is a structural insulated panel (SIP) described as an Oreo cookie construction:
 
 * **Outer Layers:** Magnesium cement board.  
 * **Core:** High R-value rigid insulation (extruded polystyrene).  
@@ -534,12 +534,12 @@ The primary product is a structural insulated panel (SIP) described as an "Oreo 
 
 ## **Strategic Partnerships and Ecosystem**
 
-The company leverages the "Alberta Advantage," specifically the expertise and resources available in the Western Canadian energy and mining sectors.
+The company leverages the Alberta Advantage, specifically the expertise and resources available in the Western Canadian energy and mining sectors.
 
 * **Baymag:** Partners for the supply of high-purity magnesium oxide from the only MgO mine in Canada (located in Radium, BC).  
 * **Lithium Bank:** Collaboration involving magnesium extraction from saltwater brines found in prehistoric aquifers in Alberta.  
 * **First Nations Collaborations:** **ZS2** works with various communities, including the Kanakavar First Nation and the Saskatchewan Development Corp. These projects focus on fire-resistant and mold-resistant housing for remote areas.  
-* [**Tom Jackson**](https://en.wikipedia.org/wiki/Tom_Jackson_\(actor\))**:** The renowned philanthropist and actor serves as a liaison for housing initiatives, focusing on "saving lives" through attainable, resilient housing.
+* [**Tom Jackson**](https://en.wikipedia.org/wiki/Tom_Jackson_\(actor\))**:** The renowned philanthropist and actor serves as a liaison for housing initiatives, focusing on saving lives through attainable, resilient housing.
 
 \--------------------------------------------------------------------------------
 
@@ -547,17 +547,17 @@ The company leverages the "Alberta Advantage," specifically the expertise and re
 
 ### **Industry Resistance**
 
-Construction is noted as one of the most change-resistant industries. [Scott Jenkins](https://www.linkedin.com/in/scott-jenkins-5568b21b/) highlights that construction is the only major industry that has "gone backwards" in productivity over the last 20 years. To counter this, **ZS2** has invested nearly $1 million in third-party testing and certifications (e.g., Intertek, QAI, NRC) to ensure their materials exceed all building codes.
+Construction is noted as one of the most change-resistant industries. [Scott Jenkins](https://www.linkedin.com/in/scott-jenkins-5568b21b/) highlights that construction is the only major industry that has gone backwards in productivity over the last 20 years. To counter this, **ZS2** has invested nearly $1 million in third-party testing and certifications (e.g., Intertek, QAI, NRC) to ensure their materials exceed all building codes.
 
 ### **Expansion Plans**
 
 * **Geographic Focus:** Rapid growth in Texas (driven by labor shortages and energy efficiency needs) and the Southeast US.  
-* **Distributed Manufacturing:** **ZS2** plans to establish "sandwich panel" plants close to major customer bases (e.g., Ontario, Alabama, Texas) to reduce shipping costs.  
+* **Distributed Manufacturing:** **ZS2** plans to establish sandwich panel plants close to major customer bases (e.g., Ontario, Alabama, Texas) to reduce shipping costs.  
 * **Public Listing:** While currently operating with the transparency of a public company, a future IPO is considered a potential tool for accessing larger capital pools and increasing customer visibility.
 
-### **The "Gigacorn" Vision**
+### **The Gigacorn Vision**
 
-The company’s long-term roadmap includes moving from Precast products into "Ready Mix" solutions. This would allow magnesium cement to be used on a global scale for foundations and infrastructure, providing a path to sequestering one gigaton of CO2 annually.
+The company’s long-term roadmap includes moving from Precast products into Ready Mix solutions. This would allow magnesium cement to be used on a global scale for foundations and infrastructure, providing a path to sequestering one gigaton of CO2 annually.
 
 # Episode 005
 
@@ -565,24 +565,24 @@ The company’s long-term roadmap includes moving from Precast products into "Re
 
 ## **Executive Summary**
 
-**Eavor Technologies**, a Calgary-based clean tech firm, is pioneering a transformational approach to geothermal energy through its proprietary "**Eavor**\-Loop" technology. Unlike traditional geothermal systems that depend on specific geological conditions such as aquifers and rock porosity, **Eavor** utilizes a closed-loop system that harvests heat conductively from hot rock.
+**Eavor Technologies**, a Calgary-based clean tech firm, is pioneering a transformational approach to geothermal energy through its proprietary **Eavor** Loop technology. Unlike traditional geothermal systems that depend on specific geological conditions such as aquifers and rock porosity, **Eavor** utilizes a closed-loop system that harvests heat conductively from hot rock.
 
 **Critical Takeaways:**
 
-* **Technological Breakthrough:** The **Eavor**\-Loop connects two vertical wells with multilateral horizontal wellbores underground, creating a sealed radiator-like circuit. This removes the "dry hole" risk associated with traditional geothermal projects.  
-* **Strategic Business Model:** The company employs a "go-first" strategy, absorbing high initial commercialization costs to descend the learning curve. The ultimate goal is a licensing model, charging fees to third-party operators who will deploy the technology at scale.  
+* **Technological Breakthrough:** The **Eavor**\-Loop connects two vertical wells with multilateral horizontal wellbores underground, creating a sealed radiator-like circuit. This removes the dry hole risk associated with traditional geothermal projects.  
+* **Strategic Business Model:** The company employs a go-first strategy, absorbing high initial commercialization costs to descend the learning curve. The ultimate goal is a licensing model, charging fees to third-party operators who will deploy the technology at scale.  
 * **First Commercial Project:** **Eavor** is currently developing its first commercial-scale project in Geretsried, Germany, supported by a €91.6 million grant from the European Union Innovation fund.  
-* **Competitive Advantages:** **Eavor** provides carbon-free, 24/7 base-load power and heat with a land footprint significantly smaller than wind or solar. It also addresses energy security by utilizing domestic heat sources and standard industrial materials, avoiding dependence on foreign "electrostates" for rare minerals.
+* **Competitive Advantages:** **Eavor** provides carbon-free, 24/7 base-load power and heat with a land footprint significantly smaller than wind or solar. It also addresses energy security by utilizing domestic heat sources and standard industrial materials, avoiding dependence on foreign electrostates for rare minerals.
 
 \--------------------------------------------------------------------------------
 
-## **1\. Technological Innovation: The Eavor-Loop**
+## **1\. Technological Innovation: The Eavor Loop**
 
 The core of **Eavor**’s value proposition is the transition from traditional hydrothermal energy to a closed-loop conductive system.
 
-### **Traditional vs. Eavor-Loop Geothermal**
+### **Traditional vs. Eavor Loop Geothermal**
 
-* **Traditional Geothermal:** Requires a "constellation" of specific conditions: heat, an aquifer, and high rock porosity/permeability. Water must flow through the rock itself to collect heat. If the rock is dry or impermeable, the well fails.  
+* **Traditional Geothermal:** Requires a constellation of specific conditions: heat, an aquifer, and high rock porosity/permeability. Water must flow through the rock itself to collect heat. If the rock is dry or impermeable, the well fails.  
 * **Eavor-Loop:** A closed-loop system where water is sealed within the wellbores. It does not rely on the rock's ability to move water. Instead, the system functions like a subsurface radiator, circulating fluid that collects heat through conduction from the surrounding rock.
 
 ### **Engineering and IP**
@@ -596,9 +596,9 @@ The technology leverages advancements from Alberta’s heavy oil and SAGD (Steam
 
 ## **2\. Business Strategy and Scalability**
 
-**Eavor**’s management recognizes that being a first-mover in a "heavy capex" industry involves significant financial risk and a steep learning curve.
+**Eavor**’s management recognizes that being a first-mover in a heavy capex industry involves significant financial risk and a steep learning curve.
 
-### **The "Go First" Philosophy**
+### **The Go First Philosophy**
 
 [Paul Cairns](https://www.linkedin.com/in/paul-cairns-103b2a40/), Chief Business Development Officer, describes the initial commercialization phase as a necessary sacrifice to prove the technology:
 
@@ -622,12 +622,12 @@ The technology leverages advancements from Alberta’s heavy oil and SAGD (Steam
 
 ## **3\. Global Deployment and Target Markets**
 
-The choice of project locations is driven by "market constellations", the intersection of geological heat, energy prices, and government incentives.
+The choice of project locations is driven by market constellations, the intersection of geological heat, energy prices, and government incentives.
 
-### **The German "Showpiece" (Geretsried)**
+### **The German Showpiece (Geretsried)**
 
-* **Context:** The site was previously used for a traditional geothermal project that failed because the wells were "dry" (hot but lacking water flow).  
-* **Significance:** **Eavor** is utilizing the same site to demonstrate that their technology "cannot miss" the heat target. The project serves as a "show home" for Europe to prove the technology’s viability and predictability.  
+* **Context:** The site was previously used for a traditional geothermal project that failed because the wells were dry (hot but lacking water flow).  
+* **Significance:** **Eavor** is utilizing the same site to demonstrate that their technology cannot miss the heat target. The project serves as a show home for Europe to prove the technology’s viability and predictability.  
 * **Revenue Factors:** Energy prices in Germany are significantly higher than in North America (6 to 15 times higher than Alberta), making it the most logical place to absorb the high costs of a first-of-its-kind project.
 
 ### **Target Customers**
@@ -641,7 +641,7 @@ The choice of project locations is driven by "market constellations", the inters
 
 ## **4\. Competitive Analysis: Environmental and Strategic Advantages**
 
-**Eavor** positions itself as the "best of both worlds," combining the reliability of fossil fuels with the zero-emission profile of renewables.
+**Eavor** positions itself as the best of both worlds, combining the reliability of fossil fuels with the zero-emission profile of renewables.
 
 ### **Energy Density and Land Use**
 
@@ -656,16 +656,16 @@ The choice of project locations is driven by "market constellations", the inters
 ### **Resource and Energy Security**
 
 * **Material Intensity:** **Eavor**’s material needs (steel, cement) are similar to coal or natural gas plants, avoiding the high rare-earth mineral requirements of solar and wind.  
-* **Geopolitical Independence:** By utilizing domestic heat, nations avoid dependence on "petrostates" (for fuel) or "electrostates" like China (for specialized minerals and manufacturing). As [Cairns](https://www.linkedin.com/in/paul-cairns-103b2a40/) noted, it is "the heat beneath your feet."  
+* **Geopolitical Independence:** By utilizing domestic heat, nations avoid dependence on petrostates (for fuel) or electrostates like China (for specialized minerals and manufacturing). As [Cairns](https://www.linkedin.com/in/paul-cairns-103b2a40/) noted, it is the heat beneath your feet.  
 * **Water Conservation:** Unlike traditional geothermal or fracking-enhanced geothermal (EGS), which can consume vast amounts of water, the **Eavor**\-Loop is a closed system with negligible water loss or consumption.
 
 \--------------------------------------------------------------------------------
 
 ## **5\. Organizational Structure and Advisory**
 
-**Eavor** emphasizes a high-performance culture, recruiting "A-players" and maintaining an elite advisory board.
+**Eavor** emphasizes a high-performance culture, recruiting A-players and maintaining an elite advisory board.
 
-* **Internal Culture:** The company operates on a "no finger-pointing" and "no one left behind" policy, with a focus on hiring personnel who are more skilled than the founding management in their respective fields.  
+* **Internal Culture:** The company operates on a no finger-pointing and no one left behind policy, with a focus on hiring personnel who are more skilled than the founding management in their respective fields.  
 * **Key Personnel:**  
   * [**John Redfern**](https://www.linkedin.com/in/johnredfern/)**:** CEO and Co-founder.  
   * [**Paul Cairns**](https://www.linkedin.com/in/paul-cairns-103b2a40/)**:** Co-founder and Chief Business Development Officer.  
@@ -684,9 +684,9 @@ The choice of project locations is driven by "market constellations", the inters
 
 ## **Executive Summary**
 
-**Pure Life Carbon Inc.** (PLC) is an Alberta-based clean technology company that has developed a disruptive, bamboo-derived "purpose-built carbon" growing medium designed to replace traditional substrates like peat moss, rockwool, and coco coir. While the greenhouse industry (Controlled Environment Agriculture) is essential for global food security, traditional growing mediums contribute approximately 10% of global greenhouse gas (GHG) emissions. PLC’s technology addresses this by providing a carbon-negative, sterile, and non-degrading medium that enhances crop yields while reducing water and fertilizer requirements by 70–80%.
+**Pure Life Carbon Inc.** (PLC) is an Alberta-based clean technology company that has developed a disruptive, bamboo-derived purpose-built carbon growing medium designed to replace traditional substrates like peat moss, rockwool, and coco coir. While the greenhouse industry (Controlled Environment Agriculture) is essential for global food security, traditional growing mediums contribute approximately 10% of global greenhouse gas (GHG) emissions. PLC’s technology addresses this by providing a carbon-negative, sterile, and non-degrading medium that enhances crop yields while reducing water and fertilizer requirements by 70–80%.
 
-Unlike competitors, PLC operates on a "Substrate as a Service" (SaaS) business model. Because the product does not degrade over time, with performance data spanning over 18 years, the company leases the medium to growers, reclaims it after harvest, recharges it, and re-deploys it. Currently transitioning from a startup to a scale-up, PLC has raised over $20 million through a unique retail investor strategy and is now seeking a $35 million institutional round to vertically integrate its supply chain in Mexico and expand its 40,000-square-foot production facility in Red Deer, Alberta.
+Unlike competitors, PLC operates on a Substrate as a Service (SaaS) business model. Because the product does not degrade over time, with performance data spanning over 18 years, the company leases the medium to growers, reclaims it after harvest, recharges it, and re-deploys it. Currently transitioning from a startup to a scale-up, PLC has raised over $20 million through a unique retail investor strategy and is now seeking a $35 million institutional round to vertically integrate its supply chain in Mexico and expand its 40,000-square-foot production facility in Red Deer, Alberta.
 
 \--------------------------------------------------------------------------------
 
@@ -694,7 +694,7 @@ Unlike competitors, PLC operates on a "Substrate as a Service" (SaaS) business m
 
 ### **Genesis and Vision**
 
-**Pure Life Carbon** was founded roughly six years ago by [Dan Ronald](https://www.linkedin.com/in/daniel-ronald-8bbb112a/), [Chris Vance](https://www.linkedin.com/in/christopherjamesvance/), and [Ryan Rand](https://www.linkedin.com/in/ryanrand5/). The company’s mission is to create clean technologies that "protect and heal the environment while enhancing food production and increasing yields." The technology itself is the result of over 15 years of research by [Dr. Nick Savidov](https://agrifoodexpo.ca/speakers/nick-savidov/), an expert in growing mediums who sought to create an environmentally friendly alternative to the GHG-intensive substrates currently dominating the market.
+**Pure Life Carbon** was founded roughly six years ago by [Dan Ronald](https://www.linkedin.com/in/daniel-ronald-8bbb112a/), [Chris Vance](https://www.linkedin.com/in/christopherjamesvance/), and [Ryan Rand](https://www.linkedin.com/in/ryanrand5/). The company’s mission is to create clean technologies that protect and heal the environment while enhancing food production and increasing yields. The technology itself is the result of over 15 years of research by [Dr. Nick Savidov](https://agrifoodexpo.ca/speakers/nick-savidov/), an expert in growing mediums who sought to create an environmentally friendly alternative to the GHG-intensive substrates currently dominating the market.
 
 ### **Core Objectives**
 
@@ -706,7 +706,7 @@ Unlike competitors, PLC operates on a "Substrate as a Service" (SaaS) business m
 
 ## **Technological Innovation: Purpose-Built Carbon**
 
-PLC distinguishes its product from "biochar," a generic term for biomass-derived carbon. While biochar is often a byproduct used for soil augmentation, PLC’s product is a "purpose-built carbon" designed specifically as a 100% soilless growing medium.
+PLC distinguishes its product from biochar, a generic term for biomass-derived carbon. While biochar is often a byproduct used for soil augmentation, PLC’s product is a purpose-built carbon designed specifically as a 100% soilless growing medium.
 
 | Feature | Pure Life Carbon Medium | Traditional Mediums (Peat/Rockwool) |
 | :---- | :---- | :---- |
@@ -722,11 +722,11 @@ Initially, the N**ational Research Council** (NRC) doubted the possibility of gr
 
 \--------------------------------------------------------------------------------
 
-## **Business Model: "Substrate as a Service" (SaaS)**
+## **Business Model: Substrate as a Service (SaaS)**
 
-PLC is disrupting the traditional "sales and disposal" model of the agricultural industry through a circular leasing economy.
+PLC is disrupting the traditional sales and disposal model of the agricultural industry through a circular leasing economy.
 
-* **Leasing Model:** Instead of selling the medium as a commodity, PLC "rents the dirt" to greenhouses. This provides growers with surety of costs and removes the burden of waste disposal.  
+* **Leasing Model:** Instead of selling the medium as a commodity, PLC rents the dirt to greenhouses. This provides growers with surety of costs and removes the burden of waste disposal.  
 * **Recycling and Recharging:** After a growth cycle is complete, PLC retrieves the medium, puts it through a specialized recycling/recharge facility, and sends it back out for use.  
 * **Asset Compounding:** Every year, the company’s inventory grows, creating a fleet of assets that do not degrade, which the company anticipates will generate significant free cash flow.
 
@@ -783,17 +783,17 @@ PLC is positioning itself as a leader in agricultural carbon protocols. The comp
 
 * **Peat Avoidance:** Working with a technical group (including **Ducks Unlimited** and Intact Insurance) to develop protocols for avoiding the degradation of Canadian peatlands.  
 * **Sequestration Protocols:** Utilizing Climate Action Reserve (CAR) for Improved Forest Management (IFM) in Mexico and Vera protocols for reforestation.  
-* **Avoided Emissions:** Exploring "Scope 3" assets for downstream users (growers and grocers) who can claim avoided emissions by switching from peat to PLC’s medium.
+* **Avoided Emissions:** Exploring Scope 3 assets for downstream users (growers and grocers) who can claim avoided emissions by switching from peat to PLC’s medium.
 
 \--------------------------------------------------------------------------------
 
 ## **Key Insights from Leadership**
 
-"The growing medium itself... has no degradation and performance through time... That turns our business model from a sales model into a leasing model. We effectively rent the dirt", [**John Horseman**](https://www.linkedin.com/in/jon-horsman-35278583)**, CFAO**
+"The growing medium itself... has no degradation and performance through time... That turns our business model from a sales model into a leasing model. We effectively rent the dirt", [**John Horseman**](https://www.linkedin.com/in/jon-horsman-35278583)**,** CFAO
 
-"We always thought it was all about creating a product that costs similar but was recyclable... what we didn't realize is it really significantly enhances the quality of the food. We make a better tomato", [**Gordon Anderson**](https://www.linkedin.com/in/gordon-anderson-b101735b/)**, Director**
+"We always thought it was all about creating a product that costs similar but was recyclable... what we didn't realize is it really significantly enhances the quality of the food. We make a better tomato", [**Gordon Anderson**](https://www.linkedin.com/in/gordon-anderson-b101735b/)**,** Director
 
-"Trying to map bamboo from a carbon perspective is incredibly difficult... there’s 1500 species of bamboo... we’ll be only the second \[company\] that’s going to be able to monetize a forestry bamboo project", [**Chris Vance**](https://www.linkedin.com/in/christopherjamesvance/)**, Sustainability Leader**
+"Trying to map bamboo from a carbon perspective is incredibly difficult... there’s 1500 species of bamboo... we’ll be only the second \[company\] that’s going to be able to monetize a forestry bamboo project", [**Chris Vance**](https://www.linkedin.com/in/christopherjamesvance/)**,** Sustainability Leader
 
 # Episode 007
 
@@ -801,7 +801,7 @@ PLC is positioning itself as a leader in agricultural carbon protocols. The comp
 
 ## **Executive Summary**
 
-This document synthesizes key insights from a technical briefing and interview regarding **Trust Science**, a rapidly growing FinTech company specializing in AI-driven credit underwriting. The central innovation of the company is "Credit Bureau 2.0," a platform designed to identify "Invisible Prime" borrowers, individuals traditionally classified as subprime by legacy scoring systems (like FICO) who are, in reality, creditworthy.
+This document synthesizes key insights from a technical briefing and interview regarding **Trust Science**, a rapidly growing FinTech company specializing in AI-driven credit underwriting. The central innovation of the company is Credit Bureau 2.0, a platform designed to identify Invisible Prime borrowers, individuals traditionally classified as subprime by legacy scoring systems (like FICO) who are, in reality, creditworthy.
 
 **Critical Takeaways:**
 
@@ -809,31 +809,31 @@ This document synthesizes key insights from a technical briefing and interview r
 * **Technological Advantage:** **Trust Science** utilizes a proprietary AI/ML platform that analyzes thousands of variables across five data classes, moving far beyond the 25–75 variables used by traditional bureaus.  
 * **Rapid Growth:** The company was ranked the fourth fastest-growing FinTech in the Western Hemisphere by the Financial Times and Statista, evaluating over 7,000 companies.  
 * **Intellectual Property:** The company holds a formidable patent estate of over 55 patents across 13 countries, with several others pending.  
-* **Strategic Focus:** While the platform has global, multi-industry applicability (e.g., insurance, recruiting), the current commercial focus is laser-targeted on consumer credit for the "lower two-thirds" of the population, specifically in automotive and installment lending.
+* **Strategic Focus:** While the platform has global, multi-industry applicability (e.g., insurance, recruiting), the current commercial focus is laser-targeted on consumer credit for the lower two-thirds of the population, specifically in automotive and installment lending.
 
 \--------------------------------------------------------------------------------
 
 ## **1\. Company Philosophy and Leadership Pedigree**
 
-**Trust Science** was founded by [Evan Schrepko](https://www.linkedin.com/in/evanchrapko/) and his brother [Shane](https://www.linkedin.com/in/shanechrapko/) as a "passion project" to remove human bias and "gut feeling" from business trust assessments. The company emerged from a decade-long "stealth mode" to ensure its AI and ML infrastructure reached commercial maturity.
+**Trust Science** was founded by [Evan Schrepko](https://www.linkedin.com/in/evanchrapko/) and his brother [Shane](https://www.linkedin.com/in/shanechrapko/) as a passion project to remove human bias and gut feeling from business trust assessments. The company emerged from a decade-long stealth mode to ensure its AI and ML infrastructure reached commercial maturity.
 
 ### **Leadership Background**
 
-* [**Evan Schrepko**](https://www.linkedin.com/in/evanchrapko/) **(CEO):** A serial entrepreneur with a track record of significant exits, including **Dockspace** (568M), **PlateSpin** (205M), and **Flow Networks** ($80M). He is a CPA, holds a Columbia University law degree, and is recognized in the "Real Leaders Global 100."  
-* [**Colin Tran**](https://www.linkedin.com/in/cbtran23/) **(VP Corporate Affairs):** A recognized industry leader and the youngest honoree in the history of "Auto Remarketing’s Under 40." He oversees marketing, business development, and strategy.
+* [**Evan Schrepko**](https://www.linkedin.com/in/evanchrapko/) **(CEO):** A serial entrepreneur with a track record of significant exits, including **Dockspace** (568M), **PlateSpin** (205M), and **Flow Networks** ($80M). He is a CPA, holds a Columbia University law degree, and is recognized in the Real Leaders Global 100\.  
+* [**Colin Tran**](https://www.linkedin.com/in/cbtran23/) **(VP Corporate Affairs):** A recognized industry leader and the youngest honoree in the history of Auto Remarketing’s Under 40\. He oversees marketing, business development, and strategy.
 
 \--------------------------------------------------------------------------------
 
-## **2\. The Core Innovation: "Credit Bureau 2.0"**
+## **2\. The Core Innovation: Credit Bureau 2.0**
 
-The platform aims to replace or augment traditional credit bureaus (FICO in the US, Beacon/Vantage in Canada), which are characterized as a 1950s-era monopoly that creates a "Credit Catch-22."
+The platform aims to replace or augment traditional credit bureaus (FICO in the US, Beacon/Vantage in Canada), which are characterized as a 1950s-era monopoly that creates a Credit Catch-22.
 
-### **The "Invisible Prime" Segment**
+### **The Invisible Prime Segment**
 
 * **Definition:** High-quality borrowers who appear risky to traditional systems due to lack of credit history, being new to a country, or being self-employed.  
 * **Scope:** Approximately 60 to 90 million people in North America fall into this category.  
-* **The Problem:** Traditional models often treat negative indicators (like a past bankruptcy) as "nuclear bombs" that disqualify applicants regardless of other positive variables.  
-* **The Solution:** **Trust Science** uses AI to identify interactions between thousands of variables. For example, a variable at position \#3,000 may render a traditional "red flag" irrelevant when viewed in the context of the borrower's modern behavior.
+* **The Problem:** Traditional models often treat negative indicators (like a past bankruptcy) as nuclear bombs that disqualify applicants regardless of other positive variables.  
+* **The Solution:** **Trust Science** uses AI to identify interactions between thousands of variables. For example, a variable at position \#3,000 may render a traditional red flag irrelevant when viewed in the context of the borrower's modern behavior.
 
 ### **Data and Methodology**
 
@@ -843,19 +843,19 @@ The platform aims to replace or augment traditional credit bureaus (FICO in the 
 
 ## **3\. Business Strategy and Market Expansion**
 
-**Trust Science** follows a "Call High" strategy, targeting board members and C-suite executives to ensure top-down support for their disruptive technology.
+**Trust Science** follows a Call High strategy, targeting board members and C-suite executives to ensure top-down support for their disruptive technology.
 
 ### **Target Customers and USP**
 
 * **Primary Customers:** Banks and lenders in automotive finance, installment lending ($10,000 range), and point-of-sale Retail Finance.  
 * **Value Proposition (USP):**  
   * **Predictive Lift:** 40% to 60% statistical improvement in predictive accuracy over competitors.  
-  * **Risk Mitigation:** Allows lenders to expand their "credit box" into the subprime market without increasing actual risk.  
+  * **Risk Mitigation:** Allows lenders to expand their credit box into the subprime market without increasing actual risk.  
   * **Operational Efficiency:** Optimizes deal terms (interest rates, down payments) and reduces the need for manual adjudication.
 
 ### **Business Model and Revenue**
 
-The company avoids "teaching the market a new way to buy" by mimicking existing procurement models:
+The company avoids teaching the market a new way to buy by mimicking existing procurement models:
 
 * **Marketing:** Targeted at Chief Marketing Officers (CMOs) to find creditworthy leads at the top of the funnel.  
 * **Risk/Adjudication:** Sold as a per-score or per-decision fee, typical for Chief Risk Officers.  
@@ -869,32 +869,32 @@ Despite its global aspirations, **Trust Science** is rooted in the Alberta/Edmon
 
 ### **Why Alberta?**
 
-* **Talent Pool:** The **University of Alberta** is home to "grandfathers" of AI science, providing a deep talent pool for cutting-edge ML Ops.  
+* **Talent Pool:** The **University of Alberta** is home to grandfathers of AI science, providing a deep talent pool for cutting-edge ML Ops.  
 * **Support Systems:** Strategic support from entities like **Alberta Innovates**, as well as federal programs like SR\&ED (Scientific Research and Experimental Development) and IRAP.  
 * **Pioneering Mindset:** A culture of self-reliance stemming from the region's agricultural and remote heritage.
 
 ### **Technological Maturity**
 
-* **ML Ops Platform:** The company invested heavily (double-digit millions) to build a bona fide machine learning platform that thrives on "chaos" and stimuli, such as the economic gyrations of 2020 and recent inflation/interest rate shifts.  
+* **ML Ops Platform:** The company invested heavily (double-digit millions) to build a bona fide machine learning platform that thrives on chaos and stimuli, such as the economic gyrations of 2020 and recent inflation/interest rate shifts.  
 * **Compliance:** The platform is built to pass rigorous security, scalability, and legal compliance audits (e.g., CFPB in the US), a necessity for working with major financial institutions like TD Bank.
 
 \--------------------------------------------------------------------------------
 
 ## **5\. Social Impact and Mentorship**
 
-The company emphasizes the "social impact" of financial inclusion. By accurately scoring marginalized groups, young people, immigrants, and those "off the grid", **Trust Science** provides an on-ramp into the modern economy.
+The company emphasizes the social impact of financial inclusion. By accurately scoring marginalized groups, young people, immigrants, and those off the grid, **Trust Science** provides an on-ramp into the modern economy.
 
 ### **Key Insights on Success**
 
-* **Involving the Consumer:** **Trust Science** has found that involving consumers in their own assessment (bi-directional data sharing) is an "unlock" for accuracy without increasing fraud.  
+* **Involving the Consumer:** **Trust Science** has found that involving consumers in their own assessment (bi-directional data sharing) is an unlock for accuracy without increasing fraud.  
 * **Mentorship:** The company utilizes a network of high-profile advisors and investors, including the former CEO of **Manulife** and the former CFO who led **Facebook**'s IPO.  
-* **Transparency:** CEO [Evan Schrepko](https://www.linkedin.com/in/evanchrapko/) maintains a policy of extreme transparency with shareholders, viewing "horror movie" updates as a way to invite strategic help from mentors and investors.
+* **Transparency:** CEO [Evan Schrepko](https://www.linkedin.com/in/evanchrapko/) maintains a policy of extreme transparency with shareholders, viewing horror movie updates as a way to invite strategic help from mentors and investors.
 
 \--------------------------------------------------------------------------------
 
 ## **6\. Future Outlook**
 
-**Trust Science** is currently on an "IPO track" and continues to raise capital on a rolling basis to minimize dilution.
+**Trust Science** is currently on an IPO track and continues to raise capital on a rolling basis to minimize dilution.
 
 | Metric/Focus Area | Status |
 | :---- | :---- |
@@ -903,7 +903,7 @@ The company emphasizes the "social impact" of financial inclusion. By accurately
 | **Upcoming Milestones** | New executive hires in Toronto; significant corporate announcement pending. |
 | **Investment Profile** | High-net-worth individuals, family offices, and emerging interest from Private Equity (PE). |
 
-**Trust Science** remains focused on being a "platform, not a one-trick pony," with future potential to expand into Homeland Security, executive recruiting, and insurance underwriting.
+**Trust Science** remains focused on being a platform, not a one-trick pony, with future potential to expand into Homeland Security, executive recruiting, and insurance underwriting.
 
 # Episode 008
 
@@ -915,9 +915,9 @@ This briefing document synthesizes the insights from the **InterGen** FinTech Br
 
 **Critical Takeaways:**
 
-* **Market Disruption:** **Fillip Fleet** has successfully pivoted from a B2C "fuel price locking" model to a B2B mobile-first payment platform targeting the underserved small-to-midsize business (SMB) fleet market.  
+* **Market Disruption:** **Fillip Fleet** has successfully pivoted from a B2C fuel price locking model to a B2B mobile-first payment platform targeting the underserved small-to-midsize business (SMB) fleet market.  
 * **Operational Growth:** Since its formal launch in January 2022, **Fillip** has scaled to over 250 small businesses, facilitating 1.4 million liters of fuel transactions in Q3 alone.  
-* **Venture Ethos:** **Staircase Venture**s differentiates itself through a "Founder Development Platform," providing non-traditional support such as health coaches, family stipends, and profit-sharing (carry) with founders.  
+* **Venture Ethos:** **Staircase Venture**s differentiates itself through a Founder Development Platform, providing non-traditional support such as health coaches, family stipends, and profit-sharing (carry) with founders.  
 * **Industry Evolution:** The fleet industry is entering a multi-decade transition toward Electric Vehicles (EVs), requiring digital payment foundations to manage the transition and track emissions.  
 * **Investment Climate:** In a challenging Series A market, investors are prioritizing proven unit economics and a path to cash-flow positivity over raw growth.
 
@@ -929,7 +929,7 @@ This briefing document synthesizes the insights from the **InterGen** FinTech Br
 
 ### **Business Evolution and Pivot**
 
-Originally founded to allow individual consumers to lock in fuel prices, the company underwent a "hard right pivot" in January 2021\.
+Originally founded to allow individual consumers to lock in fuel prices, the company underwent a hard right pivot in January 2021\.
 
 * **B2C Limitations:** The original model struggled with monetization and was only attractive when gas prices were rising.  
 * **B2B Opportunity:** The team identified that 75% of Canadian retail gas stations are independently owned and operated, yet these operators and their small business customers were underserved by legacy technology.
@@ -951,7 +951,7 @@ The fleet card market is estimated at $300 billion in North America, but it rema
 
 * **Customer Base:** Over 250 small businesses and thousands of active monthly users.  
 * **Transaction Volume:** 1 million liters in Q2; 1.4 million liters in Q3.  
-* **Market Expansion:** Transitioning from "micro-fleets" (5–25 vehicles) to larger fleets (25–100 vehicles) due to market pull and better unit economics.
+* **Market Expansion:** Transitioning from micro-fleets (5–25 vehicles) to larger fleets (25–100 vehicles) due to market pull and better unit economics.
 
 \--------------------------------------------------------------------------------
 
@@ -961,20 +961,20 @@ The fleet card market is estimated at $300 billion in North America, but it rema
 
 ### **The Founder Development Platform**
 
-While most VCs focus on business-side value (hiring, modeling, strategy), Staircase invests in the "human" side of the enterprise through several unique initiatives:
+While most VCs focus on business-side value (hiring, modeling, strategy), Staircase invests in the human side of the enterprise through several unique initiatives:
 
 * **Professional Growth:** Provision of executive coaches and access to peer support groups for all CEOs.  
 * **Holistic Health:** Access to health coaches via **Cleveland Clinic Canada** to manage stress, sleep, and physical fitness.  
 * **Financial Stability:** Confidential personal financial advisors to assist founders with their own financial planning.  
 * **Family Support:** A family stipend provided in the first year to assist with childcare, elder care, or personal time.  
-* **Profit Sharing:** Uniquely, Staircase shares its "carry" (profits) with the founders in its portfolio to encourage a collaborative ecosystem.
+* **Profit Sharing:** Uniquely, Staircase shares its carry (profits) with the founders in its portfolio to encourage a collaborative ecosystem.
 
 ### **Investment Criteria**
 
 [Janet Bannister](https://www.linkedin.com/in/janetbannister/) outlines a dual focus for investments:
 
-1. **The Team:** Specifically looking for a "can-do" attitude, positive energy, and the technical skills required for complex industries like financial services.  
-2. **The Concept:** A preference for overlooked, "boring" industries (like fuel payments) where legacy players have failed to innovate.
+1. **The Team:** Specifically looking for a can-do attitude, positive energy, and the technical skills required for complex industries like financial services.  
+2. **The Concept:** A preference for overlooked, boring industries (like fuel payments) where legacy players have failed to innovate.
 
 \--------------------------------------------------------------------------------
 
@@ -985,8 +985,8 @@ While most VCs focus on business-side value (hiring, modeling, strategy), Stairc
 **Fillip Fleet** utilizes a verticalized approach to acquisition, focusing on industries with significant vehicle dependencies:
 
 * **Homebuilders and Trades:** Leveraging existing reputations within the construction supply chain.  
-* **Franchises:** Targeting organizations like "**1-800-GOT-JUNK**" and "**Molly Maid**," where individual small fleets aggregate into large national opportunities.  
-* **Process:** The focus remains on shrinking the time to "acquire, convert, and activate" customers digitally to ensure efficient scaling.
+* **Franchises:** Targeting organizations like **1-800-GOT-JUNK** and **Molly Maid**, where individual small fleets aggregate into large national opportunities.  
+* **Process:** The focus remains on shrinking the time to acquire, convert, and activate customers digitally to ensure efficient scaling.
 
 ### **Fundraising in a Shifting Market**
 
@@ -1022,7 +1022,7 @@ Addressing the shift to Electric Vehicles (EVs), [Alice Reimer](https://www.link
 
 ## **Executive Summary**
 
-**ZayZoon** is a Calgary-based FinTech company that provides Earned Wage Access (EWA), a platform enabling employees to access their earned income before their scheduled payday. Operating primarily in the United States, **ZayZoon** serves over 10,000 businesses by integrating directly with over 160 payroll providers. Unlike predatory payday loans, **ZayZoon**'s model focuses on financial empowerment, offering short-term liquidity with low or no fees. Having recently closed a Series B funding round, the company is focused on scaling its core business, expanding its "**ZayZoon** Perks" ecosystem, and exploring a potential re-entry into the Canadian market. Key performance indicators include an exceptional 9-day capital turnover and a high lifetime value (LTV) to customer acquisition cost (CAC) ratio.
+**ZayZoon** is a Calgary-based FinTech company that provides Earned Wage Access (EWA), a platform enabling employees to access their earned income before their scheduled payday. Operating primarily in the United States, **ZayZoon** serves over 10,000 businesses by integrating directly with over 160 payroll providers. Unlike predatory payday loans, **ZayZoon**'s model focuses on financial empowerment, offering short-term liquidity with low or no fees. Having recently closed a Series B funding round, the company is focused on scaling its core business, expanding its **ZayZoon** Perks ecosystem, and exploring a potential re-entry into the Canadian market. Key performance indicators include an exceptional 9-day capital turnover and a high lifetime value (LTV) to customer acquisition cost (CAC) ratio.
 
 ## **Company Origins and Evolution**
 
@@ -1030,9 +1030,9 @@ Addressing the shift to Electric Vehicles (EVs), [Alice Reimer](https://www.link
 
 The concept for **ZayZoon** originated from co-founder [Tate Hackert](https://www.linkedin.com/in/tate-hackert/)’s unconventional background in private lending. Between the ages of 16 and 23, Hackert lent over $250,000 to individuals through Craigslist ads, developing a rudimentary risk algorithm while observing the struggles of people living paycheck to paycheck. This experience highlighted the need for a socially responsible alternative to overdraft fees and payday loans.
 
-### **The "Swivel Chair" MVP**
+### **The Swivel Chair MVP**
 
-**ZayZoon**’s Minimum Viable Product (MVP) in 2015 was a manual process described as the "swivel chair moment."
+**ZayZoon**’s Minimum Viable Product (MVP) in 2015 was a manual process described as the swivel chair moment.
 
 * **The Process:** A landing page gathered employee data, the team would manually transfer funds via Interac e-Transfer and then invoice the employer for repayment.  
 * **Validation:** Over five months, the team advanced approximately $30,000, proving that employers were willing to allow third parties to manage employee advances.
@@ -1043,7 +1043,7 @@ Although based in Calgary, **ZayZoon** pivoted 100% of its business to the U.S. 
 
 ## **The Earned Wage Access (EWA) Model**
 
-EWA is defined as a tool for "upward financial mobility." It treats earned wages as a personal income statement item that has been accrued but not yet hit the cash flow statement.
+EWA is defined as a tool for upward financial mobility. It treats earned wages as a personal income statement item that has been accrued but not yet hit the cash flow statement.
 
 ### **Key Differentiators: EWA vs. Payday Loans**
 
@@ -1051,7 +1051,7 @@ EWA is defined as a tool for "upward financial mobility." It treats earned wages
 
 | Feature | Payday Loans | ZayZoon (EWA) |
 | :---- | :---- | :---- |
-| **Source of Funds** | Borrowing from "future self" | Accessing already earned income |
+| **Source of Funds** | Borrowing from future self | Accessing already earned income |
 | **Cost** | Hundreds of percent in interest | $0 to $5 flat fee |
 | **Risk Management** | High loss rates (15–20%) | Direct payroll deduction (near-zero risk) |
 | **Impact** | Debt cycles/embarrassment | Empowerment/productivity |
@@ -1062,7 +1062,7 @@ EWA is defined as a tool for "upward financial mobility." It treats earned wages
 
 **ZayZoon** utilizes a B2B2E (Business-to-Business-to-Employee) model, primarily reaching the end-user through payroll partnerships.
 
-* **Payroll Partnerships:** The company is partnered with over 160 payroll providers. This channel allows **ZayZoon** to "white glove" the service for employers, requiring zero administrative work from the business side.  
+* **Payroll Partnerships:** The company is partnered with over 160 payroll providers. This channel allows **ZayZoon** to white glove the service for employers, requiring zero administrative work from the business side.  
 * **ADP Partnership:** **ZayZoon** was a pioneer in the ADP marketplace. Despite an initial two-year regulatory hiatus starting in 2016, the partnership was revitalized, leading to **ZayZoon** being named ADP Marketplace Partner of the Year (out of 650 software companies).  
 * **Target Market:** Small and Medium-sized Businesses (SMBs) with 2,000 employees or less. This segment represents 99% of U.S. businesses and half the workforce.
 
@@ -1079,7 +1079,7 @@ EWA is defined as a tool for "upward financial mobility." It treats earned wages
 
 ## **Product Ecosystem: ZayZoon Perks**
 
-Beyond EWA, **ZayZoon** is developing a marketplace of services aimed at saving 10 million employees a total of $10 billion. These "Perks" serve as both a social mission and a profit center through revenue-sharing agreements.
+Beyond EWA, **ZayZoon** is developing a marketplace of services aimed at saving 10 million employees a total of $10 billion. These Perks serve as both a social mission and a profit center through revenue-sharing agreements.
 
 * **Gas Card:** A card usable at any U.S. station offering 5% cash back.  
 * **Insurance Savings:** Average customer savings of $72 on annual auto insurance premiums.  
@@ -1092,7 +1092,7 @@ Beyond EWA, **ZayZoon** is developing a marketplace of services aimed at saving 
 
 ### **Tactical Culture Management**
 
-* **Daily Scrums:** All 110 employees participate in a 15-minute daily call featuring announcements, team presentations, and "shout-outs" tied to core values like "Mastery."  
+* **Daily Scrums:** All 110 employees participate in a 15-minute daily call featuring announcements, team presentations, and shout-outs tied to core values like Mastery.  
 * **Mentorship Philosophy:** The leadership views mentorship as a two-way bond where the mentee must provide value back to the mentor.  
 * **Leadership Values:** Focus on resourcefulness and relentlessness. CEO [Darcy Tuer](https://www.linkedin.com/in/darcytuer/) emphasizes being deliberate with time, focusing on 13-week, 12-month, and 3-year horizons.
 
@@ -1100,12 +1100,12 @@ Beyond EWA, **ZayZoon** is developing a marketplace of services aimed at saving 
 
 ### **Expansion Plans**
 
-* **Return to Canada:** **ZayZoon** is actively exploring a re-entry into the Canadian market for 2024 or 2025 due to increasing "pull" from businesses.  
+* **Return to Canada:** **ZayZoon** is actively exploring a re-entry into the Canadian market for 2024 or 2025 due to increasing pull from businesses.  
 * **Workforce Growth:** The company plans to scale from 110 employees to approximately 170–180 in the near term.
 
 ### **Institutional Mission**
 
-The overarching goal remains the displacement of predatory lending. With more payday loan locations in the U.S. than **McDonald**’s and **Starbucks** combined, **ZayZoon** aims to "cure the world of those broken businesses" by providing a more efficient, technology-driven alternative.
+The overarching goal remains the displacement of predatory lending. With more payday loan locations in the U.S. than **McDonald**’s and **Starbucks** combined, **ZayZoon** aims to cure the world of those broken businesses by providing a more efficient, technology-driven alternative.
 
 # Episode 010
 
@@ -1115,7 +1115,7 @@ The overarching goal remains the displacement of predatory lending. With more pa
 
 **DrugBank**, an Edmonton-based health technology company, has established itself as a critical infrastructure provider in the global pharmaceutical and drug discovery landscape. Originating from the **University of Alberta**, the company has transitioned from a renowned academic resource into a high-growth commercial enterprise. **DrugBank** operates a comprehensive biomedical knowledge base that structures and links complex data, including drug targets, chemical structures, and clinical trials, using proprietary machine learning technologies.
 
-With over 21 million unique annual users and a client base that includes 11 of the top 20 global pharmaceutical companies, **DrugBank** serves as a "Bloomberg terminal for pharmacology." The company utilizes a SaaS (Software-as-a-Service) model, leveraging a massive inbound funnel driven by its status as a trusted industry standard. As the pharmaceutical industry increasingly adopts AI for drug discovery, **DrugBank** provides the foundational, normalized data necessary to train models and accelerate the development of life-changing therapies.
+With over 21 million unique annual users and a client base that includes 11 of the top 20 global pharmaceutical companies, **DrugBank** serves as a Bloomberg terminal for pharmacology. The company utilizes a SaaS (Software-as-a-Service) model, leveraging a massive inbound funnel driven by its status as a trusted industry standard. As the pharmaceutical industry increasingly adopts AI for drug discovery, **DrugBank** provides the foundational, normalized data necessary to train models and accelerate the development of life-changing therapies.
 
 ## **Company Origins and Evolution**
 
@@ -1136,7 +1136,7 @@ The transition from an academic prototype to a commercial tool was driven by ide
 
 ## **Core Technology and Product Capabilities**
 
-**DrugBank** functions as an "AI researcher" that reads, structures, and links vast amounts of disparate scientific literature.
+**DrugBank** functions as an AI researcher that reads, structures, and links vast amounts of disparate scientific literature.
 
 ### **The Knowledge Base**
 
@@ -1159,7 +1159,7 @@ The platform is built on a proprietary biomedical knowledge base that covers:
 
 ### **Machine Learning Infrastructure**
 
-**DrugBank** uses machine learning and natural language processing (NLP) to curate the knowledge base daily. The technology's primary value lies in linking information; for instance, connecting a clinical trial result to a specific molecular structure and its side effect profile. This structured approach solves the "data normalization" problem, which is a significant hurdle for pharmaceutical data science departments.
+**DrugBank** uses machine learning and natural language processing (NLP) to curate the knowledge base daily. The technology's primary value lies in linking information; for instance, connecting a clinical trial result to a specific molecular structure and its side effect profile. This structured approach solves the data normalization problem, which is a significant hurdle for pharmaceutical data science departments.
 
 ## **Commercial Strategy and Revenue Model**
 
@@ -1167,7 +1167,7 @@ The platform is built on a proprietary biomedical knowledge base that covers:
 
 **DrugBank** employs a SaaS business model, providing customers with recurring access to real-time updates and high-quality data.
 
-* **Inbound Funnel:** The company benefits from a "cult following" and massive organic traffic to its website, which serves as the primary entry point for the platform.  
+* **Inbound Funnel:** The company benefits from a cult following and massive organic traffic to its website, which serves as the primary entry point for the platform.  
 * **Freemium to Premium:** Users often start with the free site; the company then works to convert these users into premium subscribers through an internal sales and client success team.
 
 ### **Market Reach**
@@ -1184,9 +1184,9 @@ The company currently has over 185 paying customers, including nearly 60% of the
 
 ## **Investment Rationale and Industry Trends**
 
-### **The "Bloomberg Terminal" for Pharma**
+### **The Bloomberg Terminal for Pharma**
 
-Investor [Jehangir](https://www.linkedin.com/in/jehangir-appoo/), who invested in 2020, characterizes **DrugBank** as the "Bloomberg terminal for pharmacology." Prior to **DrugBank**, clinicians and researchers relied on "big encyclopedia-type books" (CPS) that were difficult to search or link. **DrugBank** provides a digital, interconnected alternative that becomes more valuable with every new piece of information added to the network.
+Investor [Jehangir](https://www.linkedin.com/in/jehangir-appoo/), who invested in 2020, characterizes **DrugBank** as the Bloomberg terminal for pharmacology. Prior to **DrugBank**, clinicians and researchers relied on big encyclopedia-type books (CPS) that were difficult to search or link. **DrugBank** provides a digital, interconnected alternative that becomes more valuable with every new piece of information added to the network.
 
 ### **Convergence of AI and Drug Discovery**
 
@@ -1200,10 +1200,10 @@ The pharmaceutical industry is currently experiencing a revolution driven by AI,
 
 ### **Workplace Excellence**
 
-**DrugBank** has been recognized as one of the "Best Places to Work," a status the leadership attributes to several core philosophies:
+**DrugBank** has been recognized as one of the Best Places to Work, a status the leadership attributes to several core philosophies:
 
 * **Intrinsic Motivation:** Focusing on work that has a tangible impact on human health.  
-* **Intentionality in Culture:** Since moving to a hybrid/remote model during COVID-19, the company has become more intentional about culture through "buddy programs" and structured welcome meetings.  
+* **Intentionality in Culture:** Since moving to a hybrid/remote model during COVID-19, the company has become more intentional about culture through buddy programs and structured welcome meetings.  
 * **Autonomy:** Providing team members with the tools and responsibility to see the direct results of their work.
 
 ### **Mentorship and Resilience**
@@ -1211,7 +1211,7 @@ The pharmaceutical industry is currently experiencing a revolution driven by AI,
 The leadership team emphasizes the importance of both formal and informal mentorship.
 
 * **External Expertise:** Leveraging investors and a network of peers to unlock new growth stages.  
-* **Curiosity:** Chief Strategy Officer [Alexa McCarron](https://www.linkedin.com/in/alexamccarron/) advocates for an "always be curious" mindset, learning from other industries that may be ahead of healthcare in technology adoption.
+* **Curiosity:** Chief Strategy Officer [Alexa McCarron](https://www.linkedin.com/in/alexamccarron/) advocates for an always be curious mindset, learning from other industries that may be ahead of healthcare in technology adoption.
 
 ## **Future Outlook**
 
@@ -1223,11 +1223,11 @@ The leadership team emphasizes the importance of both formal and informal mentor
 
 ### **Key Insights and Quotes**
 
-"**DrugBank** really, in our mind, was like the Bloomberg terminal for pharmacology. Anybody who’s touching a drug for whatever reason would be using **DrugBank**", [**Jehangir**](https://www.linkedin.com/in/jehangir-appoo/)**, Investor**
+"**DrugBank** really, in our mind, was like the Bloomberg terminal for pharmacology. Anybody who’s touching a drug for whatever reason would be using **DrugBank**", [**Jehangir**](https://www.linkedin.com/in/jehangir-appoo/)**,** Investor
 
-"We built essentially an AI researcher... Our platform goes out, it reads the literature, it reads patents, it reads clinical trial records... we make it all ready to use and ready to access", [**Michael Wilson**](https://www.linkedin.com/in/m1chaelwilson/)**, CEO**
+"We built essentially an AI researcher... Our platform goes out, it reads the literature, it reads patents, it reads clinical trial records... we make it all ready to use and ready to access", [**Michael Wilson**](https://www.linkedin.com/in/m1chaelwilson/)**,** CEO
 
-"Healthcare has a 10-year lag at least on technology. Being able to learn from other folks, other industries, is really valuable", [**Alexa McCarron**](https://www.linkedin.com/in/alexamccarron/)**, CSO**
+"Healthcare has a 10-year lag at least on technology. Being able to learn from other folks, other industries, is really valuable", [**Alexa McCarron**](https://www.linkedin.com/in/alexamccarron/)**,** CSO
 
 # Episode 011
 
@@ -1235,9 +1235,9 @@ The leadership team emphasizes the importance of both formal and informal mentor
 
 ## **Executive Summary**
 
-**Circle Cardiovascular Imaging** (Circle) represents a 15-year success story in the HealthTech sector, evolving from a **University of Calgary** startup in 2007 to a dominant global player with a 65% market share in its specialized vertical. Founded to address inefficiencies in cardiovascular diagnostics, the company leveraged cardiac MRI technology as a "Swiss army knife" for heart health, eventually integrating artificial intelligence to automate complex post-processing workflows.
+**Circle Cardiovascular Imaging** (Circle) represents a 15-year success story in the HealthTech sector, evolving from a **University of Calgary** startup in 2007 to a dominant global player with a 65% market share in its specialized vertical. Founded to address inefficiencies in cardiovascular diagnostics, the company leveraged cardiac MRI technology as a Swiss army knife for heart health, eventually integrating artificial intelligence to automate complex post-processing workflows.
 
-The company’s trajectory is defined by several strategic pillars: a "global-first" commercialization strategy, vendor-agnostic software that attracted partnerships with hardware giants like **GE** and **Siemens**, and a transition from a capital-purchase model to a subscription-based SaaS model. After years of angel-funded growth and a $20 million Series A in 2018, the company was acquired by the private equity firm **Thoma Bravo** in 2022\. This briefing outlines the technical foundations, commercial strategies, and regional ecosystem dynamics that facilitated Circle's rise to market leadership.
+The company’s trajectory is defined by several strategic pillars: a global-first commercialization strategy, vendor-agnostic software that attracted partnerships with hardware giants like **GE** and **Siemens**, and a transition from a capital-purchase model to a subscription-based SaaS model. After years of angel-funded growth and a $20 million Series A in 2018, the company was acquired by the private equity firm **Thoma Bravo** in 2022\. This briefing outlines the technical foundations, commercial strategies, and regional ecosystem dynamics that facilitated Circle's rise to market leadership.
 
 \--------------------------------------------------------------------------------
 
@@ -1256,19 +1256,19 @@ The company emerged from a collaboration between business expertise and clinical
 
 * **Leadership Pair:** [Greg Grodnik](https://www.linkedin.com/in/greg-ogrodnick-918b847/), a business leader with a background in medical media (co-founder of theheart.org), partnered with [Dr. Matthias Friedrich](https://www.linkedin.com/in/matthiasfriedrich/), a pioneer in cardiac MRI who had been recruited to the **University of Calgary**.  
 * **Initial Development:** [Dr. Matthias Friedrich](https://www.linkedin.com/in/matthiasfriedrich/) and a colleague in Berlin had begun coding the software that would become cvi42 out of clinical necessity.  
-* **Incubation:** The company was launched through the "Ignite" program, a precursor to **Innovate Calgary**. It began with $200,000 in startup capital and significant "sweat equity."
+* **Incubation:** The company was launched through the Ignite program, a precursor to **Innovate Calgary**. It began with $200,000 in startup capital and significant sweat equity.
 
 \--------------------------------------------------------------------------------
 
 ## **Strategic Growth and Commercialization**
 
-### **The "Global-First" Approach**
+### **The Global-First Approach**
 
 Unlike many startups that focus on their local market, Circle immediately targeted international markets where cardiac MRI adoption was more advanced.
 
 * **Market Entry:** The company achieved its first commercial sale within six months and FDA approval within twelve months of becoming operational in 2008\.  
 * **Europe and the U.S.:** Circle focused on Europe early on due to the rapid growth of the field there, while simultaneously establishing a presence in the United States.  
-* **Targeting the "Pyramid":** The sales strategy prioritized high-volume, top-tier centers and "key opinion leaders" who published research. This created a trickle-down effect on community hospitals.
+* **Targeting the Pyramid:** The sales strategy prioritized high-volume, top-tier centers and key opinion leaders who published research. This created a trickle-down effect on community hospitals.
 
 ### **Business Model Evolution**
 
@@ -1300,11 +1300,11 @@ The primary barrier to cardiac MRI adoption was the time required for post-proce
 
 ### **The Exit Process**
 
-In 2021, Circle initially explored an IPO during a "frothy" market. However, as the market cooled, the board pivoted.
+In 2021, Circle initially explored an IPO during a frothy market. However, as the market cooled, the board pivoted.
 
-* **Thoma Bravo Engagement:** Circle met with **Thoma Bravo**, a leading software-focused private equity firm, in October 2021\. The firm was interested in Circle as a "platform technology" that could be used to acquire other cardiovascular or medical imaging companies.  
+* **Thoma Bravo Engagement:** Circle met with **Thoma Bravo**, a leading software-focused private equity firm, in October 2021\. The firm was interested in Circle as a platform technology that could be used to acquire other cardiovascular or medical imaging companies.  
 * **Transaction:** The deal moved rapidly, closing in April 2022\.  
-* **Post-Transaction Environment:** Under **Thoma Bravo**, Circle operates with "operating partners", experienced CEOs and CFOs, who sit on the board to provide expertise in scaling. The focus remains on a combination of organic growth and "inter-organic" growth through further acquisitions.
+* **Post-Transaction Environment:** Under **Thoma Bravo**, Circle operates with operating partners, experienced CEOs and CFOs, who sit on the board to provide expertise in scaling. The focus remains on a combination of organic growth and inter-organic growth through further acquisitions.
 
 \--------------------------------------------------------------------------------
 
@@ -1312,9 +1312,9 @@ In 2021, Circle initially explored an IPO during a "frothy" market. However, as 
 
 ### **Historical Challenges**
 
-Starting a HealthTech company in Calgary in 2007 was described as "hard sledding."
+Starting a HealthTech company in Calgary in 2007 was described as hard sledding.
 
-* **Lack of Recognition:** HealthTech was not a recognized or "sexy" sector in Alberta at the time.  
+* **Lack of Recognition:** HealthTech was not a recognized or sexy sector in Alberta at the time.  
 * **Institutional Resistance:** While the **University of Calgary** has since moved toward becoming more entrepreneurial, early efforts were often hampered by bureaucracy and a lack of appetite for long-term tech transfer programs.  
 * **Market Access:** The local market was too small (only two hospitals could utilize the technology at the time), necessitating the immediate global focus.
 
@@ -1322,7 +1322,7 @@ Starting a HealthTech company in Calgary in 2007 was described as "hard sledding
 
 The ecosystem has matured significantly, with the **University of Calgary** now ranking as a top institution for startups in Canada.
 
-* **Capital Availability:** Unlike the early days of "Ignite," there is now significantly more capital available for university-linked startups (e.g., $23 million deployed in recent years).  
+* **Capital Availability:** Unlike the early days of Ignite, there is now significantly more capital available for university-linked startups (e.g., $23 million deployed in recent years).  
 * **Remaining Barriers:** Challenges persist regarding access to healthcare data within the **Alberta Health Services** (AHS) system for building AI models. Bureaucracy remains a hurdle for outside companies compared to internal researchers.  
 * **Reinvestment:** There is a call for the proceeds from successful exits (like the university’s equity in Circle) to be transparently tracked and reinvested back into the next generation of startups rather than being absorbed into general administrative funds.
 
@@ -1332,11 +1332,11 @@ The ecosystem has matured significantly, with the **University of Calgary** now 
 
 | Theme | Insight |
 | :---- | :---- |
-| **Culture** | Circle maintained a "family-oriented" culture, involving employees' families in company activities to build a sense of purpose and belonging. |
+| **Culture** | Circle maintained a family-oriented culture, involving employees' families in company activities to build a sense of purpose and belonging. |
 | **Talent Retention** | Despite competition from U.S. companies offering remote work in USD, Circle emphasized in-office collaboration (3-4 days a week) to maintain cohesiveness. |
-| **Execution** | Leadership emphasizes that "great ideas don't win; execution wins." This requires building a team with diverse skill sets rather than relying on a single founder. |
+| **Execution** | Leadership emphasizes that great ideas don't win; execution wins. This requires building a team with diverse skill sets rather than relying on a single founder. |
 | **Investor Relations** | [Ogrodncik](https://www.linkedin.com/in/greg-ogrodnick-918b847/) advises treating shareholders as partners through transparent communication, noting that many of his 40 original angels did not want to exit in 2022 because they enjoyed being part of the journey. |
-| **Perseverance** | Entrepreneurship is described as a "grind" that requires deep personal resilience and strong family support to weather the inevitable "bumps along the road." |
+| **Perseverance** | Entrepreneurship is described as a grind that requires deep personal resilience and strong family support to weather the inevitable bumps along the road. |
 
 # Episode 012
 
@@ -1350,15 +1350,15 @@ The company’s primary brands include Freddy (HIV prevention), Frida (ADHD and 
 
 ## **Origin and Mission**
 
-**PurposeMed** originated from clinical observations made by co-founder [Dr. Hussein Moloo](https://www.linkedin.com/in/hmoloo/) in a Calgary emergency room. He noted a "revolving door" of patients whose underlying health issues were not being addressed by the standard system.
+**PurposeMed** originated from clinical observations made by co-founder [Dr. Hussein Moloo](https://www.linkedin.com/in/hmoloo/) in a Calgary emergency room. He noted a revolving door of patients whose underlying health issues were not being addressed by the standard system.
 
 * **Initial Focus:** The company originally intended to serve rural and Indigenous Canadians using technology to bridge access gaps.  
 * **Pivot to Telemedicine:** Following the onset of COVID-19 in March 2020, **PurposeMed** launched the first free telemedicine service in Alberta, seeing thousands of patients for COVID-related consultations.  
-* **Specialized Verticals:** Recognizing that general telemedicine lacked sustainable economics, the company pivoted to "care verticals", complex conditions requiring specialized knowledge that family doctors may lack and for which specialist wait times are prohibitively long.
+* **Specialized Verticals:** Recognizing that general telemedicine lacked sustainable economics, the company pivoted to care verticals, complex conditions requiring specialized knowledge that family doctors may lack and for which specialist wait times are prohibitively long.
 
 ## **Core Service Verticals and Market Data**
 
-**PurposeMed** operates through distinct brands tailored to specific medical needs. Each brand is validated through real-world "demand tests" using mock websites and ad-spend analysis before a full launch.
+**PurposeMed** operates through distinct brands tailored to specific medical needs. Each brand is validated through real-world demand tests using mock websites and ad-spend analysis before a full launch.
 
 ### **Brand Overview and Patient Reach**
 
@@ -1387,28 +1387,28 @@ The company employs different revenue strategies depending on the nature of the 
 
 In the U.S., **PurposeMed** utilizes a B2B2C model:
 
-* **Clinic Partnerships:** The company acts as the "virtual care arm" for existing brick-and-mortar LGBTQ+ nonprofit clinics.  
+* **Clinic Partnerships:** The company acts as the virtual care arm for existing brick-and-mortar LGBTQ+ nonprofit clinics.  
 * **340B Program:** Partnerships allow **PurposeMed** to tap into the 340B regulatory sliver of the U.S. healthcare system, where nonprofit clinics pay **PurposeMed** to acquire and serve patients, leveraging the clinics' high pharmaceutical margins.
 
 ### **Capital Discipline and Financing**
 
 **PurposeMed** has intentionally limited venture capital (VC) involvement to protect its mission and maintain founder control.
 
-* **Control:** Avoiding VCs prevents pressure to prioritize "multi-billion dollar exits" over clinical integrity.  
+* **Control:** Avoiding VCs prevents pressure to prioritize multi-billion dollar exits over clinical integrity.  
 * **Debt Financing:** Growth has been primarily funded through non-dilutive debt, including private individuals, **ATB Bank**, and interest-free loans from the Canadian government.  
-* **Independence:** The company maintains a strict "firewall" between clinical decisions and business operations; clinicians are not measured by prescribing rates.
+* **Independence:** The company maintains a strict firewall between clinical decisions and business operations; clinicians are not measured by prescribing rates.
 
 ## **Corporate Culture and Operations**
 
 ### **Product-Market Fit**
 
-[Amaan Banwait](https://www.linkedin.com/in/amaanbanwait/), Chief Commercialization Officer, defines product-market fit as a "feeling" where customers promote the product and the team is energized. This contrasts with earlier, unsuccessful ventures where the founders felt they were "knocking their heads against a wall."
+[Amaan Banwait](https://www.linkedin.com/in/amaanbanwait/), Chief Commercialization Officer, defines product-market fit as a feeling where customers promote the product and the team is energized. This contrasts with earlier, unsuccessful ventures where the founders felt they were knocking their heads against a wall.
 
 ### **Talent and Leadership**
 
-* **Scaling Challenges:** Transitioning from three founders to 180 employees required shifting from manual, "scrappy" processes to scalable systems capable of delivering an "11 out of 10" patient experience.  
+* **Scaling Challenges:** Transitioning from three founders to 180 employees required shifting from manual, scrappy processes to scalable systems capable of delivering an 11 out of 10 patient experience.  
 * **Founding Bedrock:** The three co-founders ([Amaan](https://www.linkedin.com/in/amaanbanwait/), [Hussein](https://www.linkedin.com/in/hmoloo/), and [Pete](https://www.linkedin.com/in/pete-macleod/)) are connected through family and long-term friendships, creating a foundation of trust.  
-* **Radical Candor:** The leadership team utilizes regular, "brutal" feedback sessions to address blind spots and maintain accountability.  
+* **Radical Candor:** The leadership team utilizes regular, brutal feedback sessions to address blind spots and maintain accountability.  
 * **Current Recruitment Priorities:** The company is currently seeking senior talent, including a Director of Engineering, a General Manager for Freddy Canada, a Chief of Staff, and a Director of Brand.
 
 ### **Government Relations**
@@ -1421,41 +1421,41 @@ In the U.S., **PurposeMed** utilizes a B2B2C model:
 
 ## **Executive Summary**
 
-The trajectory of **Zedi**, an Alberta-based technology firm, provides a definitive roadmap for the evolution of an oil and gas tech startup into a global scale-up and eventual exit to a Fortune 500 company. Founded in 1987 by [Dr. Toku Ito](https://www.linkedin.com/in/toku-ito-609779a/), **Zedi** transitioned from manual data collection to pioneering the "digital oilfield" through its Smart ALC edge device and integrated SaaS platform.
+The trajectory of **Zedi**, an Alberta-based technology firm, provides a definitive roadmap for the evolution of an oil and gas tech startup into a global scale-up and eventual exit to a Fortune 500 company. Founded in 1987 by [Dr. Toku Ito](https://www.linkedin.com/in/toku-ito-609779a/), **Zedi** transitioned from manual data collection to pioneering the digital oilfield through its Smart ALC edge device and integrated SaaS platform.
 
 The company’s success was defined by several critical strategic pillars:
 
 * **Persistent Innovation:** Launching digital edge devices in an analog, paper-chart-driven industry.  
-* **Business Model Discipline:** Coupling hardware with a recurring revenue SaaS model, ensuring long-term "stickiness" and minimal churn.  
-* **Strategic Growth:** Expanding to 25 countries through partnerships rather than organic efforts, and diversifying "around the well" to include both gas and oil sectors.  
-* **Resilience:** Navigating the "burden" of being a small-cap public company before returning to private ownership and surviving major commodity price crashes through aggressive commercial support for customers.  
+* **Business Model Discipline:** Coupling hardware with a recurring revenue SaaS model, ensuring long-term stickiness and minimal churn.  
+* **Strategic Growth:** Expanding to 25 countries through partnerships rather than organic efforts, and diversifying around the well to include both gas and oil sectors.  
+* **Resilience:** Navigating the burden of being a small-cap public company before returning to private ownership and surviving major commodity price crashes through aggressive commercial support for customers.  
 * **Successful Exit:** An eventual acquisition by **Emerson** in 2019, driven by a healthy EBITDA, a focused SaaS business unit, and cultural alignment.
 
 ## **The Genesis of Innovation: The Smart ALC**
 
-**Zedi** began as a "true Alberta success story" in the late 1980s, financed by friends, family, and provincial grants. The central insight was the automation of a manual, slow process involving downhole probe production and paper charts.
+**Zedi** began as a true Alberta success story in the late 1980s, financed by friends, family, and provincial grants. The central insight was the automation of a manual, slow process involving downhole probe production and paper charts.
 
 * **The Problem:** In the early 90s, oil and gas production relied on physical site visits to collect paper charts and gather volume statements.  
 * **The Solution:** The Smart ALC (introduced in 1991\) was a digital edge device that allowed producers to monitor production and gather data faster.  
-* **Adoption Hurdles:** Adoption was not immediate. The industry was skeptical of digital solutions in a pre-internet, pre-cloud era. The company "poured almost every ounce of capital" into the product and nearly failed before securing a critical early adopter.  
+* **Adoption Hurdles:** Adoption was not immediate. The industry was skeptical of digital solutions in a pre-internet, pre-cloud era. The company poured almost every ounce of capital into the product and nearly failed before securing a critical early adopter.  
 * **Unforeseen Value:** Beyond speed, the technology allowed producers to capture Reservoir data more accurately, which increased the valuation of the producers’ own companies, a major selling point for mid-sized firms.
 
 ## **Strategic Business Model and Growth**
 
-**Zedi**'s business model evolved from a hardware focus to a software-centric "Intelligence as a Service" approach.
+**Zedi**'s business model evolved from a hardware focus to a software-centric Intelligence as a Service approach.
 
 ### **The SaaS and Hardware Integration**
 
-The company applied an "intelligent strategy" where the hardware was inextricably linked to a platform.
+The company applied an intelligent strategy where the hardware was inextricably linked to a platform.
 
 * **Recurring Revenue:** Customers could not purchase a Smart ALC without signing up for the platform, which provided gas volume statements and regulatory compliance.  
 * **Intelligence:** The value was not in the device itself but in the data-processing capability of the platform.
 
-### **Diversification: "Surrounding the Well"**
+### **Diversification: Surrounding the Well**
 
 In the early 2010s, **Zedi** adopted a strategy to provide a holistic value proposition around the wellhead.
 
-* **Oil and Gas Mix:** Originally gas-heavy and Canadian-focused, **Zedi** acquired a US field services company and a hydraulic pump jack technology to "get more oily" and understand the specific needs of oil producers.  
+* **Oil and Gas Mix:** Originally gas-heavy and Canadian-focused, **Zedi** acquired a US field services company and a hydraulic pump jack technology to get more oily and understand the specific needs of oil producers.  
 * **The Cost of Complexity:** At its peak, **Zedi** managed five distinct lines of business. While this drove market share, it created high capital requirements and internal management strain.
 
 ### **International Expansion**
@@ -1470,9 +1470,9 @@ In the early 2010s, **Zedi** adopted a strategy to provide a holistic value prop
 
 | Phase | Description |
 | :---- | :---- |
-| **Public Company** | Described as a "burden" and a "beauty contest" that consumed too much organizational oxygen and capacity. |
+| **Public Company** | Described as a burden and a beauty contest that consumed too much organizational oxygen and capacity. |
 | **Private Transition** | Went private in 2014, owned by the management team, a strategic investor, and private investors. |
-| **2015 Crash** | Survived a major commodity price drop by proactively reducing prices and offering a "Service Protection Program" (free repair/replace) to prevent churn. |
+| **2015 Crash** | Survived a major commodity price drop by proactively reducing prices and offering a Service Protection Program (free repair/replace) to prevent churn. |
 | **SaaS Focus** | Realized that five lines of business were valued differently, eventually consolidated back toward a pure SaaS model. |
 
 ## **The Exit: Acquisition by Emerson**
@@ -1485,7 +1485,7 @@ The sale to **Emerson** in 2019 was the result of a deliberate, management-led p
 
 1. **Too Complex:** An attempt to sell all five diverse lines of business to a single buyer.  
 2. **Too Unstable:** A prospective Initial Coin Offering (ICO) with a Swiss company that evaporated quickly.  
-3. **The "Goldilocks" Deal:** Cultural alignment with **Emerson**, facilitated by a long-standing relationship with **Spartan** Controls (an **Emerson** partner).
+3. **The Goldilocks Deal:** Cultural alignment with **Emerson**, facilitated by a long-standing relationship with **Spartan** Controls (an **Emerson** partner).
 
 ### **Valuation Drivers**
 
@@ -1498,9 +1498,9 @@ The sale to **Emerson** in 2019 was the result of a deliberate, management-led p
 Reflecting on the multi-decade journey, [Spagnolo](https://www.linkedin.com/in/larryspagnolo/) highlights several key takeaways for tech scale-ups:
 
 * **Focus is Mandatory:** Managing too many lines of business distracts from the core mission and complicates valuation.  
-* **The "Early Adopter" is Essential:** A startup needs a vocal champion who will "scream from the hilltops" to build credibility in a conservative industry.  
+* **The Early Adopter is Essential:** A startup needs a vocal champion who will scream from the hilltops to build credibility in a conservative industry.  
 * **Commercialization vs. R\&D:** Companies must focus as much on *why* someone will pay and the buyer persona (Executive vs. CTO) as they do on the technology itself.  
-* **Cash and Security:** "Cash is king," and in the cloud era, cyber security is an "arms race" that requires obsessive attention.  
+* **Cash and Security:** Cash is king, and in the cloud era, cyber security is an arms race that requires obsessive attention.  
 * **Contract Longevity:** Fighting for respect daily is exhausting; promoting longer-term contracts provides better organizational stability.  
 * **Employee Alignment:** Implementing profit-sharing early (as **Zedi** now has under Emerson) energizes the team and aligns interests.
 
@@ -1514,9 +1514,9 @@ Today, **Zedi** operates as a purely SaaS business unit within **Emerson**. It h
 
 ## **Executive Summary**
 
-The following briefing synthesizes key insights from a presentation by **SensorUp**, a Calgary-based technology company specializing in methane emission reduction. Originally founded as a "Sensor Web" research project by Professor [Steve Liang](https://www.linkedin.com/in/steve-liang-198b44/), the company has evolved from a high-end R\&D lab serving organizations like NASA and Lockheed Martin into a specialized Enterprise Resource Planning (ERP) platform for the oil and gas industry.
+The following briefing synthesizes key insights from a presentation by **SensorUp**, a Calgary-based technology company specializing in methane emission reduction. Originally founded as a Sensor Web research project by Professor [Steve Liang](https://www.linkedin.com/in/steve-liang-198b44/), the company has evolved from a high-end R\&D lab serving organizations like NASA and Lockheed Martin into a specialized Enterprise Resource Planning (ERP) platform for the oil and gas industry.
 
-**SensorUp** addresses a critical gap in the market: the inability of industrial emitters to operationalize and scale methane leak detection and repair (LDAR) amidst a fragmented landscape of siloed sensor data. By providing a "single pane of glass" that aggregates data from satellites, aircraft, drones, and ground sensors, **SensorUp** enables producers to achieve regulatory compliance, increase revenue by keeping product in the pipe, and access "responsible gas" price premiums. Strategic success has been driven by participation in the **Creative Destruction Lab** (CDL), securing investment from the Oil and Gas Climate Initiative (OGCI), and a leadership transition that brought in enterprise-scale executive talent to move the company from technology-led to market-driven.
+**SensorUp** addresses a critical gap in the market: the inability of industrial emitters to operationalize and scale methane leak detection and repair (LDAR) amidst a fragmented landscape of siloed sensor data. By providing a single pane of glass that aggregates data from satellites, aircraft, drones, and ground sensors, **SensorUp** enables producers to achieve regulatory compliance, increase revenue by keeping product in the pipe, and access responsible gas price premiums. Strategic success has been driven by participation in the **Creative Destruction Lab** (CDL), securing investment from the Oil and Gas Climate Initiative (OGCI), and a leadership transition that brought in enterprise-scale executive talent to move the company from technology-led to market-driven.
 
 \--------------------------------------------------------------------------------
 
@@ -1524,7 +1524,7 @@ The following briefing synthesizes key insights from a presentation by **SensorU
 
 **SensorUp**’s trajectory is defined by a shift from academic vision to industrial application.
 
-* **Academic Roots:** The company was founded to commercialize "Sensor Web" research, a concept akin to a "World Wide Web" for sensors. The goal was to connect disparate sensing systems into a unified network to create innovative applications.  
+* **Academic Roots:** The company was founded to commercialize Sensor Web research, a concept akin to a World Wide Web for sensors. The goal was to connect disparate sensing systems into a unified network to create innovative applications.  
 * **The R\&D Phase (2013–2018):** In its early years, **SensorUp** operated as a high-end R\&D laboratory. Its clientele included **NASA**, the **Department of Homeland Security**, and **Lockheed Martin**. During this period, the company focused on establishing international standards (e.g., **NATO** standards) rather than a commercial product.  
 * **The Pivot to Methane (2018–Present):** Recognizing the need for a specific market with high demand and a necessity for multi-sensor integration, the company focused exclusively on methane emission reduction.
 
@@ -1545,8 +1545,8 @@ The document identifies methane as a uniquely potent greenhouse gas and a signif
 ### **Market Drivers**
 
 * **Economic Incentives:** Methane is a valuable source of energy. Preventing leaks directly increases revenue by keeping gas in the pipeline.  
-* **Regulatory Pressure:** Regulations are tightening globally. The emergence of the "Super Emitter Program" and increased transparency, driven by non-profits and organizations like **Bloomberg**, means that leaks are increasingly visible to regulators and the public.  
-* **Price Premiums:** Companies that can prove low methane intensity through standards like OGMP or MiQ can sell "responsible gas" at a premium price.
+* **Regulatory Pressure:** Regulations are tightening globally. The emergence of the Super Emitter Program and increased transparency, driven by non-profits and organizations like **Bloomberg**, means that leaks are increasingly visible to regulators and the public.  
+* **Price Premiums:** Companies that can prove low methane intensity through standards like OGMP or MiQ can sell responsible gas at a premium price.
 
 ### **The Technical Challenge**
 
@@ -1556,7 +1556,7 @@ Current methane detection is hampered by data silos. Companies use a variety of 
 
 ## **3\. The SensorUp Solution: The Methane ERP**
 
-**SensorUp** describes itself as an "ERP for methane emissions," positioning its software as the essential "plumbing" or "operating system" for environmental data.
+**SensorUp** describes itself as an ERP for methane emissions, positioning its software as the essential plumbing or operating system for environmental data.
 
 * **Single Pane of Glass:** The platform aggregates data from multiple resolutions (satellite to ground) into a coherent interface.  
 * **Operational Execution:** Beyond mere visualization, the software integrates with existing industrial systems, including:  
@@ -1574,14 +1574,14 @@ Current methane detection is hampered by data silos. Companies use a variety of 
 ### **Business Model**
 
 * **Revenue Stream:** The company focuses exclusively on Annual Recurring Revenue (ARR) through enterprise software licensing.  
-* **Go-to-Market Strategy:** **SensorUp** employs a "three-legged" approach:  
+* **Go-to-Market Strategy:** **SensorUp** employs a three-legged approach:  
   1. **Indirect Sales:** Partnering with hardware sensor companies to act as their dashboard or operating system.  
-  2. **Direct Sales:** Targeting "Super Major" oil and gas producers (e.g., **ExxonMobil**, **Chevron**, **Oxy**).  
+  2. **Direct Sales:** Targeting Super Major oil and gas producers (e.g., **ExxonMobil**, **Chevron**, **Oxy**).  
   3. **Stakeholder Engagement:** Providing software to regulatory bodies and non-profits to establish **SensorUp** as the industry standard.
 
 ### **Global Partnerships**
 
-A pivotal moment in the company's growth was its engagement with the Oil and Gas Climate Initiative (OGCI). OGCI utilized **BCG (Boston Consulting Group)** to conduct a rigorous "PhD-level" due diligence process, interviewing various companies to find a legitimized methane ERP. **SensorUp** was ultimately selected for investment and partnership.
+A pivotal moment in the company's growth was its engagement with the Oil and Gas Climate Initiative (OGCI). OGCI utilized **BCG (Boston Consulting Group)** to conduct a rigorous PhD-level due diligence process, interviewing various companies to find a legitimized methane ERP. **SensorUp** was ultimately selected for investment and partnership.
 
 \--------------------------------------------------------------------------------
 
@@ -1591,7 +1591,7 @@ The transition from an academic-led startup to a scale-up involved significant c
 
 * **Creative Destruction Lab (CDL):** Participation in CDL was instrumental in shifting the founder’s mindset from technology-centric to business-centric.  
 * **Leadership Transition:** Recognizing that different stages of a company require different skills, the founder ([Steve Liang](https://www.linkedin.com/in/steve-liang-198b44/)) transitioned to the role of CTO, hiring [Terry Cunningham](https://www.linkedin.com/in/terry-cunningham-72692b/) (founder of **Crystal Reports**) as CEO. [Cunningham](https://www.linkedin.com/in/terry-cunningham-72692b/) brought experience in scaling enterprise software companies to multi-billion dollar valuations.  
-* **Mentorship Bar:** The company operates on the principle of seeking mentors and talent that the founders "do not deserve", purposely targeting individuals with experience and expertise far beyond the startup's current scale.
+* **Mentorship Bar:** The company operates on the principle of seeking mentors and talent that the founders do not deserve, purposely targeting individuals with experience and expertise far beyond the startup's current scale.
 
 \--------------------------------------------------------------------------------
 
@@ -1599,8 +1599,8 @@ The transition from an academic-led startup to a scale-up involved significant c
 
 **SensorUp** aims to become the global industry standard for methane emission reduction. While currently focused on oil and gas, the company’s platform is designed to be vertical-agnostic.
 
-* **Short-Term Goals:** Signing additional "Super Majors" and further embedding the software within the methane ecosystem to remove data friction.  
-* **Long-Term Strategy:** Once the methane vertical is secured, **SensorUp** intends to repeat its success in other industrial verticals, leveraging its core competency in multi-sensor data integration to build a "massive company."
+* **Short-Term Goals:** Signing additional Super Majors and further embedding the software within the methane ecosystem to remove data friction.  
+* **Long-Term Strategy:** Once the methane vertical is secured, **SensorUp** intends to repeat its success in other industrial verticals, leveraging its core competency in multi-sensor data integration to build a massive company.
 
 # Episode 015
 
@@ -1612,10 +1612,10 @@ This briefing document analyzes the strategic emergence and operational framewor
 
 Key takeaways include:
 
-* **Strategic Foundation:** **BlueMarvel** leverages the "Mothership" support of **Spartan Controls**, providing access to deep domain expertise and a massive established customer base in Western Canada and beyond.  
-* **Core Value Proposition:** The company focuses on "cross-product intelligence," breaking down data silos between safety, performance, and energy management to provide real-time, high-level KPIs for enterprise decision-making.  
+* **Strategic Foundation:** **BlueMarvel** leverages the Mothership support of **Spartan Controls**, providing access to deep domain expertise and a massive established customer base in Western Canada and beyond.  
+* **Core Value Proposition:** The company focuses on cross-product intelligence, breaking down data silos between safety, performance, and energy management to provide real-time, high-level KPIs for enterprise decision-making.  
 * **Market Maturity:** With over 70 deployments, the company is in an iterative phase of product-market fit, utilizing a hybrid business model that includes SAS products, custom solutions, and a services arm for discovery.  
-* **Operational Edge:** The partnership with **Spartan Controls** allows **BlueMarvel** to bypass common startup "people challenges" through financial stability and an employee-owned culture focused on long-term success rather than quarter-to-quarter survival.
+* **Operational Edge:** The partnership with **Spartan Controls** allows **BlueMarvel** to bypass common startup people challenges through financial stability and an employee-owned culture focused on long-term success rather than quarter-to-quarter survival.
 
 \--------------------------------------------------------------------------------
 
@@ -1627,23 +1627,23 @@ Key takeaways include:
 
 | Entity | Role & Contribution |
 | :---- | :---- |
-| **Spartan Controls** | The "Mothership." Established in 1963, it controls approximately 400 of the 700 largest industrial plants in Western Canada. Provides deep domain expertise, a 1,500-person SME pool, and established sales channels. |
+| **Spartan Controls** | The Mothership. Established in 1963, it controls approximately 400 of the 700 largest industrial plants in Western Canada. Provides deep domain expertise, a 1,500-person SME pool, and established sales channels. |
 | **AltaML** | An applied AI venture studio. Provided the original incubation environment, handling back-office functions (HR, Finance) so the core team could focus on solving technical market problems. |
-| **BlueMarvel AI** | The resulting joint venture. It focuses on taking the data generated by the "factory floor" equipment (valves, sensors, control systems) and turning it into actionable software applications. |
+| **BlueMarvel AI** | The resulting joint venture. It focuses on taking the data generated by the factory floor equipment (valves, sensors, control systems) and turning it into actionable software applications. |
 
-### **The "Venture Studio" Advantage**
+### **The Venture Studio Advantage**
 
 The document emphasizes that **BlueMarvel** benefited significantly from the Venture Studio model. This approach allowed the company to:
 
 * Avoid the distractions of administrative overhead.  
 * Focus exclusively on delivering market-ready solutions.  
-* Iterate faster by using **Spartan**’s SMEs to "poke holes" in developing technology.
+* Iterate faster by using **Spartan**’s SMEs to poke holes in developing technology.
 
 \--------------------------------------------------------------------------------
 
 ## **II. Technological Innovation and Problem Solving**
 
-The central challenge identified in the industrial sector is the "land of the pilot" and the failure of digital transformation due to a lack of context. Companies have invested heavily in data collection but lack the compute power or the contextual framework to use it.
+The central challenge identified in the industrial sector is the land of the pilot and the failure of digital transformation due to a lack of context. Companies have invested heavily in data collection but lack the compute power or the contextual framework to use it.
 
 ### **The Proprietary Solution**
 
@@ -1677,32 +1677,32 @@ The long-term roadmap for **BlueMarvel** is the integration of these three silos
 
 ### **Sales Channels: Direct vs. Partner**
 
-While **BlueMarvel** primarily utilizes **Spartan Controls**' existing sales force and relationships (the "Channel" approach), it has begun successful "Direct" sales. A notable recent milestone is a direct sale to an oil company in Iraq, which was initiated as a lead through the **Spartan** website but managed directly by the **BlueMarvel** team.
+While **BlueMarvel** primarily utilizes **Spartan Controls**' existing sales force and relationships (the Channel approach), it has begun successful Direct sales. A notable recent milestone is a direct sale to an oil company in Iraq, which was initiated as a lead through the **Spartan** website but managed directly by the **BlueMarvel** team.
 
 ### **The Iterative Path to Product-Market Fit**
 
 Despite having 70 deployments, **BlueMarvel** views product-market fit as an evolving target.
 
-* **User-Centric Design:** Leadership emphasizes "watching people use the product" to identify new features.  
-* **Deployment Variability:** Customers use the software differently, some as a "Unified Operation Center" for daily goal setting, others as a deep-dive tool for specific plant areas.
+* **User-Centric Design:** Leadership emphasizes watching people use the product to identify new features.  
+* **Deployment Variability:** Customers use the software differently, some as a Unified Operation Center for daily goal setting, others as a deep-dive tool for specific plant areas.
 
 \--------------------------------------------------------------------------------
 
 ## **IV. Leadership, Culture, and Mentorship**
 
-The transition of leadership from the public relations and crisis management sector to industrial AI highlights the "adrenaline" and problem-solving nature of the startup environment.
+The transition of leadership from the public relations and crisis management sector to industrial AI highlights the adrenaline and problem-solving nature of the startup environment.
 
 ### **Organizational Culture**
 
-* **Employee Ownership:** Being part of an employee-owned company **(Spartan**) means everyone has a "vested interest" and "skin in the game," which fosters a supportive environment rather than a judgmental one.  
-* **Long-term Vision:** Unlike ventures focused on quarterly reporting, **BlueMarvel** benefits from a board invested in the "long term," which reduces the stress of month-to-month survival.
+* **Employee Ownership:** Being part of an employee-owned company **(Spartan**) means everyone has a vested interest and skin in the game, which fosters a supportive environment rather than a judgmental one.  
+* **Long-term Vision:** Unlike ventures focused on quarterly reporting, **BlueMarvel** benefits from a board invested in the long term, which reduces the stress of month-to-month survival.
 
 ### **The Role of Mentorship**
 
-Leadership defines mentorship as the most critical factor for growth, characterized by "real conversations about challenges."
+Leadership defines mentorship as the most critical factor for growth, characterized by real conversations about challenges.
 
-* **Vulnerability:** A good mentee must be willing to share fears and "imposter syndrome" without the worry of being judged.  
-* **Honesty:** Effective mentors are described as those who are "honest with you" out of care, rather than just telling "sunshiny stories."
+* **Vulnerability:** A good mentee must be willing to share fears and imposter syndrome without the worry of being judged.  
+* **Honesty:** Effective mentors are described as those who are honest with you out of care, rather than just telling sunshiny stories.
 
 \--------------------------------------------------------------------------------
 
@@ -1718,11 +1718,11 @@ Leadership defines mentorship as the most critical factor for growth, characteri
 
 ### **Strategic Invitation to Partners**
 
-**BlueMarvel** offers "offline data science studies" to potential partners for free. By taking a data output from a customer, **BlueMarvel**'s team attempts to find a Return on Investment (ROI) before the customer makes a formal commitment.
+**BlueMarvel** offers offline data science studies to potential partners for free. By taking a data output from a customer, **BlueMarvel**'s team attempts to find a Return on Investment (ROI) before the customer makes a formal commitment.
 
 ### **Closing Insight on Human-AI Interaction**
 
-While **BlueMarvel** utilizes machine learning and pattern mining, it maintains a "human-in-the-loop" philosophy. The software acts as a co-pilot, summarizing data and making recommendations, but experts still make the final operational decisions. As noted regarding the future of monitoring:
+While **BlueMarvel** utilizes machine learning and pattern mining, it maintains a human-in-the-loop philosophy. The software acts as a co-pilot, summarizing data and making recommendations, but experts still make the final operational decisions. As noted regarding the future of monitoring:
 
 "I don't think in our sector people are ready to fully move away from the way of working... it's got to be both \[dashboards and alerts\]."
 
@@ -1734,7 +1734,7 @@ While **BlueMarvel** utilizes machine learning and pattern mining, it maintains 
 
 This briefing document analyzes the strategic and operational insights shared by [Mogens Smed](https://www.linkedin.com/in/mogens-smed-811a712a/), co-founder of **Falkbuilt**, during a ConstrucTech Breakfast Club event. At 70 years of age, following a dismissal from his previous firm, [Smed](https://www.linkedin.com/in/mogens-smed-811a712a/) launched F**alkbuilt**, which has scaled from six to 550 employees in under five years. The company addresses a $100 billion market opportunity in interior construction through off-site prefabrication, powered by a proprietary cloud-based operating system known as Echo.
 
-Key takeaways include the critical role of "Actual Intelligence" combined with AI, the inefficiency of the traditional construction industry, and a culture-first operational model that prioritizes workforce loyalty, immigrant talent, and employee ownership. [Smed](https://www.linkedin.com/in/mogens-smed-811a712a/) argues that the competitive advantage in construction lies not in manual labor, but in technological efficiency and the ability to provide reliable, end-to-end digital solutions.
+Key takeaways include the critical role of Actual Intelligence combined with AI, the inefficiency of the traditional construction industry, and a culture-first operational model that prioritizes workforce loyalty, immigrant talent, and employee ownership. [Smed](https://www.linkedin.com/in/mogens-smed-811a712a/) argues that the competitive advantage in construction lies not in manual labor, but in technological efficiency and the ability to provide reliable, end-to-end digital solutions.
 
 \--------------------------------------------------------------------------------
 
@@ -1744,7 +1744,7 @@ Key takeaways include the critical role of "Actual Intelligence" combined with A
 
 * **Background and Resilience:** An immigrant from Denmark who arrived in 1952 with minimal resources, [Smed](https://www.linkedin.com/in/mogens-smed-811a712a/) emphasizes that Calgary’s community and its tolerance for failure were instrumental in his recovery from a 1982 bankruptcy.  
 * **Late-Career Innovation:** [Smed](https://www.linkedin.com/in/mogens-smed-811a712a/) founded **Falkbuilt** at age 70 after being fired from **DIRTT** (his previous venture). He credits his success to "grit, tenacity, perseverance, and resilience."  
-* **Leadership Philosophy:** [Smed](https://www.linkedin.com/in/mogens-smed-811a712a/) rejects formal business planning, stating that "nobody reads them." Instead, he advocates for running a business by "instinct" and "nose," focusing on three pillars:  
+* **Leadership Philosophy:** [Smed](https://www.linkedin.com/in/mogens-smed-811a712a/) rejects formal business planning, stating that nobody reads them. Instead, he advocates for running a business by instinct and nose, focusing on three pillars:  
   1. Reputation.  
   2. Experience.  
   3. Relationships (with suppliers, shareholders, and employees).
@@ -1767,7 +1767,7 @@ Key takeaways include the critical role of "Actual Intelligence" combined with A
 
 ### **AI and Machine Learning (ML)**
 
-[Smed](https://www.linkedin.com/in/mogens-smed-811a712a/) differentiates between "Artificial Intelligence" and "Actual Intelligence." Echo leverages AI to reduce thousands of hours in the decision-making process by integrating with industry-standard design tools like Revit. This allows architects and designers to focus on creative solutions rather than technical drawings, though [Smed](https://www.linkedin.com/in/mogens-smed-811a712a/) maintains that AI cannot replace the "soul" provided by human designers.
+[Smed](https://www.linkedin.com/in/mogens-smed-811a712a/) differentiates between Artificial Intelligence and Actual Intelligence. Echo leverages AI to reduce thousands of hours in the decision-making process by integrating with industry-standard design tools like Revit. This allows architects and designers to focus on creative solutions rather than technical drawings, though [Smed](https://www.linkedin.com/in/mogens-smed-811a712a/) maintains that AI cannot replace the soul provided by human designers.
 
 \--------------------------------------------------------------------------------
 
@@ -1778,7 +1778,7 @@ Key takeaways include the critical role of "Actual Intelligence" combined with A
 * **Workforce Composition:** Approximately 400 of the 550 employees are immigrants. [Smed](https://www.linkedin.com/in/mogens-smed-811a712a/) highlights their willingness to work and ability to adapt to digital processes as vital to the company's success.  
 * **Gender Diversity:** Over half of the factory floor staff, including many in leadership positions, are women. [Smed](https://www.linkedin.com/in/mogens-smed-811a712a/) notes they are often more organized and effective in the digital manufacturing environment.  
 * **Employee Ownership:** 71% of employees are part of an ownership program. [Smed](https://www.linkedin.com/in/mogens-smed-811a712a/) uses stock options as an incentive for talent to join a startup over established firms.  
-* **Labor Practices:** The company operates on a "four on, four off" 12-hour shift schedule (84 hours a week), allowing families to balance multiple jobs. [Smed](https://www.linkedin.com/in/mogens-smed-811a712a/) maintains a strict no-layoff policy to foster long-term loyalty.
+* **Labor Practices:** The company operates on a four on, four off 12-hour shift schedule (84 hours a week), allowing families to balance multiple jobs. [Smed](https://www.linkedin.com/in/mogens-smed-811a712a/) maintains a strict no-layoff policy to foster long-term loyalty.
 
 \--------------------------------------------------------------------------------
 
@@ -1803,7 +1803,7 @@ Key takeaways include the critical role of "Actual Intelligence" combined with A
 
 **Falkbuilt** views Environmental, Social, and Governance (ESG) criteria not just as a mandate but as a market differentiator.
 
-* **Sustainable Building:** Off-site prefabrication reduces waste. [Smed](https://www.linkedin.com/in/mogens-smed-811a712a/) critiques North American "urban sprawl" and the use of "garbage" materials, advocating for more compact, sustainable communities built to last centuries rather than decades.  
+* **Sustainable Building:** Off-site prefabrication reduces waste. [Smed](https://www.linkedin.com/in/mogens-smed-811a712a/) critiques North American urban sprawl and the use of garbage materials, advocating for more compact, sustainable communities built to last centuries rather than decades.  
 * **Rapid Repurposing:** During the COVID-19 pandemic, **Falkbuilt** (in partnership with **Sprung Structures**) built 63 ICU units in three weeks. These structures are designed for sustainability and can be repurposed, for example, converting a pandemic response facility into a shelter for vulnerable populations.
 
 \--------------------------------------------------------------------------------
@@ -1814,7 +1814,7 @@ During the Q\&A session, [Smed](https://www.linkedin.com/in/mogens-smed-811a712a
 
 * **Embrace Mistakes:** [Smed](https://www.linkedin.com/in/mogens-smed-811a712a/) suggests that innovators should "f--- it up fast." Mistakes are inevitable in innovation and should be used to strengthen client relationships. He cites a project for Frost Bank where a disastrous installation was corrected in eight days, leading to $50 million in subsequent business.  
 * **Capital Realities:** Raising capital is difficult in regions focused on energy (like Calgary). [Smed](https://www.linkedin.com/in/mogens-smed-811a712a/) notes that "nobody likes a new idea, especially if it’s a good one," because it threatens the status quo.  
-* **The Trap of Project Management Software:** [Smed](https://www.linkedin.com/in/mogens-smed-811a712a/) critiques popular construction software like Procore as being "for when the hearse has arrived," meaning it manages already broken, non-integrated processes rather than solving the end-to-end design-to-build problem.  
+* **The Trap of Project Management Software:** [Smed](https://www.linkedin.com/in/mogens-smed-811a712a/) critiques popular construction software like Procore as being for when the hearse has arrived, meaning it manages already broken, non-integrated processes rather than solving the end-to-end design-to-build problem.  
 * **The Value of Experience:** [Smed](https://www.linkedin.com/in/mogens-smed-811a712a/) encourages older entrepreneurs (55+), noting that staying active and maintaining a community prevents the loss of purpose often associated with retirement.
 
 # Episode 017
@@ -1823,15 +1823,15 @@ During the Q\&A session, [Smed](https://www.linkedin.com/in/mogens-smed-811a712a
 
 ## **Executive Summary**
 
-**Bolster** (formerly **Cost Certified**) is a vertical SaaS company specializing in construction technology, specifically targeting small and medium-sized businesses (SMBs) in the blue-collar sector. Founded by [Mike Bignold](https://www.linkedin.com/in/mike-bignold-6092a27/), a former contractor who transitioned into software development, the company is a graduate of the **Y Combinator** (YC) accelerator and successfully raised an $8.5 million USD seed round during the 2021 "funding bonanza."
+**Bolster** (formerly **Cost Certified**) is a vertical SaaS company specializing in construction technology, specifically targeting small and medium-sized businesses (SMBs) in the blue-collar sector. Founded by [Mike Bignold](https://www.linkedin.com/in/mike-bignold-6092a27/), a former contractor who transitioned into software development, the company is a graduate of the **Y Combinator** (YC) accelerator and successfully raised an $8.5 million USD seed round during the 2021 funding bonanza.
 
-**Bolster**’s core innovation is a patented estimating tool that allows contractors to provide fast, accurate, and interactive quotes, enabling consumers to perform their own "cost engineering." This approach intercepts the contractor-consumer relationship at its inception, providing a structural advantage for further automation. Currently, **Bolster** is undergoing a strategic shift from a pure subscription model to a fintech-driven "freemium" model, aiming to monetize through a take rate on Gross Market Value (GMV), which currently averages between $15 million and $45 million per month. The company is prioritizing "founder mode" over traditional delegation to drive efficiency and logo growth heading into 2025\.
+**Bolster**’s core innovation is a patented estimating tool that allows contractors to provide fast, accurate, and interactive quotes, enabling consumers to perform their own cost engineering. This approach intercepts the contractor-consumer relationship at its inception, providing a structural advantage for further automation. Currently, **Bolster** is undergoing a strategic shift from a pure subscription model to a fintech-driven freemium model, aiming to monetize through a take rate on Gross Market Value (GMV), which currently averages between $15 million and $45 million per month. The company is prioritizing founder mode over traditional delegation to drive efficiency and logo growth heading into 2025\.
 
 \--------------------------------------------------------------------------------
 
 ## **Company Origins and Evolution**
 
-**Bolster** originated from a "bricks and mortar" construction business. CEO [Mike Bignold](https://www.linkedin.com/in/mike-bignold-6092a27/), recognizing he was not suited for manual labor, developed software to manage his own contracting firm. This created a "virtuous cycle" where the software improved the business, which in turn provided more time and data to improve the software.
+**Bolster** originated from a bricks and mortar construction business. CEO [Mike Bignold](https://www.linkedin.com/in/mike-bignold-6092a27/), recognizing he was not suited for manual labor, developed software to manage his own contracting firm. This created a virtuous cycle where the software improved the business, which in turn provided more time and data to improve the software.
 
 ### **The Transition to SaaS**
 
@@ -1846,14 +1846,14 @@ The decision to pivot from a construction company to a software provider was dri
 ### **Admission Strategy**
 
 * **Initial Skepticism:** **Bolster** was initially met with skepticism from local advisors and YC due to its focus on the blue-collar SMB vertical.  
-* **The "Homeless" Connection:** [Bignold](https://www.linkedin.com/in/mike-bignold-6092a27/) secured a recommendation for YC through a contact he met at a Silicon Valley event, a then-struggling founder who later raised a successful Series A.  
+* **The Homeless Connection:** [Bignold](https://www.linkedin.com/in/mike-bignold-6092a27/) secured a recommendation for YC through a contact he met at a Silicon Valley event, a then-struggling founder who later raised a successful Series A.  
 * **Selection:** **Bolster** applied three times before being accepted. YC conducted three separate meetings to verify that the company was maintaining consistent traction.
 
 ### **The $8.5 Million Seed Round**
 
 **Bolster** raised one of the largest seed rounds in YC history at the time ($8.5 million USD).
 
-* **Timing:** The round occurred in 2021, a period [Bignold](https://www.linkedin.com/in/mike-bignold-6092a27/) describes as a "Sugar Rush" due to high liquidity in the market.  
+* **Timing:** The round occurred in 2021, a period [Bignold](https://www.linkedin.com/in/mike-bignold-6092a27/) describes as a Sugar Rush due to high liquidity in the market.  
 * **Valuation vs. Dilution:** Because of the high valuation, the dilution was less significant than typical for a round of that size.  
 * **Strategic Advice:** The company followed advice to take available capital while the market was favorable, which proved correct as the market corrected in 2022-2023.
 
@@ -1861,7 +1861,7 @@ The decision to pivot from a construction company to a software provider was dri
 
 ## **Core Product Innovation: Interactive Estimating**
 
-The primary challenge **Bolster** addresses for contractors is "dead time" spent on inaccurate or slow estimates. Typically, contractors book only 10% of their quotes; if an estimate takes hours to produce, 90% of that effort is wasted.
+The primary challenge **Bolster** addresses for contractors is dead time spent on inaccurate or slow estimates. Typically, contractors book only 10% of their quotes; if an estimate takes hours to produce, 90% of that effort is wasted.
 
 ### **Patented Estimating Technology**
 
@@ -1887,13 +1887,13 @@ By capturing the project data at the estimation phase, **Bolster** can automate 
 | Feature | Old Model | New Model (Transitioning) |
 | :---- | :---- | :---- |
 | **Primary Revenue** | Subscription fees | Fintech take rate on GMV |
-| **Onboarding** | Manual and high-touch | Self-serve "Freemium" |
+| **Onboarding** | Manual and high-touch | Self-serve Freemium |
 | **Payment Flow** | After-the-fact invoicing | Upfront commitment/Progress payments |
 | **Integration** | Manual back-office setup | Automated workflow (**Airbnb**/**Toast** style) |
 
-### **The "Toast" Approach for Construction**
+### **The Toast Approach for Construction**
 
-**Bolster** aims for a 100% attach rate on payments. By requiring payment details at the time of booking, the platform orchestrates funds from the consumer to the general contractor and subcontractors. This "escrow-style" system ensures subcontractors are paid promptly and reduces the risk of financial disputes.
+**Bolster** aims for a 100% attach rate on payments. By requiring payment details at the time of booking, the platform orchestrates funds from the consumer to the general contractor and subcontractors. This escrow-style system ensures subcontractors are paid promptly and reduces the risk of financial disputes.
 
 ### **Key Performance Indicators (KPIs)**
 
@@ -1905,17 +1905,17 @@ By capturing the project data at the estimation phase, **Bolster** can automate 
 
 ## **Marketing and Market Strategy**
 
-**Bolster**’s marketing strategy is specifically tailored to a "blue-collar" SMB audience, acknowledging that traditional B2B platforms like LinkedIn are ineffective for this demographic.
+**Bolster**’s marketing strategy is specifically tailored to a blue-collar SMB audience, acknowledging that traditional B2B platforms like LinkedIn are ineffective for this demographic.
 
 * **Social Media Focus:** Top-of-funnel marketing is concentrated on **Meta (Facebook)** and **Instagram**, where their target customers are active.  
-* **Efficiency and Lead Quality:** After a period of "exploding" marketing costs, the company cut its outbound sales team in favor of a highly efficient inbound model. The goal is to ensure "contaminated pipelines" (unqualified leads) do not waste company resources.  
-* **UX Design:** The website and app are designed for "big thumbs," prioritizing clarity and simplicity to ensure contractors can navigate the tool easily on the job.
+* **Efficiency and Lead Quality:** After a period of exploding marketing costs, the company cut its outbound sales team in favor of a highly efficient inbound model. The goal is to ensure contaminated pipelines (unqualified leads) do not waste company resources.  
+* **UX Design:** The website and app are designed for big thumbs, prioritizing clarity and simplicity to ensure contractors can navigate the tool easily on the job.
 
 \--------------------------------------------------------------------------------
 
-## **Leadership Philosophy: "Founder Mode"**
+## **Leadership Philosophy: Founder Mode**
 
-In a retrospective on the company's rapid growth, [Bignold](https://www.linkedin.com/in/mike-bignold-6092a27/) emphasized the necessity of remaining in "Founder Mode" rather than "Delegation Mode."
+In a retrospective on the company's rapid growth, [Bignold](https://www.linkedin.com/in/mike-bignold-6092a27/) emphasized the necessity of remaining in Founder Mode rather than Delegation Mode.
 
 * **The Mistake of Rapid Hiring:** **Bolster** hired too quickly following its seed round, which led to a plateau in growth as leadership shifted toward managing people rather than the product.  
 * **Current Philosophy:** Staff should be seen as extensions of the founder, enabling the founder to do more. Management should focus directly on the product and growth rather than just managing personnel.
@@ -1927,7 +1927,7 @@ In a retrospective on the company's rapid growth, [Bignold](https://www.linkedin
 **Bolster** differentiates itself from established players by focusing on user experience and the consumer-facing aspect of the project.
 
 * **Jobber/Service Titan:** These companies are seen as solving logistics and repeat-service problems (e.g., HVAC, landscaping) rather than complex, dimension-based construction projects.  
-* **Builder Trend:** Described as a "legacy" or "Frankenstein" software with a "Windows 98" aesthetic, [Bignold](https://www.linkedin.com/in/mike-bignold-6092a27/) argues that Builder Trend’s complexity and lack of consumer focus make it easy to compete against using a modern, Apple-style UI approach.
+* **Builder Trend:** Described as a legacy or Frankenstein software with a Windows 98 aesthetic, [Bignold](https://www.linkedin.com/in/mike-bignold-6092a27/) argues that Builder Trend’s complexity and lack of consumer focus make it easy to compete against using a modern, Apple-style UI approach.
 
 \--------------------------------------------------------------------------------
 
@@ -1951,9 +1951,9 @@ This document synthesizes key insights from an interview with [Nancy Knowlton](h
 **Critical Takeaways:**
 
 * **Operational Resilience:** **Smart Technologies** faced four to five years of insolvency early on; success was built on extreme financial discipline, directness, and the support of local financial institutions.  
-* **Strategic Growth:** Scaling **Smart Technologies** to $800 million in revenue was achieved through serial investment (prioritizing product, then marketing/sales, then international expansion) and a "Robin Hood" pricing strategy that used corporate margins to subsidize the education market.  
-* **Customer-Driven Innovation: Nialli** was not a proactive choice but a response to a specific request from **PCL construction** to digitize analog processes, illustrating the value of "shotgun" product development with key customers.  
-* **The "Greyhound" Philosophy:** Success in high-growth environments requires setting new goals before old ones are met, ensuring the team remains energized and focused on continuous improvement rather than complacency.
+* **Strategic Growth:** Scaling **Smart Technologies** to $800 million in revenue was achieved through serial investment (prioritizing product, then marketing/sales, then international expansion) and a Robin Hood pricing strategy that used corporate margins to subsidize the education market.  
+* **Customer-Driven Innovation: Nialli** was not a proactive choice but a response to a specific request from **PCL construction** to digitize analog processes, illustrating the value of shotgun product development with key customers.  
+* **The Greyhound Philosophy:** Success in high-growth environments requires setting new goals before old ones are met, ensuring the team remains energized and focused on continuous improvement rather than complacency.
 
 \--------------------------------------------------------------------------------
 
@@ -1969,7 +1969,7 @@ The trajectory of [Nancy](https://www.linkedin.com/in/nancy-knowlton-848116184/)
 
 ### **The Smart Technologies Era (1987–2010)**
 
-* **Early Financial Hardship:** The company was insolvent for four to five years. Survival was attributed to the "good graces" of Alberta Treasury Branches and a focus on balancing inflows and outflows.  
+* **Early Financial Hardship:** The company was insolvent for four to five years. Survival was attributed to the good graces of Alberta Treasury Branches and a focus on balancing inflows and outflows.  
 * **Funding Strategy:** The founders initially avoided outside capital, sustaining operations by acting as a Canadian distributor for an American company’s products.  
 * **Intel Investment:** In 1991, Intel invested $1.2 million, the only major capital raise for a long period, which, combined with retained earnings, fueled growth to $800 million.  
 * **Liquidity and IPO:** The decision to go public was driven by external investors (**Intel** and **Apex**) seeking liquidity, rather than a primary desire by the founders to run a public company.
@@ -1982,7 +1982,7 @@ The trajectory of [Nancy](https://www.linkedin.com/in/nancy-knowlton-848116184/)
 
 ### **Serial Investment Model**
 
-Growth was not linear but "metered by what we could afford." Investment followed a specific sequence:
+Growth was not linear but metered by what we could afford. Investment followed a specific sequence:
 
 1. **Product:** Ensuring the core offering had value.  
 2. **Marketing and Sales:** Concurrent investment to drive adoption.  
@@ -1993,10 +1993,10 @@ Growth was not linear but "metered by what we could afford." Investment followed
 To enter the U.S. market without excessive overhead, the company utilized:
 
 * **Manufacturer’s Reps:** Commission-based sales agents who were only paid upon successful sales, mitigating fixed costs.  
-* **Strategic Leadership:** Hiring industry veterans like [John Deutsch](https://www.linkedin.com/in/john-deutsch-a231984/), who provided the "secret ingredient" of experience and networking.  
+* **Strategic Leadership:** Hiring industry veterans like [John Deutsch](https://www.linkedin.com/in/john-deutsch-a231984/), who provided the secret ingredient of experience and networking.  
 * **Centralized Operations:** International business was initially managed entirely from a Calgary base before placing personnel in foreign fields.
 
-### **The "Robin Hood" Pricing Strategy**
+### **The Robin Hood Pricing Strategy**
 
 At Smart Technologies, pricing was used as a competitive lever:
 
@@ -2007,11 +2007,11 @@ At Smart Technologies, pricing was used as a competitive lever:
 
 ## **III. Nialli: Digital Transformation in Construction**
 
-**Nialli** represents the application of collaboration technology to a traditionally "lagging" industry: construction.
+**Nialli** represents the application of collaboration technology to a traditionally lagging industry: construction.
 
 * **Market Genesis:** The company originated when **PCL Construction** requested a digital version of their analog, paper-based site processes.  
-* **Product Development:** [Nancy](https://www.linkedin.com/in/nancy-knowlton-848116184/) emphasizes "shotgun" development, collaborating closely with customers while maintaining a "checkpoint" system to ensure the product does not become a custom, one-off solution for a single client.  
-* **Sales Strategy:** Rather than an enterprise-wide push, **Nialli** enters through individual job sites (e.g., the Calgary Cancer Center). Superintendents and site staff often have the authority to trial the software, leading to "insidious" or viral growth across the industry.  
+* **Product Development:** [Nancy](https://www.linkedin.com/in/nancy-knowlton-848116184/) emphasizes shotgun development, collaborating closely with customers while maintaining a checkpoint system to ensure the product does not become a custom, one-off solution for a single client.  
+* **Sales Strategy:** Rather than an enterprise-wide push, **Nialli** enters through individual job sites (e.g., the Calgary Cancer Center). Superintendents and site staff often have the authority to trial the software, leading to insidious or viral growth across the industry.  
 * **Business Model:** **Nialli** operates on a SaaS (Software as a Service) model with recurring revenue, focusing on project-based adoptions and future product extensions.
 
 \--------------------------------------------------------------------------------
@@ -2022,15 +2022,15 @@ At Smart Technologies, pricing was used as a competitive lever:
 
 [Nancy](https://www.linkedin.com/in/nancy-knowlton-848116184/) notes that different professionals are suited for different phases of a company's lifecycle:
 
-* **0 to $50 Million:** A specific "sweet spot" for early-stage builders.  
+* **0 to $50 Million:** A specific sweet spot for early-stage builders.  
 * **$50 Million to $200 Million:** Requires a different set of skills and mindset.  
-* **Humanity in Business:** Long-term success is attributed to treating the "word as a bond" and maintaining humanity. Former employees recall [Nancy](https://www.linkedin.com/in/nancy-knowlton-848116184/)’s personal concern for staff during business contractions as a defining leadership trait.
+* **Humanity in Business:** Long-term success is attributed to treating the word as a bond and maintaining humanity. Former employees recall [Nancy](https://www.linkedin.com/in/nancy-knowlton-848116184/)’s personal concern for staff during business contractions as a defining leadership trait.
 
 ### **Mentorship and Advice**
 
 * **On Persistence:** "Everything is going to work out. You just get up every single day, put one foot in front of the other, do your best."  
-* **On Efficiency:** Effective meetings require an agenda and the sharing of information in advance. [Nancy](https://www.linkedin.com/in/nancy-knowlton-848116184/) expresses a preference for canceling meetings over being "spoon-fed" information that could have been read beforehand.  
-* **On Growth:** Use the "Greyhound" metaphor, always keep a "rabbit" (goal) out in front of the team to maintain momentum.
+* **On Efficiency:** Effective meetings require an agenda and the sharing of information in advance. [Nancy](https://www.linkedin.com/in/nancy-knowlton-848116184/) expresses a preference for canceling meetings over being spoon-fed information that could have been read beforehand.  
+* **On Growth:** Use the Greyhound metaphor, always keep a rabbit (goal) out in front of the team to maintain momentum.
 
 \--------------------------------------------------------------------------------
 
@@ -2048,22 +2048,22 @@ At Smart Technologies, pricing was used as a competitive lever:
 
 | Company Name | Industry Focus | Founding Team | Core Business Model | Target Customers | Key Technology or Product | Funding Status | Geographic Markets |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| Eavor Technologies | ClimateTech / Geothermal | [John Redfern](https://www.linkedin.com/in/johnredfern/) (CEO), [Paul Cairns](https://www.linkedin.com/in/paul-cairns-103b2a40/) (Chief Business Development Officer), [Matt Toews](https://www.linkedin.com/in/matthew-toews-a3126349/) (CTO), [Jeanine Vany](https://www.linkedin.com/in/jeanine-vany-a46b302a/) | Technology licensing | Oil and gas service companies, energy producers, municipalities, and utility companies | Eavor-Loop: a proprietary closed-loop geothermal system for conductive heat harvesting | Raised $225 million in equity; 91.6 million Euro EU Innovation grant; raising Series B | Global (Germany, Europe, USA, Canada, Japan) |
-| Circle Cardiovascular Imaging | HealthTech | [Greg Ogrodnik](https://www.linkedin.com/in/greg-ogrodnick-918b847/) (CEO), Dr. [Matthias Friedrich](https://www.linkedin.com/in/matthiasfriedrich/) (Co-founder) | SaaS / Subscription and OEM partnerships | Cardiologists and cardiovascular imaging centers at hospitals | CVI 42 software; AI-driven cardiac MRI and CT imaging post-processing tools | Acquired by Thoma Bravo in 2022; previously raised 20 million CAD Series A | Global (Canada, USA, Europe, China, Japan, Australia, South America) |
-| Falkbuilt | ConstrucTech | [Mogens Smed](https://www.linkedin.com/in/mogens-smed-811a712a/), [Barry Loberg](https://www.linkedin.com/in/barrie-loberg-a0000920/) (Co-founder), [Nicki Smed](https://www.linkedin.com/in/nicki-smed-a39b8b5b/) | Distribution model (Factory Direct Branches) | Commercial office tenants, healthcare providers, and specialty spaces | Echo Software: cloud-based OS integrating design tools with manufacturing and logistics | Private capital from individuals and corporations; "gray market" for shares | Global (North America, Mumbai, Dubai, Jeddah, Riyadh) |
-| Zedi | Oil and Gas Tech | [Dr. Tokunosuke Ito](https://www.linkedin.com/in/toku-ito-609779a/) (Founder), [Mr. Don Clark](https://www.linkedin.com/in/don-clark-5112b5115) (Co-founder) | SaaS and hardware sales | Upstream and midstream oil and gas producers | Smart ALC (edge automation) and Zedi Access (cloud data platform) | Acquired by Emerson in 2019 | Global (25 countries including Canada, USA, Latin America, Asia) |
-| DrugBank | HealthTech | [Michael Wilson](https://www.linkedin.com/in/m1chaelwilson/) (CEO), [Craig Knox](https://www.linkedin.com/in/cknoxrun/), [Dr. David Wishart](https://www.linkedin.com/in/david-wishart-474a62281/) | B2B SaaS | Pharmaceutical companies, academic researchers, and healthcare professionals | AI-driven proprietary biomedical knowledge base and data-linking APIs | Raised seed round in 2020; seeking next round of financing | Global (North America, Europe) |
-| SensorUp | Oil and Gas Tech | [Steve Liang](https://www.linkedin.com/in/steve-liang-198b44/) (Founder and CTO), [Terry Cunningham](https://www.linkedin.com/in/terry-cunningham-72692b/) (CEO) | Enterprise SaaS / Annual recurring licensing | Oil and gas companies (Super Majors) and regulatory bodies | Methane Emissions ERP; multi-sensor software platform for leak detection | Raised rounds from VanEdge Capital, InterGen Capital, Evok Innovations, and OGCI | Global (Canada, USA) |
-| Trust Science | FinTech | [Evan Chrapko](https://www.linkedin.com/in/evanchrapko/) (CEO), [Shane Chrapko](https://www.linkedin.com/in/shanechrapko/) (Co-founder) | SaaS / Subscription and per-score transaction fees | Banks, consumer lenders, and automotive finance companies | Credit Bureau 2.0 / "Invisible Prime" (AI/ML credit scoring platform) | Ongoing rolling fundraises (HNW/Family Offices); on path to IPO | Global (Canada, USA) |
-| ZayZoon | FinTech | [Darcy Tuer](https://www.linkedin.com/in/darcytuer/) (Co-founder and CEO), [Tate Hackert](https://www.linkedin.com/in/tate-hackert/) (Co-founder and President), [Jamie Ha](https://www.linkedin.com/in/jamie-ha-29bb6b135/) (Co-founder and CFO) | Earned Wage Access (EWA) with transaction fees and revenue shares | Employees and employers seeking recruitment/retention benefits | Wages-on-demand platform integrated with over 160 payroll providers | Post-Series B; 20 million USD capital facility | USA (Primary); exploring return to Canada |
-| Pure Life Carbon Inc. | ClimateTech / AgTech | [Dan Ronald](https://www.linkedin.com/in/daniel-ronald-8bbb112a/), [Chris Vance](https://www.linkedin.com/in/christopherjamesvance/) (Sustainability Leader), [Ryan Rand](https://www.linkedin.com/in/ryanrand5/) (CEO), [Dr. Nick Savidov](https://agrifoodexpo.ca/speakers/nick-savidov/) | Leasing (Substrate-as-a-Service) | Greenhouses (Controlled Environment Agriculture) and agricultural clusters | Advanced carbon-based soilless growing medium derived from bamboo | Raised over $20 million from retail investors; seeking $35 million institutional raise | North America (Canada, Mexico) and Europe |
-| zs2 Technologies | ClimateTech | [Scott Jenkins](https://www.linkedin.com/in/scott-jenkins-5568b21b/) (Co-founder and CEO), [Kristin Davis](https://www.linkedin.com/in/kristin-davis-17100944/) (Co-founder), [Doug Brown](https://www.linkedin.com/in/doug-brown-12b14aa8/) (Co-founder) | Hybrid distribution model | Home builders, developers, and sustainability-focused customers | Magnesium cement-based structural insulated panels (SIPS) and CO2 capture | Raised 2.2 million CAD via convertible debenture; 2.7 million CAD SDTC grant | Canada (AB, BC, ON) and USA (AL, FL, UT, CO, CA, OR, WA, AK) |
-| PurposeMed | HealthTech | [Aman Banwait](https://www.linkedin.com/in/amaanbanwait/) (Co-founder and CCO), [Hussein Moloo](https://www.linkedin.com/in/hmoloo/) (Co-founder and CEO), [Pete MacLeod](https://www.linkedin.com/in/pete-macleod/) (Co-founder) | B2C Direct-to-consumer and pharmacy margins | Underserved communities (LGBTQ2S+, ADHD, trans/non-binary) | Virtual care platforms (Freddy, Frida, Foria) | Debt financing (ATB, Government of Canada) and Friends & Family | Canada (National) and USA |
-| Bolster (formerly Cost Certified) | ConstrucTech | [Mike Bignold](https://www.linkedin.com/in/mike-bignold-6092a27/) (CEO) | Fintech stack (take rate on GMV) and freemium model | SMB construction contractors and subcontractors | AI-driven estimating and cost-configurator tool | Raised 8.5 million USD seed round in 2021; Y Combinator graduate | USA (over 90% of customer base) |
-| Fillip Fleet | FinTech | [Alice Reimer](https://www.linkedin.com/in/alice-reimer/) (CEO), [Brian Reimer](https://www.linkedin.com/in/reimerbrian/) (CPO) | SaaS and transaction-based fees | Small to mid-size business fleets (home builders, trades, franchises) | Digital/mobile-first vehicle payment solution and fuel card (Visa network) | Venture-backed (Staircase Ventures, Thinner Labs, Azure Capital) | Canada and North America |
-| BlueMarvel AI | Industrial AI / Oil and Gas Tech | [Keri Lee](https://www.linkedin.com/in/leekeri/) (CEO) | Hybrid: Services, custom solutions, and SaaS | Industrial facilities and energy enterprises | Software for data ingress/egress to visualize safety and emission KPIs | Wholly owned subsidiary of Spartan Controls; no external investment sought | North America (Canada, USA) and International (Iraq) |
-| Virtuo | PropTech | [Casey Kachur](https://www.linkedin.com/in/casey-kachur-08881111/) (CEO and Co-founder), [Chris Richer](https://www.linkedin.com/in/christopher-richer-4348a23/) (SVP Alberta Homes) | B2B Partnership model and Subscription | Home builders, homeowners, mortgage brokers, and realtors | Digital concierge platform managing home buying and moving tasks | Cash flowing; closing a funding round | Canada and USA (Alberta, Rockland Park) |
-| Nialli | ConstrucTech | [Nancy Knowlton](https://www.linkedin.com/in/nancy-knowlton-848116184/) (CEO), [Dave Martin](https://www.linkedin.com/in/david-martin-40bb12117/) (Co-founder) | SaaS with hardware components | General contractors, trade contractors, and project managers | Collaboration software and large-screen display systems for project management | Spun out from Nureva; internally funded/bootstrapped | North America (Canada, USA) |
-| Bōde | PropTech | [Robert Price](https://www.linkedin.com/in/robert-price-903652b/) (CEO), [Jeff Jackson](https://www.linkedin.com/in/jeffjacksoncoaching/) (Co-founder) | B2B Subscription and Marketplace-based platform | Independent homeowners and home builders/developers | Online real estate marketplace; automated transaction experience | Late seed fundraise round | Western Canada (AB, BC), Toronto (ON); USA expansion planned |
-| Ownly | PropTech | [Jason Hardy](https://www.linkedin.com/in/jasonghardy/) (Co-founder and CEO), [Shane Wenzel](https://www.linkedin.com/in/shane-wenzel-%F0%9F%8F%98%EF%B8%8F-a940a413/) (CEO of Shane Homes) | SaaS Plus (Subscription and per-verification fees) | Home builders, developers, and real estate brokers | E-commerce software for real estate; "Only Verified" buyer verification tool | Seed extension/Series A planned; backed by InterGen and National Bank | Canada (Calgary) and USA (TX, GA, FL) |
+| **Eavor Technologies** | ClimateTech / Geothermal | [John Redfern](https://www.linkedin.com/in/johnredfern/) (CEO), [Paul Cairns](https://www.linkedin.com/in/paul-cairns-103b2a40/) (Chief Business Development Officer), [Matt Toews](https://www.linkedin.com/in/matthew-toews-a3126349/) (CTO), [Jeanine Vany](https://www.linkedin.com/in/jeanine-vany-a46b302a/) | Technology licensing | Oil and gas service companies, energy producers, municipalities, and utility companies | Eavor-Loop: a proprietary closed-loop geothermal system for conductive heat harvesting | Raised $225 million in equity; 91.6 million Euro EU Innovation grant; raising Series B | Global (Germany, Europe, USA, Canada, Japan) |
+| **Circle Cardiovascular Imaging** | HealthTech | [Greg Ogrodnik](https://www.linkedin.com/in/greg-ogrodnick-918b847/) (CEO), Dr. [Matthias Friedrich](https://www.linkedin.com/in/matthiasfriedrich/) (Co-founder) | SaaS / Subscription and OEM partnerships | Cardiologists and cardiovascular imaging centers at hospitals | CVI 42 software; AI-driven cardiac MRI and CT imaging post-processing tools | Acquired by Thoma Bravo in 2022; previously raised 20 million CAD Series A | Global (Canada, USA, Europe, China, Japan, Australia, South America) |
+| **Falkbuilt** | ConstrucTech | [Mogens Smed](https://www.linkedin.com/in/mogens-smed-811a712a/), [Barry Loberg](https://www.linkedin.com/in/barrie-loberg-a0000920/) (Co-founder), [Nicki Smed](https://www.linkedin.com/in/nicki-smed-a39b8b5b/) | Distribution model (Factory Direct Branches) | Commercial office tenants, healthcare providers, and specialty spaces | Echo Software: cloud-based OS integrating design tools with manufacturing and logistics | Private capital from individuals and corporations; gray market for shares | Global (North America, Mumbai, Dubai, Jeddah, Riyadh) |
+| **Zedi** | Oil and Gas Tech | [Dr. Tokunosuke Ito](https://www.linkedin.com/in/toku-ito-609779a/) (Founder), [Mr. Don Clark](https://www.linkedin.com/in/don-clark-5112b5115) (Co-founder) | SaaS and hardware sales | Upstream and midstream oil and gas producers | Smart ALC (edge automation) and Zedi Access (cloud data platform) | Acquired by Emerson in 2019 | Global (25 countries including Canada, USA, Latin America, Asia) |
+| **DrugBank** | HealthTech | [Michael Wilson](https://www.linkedin.com/in/m1chaelwilson/) (CEO), [Craig Knox](https://www.linkedin.com/in/cknoxrun/), [Dr. David Wishart](https://www.linkedin.com/in/david-wishart-474a62281/) | B2B SaaS | Pharmaceutical companies, academic researchers, and healthcare professionals | AI-driven proprietary biomedical knowledge base and data-linking APIs | Raised seed round in 2020; seeking next round of financing | Global (North America, Europe) |
+| **SensorUp** | Oil and Gas Tech | [Steve Liang](https://www.linkedin.com/in/steve-liang-198b44/) (Founder and CTO), [Terry Cunningham](https://www.linkedin.com/in/terry-cunningham-72692b/) (CEO) | Enterprise SaaS / Annual recurring licensing | Oil and gas companies (Super Majors) and regulatory bodies | Methane Emissions ERP; multi-sensor software platform for leak detection | Raised rounds from VanEdge Capital, InterGen Capital, Evok Innovations, and OGCI | Global (Canada, USA) |
+| **Trust Science** | FinTech | [Evan Chrapko](https://www.linkedin.com/in/evanchrapko/) (CEO), [Shane Chrapko](https://www.linkedin.com/in/shanechrapko/) (Co-founder) | SaaS / Subscription and per-score transaction fees | Banks, consumer lenders, and automotive finance companies | Credit Bureau 2.0 / Invisible Prime (AI/ML credit scoring platform) | Ongoing rolling fundraises (HNW/Family Offices); on path to IPO | Global (Canada, USA) |
+| **ZayZoon** | FinTech | [Darcy Tuer](https://www.linkedin.com/in/darcytuer/) (Co-founder and CEO), [Tate Hackert](https://www.linkedin.com/in/tate-hackert/) (Co-founder and President), [Jamie Ha](https://www.linkedin.com/in/jamie-ha-29bb6b135/) (Co-founder and CFO) | Earned Wage Access (EWA) with transaction fees and revenue shares | Employees and employers seeking recruitment/retention benefits | Wages-on-demand platform integrated with over 160 payroll providers | Post-Series B; 20 million USD capital facility | USA (Primary); exploring return to Canada |
+| **Pure Life Carbon Inc.** | ClimateTech / AgTech | [Dan Ronald](https://www.linkedin.com/in/daniel-ronald-8bbb112a/), [Chris Vance](https://www.linkedin.com/in/christopherjamesvance/) (Sustainability Leader), [Ryan Rand](https://www.linkedin.com/in/ryanrand5/) (CEO), [Dr. Nick Savidov](https://agrifoodexpo.ca/speakers/nick-savidov/) | Leasing (Substrate-as-a-Service) | Greenhouses (Controlled Environment Agriculture) and agricultural clusters | Advanced carbon-based soilless growing medium derived from bamboo | Raised over $20 million from retail investors; seeking $35 million institutional raise | North America (Canada, Mexico) and Europe |
+| **zs2 Technologies** | ClimateTech | [Scott Jenkins](https://www.linkedin.com/in/scott-jenkins-5568b21b/) (Co-founder and CEO), [Kristin Davis](https://www.linkedin.com/in/kristin-davis-17100944/) (Co-founder), [Doug Brown](https://www.linkedin.com/in/doug-brown-12b14aa8/) (Co-founder) | Hybrid distribution model | Home builders, developers, and sustainability-focused customers | Magnesium cement-based structural insulated panels (SIPS) and CO2 capture | Raised 2.2 million CAD via convertible debenture; 2.7 million CAD SDTC grant | Canada (AB, BC, ON) and USA (AL, FL, UT, CO, CA, OR, WA, AK) |
+| **PurposeMed** | HealthTech | [Aman Banwait](https://www.linkedin.com/in/amaanbanwait/) (Co-founder and CCO), [Hussein Moloo](https://www.linkedin.com/in/hmoloo/) (Co-founder and CEO), [Pete MacLeod](https://www.linkedin.com/in/pete-macleod/) (Co-founder) | B2C Direct-to-consumer and pharmacy margins | Underserved communities (LGBTQ2S+, ADHD, trans/non-binary) | Virtual care platforms (Freddy, Frida, Foria) | Debt financing (ATB, Government of Canada) and Friends & Family | Canada (National) and USA |
+| **Bolster (formerly Cost Certified)** | ConstrucTech | [Mike Bignold](https://www.linkedin.com/in/mike-bignold-6092a27/) (CEO) | Fintech stack (take rate on GMV) and freemium model | SMB construction contractors and subcontractors | AI-driven estimating and cost-configurator tool | Raised 8.5 million USD seed round in 2021; Y Combinator graduate | USA (over 90% of customer base) |
+| **Fillip Fleet** | FinTech | [Alice Reimer](https://www.linkedin.com/in/alice-reimer/) (CEO), [Brian Reimer](https://www.linkedin.com/in/reimerbrian/) (CPO) | SaaS and transaction-based fees | Small to mid-size business fleets (home builders, trades, franchises) | Digital/mobile-first vehicle payment solution and fuel card (Visa network) | Venture-backed (Staircase Ventures, Thinner Labs, Azure Capital) | Canada and North America |
+| **BlueMarvel AI** | Industrial AI / Oil and Gas Tech | [Keri Lee](https://www.linkedin.com/in/leekeri/) (CEO) | Hybrid: Services, custom solutions, and SaaS | Industrial facilities and energy enterprises | Software for data ingress/egress to visualize safety and emission KPIs | Wholly owned subsidiary of Spartan Controls; no external investment sought | North America (Canada, USA) and International (Iraq) |
+| **Virtuo** | PropTech | [Casey Kachur](https://www.linkedin.com/in/casey-kachur-08881111/) (CEO and Co-founder), [Chris Richer](https://www.linkedin.com/in/christopher-richer-4348a23/) (SVP Alberta Homes) | B2B Partnership model and Subscription | Home builders, homeowners, mortgage brokers, and realtors | Digital concierge platform managing home buying and moving tasks | Cash flowing; closing a funding round | Canada and USA (Alberta, Rockland Park) |
+| **Nialli** | ConstrucTech | [Nancy Knowlton](https://www.linkedin.com/in/nancy-knowlton-848116184/) (CEO), [Dave Martin](https://www.linkedin.com/in/david-martin-40bb12117/) (Co-founder) | SaaS with hardware components | General contractors, trade contractors, and project managers | Collaboration software and large-screen display systems for project management | Spun out from Nureva; internally funded/bootstrapped | North America (Canada, USA) |
+| **Bōde** | PropTech | [Robert Price](https://www.linkedin.com/in/robert-price-903652b/) (CEO), [Jeff Jackson](https://www.linkedin.com/in/jeffjacksoncoaching/) (Co-founder) | B2B Subscription and Marketplace-based platform | Independent homeowners and home builders/developers | Online real estate marketplace; automated transaction experience | Late seed fundraise round | Western Canada (AB, BC), Toronto (ON); USA expansion planned |
+| **Ownly** | PropTech | [Jason Hardy](https://www.linkedin.com/in/jasonghardy/) (Co-founder and CEO), [Shane Wenzel](https://www.linkedin.com/in/shane-wenzel-%F0%9F%8F%98%EF%B8%8F-a940a413/) (CEO of Shane Homes) | SaaS Plus (Subscription and per-verification fees) | Home builders, developers, and real estate brokers | E-commerce software for real estate; Only Verified buyer verification tool | Seed extension/Series A planned; backed by InterGen and National Bank | Canada (Calgary) and USA (TX, GA, FL) |
 
