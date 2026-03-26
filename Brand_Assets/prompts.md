@@ -6,7 +6,7 @@ Create a Slide Deck from the selected sources information using the brand-guidel
 
 ### Infographic
 
-Create an infographic in and reserve space for a square logo at the top right corner.
+Create an infographic in a Professional Visual Stype and reserve space for a square logo at the top right corner.
 
 ### Blog Post
 
