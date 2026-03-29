@@ -971,7 +971,7 @@ Investors in oversubscribed rounds look beyond simple revenue totals to assess t
 To capture attention in a crowded market, products must offer significant financial upside.
 
 * **Direct Savings:** Eliminating obsolete costs (e.g., reducing $40 wire transfer fees to near zero).  
-* **Provable ROI:** **PaySheperd**, for instance, targets a 4x ROI, where customers generate approximately $1 million in net new realization for a $250,000 purchase.
+* **Provable ROI:** **PayShepherd**, for instance, targets a 4x ROI, where customers generate approximately $1 million in net new realization for a $250,000 purchase.
 
 \--------------------------------------------------------------------------------
 
