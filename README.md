@@ -11,8 +11,13 @@ We need a Positive "Critical Thinking Loop" on a Second Brain.
 Using Google Tools (Keep, Books, Drive, Docs, Gemini, Illuminate) & NotebookLM as a SynthAI Engine.
 
 ![SynthAI](images/SynthAI.png)
+Cloned from a16z
 
 Extracting entities & context for the Semantic Layer of a Knowledge Graph on a Neo4j Database.
+
+![Semantic_Layer](images/Semantic_Layer.png)
+Cloned from @ebroda
+
 
 Answers to Possible Questions:
 
