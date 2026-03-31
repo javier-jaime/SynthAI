@@ -3597,3 +3597,101 @@ The transition to a tech founder had significant implications for [Wales](https:
 * **Mentorship:** [Wales](https://ca.linkedin.com/in/loreenwales) aims to show other women that if they have conviction, they should take it and run with it to avoid the prison of regret.
 
 "The best education I ever received was from every conversation that I ever had with a patient", [Loreen Wales](https://ca.linkedin.com/in/loreenwales)
+
+# Season 3 Episode 15
+
+# **NiaHealth Reimagining Preventative Care** 
+
+## **Executive Summary**
+
+This document provides a comprehensive overview of **NiaHealth**, a health technology startup focused on transforming the Canadian healthcare landscape from a reactive model to a proactive, preventative one. Led by co-founder and CEO [Sameer Dhar](https://ca.linkedin.com/in/sameerdhar), **NiaHealth** utilizes advanced diagnostics, clinician-led interpretations, and data-driven insights to help individuals manage their health risks before disease occurs.
+
+Key takeaways from the company’s trajectory and philosophy include:
+
+* **Mission-Driven Innovation:** **NiaHealth** aims to democratize access to high-end preventative care, moving beyond the "executive health" niche to serve the general population through an accessible subscription model.  
+* **Strategic Integration:** Rather than seeking to replace the public healthcare system, **NiaHealth** operates as a complementary actor, providing data and next-step recommendations that integrate with primary care.  
+* **Rapid Growth and Validation:** Within 18 months of operation, the company has raised over $8 million in funding, maintains a waitlist of 15,000 people, and experiences monthly growth between 25% and 30%.  
+* **Resilient Leadership:** [Dhar](https://ca.linkedin.com/in/sameerdhar)’s entrepreneurial approach is defined by a resolve-first mindset, prioritizing action over fear during critical "do or die" moments, such as the departure of key founding members.
+
+\--------------------------------------------------------------------------------
+
+## **Founder Profile: Sameer Dhar**
+
+The trajectory of [Sameer Dhar](https://ca.linkedin.com/in/sameerdhar) is characterized by a transition from traditional success metrics to mission-oriented entrepreneurship.
+
+### **Early Influences and Career Shifts**
+
+* **Social Impact Roots:** [Dhar](https://ca.linkedin.com/in/sameerdhar) began his entrepreneurial journey in high school, co-founding a charitable organization for poverty relief in Alberta that eventually raised millions of dollars.  
+* **Academic and Cultural Pressure:** As the child of immigrants, [Dhar](https://ca.linkedin.com/in/sameerdhar) initially felt pressured toward stable careers in medicine or law. This led to a brief pursuit of high finance, including a summer internship at **Morgan Stanley**.  
+* **The NEXT 36:** Joining the **NEXT 36** program served as a pivotal moment, opening a viable path to entrepreneurship by demonstrating that one does not need to be an industry expert to begin solving complex problems.
+
+### **First Venture: Sensorsure**
+
+[Dhar](https://ca.linkedin.com/in/sameerdhar)’s first company, **Sensassure**, focused on the underserved elder care market, specifically addressing incontinence.
+
+* **Deep Discovery:** [Dhar](https://ca.linkedin.com/in/sameerdhar) and his team lived in three different nursing homes across North America for 12 months to gain intimate user empathy and understand nursing staff pain points.  
+* **Exit:** The company successfully applied technology to a niche medical problem and was acquired in late 2016\.
+
+\--------------------------------------------------------------------------------
+
+## **NiaHealth: Company Overview**
+
+**NiaHealth** is positioned as Canada's first end-to-end proactive health platform. It is designed to provide a comprehensive view of an individual's health risks and longevity.
+
+### **Product and Service Offerings**
+
+The platform leverages evidence-based diagnostics that are often missing from standard public health check-ups:
+
+* **Advanced Diagnostics:** Blood work (screening up to 160 biomarkers), VO2 max testing, DEXA scans, gut microbiome testing, and continuous glucose monitoring.  
+* **Clinical Guidance:** Results are interpreted by licensed nurse practitioners who provide consultations and actionable behavior-change plans.  
+* **Data Integration:** The platform integrates wearable data and medical history to create a cohesive health picture.
+
+### **Business Model and Pricing**
+
+**NiaHealth** utilizes an annual subscription model designed for accessibility:
+
+* **Entry Level:** Starts at $299 per year, making it the most accessibly priced platform of its kind in Canada.  
+* **Comprehensive Packages:** Higher-tier packages, priced up to $1,499 per year, include more frequent blood draws and specialized diagnostics, often utilized by major accounting and law firms as executive health entitlements.
+
+### **Market Traction and Financials**
+
+| Metric | Detail |
+| :---- | :---- |
+| **Total Funding** | Over $8 million (Pre-seed and Seed rounds) |
+| **Key Investors** | **Version One Ventures**, **Golden Ventures**, **ATB Financial** |
+| **Growth Rate** | 25% to 30% month-over-month |
+| **Workforce** | Approximately 13 full-time employees |
+| **Waitlist** | 15,000+ individuals across Canada |
+
+\--------------------------------------------------------------------------------
+
+## **Strategic Themes and Operational Philosophy**
+
+### **Complementing the Public System**
+
+A core tenet of **NiaHealth** is its role as a responsible actor within the broader Canadian healthcare context.
+
+* **Reactive vs. Proactive:** [Dhar](https://ca.linkedin.com/in/sameerdhar) notes that public systems are globally designed to treat disease after the fact. **NiaHealth** fills the gap by providing best-in-class preventative medicine at scale.  
+* **Primary Care Collaboration:** The platform provides users with letters for their primary care physicians based on Canadian guidelines, ensuring that any flagged risks are handled through official medical channels.  
+* **The Shift to Nurse Practitioners:** Following the departure of a founding physician, **NiaHealth** pivoted to a model driven by nurse practitioners, finding them to be highly effective as preventative health coaches and companions.
+
+### **Entrepreneurial Mindset and Culture**
+
+[Dhar](https://ca.linkedin.com/in/sameerdhar) describes entrepreneurship through the metaphor of the "jungle versus the zoo", preferring the freedom and risk of the jungle over the structured security of the zoo.
+
+* **Action-Oriented Resilience:** When facing "do or die" moments, such as the loss of a technical co-founder, [Dhar](https://ca.linkedin.com/in/sameerdhar) advocates for moving from fear to action within hours. To him, there is no time to hold fear and despair, it is all about action.  
+* **Internal Culture:** The company prioritizes "psychological safety" through weekly syncs using a "Red/Yellow/Green" status system. This allows the team to communicate when they are in the "danger zone" of burnout.  
+* **Founder Commitment:** In the early stages, [Dhar](https://ca.linkedin.com/in/sameerdhar) personally concierged the first couple thousand customers to stay close to the user experience, acknowledging that starting a company requires a Herculean effort that often impacts personal life.
+
+### **Defining Impact**
+
+[Dhar](https://ca.linkedin.com/in/sameerdhar) evaluates social impact through a philosophical lens, balancing the number of people reached against the depth of impact per person.
+
+* **Area Under the Curve:** Impact can be extreme for a few (saving lives with a medical device) or moderate for billions. **NiaHealth** aims for the "moonshot goal" of impacting billions globally.  
+* **Health as a Business Metric:** [Dhar](https://ca.linkedin.com/in/sameerdhar) argues that while business owners obsess over operating metrics, individuals rarely know their own health metrics. Empowering people to own their health data is viewed as a way to reduce future strain on public resources and improve "health spans."
+
+\--------------------------------------------------------------------------------
+
+## **Conclusion**
+
+**NiaHealth** is currently in a high-growth phase, fueled by significant investor interest and a clear demand for proactive health solutions in Canada. The leadership remains focused on maintaining evidence-based integrity and avoiding the hype often associated with celebrity backed health startups. The ultimate objective is to catalyze a global movement toward prevention, ensuring that health outcomes are driven by data and early intervention rather than reactive treatment.
