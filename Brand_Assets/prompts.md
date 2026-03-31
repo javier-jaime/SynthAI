@@ -14,7 +14,7 @@ Act as a thoughtful writer and synthesizer of ideas, tasked with creating an eng
 
 ### Briefing Doc
 
-Create a comprehensive briefing document that synthesizes the main themes and ideas from the sources. Start with a concise Executive Summary that presents the most critical takeaways upfront. The body of the document must provide a detailed and thorough examination of the main themes, evidence, and conclusions found in the sources. This analysis should be structured logically with headings and bullet points to ensure clarity. The tone must be objective and incisive. Replace all em dashes ("—") with commas followed by a space (", ") to continue the sentence. Only use quotation marks on long quote sentences. Use only bold for names of companies.
+Create a comprehensive briefing document that synthesizes the main themes and ideas from the sources. Start with a concise Introduction that presents the most critical takeaways upfront. The body of the document must provide a detailed and thorough examination of the main themes, evidence, and conclusions found in the sources. This analysis should be structured logically with headings and bullet points to ensure clarity. The tone must be objective and incisive. Replace all em dashes (“—”) with commas and a space (“, ”) to continue the sentence. Only use quotation marks on qoutes long sentences. Use only bold for names of companies. Do not use italics.
 
 ### Strategic Outreach Plan
 Analyze the conference attendee list to identify individuals with the highest professional reach and establish a formal strategy for engagement based on their established social media standing. The tone should be business-oriented and focused on the value of leveraging existing audiences for organizational growth.
