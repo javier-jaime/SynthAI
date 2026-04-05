@@ -1,125 +1,25 @@
-# Intergen Breakfast Club
+# 2024 Summary Table
 
-# **Alberta Tech Ecosystem: Innovation and Market Disruption Briefing**
-
-## **Executive Summary**
-
-The provided source outlines a rapidly maturing technology ecosystem in Alberta, characterized by companies specializing in PropTech, ClimateTech, FinTech, and HealthTech. These organizations are unified by a core objective: the digitization and modernization of legacy industries that have traditionally been slow to innovate.
-
-**Critical Takeaways:**
-
-* **Industry Modernization:** Startups like **Ownly** and **Bōde** are transforming real estate into an e-commerce experience, while **SensorUp** and **Pure Life Carbon** are applying advanced data and material sciences to the energy and agricultural sectors.  
-* **Data as a Strategic Asset:** Companies such as **DrugBank** and **SensorUp** are leveraging structured intelligence and single pane of glass visibility to solve complex problems in drug discovery and methane emission monitoring.  
-* **Alternative Financial Models:** **ZayZoon** is disrupting the predatory payday loan industry through Earned Wage Access (EWA), utilizing a high-velocity capital model.  
-* **Strategic Ecosystem Growth:** There is a heavy emphasis on mentorship and the intergenerational transfer of knowledge, with founders frequently citing advisory boards and programs like **Creative Destruction Lab** (CDL) as pivotal to their scale-up success.
-
-\--------------------------------------------------------------------------------
-
-## **I. PropTech: Digitizing the Real Estate Transaction**
-
-The residential real estate sector is described as one of the last B2C industries on the planet to digitize. Two Calgary-based companies, **Ownly** and **Bōde**, are leading the shift toward a frictionless, transparent buying and selling process.
-
-### **Ownly: E-commerce for New Homes**
-
-**Ownly** focuses on bringing the e-commerce experience to the residential real estate industry, specifically for new home construction.
-
-* **Origin:** Founded by [Jason Hardy](https://www.linkedin.com/in/jasonghardy/) after a 20-minute online vehicle purchase highlighted the comparative red tape and stress of home buying.  
-* **Core Product (Ownly Verified):** A five-stage verification tool that handles identity credential verification, mortgage pre-approvals, income/liability verification, and soft credit checks.  
-* **Market Impact:** The platform acts as a sales enablement tool for builders and brokers. In an environment where 50% of US real estate transactions fail at the final hour, **Ownly** provides qualified buyers with greater certainty.  
-* **Key Quote:** "Nobody wants to be sold... people want the opportunity to be able to educate themselves and they want the opportunity to buy rather than be sold", [Jason Hardy](https://www.linkedin.com/in/jasonghardy/), Co-founder & CEO.
-
-### **Bōde: Marketplace and Platform Play**
-
-**Bōde** operates as a marketplace for both independent homeowners (B2C) and new home builders (B2B).
-
-* **Value Proposition:** By leveraging technology to handle the intellectual work (pricing, searching, negotiations), **Bōde** reduces traditional commission costs.  
-* **B2B Strategy:** Large home builders utilize **Bōde** to maximize exposure and access better transaction data. On average, home builders are reported to make $500,000 more per year by selling through the platform.  
-* **Operational Scale:** The platform is highly scalable, entering new markets (like Ontario) by connecting to APIs rather than increasing human capital.
-
-\--------------------------------------------------------------------------------
-
-## **II. ClimateTech and Sustainability: Energy and AgTech**
-
-Innovation in this sector focuses on ESG (Environmental, Social, and Governance) goals, specifically regarding food security and emission reductions.
-
-### **Pure Life Carbon: Sustainable Growing Mediums**
-
-**Pure Life Carbon** has developed a carbon-negative, reusable growing medium made from bamboo to replace traditional substrates like peat moss and rockwool.
-
-* **The Technology:** The product is sterile and does not degrade; the source notes a study showing 18+ years of performance without loss of specification.  
-* **Business Model (Substrate as a Service):** Instead of selling a single-use product, the company leases the dirt to greenhouses and recharges it after each growth cycle.  
-* **Environmental Impact:** Existing growing mediums contribute nearly 10% of global greenhouse gas emissions. **Pure Life Carbon**’s process is carbon net negative.  
-* **Key Insight:** The medium reduces water usage by 70–80% and enhances food quality (e.g., producing better tomatoes).
-
-### **SensorUp: The ERP for Methane**
-
-**SensorUp** provides a software platform designed to aggregate data from disparate sensors (satellites, drones, and ground sensors) into a single interface for methane emission reduction.
-
-* **Market Positioning:** **SensorUp** does not manufacture sensors but acts as the plumbing or thin layer of software that connects various data sources.  
-* **Strategic Partners:** The company is backed by the Oil and Gas Climate Initiative (OGCI) and was validated by **BCG** as a leader in the space.  
-* **Strategic Objective:** Helping super-major oil companies find the leak early and fix it early, which allows for the sale of responsible gas at premium prices.
-
-\--------------------------------------------------------------------------------
-
-## **III. FinTech: Financial Wellness and Employee Empowerment**
-
-The FinTech sector, represented by **ZayZoon**, focuses on social impact and operational efficiency within the US small-to-midsize business (SMB) market.
-
-### **ZayZoon: Earned Wage Access (EWA)**
-
-**ZayZoon** provides employees with on-demand access to wages they have already earned but have not yet received due to traditional payroll cycles.
-
-* **Disruption of Payday Loans:** **ZayZoon** offers an alternative to the egregious fees of payday lenders. Unlike payday loans, EWA is not a loan from the future, it is liquidity provided on accrued income.  
-* **Economic Viability:** The company turns its capital every nine days, allowing it to remain profitable while keeping fees low for the consumer.  
-* **Go-to-Market:** **ZayZoon** partners with over 160 payroll providers (including ADP) to reach over 10,000 businesses. This B2B2C model allows for massive distribution with minimal friction.  
-* **Key Metric:** **ZayZoon** maintains a high employee Net Promoter Score (eNPS) of 82, significantly higher than industry giants like Nike or Apple.
-
-\--------------------------------------------------------------------------------
-
-## **IV. HealthTech: Biomedical Intelligence**
-
-Calgary and Edmonton’s HealthTech presence is underscored by high-level academic spin-offs that have achieved global scale.
-
-### **DrugBank: Structured Pharmacology Data**
-
-**DrugBank** is a biomedical knowledge base that structures and organizes scientific details about drugs and clinical trials to accelerate discovery research.
-
-* **Scale and Reach:** Originating at the **University of Alberta**, it now serves 21 million unique users annually and is cited in over 40,000 academic publications.  
-* **The Bloomberg of Pharmacology:** The platform uses natural language processing (NLP) to curate and link data points, making it an essential tool for biologists and data scientists.  
-* **Market Authority:** It is a trusted source linked by the FDA and NIH. **DrugBank** identifiers have become an industry standard for referring to biomedical concepts.  
-* **Revenue Model:** A B2B SaaS model serving 11 of the top 20 pharmaceutical companies globally.
-
-\--------------------------------------------------------------------------------
-
-## **V. Cross-Sectoral Themes in Scale-Up Success**
-
-Across all source transcripts, founders and advisors identified several recurring factors necessary for transitioning from a startup to a scale-up.
-
-### **The Role of Mentorship and Governance**
-
-* **Vulnerability and Growth:** Founders emphasize being coachable and seeking mentors they do not deserve to challenge their assumptions.  
-* **Formal vs. Informal:** Startups benefit from formal boards (as seen with **Bōde** and **Pure Life Carbon**) and informal peer networks to navigate the lonely CEO experience.  
-* **Intergenerational Collision:** Programs like **InterGen** focus on pairing young entrepreneurs with experienced business advisors to bridge gaps in talent and strategic direction.
-
-### **Operational Challenges**
-
-| Challenge | Context / Evidence |
-| :---- | :---- |
-| **Talent Acquisition** | The shift to hybrid/remote work has expanded the talent pool but increased competition from global giants like Google. |
-| **Capital Raising** | Raising money in Alberta outside of the energy sector remains difficult, **Pure Life Carbon** raised $20M through retail investors because institutional AgTech capital is sparse in Canada. |
-| **Sales Cycles** | Dinosaur hunting (selling to super-majors) requires extreme tenacity, often taking years of sweat, blood, and tears. |
-| **Product-Market Fit** | Startups must avoid becoming custom software shops for a single large client and instead find repeatable problems to solve. |
-
-### **Featured Organizations**
-
-| Company | Sector | Primary Innovation |
-| :---- | :---- | :---- |
-| **Ownly** | PropTech | E-commerce home-buying platform with 5-stage verification. |
-| **Bōde** | PropTech | Data-driven real estate marketplace reducing commissions. |
-| **Pure Life Carbon** | ClimateTech | Sterile, reusable carbon-negative grow medium. |
-| **SensorUp** | ClimateTech | Erp for methane, multi-sensor data integration. |
-| **ZayZoon** | FinTech | Earned Wage Access (EWA) for financial wellness. |
-| **DrugBank** | HealthTech | Global biomedical knowledge base for drug discovery. |
+| Company Name | Industry Focus | Founding Team | Core Business Model | Target Customers | Key Technology or Product | Funding Status | Geographic Markets |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
+| **Eavor Technologies** | ClimateTech / Geothermal | [John Redfern](https://www.linkedin.com/in/johnredfern/) (CEO), [Paul Cairns](https://www.linkedin.com/in/paul-cairns-103b2a40/) (Chief Business Development Officer), [Matt Toews](https://www.linkedin.com/in/matthew-toews-a3126349/) (CTO), [Jeanine Vany](https://www.linkedin.com/in/jeanine-vany-a46b302a/) | Technology licensing | Oil and gas service companies, energy producers, municipalities, and utility companies | Eavor-Loop: a proprietary closed-loop geothermal system for conductive heat harvesting | Raised $225 million in equity; 91.6 million Euro EU Innovation grant; raising Series B | Global (Germany, Europe, USA, Canada, Japan) |
+| **Circle Cardiovascular Imaging** | HealthTech | [Greg Ogrodnik](https://www.linkedin.com/in/greg-ogrodnick-918b847/) (CEO), Dr. [Matthias Friedrich](https://www.linkedin.com/in/matthiasfriedrich/) (Co-founder) | SaaS / Subscription and OEM partnerships | Cardiologists and cardiovascular imaging centers at hospitals | CVI 42 software; AI-driven cardiac MRI and CT imaging post-processing tools | Acquired by Thoma Bravo in 2022; previously raised 20 million CAD Series A | Global (Canada, USA, Europe, China, Japan, Australia, South America) |
+| **Falkbuilt** | ConstrucTech | [Mogens Smed](https://www.linkedin.com/in/mogens-smed-811a712a/), [Barry Loberg](https://www.linkedin.com/in/barrie-loberg-a0000920/) (Co-founder), [Nicki Smed](https://www.linkedin.com/in/nicki-smed-a39b8b5b/) | Distribution model (Factory Direct Branches) | Commercial office tenants, healthcare providers, and specialty spaces | Echo Software: cloud-based OS integrating design tools with manufacturing and logistics | Private capital from individuals and corporations; gray market for shares | Global (North America, Mumbai, Dubai, Jeddah, Riyadh) |
+| **Zedi** | Oil and Gas Tech | [Dr. Tokunosuke Ito](https://www.linkedin.com/in/toku-ito-609779a/) (Founder), [Mr. Don Clark](https://www.linkedin.com/in/don-clark-5112b5115) (Co-founder) | SaaS and hardware sales | Upstream and midstream oil and gas producers | Smart ALC (edge automation) and Zedi Access (cloud data platform) | Acquired by Emerson in 2019 | Global (25 countries including Canada, USA, Latin America, Asia) |
+| **DrugBank** | HealthTech | [Michael Wilson](https://www.linkedin.com/in/m1chaelwilson/) (CEO), [Craig Knox](https://www.linkedin.com/in/cknoxrun/), [Dr. David Wishart](https://www.linkedin.com/in/david-wishart-474a62281/) | B2B SaaS | Pharmaceutical companies, academic researchers, and healthcare professionals | AI-driven proprietary biomedical knowledge base and data-linking APIs | Raised seed round in 2020; seeking next round of financing | Global (North America, Europe) |
+| **SensorUp** | Oil and Gas Tech | [Steve Liang](https://www.linkedin.com/in/steve-liang-198b44/) (Founder and CTO), [Terry Cunningham](https://www.linkedin.com/in/terry-cunningham-72692b/) (CEO) | Enterprise SaaS / Annual recurring licensing | Oil and gas companies (Super Majors) and regulatory bodies | Methane Emissions ERP; multi-sensor software platform for leak detection | Raised rounds from VanEdge Capital, InterGen Capital, Evok Innovations, and OGCI | Global (Canada, USA) |
+| **Trust Science** | FinTech | [Evan Chrapko](https://www.linkedin.com/in/evanchrapko/) (CEO), [Shane Chrapko](https://www.linkedin.com/in/shanechrapko/) (Co-founder) | SaaS / Subscription and per-score transaction fees | Banks, consumer lenders, and automotive finance companies | Credit Bureau 2.0 / Invisible Prime (AI/ML credit scoring platform) | Ongoing rolling fundraises (HNW/Family Offices); on path to IPO | Global (Canada, USA) |
+| **ZayZoon** | FinTech | [Darcy Tuer](https://www.linkedin.com/in/darcytuer/) (Co-founder and CEO), [Tate Hackert](https://www.linkedin.com/in/tate-hackert/) (Co-founder and President), [Jamie Ha](https://www.linkedin.com/in/jamie-ha-29bb6b135/) (Co-founder and CFO) | Earned Wage Access (EWA) with transaction fees and revenue shares | Employees and employers seeking recruitment/retention benefits | Wages-on-demand platform integrated with over 160 payroll providers | Post-Series B; 20 million USD capital facility | USA (Primary); exploring return to Canada |
+| **Pure Life Carbon Inc.** | ClimateTech / AgTech | [Dan Ronald](https://www.linkedin.com/in/daniel-ronald-8bbb112a/), [Chris Vance](https://www.linkedin.com/in/christopherjamesvance/) (Sustainability Leader), [Ryan Rand](https://www.linkedin.com/in/ryanrand5/) (CEO), [Dr. Nick Savidov](https://agrifoodexpo.ca/speakers/nick-savidov/) | Leasing (Substrate-as-a-Service) | Greenhouses (Controlled Environment Agriculture) and agricultural clusters | Advanced carbon-based soilless growing medium derived from bamboo | Raised over $20 million from retail investors; seeking $35 million institutional raise | North America (Canada, Mexico) and Europe |
+| **zs2 Technologies** | ClimateTech | [Scott Jenkins](https://www.linkedin.com/in/scott-jenkins-5568b21b/) (Co-founder and CEO), [Kristin Davis](https://www.linkedin.com/in/kristin-davis-17100944/) (Co-founder), [Doug Brown](https://www.linkedin.com/in/doug-brown-12b14aa8/) (Co-founder) | Hybrid distribution model | Home builders, developers, and sustainability-focused customers | Magnesium cement-based structural insulated panels (SIPS) and CO2 capture | Raised 2.2 million CAD via convertible debenture; 2.7 million CAD SDTC grant | Canada (AB, BC, ON) and USA (AL, FL, UT, CO, CA, OR, WA, AK) |
+| **PurposeMed** | HealthTech | [Aman Banwait](https://www.linkedin.com/in/amaanbanwait/) (Co-founder and CCO), [Hussein Moloo](https://www.linkedin.com/in/hmoloo/) (Co-founder and CEO), [Pete MacLeod](https://www.linkedin.com/in/pete-macleod/) (Co-founder) | B2C Direct-to-consumer and pharmacy margins | Underserved communities (LGBTQ2S+, ADHD, trans/non-binary) | Virtual care platforms (Freddy, Frida, Foria) | Debt financing (ATB, Government of Canada) and Friends & Family | Canada (National) and USA |
+| **Bolster (formerly Cost Certified)** | ConstrucTech | [Mike Bignold](https://www.linkedin.com/in/mike-bignold-6092a27/) (CEO) | Fintech stack (take rate on GMV) and freemium model | SMB construction contractors and subcontractors | AI-driven estimating and cost-configurator tool | Raised 8.5 million USD seed round in 2021; Y Combinator graduate | USA (over 90% of customer base) |
+| **Fillip Fleet** | FinTech | [Alice Reimer](https://www.linkedin.com/in/alice-reimer/) (CEO), [Brian Reimer](https://www.linkedin.com/in/reimerbrian/) (CPO) | SaaS and transaction-based fees | Small to mid-size business fleets (home builders, trades, franchises) | Digital/mobile-first vehicle payment solution and fuel card (Visa network) | Venture-backed (Staircase Ventures, Thinner Labs, Azure Capital) | Canada and North America |
+| **BlueMarvel AI** | Industrial AI / Oil and Gas Tech | [Keri Lee](https://www.linkedin.com/in/leekeri/) (CEO) | Hybrid: Services, custom solutions, and SaaS | Industrial facilities and energy enterprises | Software for data ingress/egress to visualize safety and emission KPIs | Wholly owned subsidiary of Spartan Controls; no external investment sought | North America (Canada, USA) and International (Iraq) |
+| **Virtuo** | PropTech | [Casey Kachur](https://www.linkedin.com/in/casey-kachur-08881111/) (CEO and Co-founder), [Chris Richer](https://www.linkedin.com/in/christopher-richer-4348a23/) (SVP Alberta Homes) | B2B Partnership model and Subscription | Home builders, homeowners, mortgage brokers, and realtors | Digital concierge platform managing home buying and moving tasks | Cash flowing; closing a funding round | Canada and USA (Alberta, Rockland Park) |
+| **Nialli** | ConstrucTech | [Nancy Knowlton](https://www.linkedin.com/in/nancy-knowlton-848116184/) (CEO), [Dave Martin](https://www.linkedin.com/in/david-martin-40bb12117/) (Co-founder) | SaaS with hardware components | General contractors, trade contractors, and project managers | Collaboration software and large-screen display systems for project management | Spun out from Nureva; internally funded/bootstrapped | North America (Canada, USA) |
+| **Bōde** | PropTech | [Robert Price](https://www.linkedin.com/in/robert-price-903652b/) (CEO), [Jeff Jackson](https://www.linkedin.com/in/jeffjacksoncoaching/) (Co-founder) | B2B Subscription and Marketplace-based platform | Independent homeowners and home builders/developers | Online real estate marketplace; automated transaction experience | Late seed fundraise round | Western Canada (AB, BC), Toronto (ON); USA expansion planned |
+| **Ownly** | PropTech | [Jason Hardy](https://www.linkedin.com/in/jasonghardy/) (Co-founder and CEO), [Shane Wenzel](https://www.linkedin.com/in/shane-wenzel-%F0%9F%8F%98%EF%B8%8F-a940a413/) (CEO of Shane Homes) | SaaS Plus (Subscription and per-verification fees) | Home builders, developers, and real estate brokers | E-commerce software for real estate; Only Verified buyer verification tool | Seed extension/Series A planned; backed by InterGen and National Bank | Canada (Calgary) and USA (TX, GA, FL) |
 
 # Episode 001
 
@@ -2043,27 +1943,3 @@ At Smart Technologies, pricing was used as a competitive lever:
 "We've never ever done anything for money; our mindset is do the right thing and money will follow if it should."
 
 "You have to love the work... it's actually never about you the individual, it's about the work, it's about what you can do for your customers."
-
-# Summary Table
-
-| Company Name | Industry Focus | Founding Team | Core Business Model | Target Customers | Key Technology or Product | Funding Status | Geographic Markets |
-| :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| **Eavor Technologies** | ClimateTech / Geothermal | [John Redfern](https://www.linkedin.com/in/johnredfern/) (CEO), [Paul Cairns](https://www.linkedin.com/in/paul-cairns-103b2a40/) (Chief Business Development Officer), [Matt Toews](https://www.linkedin.com/in/matthew-toews-a3126349/) (CTO), [Jeanine Vany](https://www.linkedin.com/in/jeanine-vany-a46b302a/) | Technology licensing | Oil and gas service companies, energy producers, municipalities, and utility companies | Eavor-Loop: a proprietary closed-loop geothermal system for conductive heat harvesting | Raised $225 million in equity; 91.6 million Euro EU Innovation grant; raising Series B | Global (Germany, Europe, USA, Canada, Japan) |
-| **Circle Cardiovascular Imaging** | HealthTech | [Greg Ogrodnik](https://www.linkedin.com/in/greg-ogrodnick-918b847/) (CEO), Dr. [Matthias Friedrich](https://www.linkedin.com/in/matthiasfriedrich/) (Co-founder) | SaaS / Subscription and OEM partnerships | Cardiologists and cardiovascular imaging centers at hospitals | CVI 42 software; AI-driven cardiac MRI and CT imaging post-processing tools | Acquired by Thoma Bravo in 2022; previously raised 20 million CAD Series A | Global (Canada, USA, Europe, China, Japan, Australia, South America) |
-| **Falkbuilt** | ConstrucTech | [Mogens Smed](https://www.linkedin.com/in/mogens-smed-811a712a/), [Barry Loberg](https://www.linkedin.com/in/barrie-loberg-a0000920/) (Co-founder), [Nicki Smed](https://www.linkedin.com/in/nicki-smed-a39b8b5b/) | Distribution model (Factory Direct Branches) | Commercial office tenants, healthcare providers, and specialty spaces | Echo Software: cloud-based OS integrating design tools with manufacturing and logistics | Private capital from individuals and corporations; gray market for shares | Global (North America, Mumbai, Dubai, Jeddah, Riyadh) |
-| **Zedi** | Oil and Gas Tech | [Dr. Tokunosuke Ito](https://www.linkedin.com/in/toku-ito-609779a/) (Founder), [Mr. Don Clark](https://www.linkedin.com/in/don-clark-5112b5115) (Co-founder) | SaaS and hardware sales | Upstream and midstream oil and gas producers | Smart ALC (edge automation) and Zedi Access (cloud data platform) | Acquired by Emerson in 2019 | Global (25 countries including Canada, USA, Latin America, Asia) |
-| **DrugBank** | HealthTech | [Michael Wilson](https://www.linkedin.com/in/m1chaelwilson/) (CEO), [Craig Knox](https://www.linkedin.com/in/cknoxrun/), [Dr. David Wishart](https://www.linkedin.com/in/david-wishart-474a62281/) | B2B SaaS | Pharmaceutical companies, academic researchers, and healthcare professionals | AI-driven proprietary biomedical knowledge base and data-linking APIs | Raised seed round in 2020; seeking next round of financing | Global (North America, Europe) |
-| **SensorUp** | Oil and Gas Tech | [Steve Liang](https://www.linkedin.com/in/steve-liang-198b44/) (Founder and CTO), [Terry Cunningham](https://www.linkedin.com/in/terry-cunningham-72692b/) (CEO) | Enterprise SaaS / Annual recurring licensing | Oil and gas companies (Super Majors) and regulatory bodies | Methane Emissions ERP; multi-sensor software platform for leak detection | Raised rounds from VanEdge Capital, InterGen Capital, Evok Innovations, and OGCI | Global (Canada, USA) |
-| **Trust Science** | FinTech | [Evan Chrapko](https://www.linkedin.com/in/evanchrapko/) (CEO), [Shane Chrapko](https://www.linkedin.com/in/shanechrapko/) (Co-founder) | SaaS / Subscription and per-score transaction fees | Banks, consumer lenders, and automotive finance companies | Credit Bureau 2.0 / Invisible Prime (AI/ML credit scoring platform) | Ongoing rolling fundraises (HNW/Family Offices); on path to IPO | Global (Canada, USA) |
-| **ZayZoon** | FinTech | [Darcy Tuer](https://www.linkedin.com/in/darcytuer/) (Co-founder and CEO), [Tate Hackert](https://www.linkedin.com/in/tate-hackert/) (Co-founder and President), [Jamie Ha](https://www.linkedin.com/in/jamie-ha-29bb6b135/) (Co-founder and CFO) | Earned Wage Access (EWA) with transaction fees and revenue shares | Employees and employers seeking recruitment/retention benefits | Wages-on-demand platform integrated with over 160 payroll providers | Post-Series B; 20 million USD capital facility | USA (Primary); exploring return to Canada |
-| **Pure Life Carbon Inc.** | ClimateTech / AgTech | [Dan Ronald](https://www.linkedin.com/in/daniel-ronald-8bbb112a/), [Chris Vance](https://www.linkedin.com/in/christopherjamesvance/) (Sustainability Leader), [Ryan Rand](https://www.linkedin.com/in/ryanrand5/) (CEO), [Dr. Nick Savidov](https://agrifoodexpo.ca/speakers/nick-savidov/) | Leasing (Substrate-as-a-Service) | Greenhouses (Controlled Environment Agriculture) and agricultural clusters | Advanced carbon-based soilless growing medium derived from bamboo | Raised over $20 million from retail investors; seeking $35 million institutional raise | North America (Canada, Mexico) and Europe |
-| **zs2 Technologies** | ClimateTech | [Scott Jenkins](https://www.linkedin.com/in/scott-jenkins-5568b21b/) (Co-founder and CEO), [Kristin Davis](https://www.linkedin.com/in/kristin-davis-17100944/) (Co-founder), [Doug Brown](https://www.linkedin.com/in/doug-brown-12b14aa8/) (Co-founder) | Hybrid distribution model | Home builders, developers, and sustainability-focused customers | Magnesium cement-based structural insulated panels (SIPS) and CO2 capture | Raised 2.2 million CAD via convertible debenture; 2.7 million CAD SDTC grant | Canada (AB, BC, ON) and USA (AL, FL, UT, CO, CA, OR, WA, AK) |
-| **PurposeMed** | HealthTech | [Aman Banwait](https://www.linkedin.com/in/amaanbanwait/) (Co-founder and CCO), [Hussein Moloo](https://www.linkedin.com/in/hmoloo/) (Co-founder and CEO), [Pete MacLeod](https://www.linkedin.com/in/pete-macleod/) (Co-founder) | B2C Direct-to-consumer and pharmacy margins | Underserved communities (LGBTQ2S+, ADHD, trans/non-binary) | Virtual care platforms (Freddy, Frida, Foria) | Debt financing (ATB, Government of Canada) and Friends & Family | Canada (National) and USA |
-| **Bolster (formerly Cost Certified)** | ConstrucTech | [Mike Bignold](https://www.linkedin.com/in/mike-bignold-6092a27/) (CEO) | Fintech stack (take rate on GMV) and freemium model | SMB construction contractors and subcontractors | AI-driven estimating and cost-configurator tool | Raised 8.5 million USD seed round in 2021; Y Combinator graduate | USA (over 90% of customer base) |
-| **Fillip Fleet** | FinTech | [Alice Reimer](https://www.linkedin.com/in/alice-reimer/) (CEO), [Brian Reimer](https://www.linkedin.com/in/reimerbrian/) (CPO) | SaaS and transaction-based fees | Small to mid-size business fleets (home builders, trades, franchises) | Digital/mobile-first vehicle payment solution and fuel card (Visa network) | Venture-backed (Staircase Ventures, Thinner Labs, Azure Capital) | Canada and North America |
-| **BlueMarvel AI** | Industrial AI / Oil and Gas Tech | [Keri Lee](https://www.linkedin.com/in/leekeri/) (CEO) | Hybrid: Services, custom solutions, and SaaS | Industrial facilities and energy enterprises | Software for data ingress/egress to visualize safety and emission KPIs | Wholly owned subsidiary of Spartan Controls; no external investment sought | North America (Canada, USA) and International (Iraq) |
-| **Virtuo** | PropTech | [Casey Kachur](https://www.linkedin.com/in/casey-kachur-08881111/) (CEO and Co-founder), [Chris Richer](https://www.linkedin.com/in/christopher-richer-4348a23/) (SVP Alberta Homes) | B2B Partnership model and Subscription | Home builders, homeowners, mortgage brokers, and realtors | Digital concierge platform managing home buying and moving tasks | Cash flowing; closing a funding round | Canada and USA (Alberta, Rockland Park) |
-| **Nialli** | ConstrucTech | [Nancy Knowlton](https://www.linkedin.com/in/nancy-knowlton-848116184/) (CEO), [Dave Martin](https://www.linkedin.com/in/david-martin-40bb12117/) (Co-founder) | SaaS with hardware components | General contractors, trade contractors, and project managers | Collaboration software and large-screen display systems for project management | Spun out from Nureva; internally funded/bootstrapped | North America (Canada, USA) |
-| **Bōde** | PropTech | [Robert Price](https://www.linkedin.com/in/robert-price-903652b/) (CEO), [Jeff Jackson](https://www.linkedin.com/in/jeffjacksoncoaching/) (Co-founder) | B2B Subscription and Marketplace-based platform | Independent homeowners and home builders/developers | Online real estate marketplace; automated transaction experience | Late seed fundraise round | Western Canada (AB, BC), Toronto (ON); USA expansion planned |
-| **Ownly** | PropTech | [Jason Hardy](https://www.linkedin.com/in/jasonghardy/) (Co-founder and CEO), [Shane Wenzel](https://www.linkedin.com/in/shane-wenzel-%F0%9F%8F%98%EF%B8%8F-a940a413/) (CEO of Shane Homes) | SaaS Plus (Subscription and per-verification fees) | Home builders, developers, and real estate brokers | E-commerce software for real estate; Only Verified buyer verification tool | Seed extension/Series A planned; backed by InterGen and National Bank | Canada (Calgary) and USA (TX, GA, FL) |
-
