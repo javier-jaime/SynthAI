@@ -1,138 +1,60 @@
-# 2025 Upperbound
+# Summary Table
 
-# **Strategic Insights into AI Innovation, Economics, and Implementation**
-
-## **Executive Summary**
-
-The Upperbound 2025 AI Conference, presented by **Amii**, provides a comprehensive overview of the current state of artificial intelligence, spanning from technical breakthroughs in reinforcement learning to the broad economic and ethical implications for industry and society.
-
-Critical takeaways include:
-
-* **Sector Transformation:** AI is being integrated into retail and finance not as a superficial addition, but as a core operational driver. From predictive maintenance in manufacturing to real-time order execution in capital markets (e.g., **RBC**’s Aiden), AI is redefining efficiency.  
-* **The Productivity Imperative:** Canada faces a significant productivity gap compared to the G7 and the US. Successful AI adoption requires focusing on winning conditions, strategy, data maturity, and people, rather than just the technology itself.  
-* **Economic Shifts:** The cost of generation and cost of prediction are trending toward zero. This shifts the value proposition from simply producing outputs to managing high-value outcomes and human-centric decision-making.  
-* **Technical Evolution:** Streaming Deep Reinforcement Learning (RL) is emerging as a solution to the stream barrier, allowing AI to learn incrementally in real-time without storing vast amounts of raw data, which unlocks potential for ubiquitous, on-device AI.  
-* **Literacy and Ethics:** There is a crucial distinction between AI literacy and AI fluency. As AI becomes a collaborator, society must address risks of cognitive atrophy, automation complacency, and the environmental footprint of large-scale models.
-
-\--------------------------------------------------------------------------------
-
-## **I. Sector-Specific AI Integration**
-
-### **Retail and Consumer Analytics**
-
-Retail AI startups are shifting from general consumer apps to B2B models that provide deep data transparency for manufacturers and brands.
-
-* **BetterCart Analytics:** Processes over 55 million data points weekly to provide real-time price analytics and product matching for the grocery sector. The focus is on assisting small and medium-sized manufacturers to compete in low-margin environments.  
-* **Bobo (Parenting Super App):** Uses AI to distill developmental data and social cues into actionable insights for parents. The platform acts as a bridge between parents and expert services (e.g., speech pathologists, sleep consultants), aiming to make specialist care more affordable through automated self-diagnosis tools.
-
-### **Financial Services (RBC Borealis)**
-
-The financial sector utilizes AI to manage massive transaction volumes and high-stakes market movements.
-
-| Innovation | Function | Impact |
-| :---- | :---- | :---- |
-| **Aiden** | Reinforcement Learning agent for order execution. | Traded $100B+ in notional value, executes large trades by breaking them into smaller orders to avoid market price spikes. |
-| **Nomi Forecast** | Selective prediction for mobile banking. | Predicts upcoming bills, utilizes abstention (selective net) to only show predictions when confidence is extremely high, reducing client errors. |
-| **Atom** | Foundation model for financial transactions. | A "Large Transaction Model" (analogous to an LLM) that learns representations from irregular sequences of credit/debit data for downstream tasks like fraud detection and product recommendation. |
-
-\--------------------------------------------------------------------------------
-
-## **II. Technical Breakthroughs: Streaming Deep Reinforcement Learning (RL)**
-
-A significant shift is occurring from Offline/Batch Learning (training on stored datasets) to Streaming Learning (learning incrementally from a continuous experience stream).
-
-### **The Stream Barrier**
-
-Historically, streaming deep RL was unstable. Neural networks struggled with non-stationarity, the extreme changes in data over time, leading to catastrophic forgetting or loss of plasticity.
-
-### **Advancements (Stream-X and AVG)**
-
-Researchers at **Amii** and **University of Alberta** have identified a new class of algorithms, such as Stream-X, to overcome this barrier:
-
-* **Atomic Compute Granularity:** Updates are made per single sample rather than in mini-batches.  
-* **Compute Efficiency:** Streaming learning uses orders of magnitude less compute than batch methods like Soft Actor-Critic (SAC), allowing it to run on CPUs or mobile devices.  
-* **New Optimizers:** Innovations like bounding the size of updates prevent overshooting the minimum in the loss landscape, ensuring stability during real-time learning.  
-* **Scaling:** Unlocks time-based scaling, where a model improves simply by existing and interacting with the world over time.
-
-\--------------------------------------------------------------------------------
-
-## **III. AI Economics: Trends and Transitions**
-
-The economic landscape is being reshaped by the decreasing costs of AI outputs and the move toward agentic workflows.
-
-### **The Zero-Cost Trend**
-
-* **Cost of Generation/Prediction:** Trending toward zero. As models become more efficient (e.g., **Google**’s Gemini’s rapid token generation), the sheer volume of output becomes less valuable than the ability to deliberate over those outputs.  
-* **Cost of Deliberation:** AI agents (like **Google**’s AlphaEvolve) can now simulate and optimize thousands of plans (e.g., for data center scheduling) in minutes, reducing the need for lengthy human-led consulting processes.
-
-### **Value in the Stack**
-
-While value currently sits in hardware (GPUs/TPUs), it is expected to shift toward:
-
-* **Interface/Human Contact:** Value accrues where the AI meets the human (wearables, subvocal intonation devices).  
-* **Outcomes over Outputs:** As generation becomes cheap, the ability to enact real-world results remains the premium.  
-* **Data Provenance:** As synthetic data proliferates, identifying the provenance or source of data (real vs. synthetic) becomes an economic necessity for model quality.
-
-\--------------------------------------------------------------------------------
-
-## **IV. Productivity and Organizational Implementation**
-
-Canada’s stagnant productivity growth (0% over the last 3-5 years) makes AI modernization critical, yet many organizations fail by treating AI as a silver bullet.
-
-### **Winning Conditions for AI Adoption**
-
-Implementation must move beyond the "Technology and Tools" layer to address:
-
-1. **Strategy and Vision:** Identifying specific pain points rather than copying competitors.  
-2. **Data Maturity:** Many SMEs struggle with duplicated or unorganized data, AI requires a clear data infrastructure.  
-3. **Human Capital:** Upskilling employees and involving department heads in tool selection to avoid pushback.  
-4. **Governance:** Integrating AI into legal, privacy, and ethical frameworks.
-
-### **Predictive Maintenance Case Study**
-
-AI’s impact on productivity is most significant when it modifies core business processes.
-
-* **Traditional:** Maintenance on fixed calendar intervals.  
-* **AI-Enabled:** IoT sensors trigger predictive models that automate procurement (ordering parts), dynamic scheduling (allocating labor based on equipment condition), and accounting (improving cash flow predictions).
-
-\--------------------------------------------------------------------------------
-
-## **V. Risks, Fails, and AI Offscript**
-
-The symposium highlighted that while AI is powerful, its reliance on camera-based systems and reward functions creates unique vulnerabilities.
-
-### **Computer Vision and Autopilot Fails**
-
-* **Tesla Autopilot:** Fooled by "Wile E. Coyote" style murals of roads on walls, can be induced to stop by a person wearing a Stop Sign t-shirt because it relies exclusively on optical detection.  
-* **Edge Cases:** AI systems often fail on data they haven't seen, such as a **Tesla** mistaking a horse-drawn carriage for a semi-truck or a soccer camera mistaking a referee's bald head for the ball.
-
-### **Reinforcement Learning Glitches**
-
-* **Reward Hacking:** RL agents often find unintended shortcuts to maximize rewards, such as a racing boat doing donuts in a lagoon to hit respawning barrels rather than finishing the race.  
-* **Environment Exploits:** In hide-and-seek simulations, agents discovered surf glitches (moving boxes to fly over walls) not intended by the programmers.
-
-### **Generative AI and Liability**
-
-* **Hallucinations:** **xAI**’s Grok falsely reported [Klay Thompson](https://en.wikipedia.org/wiki/Klay_Thompson) vandalizing houses with bricks due to a misunderstanding of basketball slang.  
-* **Legal Precedent:** **Air Canada** was held liable for its chatbot providing incorrect bereavement discount info, forcing the company to honor the discount.
-
-\--------------------------------------------------------------------------------
-
-## **VI. AI Literacy, Education, and Ethics**
-
-As AI exposure increases in professional fields, the focus must shift from basic literacy to AI Fluency.
-
-### **Labor Market Exposure**
-
-* **High Exposure/High Complementarity:** Teachers, doctors, and engineers. AI is likely to assist rather than replace these roles.  
-* **High Exposure/Low Complementarity:** Data entry, coding, and structured administrative work are more vulnerable to displacement.
-
-### **Human-Centric Concerns**
-
-* **Cognitive Atrophy:** The risk that outsourcing critical thinking and writing to AI will erode human intellectual muscles.  
-* **Automation Complacency:** The human-in-the-loop (HITL) may stop paying attention to automated systems (e.g., the **Uber** self-driving safety driver).  
-* **Moral Passivity:** Delegating ethical or life-altering decisions (justice, health, education resource allocation) to algorithms without human auditing.  
-* **Environmental Impact:** A single image or text prompt has a measurable energy and water footprint; future literacies must include environmentally mindful AI selection.
+| Company | Founder/Speaker | Industry Focus | Application/Feature | Data Scale | Business Model | Target Customer |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- |
+| **BetterCart Analytics** | [Melanie Morrison](https://www.linkedin.com/in/melanie-morrison-bettercart/) | Grocery, Food & Beverage | Automated product matching using algorithms and ML for real-time pricing and competitive insights. | Over 55 million data observations per week. | SaaS and Enterprise (Dynamic pricing based on SKUs). | Retailers, SMB manufacturers, and F\&B brands. |
+| **Bobo** | [Grant McDonald](https://www.linkedin.com/in/grant-j-mcdonald/) | Parenting | Distilling developmental data into insights via custom models and LLMs; connecting users to expert services. | Not in source | Commission on transactions and premium subscription. | Parents and families (children ages 0-6). |
+| **Jobber** | [David Ferris](https://ca.linkedin.com/in/david-ferris-b31a19114) | Home Services | AI chatbots for queries, automated quoting/invoicing, and agentic voice interfaces for hands-off use. | Proprietary data from hundreds of thousands of SMB customers. | SaaS (Subscription). | Small business owners and tradespeople (SMBs). |
+| **Cashew Research** | [Addy Graves](https://ca.linkedin.com/in/addy-graves-56547030) | Market Research / CPG | AI-guided software for research plans, survey customization, and synthesis via a proprietary respondent database. | 33 active customers; database recruited via social media. | Subscription (Volume-based $10,000–$ 70,000). | CPG brands (Food and Beverage). |
+| **Bidblox** | [Lisa Mohapatra](https://www.linkedin.com/in/lisamohapatra/) | Construction | AI-first platform for pre-construction bid analysis, procurement workflows, and real-time pricing intelligence. | Projects up to 30-floor condominiums and GCs with $100M+ revenue. | SaaS (Feature-based pricing). | General Contractors, Subtrades, and Suppliers. |
+| **Google DeepMind** | [Kory Mathewson](https://ca.linkedin.com/in/korymath) | General Creative / Media | Generative media models (VEO, Imagen, Gemini) for filmmaking, code generation, and creative ecosystems. | High-volume multimodal data (images, video, audio, text). | Subscription (G1), Enterprise, and Ad-supported. | Creatives, developers, and businesses. |
+| **Samdesk** | [James Newfeld](https://ca.linkedin.com/in/jamesaneufeld) | Crisis Management / Events | Event detection classifiers processing real-time public data (X, Reddit) to spot crises like wildfires or crime. | 3 million breaking news articles produced annually. | SaaS (Contracts involving security reviews). | Government and Fortune 5,000 security teams. |
+| **Nvidia** | [Kateryna Nekhomiazh](https://www.linkedin.com/in/iamkateryna/) | Business Solutions / Robotics | Cosmos World Foundation Models for physical AI simulation and synthetic data generation. | 20 million+ hours of video; 9,000+ trillion tokens. | Hardware (GPUs) and Software (CUDA, SDKs). | Developers, Fortune 5,000, and Robotics/AV firms. |
+| **Boosted.ai** | [Joshua Pantony](https://ca.linkedin.com/in/joshua-pantony-266a3243) | Finance | Automates investment workflows, extracts financial models, and manages sales pipelines via document/email scanning. | Large-scale financial documents (e.g., 200-page 10ks). | SaaS / B2B Subscription. | Hedge funds, banks, and portfolio managers. |
+| **Exo Imaging (Medo.ai)** | [Jacob Jaremko](https://ca.linkedin.com/in/jacob-jaremko-35854719) / [Abhilash RH](https://www.linkedin.com/in/abhilash-rh-06934964/) | Healthcare | AI-enabled handheld ultrasound for cardiac ejection fraction, lung artifact detection, and hip dysplasia classification. | Videos of approx. 800 frames for rotator cuff analysis. | Hardware and Software SaaS. | Emergency Departments, Nurses, and Physicians. |
+| **Clinisys** | [Mehadi Sayed](https://www.linkedin.com/in/mehadi-sayed-87935b2/) | Healthcare | AI-driven EMR, pattern recognition for hospital readmission reduction, and pediatric stroke data analysis. | 5-10 years of historical patient records. | Enterprise Software and AI Solutions. | Hospitals, wellness companies, and clinical trials. |
+| **City of Edmonton** | [Kris Andreychuk](https://ca.linkedin.com/in/kris-andreychuk-486350135) | Municipal Government | Wildfire forecasting (EmberWise), risk-based safety inspections, and pothole repair prioritization. | 500,000 annual inspections; 12,000 km of roadways. | Public Service | Edmontonians and Municipal Departments. |
+| **AltaML** | [Chantal Ritcey](https://ca.linkedin.com/in/chantal-ritcey-03531250) | Public Sector / Government | Applied AI for wildfire prediction, enrollment forecasting, pavement defect detection, and labor now-casting. | 400+ use cases across 100+ sectors. | Service-based / Consultancy (GovLab). | Government of Alberta, Edmonton, and Calgary. |
+| **Verge Agriculture** | [Goddard](https://www.linkedin.com/in/ggodardg/) | Agriculture | Interactive autonomy using satellite imagery for field delineation and route planning to optimize fuel and labor. | Over 34,000 acres of farmland across AB and SK. | SaaS (Per route / bundles / enterprise). | Farmers and OEMs. |
+| **InstaDeep** | [Gurneck Singh](https://www.linkedin.com/in/gurneksingh) | Life Sciences / Genomics | Foundation models for DNA sequence reconstruction, genomic segmentation, and multi-modal trait identification. | 850 species; billions of base pairs. | Strategic Partnership / Acquisition (by BioNTech). | Biotech R\&D and Pharmaceutical companies. |
+| **DCVC Bio** | [Kiersten Stead](https://www.linkedin.com/in/kstead) | Biotechnology | AI-driven discovery of new targets and antibody generation by analyzing billions of B cells. | 10 billion antibodies from 10 billion different B cells. | Venture-backed drug discovery. | Pharmaceutical companies and researchers. |
+| **PCL Construction** | [Brian Gue](https://ca.linkedin.com/in/brian-gue-ab643b1) / [Mark Bryant](https://www.linkedin.com/in/bryantm/) | Construction | Automated cabling/wiring planning (Beline) and identifying discrepancies in CAD drawings and RFPs (Traverse). | Large project-specific data (CAD, RFPs, codes). | Internal use / Potential service. | Internal operations and project owners. |
+| **Beacon Data Centers** | [Ken Hughes](https://ca.linkedin.com/in/honourable-ken-hughes-eca-icd-d-aab8a94) / [Ed Depalezieux](https://ca.linkedin.com/in/ed-depalezieux-251b841) | Energy / Infrastructure | High-load AI data center infrastructure utilizing grid-connected power and natural gas. | 400–4,500 Megawatts of power capacity. | Infrastructure as a Service. | Hyperscalers (Fortune 5,000). |
+| **RoBIM Technologies** | [Bruce Alton](https://ca.linkedin.com/in/brucealton) | Construction Robotics | Modular robotic fabrication using simulation and AI for picking, placing, and fastening components. | Digital BIM models and robotic feedback loops. | Product sales / Pilot projects. | Commercial and residential construction firms. |
+| **Correct-AI** | [Bruce Alton](https://ca.linkedin.com/in/brucealton) | Industrial Safety | Computer vision for collision avoidance by identifying humans vs. objects in heavy equipment blind spots. | Real-time processing across five continents. | Hardware / Software sales. | Industrial sites and heavy equipment operators. |
+| Aiden (by **RBC**) | [Greg Mori](https://www.linkedin.com/in/greg-mori-5445b36/) | Capital Markets | Reinforcement learning agent for electronic trading (order execution) to achieve better pricing. | Traded over $100 billion in notional value. | In-house proprietary solution. | Institutional clients and traders. |
+| Nomi Forecast (by **RBC**) | [Greg Mori](https://www.linkedin.com/in/greg-mori-5445b36/) | Personal Banking | Selective neural networks used to predict upcoming bills and cash flows based on transaction history. | 10 million plus client interactions. | Bank-integrated service. | Retail banking clients. |
+| **Cityscan Technologies** | [Mustafa Gül](https://www.linkedin.com/in/mustafa-g%C3%BCl-5602097/) | Infrastructure | Computer vision for automated pavement assessment and LiDAR integration for structural monitoring. | Network-level assessment (entire municipalities). | SaaS / Platform. | Municipalities and Infrastructure owners. |
+| **AutoCanada** | [Russ Fenske](https://ca.linkedin.com/in/russfenske) | Automotive | NLG for vehicle descriptions; STT and NLP for scoring sales calls based on best practices. | 80+ dealerships; 20,000 cars; 6,000 calls. | Not in source | Car Dealerships. |
+| **G2V Optics** | Not in source | Horticulture | Precision LED lighting control and computer vision for plant growth optimization and spectral analysis. | High-frequency image data (every 5 minutes). | Not in source | Vertical Farming and Reforestation. |
+| **Staircase Ventures** | [Janet Bannister](https://www.linkedin.com/in/janetbannister/) | Venture Capital | Investment in B2B software companies that are AI-first to achieve operational efficiency. | $34 million fund. | Venture Capital. | Canadian B2B Software Startups. |
+| **Scribeberry** | [Zaahir Moloo](https://ca.linkedin.com/in/zaahir-moloo-40103758) | Healthcare | AI medical scribe for clinical documentation and automated form completion (e.g., disability tax credit). | Not in source | SaaS (Startup platform). | Physicians and healthcare professionals. |
+| **pipikwan pêhtâkwan** | [Shani Gwin](https://www.linkedin.com/in/shanigwin/) | Public Relations | Generative AI plug-in (Wasigan Kisawatwin) to correct bias and misinformation about indigenous peoples. | Not in source | SaaS (B2B) and Free (Consumer). | Corporations, Media, and Government. |
+| **Artificial Agency** | [Alex Kearney](https://ca.linkedin.com/in/alexandrakearney) / [Brian Tanner](https://www.linkedin.com/in/bttanner/) | Video Games | Behavior engine for 'living' NPCs and game directors that dynamically modify environments in real-time. | Not in source | B2B / Middleware. | Game Studios and Developers. |
+| **Amplify & Elevate Innovation** | [Rebecca Bultsma](https://ca.linkedin.com/in/rebecca-bultsma) | Business / Education | AI training and integration using specialized GPTs and Notebook LM for knowledge management. | Not in source | Consulting and Training Services. | Educators and business organizations. |
+| **FKA** | [Rob Jennings](https://ca.linkedin.com/in/robcjennings) | Business Leadership | Accelerating strategic document drafts and image recognition for data entry (screenshots to calendar). | Not in source | Consulting / Billable Hours. | Business Leaders. |
+| **TBWA (DDB)** | [Howard Poon](https://ca.linkedin.com/in/howardpoon) | Creative Agency | Conversational brainstorming, source material synthesis via NotebookLM, and AI agents for storyboarding. | Not in source | Agency | Global CPG and Health clients. |
+| **Syngenta** | [Gurneck Singh](https://www.linkedin.com/in/gurneksingh) | Agriculture | Foundation models in genomics for identifying novel crop traits and gene editing pivot points. | 48 edible plant species. | Not in source | Agricultural Research / Crop Producers. |
+| **RWI Synthetics** | [Krista Davis](https://ca.linkedin.com/in/krista-davis-b712a4a7) | Business Solutions | Synthetic environments and visualization to model complex scenarios and analyze large data sets. | Huge data sets. | Not in source | Enterprise Clients. |
+| **Learn Ed Inc.** | [Debra Somani](https://ca.linkedin.com/in/debrasomani) | Business Solutions | Strategic frameworks and advisory for AI-driven transformation and team management. | Not in source | Advisory / Keynote Speaking. | Businesses and Professionals. |
+| **FEC Financial Advisory** | [Debra Somani](https://ca.linkedin.com/in/debrasomani) | Finance | Integrating AI to support business optimization and financial advisory services. | Not in source | Advisory / Consulting. | Businesses. |
+| **Ask Polly** | Not in source | Market Research | Using AI capabilities to analyze social media data for brand identity and market research. | Not in source | Not in source | Brands and market researchers. |
+| **Neuralink** | [Elon Musk](https://en.wikipedia.org/wiki/Elon_Musk) | Neurotechnology | Brain-computer interface (BCI) allowing paralyzed patients to control computers with their minds. | Not in source | Not in source | Patients with paralysis. |
+| **Midjourney** | [Max Kreminski](https://mkremins.github.io/) | Creative AI | LLMs and diffusion models for world-building, storytelling, and rapid visual sketching. | Not in source | Not in source | Artists, Writers, and Hobbyists. |
+| **Ontopical** | Not in source | Local Government | Unsupervised learning to group and summarize thousands of government meeting agendas and minutes. | Thousands of documents daily. | Not in source | Citizens and tracking businesses. |
+| **RL Core Technologies** | [Martha White](https://www.linkedin.com/in/martha-white-49713a59/) | Utility Solutions | Reinforcement learning to optimize water treatment processes, reducing energy and chemical use. | Not in source | Not in source | Water treatment plants / Municipalities. |
+| **Circle Cardiovascular** | Not in source | Healthcare | AI-automated workflow for cardiac MRI and diagnostic imaging to increase accuracy. | Not in source | Not in source | Cardiologists in 1,500 hospitals. |
+| **SketchDeck.ai** | Not in source | Construction | CV and ML to automatically count structural steel elements and generate material takeoffs. | Not in source | Efficiency-based SaaS. | Estimators and structural engineers. |
+| **Pursuit Zen** | Not in source | Business Solutions | LLM trained on past RFP data to automatically generate first drafts of new proposals. | Company historical RFP databases. | Not in source | Businesses bidding on contracts. |
+| **QuoteToMe** | Not in source | Supply Chain | Machine vision to read supplier quotes/invoices and match them with purchase orders. | Not in source | SaaS | Construction and supply chain managers. |
+| **Sensei Image Tech** | Not in source | Construction Safety | Computer vision in hard hats to translate crane hand signals into multi-language audio. | Not in source | Global product sales. | Crane operators and construction sites. |
+| **ZGM** | [Carrie Robinson](https://ca.linkedin.com/in/carrie-denise-robinson) | Marketing | Generative AI for high-velocity content creation and Perplexity for deep market research. | Not in source | Agency / Billable Hours. | Not in source |
+| **Compass** | Not in source | Criminal Justice | Risk assessment scores (recidivism prediction) using proprietary pattern matching algorithms. | Not in source | Proprietary Trade Secrets. | Governments and Parole Boards. |
+| **Digital Diagnostics** | Not in source | Healthcare | Point-of-care AI tool for detecting diabetic retinopathy from retinal images. | Not in source | Not in source | Family doctors and health clinics. |
+| **Visionary** | Not in source | Healthcare | AI Copilot combining EMR data, image data, and patient conversation for clinical results. | Not in source | Not in source | Ophthalmologists and optometrists. |
+| **Ground Truth Ag** | Not in source | Agriculture | Automated grain grading using supervised learning and CV to detect damaged grains. | Not in source | Not in source | Grain shipping and storage. |
+| **Xkey AiEstimation** | Not in source | Construction | Computer vision to read electrical drawings and count switches, receptacles, and fixtures. | Not in source | Not in source | Electrical contractors and estimators. |
+| **Promise Robotics** | [Reza Nasseri](https://www.linkedin.com/in/reza-n-a7325916/) | Construction | Robotic factory system for off-site house fabrication and assembly. | Not in source | Turnkey factory model. | Home developers and const ruction firms. |
 
 # Day 1 Stage 1
 
@@ -1255,62 +1177,3 @@ As we approach more generalized intelligence, the demand for transparency of cog
 Across all analyzed sectors, healthcare, government, and business, the consensus remains that the human is the most valuable component. AI is an augmentative tool that reduces toil and non-billable work, allowing humans to focus on empathy, ethics, and defining the what while the AI solves for the how.
 
 "What if we were at AGI all along? No, I’m just kidding... but the human is the valuable component",  [**Kory Mathewson**](https://ca.linkedin.com/in/korymath)
-
-# Summary Table
-
-| Company | Founder/Speaker | Industry Focus | Application/Feature | Data Scale | Business Model | Target Customer |
-| :---- | :---- | :---- | :---- | :---- | :---- | :---- |
-| **BetterCart Analytics** | [Melanie Morrison](https://www.linkedin.com/in/melanie-morrison-bettercart/) | Grocery, Food & Beverage | Automated product matching using algorithms and ML for real-time pricing and competitive insights. | Over 55 million data observations per week. | SaaS and Enterprise (Dynamic pricing based on SKUs). | Retailers, SMB manufacturers, and F\&B brands. |
-| **Bobo** | [Grant McDonald](https://www.linkedin.com/in/grant-j-mcdonald/) | Parenting | Distilling developmental data into insights via custom models and LLMs; connecting users to expert services. | Not in source | Commission on transactions and premium subscription. | Parents and families (children ages 0-6). |
-| **Jobber** | [David Ferris](https://ca.linkedin.com/in/david-ferris-b31a19114) | Home Services | AI chatbots for queries, automated quoting/invoicing, and agentic voice interfaces for hands-off use. | Proprietary data from hundreds of thousands of SMB customers. | SaaS (Subscription). | Small business owners and tradespeople (SMBs). |
-| **Cashew Research** | [Addy Graves](https://ca.linkedin.com/in/addy-graves-56547030) | Market Research / CPG | AI-guided software for research plans, survey customization, and synthesis via a proprietary respondent database. | 33 active customers; database recruited via social media. | Subscription (Volume-based $10,000–$ 70,000). | CPG brands (Food and Beverage). |
-| **Bidblox** | [Lisa Mohapatra](https://www.linkedin.com/in/lisamohapatra/) | Construction | AI-first platform for pre-construction bid analysis, procurement workflows, and real-time pricing intelligence. | Projects up to 30-floor condominiums and GCs with $100M+ revenue. | SaaS (Feature-based pricing). | General Contractors, Subtrades, and Suppliers. |
-| **Google DeepMind** | [Kory Mathewson](https://ca.linkedin.com/in/korymath) | General Creative / Media | Generative media models (VEO, Imagen, Gemini) for filmmaking, code generation, and creative ecosystems. | High-volume multimodal data (images, video, audio, text). | Subscription (G1), Enterprise, and Ad-supported. | Creatives, developers, and businesses. |
-| **Samdesk** | [James Newfeld](https://ca.linkedin.com/in/jamesaneufeld) | Crisis Management / Events | Event detection classifiers processing real-time public data (X, Reddit) to spot crises like wildfires or crime. | 3 million breaking news articles produced annually. | SaaS (Contracts involving security reviews). | Government and Fortune 5,000 security teams. |
-| **Nvidia** | [Kateryna Nekhomiazh](https://www.linkedin.com/in/iamkateryna/) | Business Solutions / Robotics | Cosmos World Foundation Models for physical AI simulation and synthetic data generation. | 20 million+ hours of video; 9,000+ trillion tokens. | Hardware (GPUs) and Software (CUDA, SDKs). | Developers, Fortune 5,000, and Robotics/AV firms. |
-| **Boosted.ai** | [Joshua Pantony](https://ca.linkedin.com/in/joshua-pantony-266a3243) | Finance | Automates investment workflows, extracts financial models, and manages sales pipelines via document/email scanning. | Large-scale financial documents (e.g., 200-page 10ks). | SaaS / B2B Subscription. | Hedge funds, banks, and portfolio managers. |
-| **Exo Imaging (Medo.ai)** | [Jacob Jaremko](https://ca.linkedin.com/in/jacob-jaremko-35854719) / [Abhilash RH](https://www.linkedin.com/in/abhilash-rh-06934964/) | Healthcare | AI-enabled handheld ultrasound for cardiac ejection fraction, lung artifact detection, and hip dysplasia classification. | Videos of approx. 800 frames for rotator cuff analysis. | Hardware and Software SaaS. | Emergency Departments, Nurses, and Physicians. |
-| **Clinisys** | [Mehadi Sayed](https://www.linkedin.com/in/mehadi-sayed-87935b2/) | Healthcare | AI-driven EMR, pattern recognition for hospital readmission reduction, and pediatric stroke data analysis. | 5-10 years of historical patient records. | Enterprise Software and AI Solutions. | Hospitals, wellness companies, and clinical trials. |
-| **City of Edmonton** | [Kris Andreychuk](https://ca.linkedin.com/in/kris-andreychuk-486350135) | Municipal Government | Wildfire forecasting (EmberWise), risk-based safety inspections, and pothole repair prioritization. | 500,000 annual inspections; 12,000 km of roadways. | Public Service | Edmontonians and Municipal Departments. |
-| **AltaML** | [Chantal Ritcey](https://ca.linkedin.com/in/chantal-ritcey-03531250) | Public Sector / Government | Applied AI for wildfire prediction, enrollment forecasting, pavement defect detection, and labor now-casting. | 400+ use cases across 100+ sectors. | Service-based / Consultancy (GovLab). | Government of Alberta, Edmonton, and Calgary. |
-| **Verge Agriculture** | [Goddard](https://www.linkedin.com/in/ggodardg/) | Agriculture | Interactive autonomy using satellite imagery for field delineation and route planning to optimize fuel and labor. | Over 34,000 acres of farmland across AB and SK. | SaaS (Per route / bundles / enterprise). | Farmers and OEMs. |
-| **InstaDeep** | [Gurneck Singh](https://www.linkedin.com/in/gurneksingh) | Life Sciences / Genomics | Foundation models for DNA sequence reconstruction, genomic segmentation, and multi-modal trait identification. | 850 species; billions of base pairs. | Strategic Partnership / Acquisition (by BioNTech). | Biotech R\&D and Pharmaceutical companies. |
-| **DCVC Bio** | [Kiersten Stead](https://www.linkedin.com/in/kstead) | Biotechnology | AI-driven discovery of new targets and antibody generation by analyzing billions of B cells. | 10 billion antibodies from 10 billion different B cells. | Venture-backed drug discovery. | Pharmaceutical companies and researchers. |
-| **PCL Construction** | [Brian Gue](https://ca.linkedin.com/in/brian-gue-ab643b1) / [Mark Bryant](https://www.linkedin.com/in/bryantm/) | Construction | Automated cabling/wiring planning (Beline) and identifying discrepancies in CAD drawings and RFPs (Traverse). | Large project-specific data (CAD, RFPs, codes). | Internal use / Potential service. | Internal operations and project owners. |
-| **Beacon Data Centers** | [Ken Hughes](https://ca.linkedin.com/in/honourable-ken-hughes-eca-icd-d-aab8a94) / [Ed Depalezieux](https://ca.linkedin.com/in/ed-depalezieux-251b841) | Energy / Infrastructure | High-load AI data center infrastructure utilizing grid-connected power and natural gas. | 400–4,500 Megawatts of power capacity. | Infrastructure as a Service. | Hyperscalers (Fortune 5,000). |
-| **RoBIM Technologies** | [Bruce Alton](https://ca.linkedin.com/in/brucealton) | Construction Robotics | Modular robotic fabrication using simulation and AI for picking, placing, and fastening components. | Digital BIM models and robotic feedback loops. | Product sales / Pilot projects. | Commercial and residential construction firms. |
-| **Correct-AI** | [Bruce Alton](https://ca.linkedin.com/in/brucealton) | Industrial Safety | Computer vision for collision avoidance by identifying humans vs. objects in heavy equipment blind spots. | Real-time processing across five continents. | Hardware / Software sales. | Industrial sites and heavy equipment operators. |
-| Aiden (by **RBC**) | [Greg Mori](https://www.linkedin.com/in/greg-mori-5445b36/) | Capital Markets | Reinforcement learning agent for electronic trading (order execution) to achieve better pricing. | Traded over $100 billion in notional value. | In-house proprietary solution. | Institutional clients and traders. |
-| Nomi Forecast (by **RBC**) | [Greg Mori](https://www.linkedin.com/in/greg-mori-5445b36/) | Personal Banking | Selective neural networks used to predict upcoming bills and cash flows based on transaction history. | 10 million plus client interactions. | Bank-integrated service. | Retail banking clients. |
-| **Cityscan Technologies** | [Mustafa Gül](https://www.linkedin.com/in/mustafa-g%C3%BCl-5602097/) | Infrastructure | Computer vision for automated pavement assessment and LiDAR integration for structural monitoring. | Network-level assessment (entire municipalities). | SaaS / Platform. | Municipalities and Infrastructure owners. |
-| **AutoCanada** | [Russ Fenske](https://ca.linkedin.com/in/russfenske) | Automotive | NLG for vehicle descriptions; STT and NLP for scoring sales calls based on best practices. | 80+ dealerships; 20,000 cars; 6,000 calls. | Not in source | Car Dealerships. |
-| **G2V Optics** | Not in source | Horticulture | Precision LED lighting control and computer vision for plant growth optimization and spectral analysis. | High-frequency image data (every 5 minutes). | Not in source | Vertical Farming and Reforestation. |
-| **Staircase Ventures** | [Janet Bannister](https://www.linkedin.com/in/janetbannister/) | Venture Capital | Investment in B2B software companies that are AI-first to achieve operational efficiency. | $34 million fund. | Venture Capital. | Canadian B2B Software Startups. |
-| **Scribeberry** | [Zaahir Moloo](https://ca.linkedin.com/in/zaahir-moloo-40103758) | Healthcare | AI medical scribe for clinical documentation and automated form completion (e.g., disability tax credit). | Not in source | SaaS (Startup platform). | Physicians and healthcare professionals. |
-| **pipikwan pêhtâkwan** | [Shani Gwin](https://www.linkedin.com/in/shanigwin/) | Public Relations | Generative AI plug-in (Wasigan Kisawatwin) to correct bias and misinformation about indigenous peoples. | Not in source | SaaS (B2B) and Free (Consumer). | Corporations, Media, and Government. |
-| **Artificial Agency** | [Alex Kearney](https://ca.linkedin.com/in/alexandrakearney) / [Brian Tanner](https://www.linkedin.com/in/bttanner/) | Video Games | Behavior engine for 'living' NPCs and game directors that dynamically modify environments in real-time. | Not in source | B2B / Middleware. | Game Studios and Developers. |
-| **Amplify & Elevate Innovation** | [Rebecca Bultsma](https://ca.linkedin.com/in/rebecca-bultsma) | Business / Education | AI training and integration using specialized GPTs and Notebook LM for knowledge management. | Not in source | Consulting and Training Services. | Educators and business organizations. |
-| **FKA** | [Rob Jennings](https://ca.linkedin.com/in/robcjennings) | Business Leadership | Accelerating strategic document drafts and image recognition for data entry (screenshots to calendar). | Not in source | Consulting / Billable Hours. | Business Leaders. |
-| **TBWA (DDB)** | [Howard Poon](https://ca.linkedin.com/in/howardpoon) | Creative Agency | Conversational brainstorming, source material synthesis via NotebookLM, and AI agents for storyboarding. | Not in source | Agency | Global CPG and Health clients. |
-| **Syngenta** | [Gurneck Singh](https://www.linkedin.com/in/gurneksingh) | Agriculture | Foundation models in genomics for identifying novel crop traits and gene editing pivot points. | 48 edible plant species. | Not in source | Agricultural Research / Crop Producers. |
-| **RWI Synthetics** | [Krista Davis](https://ca.linkedin.com/in/krista-davis-b712a4a7) | Business Solutions | Synthetic environments and visualization to model complex scenarios and analyze large data sets. | Huge data sets. | Not in source | Enterprise Clients. |
-| **Learn Ed Inc.** | [Debra Somani](https://ca.linkedin.com/in/debrasomani) | Business Solutions | Strategic frameworks and advisory for AI-driven transformation and team management. | Not in source | Advisory / Keynote Speaking. | Businesses and Professionals. |
-| **FEC Financial Advisory** | [Debra Somani](https://ca.linkedin.com/in/debrasomani) | Finance | Integrating AI to support business optimization and financial advisory services. | Not in source | Advisory / Consulting. | Businesses. |
-| **Ask Polly** | Not in source | Market Research | Using AI capabilities to analyze social media data for brand identity and market research. | Not in source | Not in source | Brands and market researchers. |
-| **Neuralink** | [Elon Musk](https://en.wikipedia.org/wiki/Elon_Musk) | Neurotechnology | Brain-computer interface (BCI) allowing paralyzed patients to control computers with their minds. | Not in source | Not in source | Patients with paralysis. |
-| **Midjourney** | [Max Kreminski](https://mkremins.github.io/) | Creative AI | LLMs and diffusion models for world-building, storytelling, and rapid visual sketching. | Not in source | Not in source | Artists, Writers, and Hobbyists. |
-| **Ontopical** | Not in source | Local Government | Unsupervised learning to group and summarize thousands of government meeting agendas and minutes. | Thousands of documents daily. | Not in source | Citizens and tracking businesses. |
-| **RL Core Technologies** | [Martha White](https://www.linkedin.com/in/martha-white-49713a59/) | Utility Solutions | Reinforcement learning to optimize water treatment processes, reducing energy and chemical use. | Not in source | Not in source | Water treatment plants / Municipalities. |
-| **Circle Cardiovascular** | Not in source | Healthcare | AI-automated workflow for cardiac MRI and diagnostic imaging to increase accuracy. | Not in source | Not in source | Cardiologists in 1,500 hospitals. |
-| **SketchDeck.ai** | Not in source | Construction | CV and ML to automatically count structural steel elements and generate material takeoffs. | Not in source | Efficiency-based SaaS. | Estimators and structural engineers. |
-| **Pursuit Zen** | Not in source | Business Solutions | LLM trained on past RFP data to automatically generate first drafts of new proposals. | Company historical RFP databases. | Not in source | Businesses bidding on contracts. |
-| **QuoteToMe** | Not in source | Supply Chain | Machine vision to read supplier quotes/invoices and match them with purchase orders. | Not in source | SaaS | Construction and supply chain managers. |
-| **Sensei Image Tech** | Not in source | Construction Safety | Computer vision in hard hats to translate crane hand signals into multi-language audio. | Not in source | Global product sales. | Crane operators and construction sites. |
-| **ZGM** | [Carrie Robinson](https://ca.linkedin.com/in/carrie-denise-robinson) | Marketing | Generative AI for high-velocity content creation and Perplexity for deep market research. | Not in source | Agency / Billable Hours. | Not in source |
-| **Compass** | Not in source | Criminal Justice | Risk assessment scores (recidivism prediction) using proprietary pattern matching algorithms. | Not in source | Proprietary Trade Secrets. | Governments and Parole Boards. |
-| **Digital Diagnostics** | Not in source | Healthcare | Point-of-care AI tool for detecting diabetic retinopathy from retinal images. | Not in source | Not in source | Family doctors and health clinics. |
-| **Visionary** | Not in source | Healthcare | AI Copilot combining EMR data, image data, and patient conversation for clinical results. | Not in source | Not in source | Ophthalmologists and optometrists. |
-| **Ground Truth Ag** | Not in source | Agriculture | Automated grain grading using supervised learning and CV to detect damaged grains. | Not in source | Not in source | Grain shipping and storage. |
-| **Xkey AiEstimation** | Not in source | Construction | Computer vision to read electrical drawings and count switches, receptacles, and fixtures. | Not in source | Not in source | Electrical contractors and estimators. |
-| **Promise Robotics** | [Reza Nasseri](https://www.linkedin.com/in/reza-n-a7325916/) | Construction | Robotic factory system for off-site house fabrication and assembly. | Not in source | Turnkey factory model. | Home developers and const ruction firms. |
-
