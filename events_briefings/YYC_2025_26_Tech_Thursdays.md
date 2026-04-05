@@ -1,4 +1,4 @@
-# 2025 Summary Table
+# 2025 Tech Thursdays
 
 | Speaker | Company | Role | Industry | Founding / Tenure | Core Business Model | Growth Strategy | Key Leadership Lessons | Future Outlook (Inferred) |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |

@@ -1,4 +1,4 @@
-# Summary Table
+# YC AI Startup School
 
 | Speaker | Company | Software Paradigms Mentioned | Core Vision or Strategy | Identified Challenges | Key Analogies Used | Future Opportunities | Product/Technology Focus |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |

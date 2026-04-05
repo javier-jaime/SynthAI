@@ -1,4 +1,4 @@
-# 2024 Summary Table
+# 2024 Intergen Breakfast Club
 
 | Company Name | Industry Focus | Founding Team | Core Business Model | Target Customers | Key Technology or Product | Funding Status | Geographic Markets |
 | :---- | :---- | :---- | :---- | :---- | :---- | :---- | :---- |
