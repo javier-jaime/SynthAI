@@ -1,5 +1,5 @@
 # A Second Brain for Personal Knowledge Management
-![20 Questions Estimate](/Major-Projects-20-Questions/Major-Projects-20-Questions.ipynb)
+![20 Questions Estimate](../Major-Projects-20-Questions/Major-Projects-20-Questions.ipynb)
 
 To avoid the Negative "Reactivity Loop" to Information Overload.
 
