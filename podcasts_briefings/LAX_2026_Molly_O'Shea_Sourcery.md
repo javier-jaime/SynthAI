@@ -2780,3 +2780,66 @@ Leadership at **Roblox** treats the role of CEO as a craft that requires physica
 “I think we will have the ability for people if they so choose to have a doppelganger NPC that could like be their agentic proxy go out and do some stuff for them, if they want it to, which will be interesting”, [David Baszucki](https://www.linkedin.com/in/davidbaszucki)
 
 “The question was imagining AI is superpowered in 50 years, what percent of adults work eight hour jobs a day and no one has the answer. But my belief is that for many many people accomplishing something is really a big a important part of their life, and so it may be very dangerous if everyone can just go do their hobbies”, [David Baszucki](https://www.linkedin.com/in/davidbaszucki)
+
+# Episode 128
+
+# **Applied Intuition: Growth, Technical Strategy, and Physical AI**
+
+## **Executive Summary**
+
+**Applied Intuition** has established itself as a significant entity in the physical AI sector, reaching a 15 billion dollar valuation by prioritizing technical depth and financial discipline. Founded in 2017, the company has raised nearly 1 billion dollars in primary capital, yet it maintains the rare distinction of not having spent the funds raised, instead using generated revenue to cover operational costs like payroll. The organization focuses on the development of physical AI to control machines in industries such as defense, mining, construction, and agriculture. By leveraging breakthroughs in transformers and end-to-end deep learning, **Applied Intuition** has expanded from its origins in simulation and data management into a comprehensive provider of autonomous vehicle operating systems. The company culture is defined by radical pragmatism and a high density of entrepreneurial talent, including over 40 former CTOs or co-founders. Its strategic approach emphasizes long term staying power, which serves as a critical trust signal for industrial and government customers requiring multi-year partnerships.
+
+## **Financial Management and Strategic Growth**
+
+A core pillar of the **Applied Intuition** business model is its approach to capital and market positioning. The company has navigated multiple funding rounds without depleting its cash reserves.
+
+* **Funding History:** The company’s early stages were supported by prominent investors. [Marc Andreessen](https://en.wikipedia.org/wiki/Marc_Andreessen) was involved from the beginning. Series B was led by [Hemant Taneja](https://www.linkedin.com/in/hemanttaneja) at **General Catalyst**, Series C by [Bilal Zuberi](https://www.linkedin.com/in/bzuberi) at **Lux Capital**, and Series D by [Elad Gil](https://www.linkedin.com/in/eladgil).  
+* **Capital Preservation:** Despite raising close to 1 billion dollars in primary capital, the company has not used this money for payroll or general operations. Revenue from the business sustains its growth, while raised capital is occasionally used for M\&A activities.  
+* **Market Perception:** This financial stability is used as a commercial advantage. Customers in heavy industries look for staying power, viewing the company’s decade long history and intact capital as evidence that it can support 5 to 10 year relationships.  
+* **Growth from Stealth:** For much of its history, the company operated with low public visibility to avoid attracting competitors prematurely. It has recently shifted toward a more public-facing strategy to improve recruiting as the organization scales.
+
+## **Technical Evolution and Physical AI**
+
+**Applied Intuition** focuses on the technical challenges of physical AI, which differs significantly from consumer software or generative AI models.
+
+* **Product Origins:** The company began in 2017 by building tools for the self-driving industry, including simulators, data management systems, and large scale distributed compute offerings. An early example of its versatility includes building moon rover simulators for vehicle dynamics testing.  
+* **Technological Shifts:** The strategy evolved with the advent of transformers and breakthroughs in end-to-end deep learning. These technologies allowed the company to move beyond simulation into directly controlling machines through foundational physical AI.  
+* **Industry Diffusion:** Unlike consumer AI that distributes through browsers and phones, physical AI diffusion is slower and more complex. It requires navigating different geographies, regulatory environments, and mechanical hardware.  
+* **Rapid Adaptation in Defense:** A notable demonstration of the company’s agility occurred when it retrofitted a military infantry squad vehicle (ISV) with an autonomous operating system in less than 10 days for the US Army. This project challenged the traditional view that defense technology planning must take years.
+
+## **Organizational Culture and Talent Acquisition**
+
+The company identifies more with the culture of South Bay Silicon Valley, specifically Sunnyvale and Mountain View, rather than San Francisco. It prioritizes craftsmanship and earnest business building over the hobbyist or purely money driven motivations seen in some parts of the tech ecosystem.
+
+* **Talent Density:** **Applied Intuition** actively recruits specialists who possess a combination of AI expertise and an interest in physical machines like fighter jets, sports cars, or agricultural equipment.  
+* **Entrepreneurial Spirit:** The organization maintains a flat, entrepreneurial culture that has attracted more than 40 individuals who were previously CTOs or company co-founders.  
+* **Recruiting Strategy:** As the company grows, it has moved from a heavily outbound recruiting model to one that seeks more inbound interest by increasing its public profile. This is intended to reach technical experts at companies like **Google** or **Ford** who may not be aware of the company’s work in specific verticals.  
+* **Testing for AI Expertise:** The company evaluates candidates on two levels, their ability to use AI tools effectively to increase productivity and their deep research capability to push the state of the art in AI systems.
+
+## **Leadership Philosophy and Intellectual Foundations**
+
+The leadership of **Applied Intuition** emphasizes continuous learning and the application of historical business lessons to modern technology challenges.
+
+* **The Value of Old Books:** Following the philosophy of [Charlie Munger](https://en.wikipedia.org/wiki/Charlie_Munger), the leadership advocates for reading books that are at least 25 to 50 years old. This serves as a filter for noise, ensuring that the ideas have stood the test of time.  
+* **Internal Learning:** The leadership team regularly reads and discusses books to reflect on the company’s trajectory. Examples of influential texts include:  
+  * “Adventures of a white-collar man” and “My years with **General Motors**” by [Alfred P. Sloan](https://en.wikipedia.org/wiki/Alfred_P._Sloan), which provide insights into the creation of the modern corporation.  
+  * “Made in America” by [Sam Walton](https://en.wikipedia.org/wiki/Sam_Walton), regarding the building of **Walmart**.  
+  * “The Hard Thing About Hard Things” by [Ben Horowitz](https://en.wikipedia.org/wiki/Ben_Horowitz) (linked to **Andreessen Horowitz**).  
+  * “No Rules Rules” regarding the culture at **Netflix**.  
+  * “House of **Huawei**”, which offers a look into the Chinese electronics and technology ecosystem.  
+* **Retailering the Company:** Leadership views the organization as a bespoke piece of clothing that must be constantly retailered as it grows to ensure it remains fit for its scale and product type.
+
+## **Industry Verticals and Global Reach**
+
+The company operates on a global scale with approximately 18 sites worldwide, including recent expansions into India and the UK.
+
+| Vertical | Key Activities and Applications |
+| :---- | :---- |
+| **Automotive** | Legacy knowledge and foundational tools for self-driving cars. |
+| **Defense** | Rapid prototyping of autonomous infantry vehicles and software integration. |
+| **Mining and Construction** | Remote operation of fleets in dangerous environments to solve labor shortages. |
+| **Agriculture** | Using AI to simplify operations for farmers. |
+| **Maritime** | Autonomous technology applications in various global ports. |
+| **Transportation** | Development of driverless trucks, specifically noted in the context of Australia. |
+
+The company’s mission to build physical AI for a safer, more prosperous world drives its expansion into these diverse sectors. By focusing on industries where technology is being pulled out of their hands by necessity, **Applied Intuition** positions itself as a critical infrastructure provider for the future of autonomous machinery.
