@@ -1,4 +1,4 @@
-## Prompt templates to transform podcasts transcripts into structured data
+## Prompts to get structured data from podcasts transcripts
 
 ### **The Skill Hierarchy Table**
 
