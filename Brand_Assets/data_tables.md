@@ -1,24 +1,24 @@
-Here are five specific prompt templates a learner can use to transform those video transcripts into structured data:
+Prompt templates to transform podcasts transcripts into structured data:
 
-### **1\. The "Skill Hierarchy" Table**
+### **The "Skill Hierarchy" Table**
 
 Use this if you are learning a complex subject (like coding, photography, or marketing) to see the "path" ahead.
 
 **Prompt:** *"Create a data table analyzing the learning path across these videos. Use these columns: 'Core Skill', 'Complexity Level (1-10)', 'Prerequisite Knowledge', and 'Primary Tutorial Video'."*
 
-### **2\. The "Comparative Expert" Table**
+### **The "Comparative Expert" Table**
 
 Use this when you have multiple speakers or experts in your playlist who might have different methods or opinions.
 
 **Prompt:** *"Create a table comparing the different viewpoints or methods mentioned in these videos. Include columns for: 'Specific Topic', 'Expert/Video Name', 'Their Core Argument/Method', and 'Unique Analogy Used'."*
 
-### **3\. The "Actionable Study Guide"**
+### **The "Actionable Study Guide"**
 
 Turn hours of "passive watching" into a "to-do" list.
 
 **Prompt:** *"Extract every actionable 'homework assignment' or 'practice exercise' mentioned across these videos into a table. I want the columns to be: 'Exercise Name', 'Video Source', 'Time-stamp (approximate)', and 'Specific Goal of Exercise'."*
 
-### **4\. The "Glossary & Concept" Index**
+### **The "Glossary & Concept" Index**
 
 Great for technical subjects with heavy jargon.
 
