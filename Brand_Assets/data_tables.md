@@ -28,6 +28,6 @@ For science or finance podcasts where you need to separate facts from fluff.
 
 * **Be Column-Specific:** Don't just ask for a "table." List the exact names of the columns you want. The AI works much better when it has a "target" for the data.  
 * **Ask for Inferences:** You can ask for columns like "Level of Certainty" or "Difficulty for a Beginner," which forces the AI to evaluate the *tone* and *context* of the speaker.  
-* **Export to Sheets:** Once the table is generated, look for the **"Export to Sheets"** button. This is where you can start adding your own checkboxes for "Mastered" or "Reviewed."
+* **Export to Sheets:** Once the table is generated, look for the "Export to Sheets" button. This is where you can start adding your own columns and checkboxes.
 
 
