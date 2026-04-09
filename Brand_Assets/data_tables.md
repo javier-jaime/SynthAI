@@ -4,7 +4,7 @@
 
 For learning a complex subject and to see a clear "learning path".
 
-**Prompt:** *"Create a data table analyzing the learning path across these videos. Use these columns: 'Core Skill', 'Complexity Level (1-10)', 'Prerequisite Knowledge', and 'Primary Tutorial Video'."*
+**Prompt:** *"Create a data table analyzing the learning path across these videos. Use these columns: 'Core Skill', 'Complexity Level (1-10)', 'Requisite Knowledge', and 'Main Expert/Video'."*
 
 ### **The "Comparative Expert" Table**
 
