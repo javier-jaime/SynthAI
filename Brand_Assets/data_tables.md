@@ -2,7 +2,7 @@
 
 ### **The "Skill Hierarchy" Table**
 
-For learning a complex subject to see a clear "learning path".
+For learning a complex subject and to see a clear "learning path".
 
 **Prompt:** *"Create a data table analyzing the learning path across these videos. Use these columns: 'Core Skill', 'Complexity Level (1-10)', 'Prerequisite Knowledge', and 'Primary Tutorial Video'."*
 
