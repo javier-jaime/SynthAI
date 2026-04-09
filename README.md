@@ -29,7 +29,6 @@ Answers to Possible Questions:
 * Knowledge Graph is the Asset
 * Everything is Markdown now
 * Derivative Work is Fair Use
-* JavaScrip is for Wrappers
 * Semantic Context is Key
 * Trust is the Currency
 
