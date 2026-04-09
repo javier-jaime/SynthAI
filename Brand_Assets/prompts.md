@@ -6,7 +6,7 @@ Create a Slide Deck from the selected sources information using the brand-guidel
 
 ### Infographic
 
-Create an infographic in a Professional Visual Stype and reserve space for a square logo at the top right corner.
+Create an infographic in a professional style using the brand-guideline.md and reserve space for a square logo at the top right corner. Start with the NODLE Workflow and include the CT_Loop.png. Do not mention the PARA Method.
 
 ### Blog Post
 
@@ -14,10 +14,7 @@ Act as a thoughtful writer and synthesizer of ideas, tasked with creating an eng
 
 ### Briefing Doc
 
-Create a comprehensive briefing document that synthesizes the main themes and ideas from the sources. Start with a concise Executive Summary that presents the most critical takeaways upfront. The body of the document must provide a detailed and thorough examination of the main themes, evidence, and conclusions found in the sources. This analysis should be structured logically with headings and bullet points to ensure clarity. The tone must be objective and incisive. Replace all em dashes (“—”) with commas and a space (“, ”) to continue the sentence. Only use quotation marks on qoutes long sentences. Use only bold for names of companies. Do not use italics.
-
-### Strategic Outreach Plan
-Analyze the conference attendee list to identify individuals with the highest professional reach and establish a formal strategy for engagement based on their established social media standing. The tone should be business-oriented and focused on the value of leveraging existing audiences for organizational growth.
+Create a comprehensive briefing document that synthesizes the main themes and ideas from the sources. Start with a concise Executive Summary that presents the most critical takeaways upfront. The body of the document must provide a detailed and thorough examination of the main themes, evidence, and conclusions found in the sources. This analysis should be structured logically with headings and bullet points to ensure clarity. The tone must be objective and incisive. Do NOT use em dashes (“—”) use instead a comma and a space (“, ”) to continue the sentence. Do NOT use single quotes (' ') or double quotes (" ") for stylistic emphasis, use quotation marks exclusively for complete sentences, directly quoted from the source. Use bold only for names of companies. Do NOT use italics.
 
 ### Influencer Analysis
 Evaluate the visibility of the top twenty attendees by at the conference to determine which individuals possess the greatest potential for broad-scale information dissemination and industry influence. The analysis should focus on the reach of the highest-ranked profiles to inform strategic communication and engagement planning.
