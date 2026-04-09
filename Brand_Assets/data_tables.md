@@ -1,24 +1,24 @@
 ## Prompt templates to transform podcasts transcripts into structured data
 
-### **The "Skill Hierarchy" Table**
+### **The Skill Hierarchy Table**
 
 For learning a complex subject and to see a clear "learning path".
 
 **Prompt:** *"Create a data table analyzing the learning path across these videos. Use these columns: 'Core Skill', 'Complexity Level (1-10)', 'Requisite Knowledge', and 'Main Expert/Video'."*
 
-### **The "Comparative Expert" Table**
+### **The Comparative Expert Table**
 
 For multiple speakers or experts in your podcast who might have different methods or opinions.
 
 **Prompt:** *"Create a table comparing the different viewpoints or methods mentioned in these videos. Include columns for: 'Specific Topic', 'Expert/Video Name', 'Their Core Argument/Method', and 'Unique Analogy Used'."*
 
-### **The "Glossary & Concept" Index**
+### **The Glossary & Concept Index**
 
 For technical subjects with jargon.
 
 **Prompt:** *"Identify every technical term or jargon word used across these videos. Build a table with: 'Term', 'Simplified Definition', 'Video where first mentioned', and 'Context of Use'."*
 
-### **The "Myth Buster" Table**
+### **The Myth Buster Table**
 
 For science or finance podcasts where you need to separate facts from fluff.
 
