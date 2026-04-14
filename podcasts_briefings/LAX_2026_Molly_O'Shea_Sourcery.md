@@ -2964,3 +2964,81 @@ The company interacts with various entities in the technology and financial sect
 ### **Future Outlook**
 
 The ultimate goal for **Applied Intuition** is to automate the entire industrial chain, connecting autonomous mines to autonomous trucks that travel to autonomous ports. This end-to-end automation is expected to unlock unprecedented productivity and recreate the global industrial fabric. The company anticipates completing fully autonomous, connected missions across these diverse environments in the near future.
+
+# Episode 130
+
+# **Max Levchin: Technology, Finance, and the Future of Intelligence**
+
+## **Executive Summary**
+
+The provided source context outlines the perspectives of [Max Levchin](https://www.linkedin.com/in/maxlevchin), founder of **Affirm** and co-founder of **PayPal**, on the intersection of technology, credit, and organizational culture. A central thesis is that artificial intelligence is poised to raise the global net IQ by approximately 50 points, which will fundamentally dismantle business models predicated on consumer ignorance or hidden fees. **Affirm** is positioned as a corrective to the devolution of credit, which [Levchin](https://www.linkedin.com/in/maxlevchin) argues has become exploitative through compounding interest and reliance on late fees. In the realm of engineering, [Levchin](https://www.linkedin.com/in/maxlevchin) identifies a shift where AI reduces the barrier to software creation, though it places a higher premium on human taste and craft. Organizationally, he emphasizes that the team is the primary determinant of success and advocates for a long-term approach to value creation that ignores short-term market volatility.
+
+## **The Devolution and Reform of Credit**
+
+The current financial landscape is characterized by what [Levchin](https://www.linkedin.com/in/maxlevchin) describes as a devolution of credit. Historically, credit served as a sustainability measure for farmers and businesses to manage cash flow between harvests. However, modern practices have shifted toward complexity and exploitation.
+
+* **Reliance on Fees:** Many American banks now derive a disproportionate share of income from late fees. These fees are described as 100 percent gross margin products that create a conflict of interest, as lenders profit when customers fail to pay on time.  
+* **Compounding Interest:** Unlike simple interest, compounding interest makes it difficult for consumers to estimate the true cost of credit.  
+* **The Affirm Model:** **Affirm** was founded to eliminate hidden costs and exploitative practices. The company does not charge late fees and avoids compounding interest to ensure customers know the exact cost of a loan upfront. "One of our core values is no fine print to remind ourselves and the rest of the world that we were not hiding our business model in there."  
+* **Market Scale:** **Affirm** anticipates processing between 47 billion and 48 billion dollars in loans this fiscal year, representing a significant but still small fraction of total US commerce.
+
+## **Artificial Intelligence and the Global IQ Boost**
+
+[Levchin](https://www.linkedin.com/in/maxlevchin) posits that the widespread adoption of AI tools will act as a massive cognitive amplifier for the general population.
+
+* **Raising the Net IQ:** As AI becomes integrated into daily tasks, the average person will have the equivalent of a genius level assistant in their ear. "The net IQ of the world is about to go up like 50 points."  
+* **Flushing Out Obnoxious Business Models:** This increase in consumer intelligence will make it impossible for companies to hide unfavorable terms in fine print. AI agents will identify the best deals and protect users from being taken advantage of by predatory financial products.  
+* **Engineering Productivity:** For technologists, AI has removed the ramp-up time for new projects. [Levchin](https://www.linkedin.com/in/maxlevchin) notes that while he previously needed weeks to learn a new framework, he can now use AI agents to research and set up infrastructure, allowing him to focus on specific functionality and implementation quirks.
+
+## **Engineering as Science, Art, and Craft**
+
+Despite the rise of AI-generated code, [Levchin](https://www.linkedin.com/in/maxlevchin) maintains that the fundamental principles of computer science remain essential.
+
+* **Three Pillars of Engineering:** [Levchin](https://www.linkedin.com/in/maxlevchin) views software engineering as a combination of three distinct elements:  
+  1. **Science:** The theoretical and mathematical foundations of computing.  
+  2. **Art:** The elegance and aesthetic quality of a piece of code.  
+  3. **Craft:** The ability to build robust, production grade software that can scale across thousands of servers.  
+* **The Role of Taste:** AI can handle syntax and basic logic, but it lacks the taste required to deliver beautifully crafted or elegant code. Human engineers must maintain a solid foundation in computer science to steer AI models toward the right outcomes.  
+* **Vulnerability of Software Companies:** Companies that only sell software without proprietary data or deep sources of value are highly vulnerable, as the barrier to creating high quality software has dropped.
+
+## **Organizational Philosophy and Culture**
+
+[Levchin](https://www.linkedin.com/in/maxlevchin) identifies the team as the absolute foundation of any company. "The most important lesson is always the team." Success depends not just on hiring brilliant people, but on organizing them around a shared mission and harnessing their unique skills.
+
+### **High-Performance Culture at Affirm**
+
+* **The Shopify Sprint:** When **Affirm** signed a deal with **Shopify**, the team had to manually review 800,000 merchants in a single week to ensure compliance with risk policies. This event created a high performance culture where employees were rewarded with embroidered t-shirts and water bottles for hitting review targets.  
+* **Operating Leverage:** The company focuses on quantitative metrics, including revenue and growth of profit, while attempting to achieve these goals with minimal team growth.  
+* **Global Talent:** [Levchin](https://www.linkedin.com/in/maxlevchin) highlights Poland as a key area for technical talent, noting that it is a former Eastern block country that has successfully embraced capitalism. The combination of high quality education and a growing economy has created a flywheel of innovation.
+
+### **The Big Lebowski as Corporate Identity**
+
+[Levchin](https://www.linkedin.com/in/maxlevchin) uses references to the movie The Big Lebowski to embed fun into the corporate environment.
+
+* **Shareholder Letters:** Nearly every **Affirm** shareholder letter contains subtle or overt quotes from the film.  
+* **Analyst Recognition:** For years, these references went unnoticed until an analyst recently noted that a particular fiscal quarter really tied the room together.
+
+## **Market Dynamics and Economic Perspectives**
+
+[Levchin](https://www.linkedin.com/in/maxlevchin) advocates for a disciplined, long-term approach to business and investment, drawing a sharp distinction between different types of shareholders.
+
+* **Short-Term vs. Long-Term:** He expresses total indifference toward investors focused on short-term performance, choosing instead to focus on those committed to the company's multi-decade mission.  
+* **The Market as a Weighing Machine:** Referencing a concept often attributed to [Benjamin Graham](https://en.wikipedia.org/wiki/Benjamin_Graham), [Levchin](https://www.linkedin.com/in/maxlevchin) notes that while the market is a voting machine in the short term, it is a weighing machine in the long term. He discourages CEOs from obsessing over daily stock price fluctuations, which are often noisy and unpredictable.  
+* **Capitalism and Value:** Having grown up in the Soviet Union, [Levchin](https://www.linkedin.com/in/maxlevchin) is a staunch advocate for capitalism and critical of redistributionist policies. "Socialism sucks, it is terrible." He believes the US economy remains strong so long as it continues to produce enough value to compensate debt holders.  
+* **Public vs. Private Markets:** [Levchin](https://www.linkedin.com/in/maxlevchin) suggests that the decision to go public should be driven by a readiness for a long-term public journey rather than a desire for immediate liquidity. He notes that the technical process of going public can be completed in as little as three months if a company has the necessary financial reporting infrastructure.
+
+## **Technical Specifications: The Levchin Espresso Method**
+
+[Levchin](https://www.linkedin.com/in/maxlevchin) applies the same technical rigor to his coffee preparation as he does to engineering.
+
+| Step | Technique/Detail |
+| :---- | :---- |
+| **Machine** | **Lamarzocco** (Italian-born, US-made classic). |
+| **Beans** | **Wrecking Ball** (Local San Francisco roaster), Pillow Fight blend. |
+| **Ratio** | Just over 2:1 (approx. 20g of beans for a 40g-43g drink). |
+| **Preparation** | Use of a WDT tool (White Distribution Technique) to break up clumps caused by static. |
+| **Tamping** | Ensuring the puck is evenly distributed and level. |
+| **Extraction** | Approximately 25 to 27 seconds for a 40g shot. |
+| **Timing** | Beans should be roughly 10 days off the roast to allow CO2 to escape. |
+| **Etiquette** | Serve with a glass of sparkling water to cleanse the palette, crema can be stirred or slurped. |
+
