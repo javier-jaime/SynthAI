@@ -22,7 +22,7 @@ And for extracting entities & context for the Semantic Layer of a Knowledge Grap
 (from ericbroda)
 
 
-Answers to Possible Questions:
+In Conclusion:
 
 * Friction is a Feature
 * Content is a Bi-product
