@@ -3596,3 +3596,88 @@ A core tenet of **NiaHealth** is its role as a responsible actor within the broa
 ## **Conclusion**
 
 **NiaHealth** is currently in a high-growth phase, fueled by significant investor interest and a clear demand for proactive health solutions in Canada. The leadership remains focused on maintaining evidence-based integrity and avoiding the hype often associated with celebrity backed health startups. The ultimate objective is to catalyze a global movement toward prevention, ensuring that health outcomes are driven by data and early intervention rather than reactive treatment.
+
+# Season 3 Episode 16
+
+# **Comprehensive Analysis of Ayrton Energy and Entrepreneurial Innovation**
+
+## **Executive Summary**
+
+This briefing document examines the development and strategic trajectory of **Ayrton Energy**, a climate technology firm specializing in simplified hydrogen storage and transportation. Led by co-founder and CEO [Natasha Kostenuk](https://ca.linkedin.com/in/natasha-kostenuk-p-eng-45713216), a mechanical engineer with an extensive background in the energy sector, the company addresses a critical gap in the hydrogen economy: the high cost and logistical complexity of moving hydrogen gas. By utilizing Liquid Organic Hydrogen Carrier (LOHC) technology, **Ayrton Energy** enables the storage of hydrogen as a room temperature, room pressure liquid that is compatible with existing infrastructure, such as diesel tanks and trucks.
+
+The company has secured significant financial backing, including a 6.8 million dollar USD funding round in August 2024 and approximately 6.5 million dollars CAD in non-dilutive capital. Beyond technological innovation, the organization is defined by a high-performance culture that prioritizes honesty, productive conflict, and a commitment to getting it right over being right. Furthermore, the leadership demonstrates a strong commitment to social impact through the founding of **Calgary Apraxia**, a nonprofit supporting children with motor planning disorders.
+
+## **Company Overview and Technological Innovation**
+
+**Ayrton Energy** was officially formed in December 2021 after the founders identified a systemic inability to find efficient hydrogen storage solutions for small industrial applications. The company’s core mission is to provide energy security through simplified and safe hydrogen logistics.
+
+### **Liquid Organic Hydrogen Carrier (LOHC) Technology**
+
+The primary innovation of **Ayrton Energy** is a hydrogen storage solution that chemically binds hydrogen gas to a carrier oil. This process creates a liquid that remains stable at room temperature and standard pressure.
+
+* **Infrastructure Compatibility:** Because the resulting liquid shares similar properties with diesel, it can be transported and stored using existing tanks, trucks, pipelines, and rail cars without modifications.  
+* **Operational Mechanism:** The carrier oil acts as a reusable sponge that can chemically bind and unbind hydrogen through reversible reactions.  
+* **Decoupling Production and Use:** This technology allows hydrogen to be produced where costs are lowest and transported to where demand is highest, removing the necessity of localized production.
+
+### **Market Impact and Applications**
+
+Currently, storage and transportation can account for up to 70 percent of the total cost of hydrogen. By leveraging existing infrastructure, **Ayrton Energy** aims to dramatically reduce these costs. Hydrogen serves as a versatile clean energy source and feed stock with various applications:
+
+* **Energy Generation:** Use in fuel cells for heavy-duty trucks, buses, and warehouse forklifts, where the only outputs are energy and water vapor.  
+* **Industrial Feedstock:** Essential for the production of ammonia, which is a critical component of global fertilizer supplies.  
+* **Clean Energy Integration:** The company views hydrogen not as a replacement for batteries or solar power, but as a necessary addition to a diverse clean energy portfolio.
+
+## **Financial Growth and Strategic Partnerships**
+
+**Ayrton Energy** has experienced rapid growth in both personnel and capital. The company currently employs 20 full-time staff members along with various contractors and consultants.
+
+### **Funding History**
+
+| Funding Type | Amount | Date | Lead Investor/Source |
+| :---- | :---- | :---- | :---- |
+| Pre-seed | Over $1,000,000 USD | March 2023 | New York Investor |
+| Seed/Growth Round | $6,800,000 USD | August 2024 | **BDC Capital**, **Clean Energy Ventures** |
+| Non-Dilutive Capital | $6,500,000 CAD | To Date | Various (including **Alberta Innovates**) |
+
+### **Commercial Traction**
+
+The company has transitioned from laboratory-scale experiments to commercial partnerships and pilots.
+
+* **ATCO:** A local partner for technology piloting.  
+* **Hawaii Gas:** A strategic partnership for the deployment of technology in Hawaii.  
+* **Alberta Innovates:** Provided essential institutional and personnel support during the early stages of development.
+
+## **Organizational Culture and Philosophy**
+
+The leadership at **Ayrton Energy** emphasizes a set of core values designed to solve difficult technical and commercial problems.
+
+### **Core Values and Operational Mindset**
+
+* **Honesty:** This value requires team members to be honest with themselves and each other regarding their path and methods, grounded in trust and respect.  
+* **Get It Right vs. Being Right:** The focus is on checking egos at the door and accepting failure as a necessary step toward reaching the correct ultimate solution.  
+* **Productive Conflict:** The team purposefully engages in challenging discussions to gain clarity on decisions. This clarity leads to better accountability and results.  
+* **Hard Things First:** The organization prioritizes tackling the most difficult challenges at the beginning of a project to ensure a clear path forward.
+
+"Our number one value is honesty, and it means something a little bit differently than what probably first comes to mind but we always say that we are solving really hard problems and to do that we need to be really honest with ourselves and each other and we have to do that with trust and respect", [Natasha Kostenuk](https://ca.linkedin.com/in/natasha-kostenuk-p-eng-45713216)
+
+## **Leadership Background and Social Impact**
+
+[Natasha Kostenuk](https://ca.linkedin.com/in/natasha-kostenuk-p-eng-45713216)’s path to founding **Ayrton Energy** was informed by her experience as a mechanical engineer in the oil and gas service industry. She describes her career trajectory as a jungle gym rather than a ladder, suggesting that moving laterally or downward is often necessary for ultimate growth.
+
+### **Women in Energy**
+
+The company is unique in the deep tech hardware space for being founded and led entirely by women. [Kostenuk](https://ca.linkedin.com/in/natasha-kostenuk-p-eng-45713216) and her co-founder, [Brandy Kinkead](https://ca.linkedin.com/in/brandy-kinkead-phd-07674973), a PhD chemist, leverage their complementary strengths in engineering and chemistry to navigate the male-dominated energy sector. They emphasize vulnerability, asking for help, and maintaining a practical mindset to build credibility.
+
+### **Social Entrepreneurship: Calgary Apraxia**
+
+Driven by a self-described inability to walk away from identified gaps in society, [Kostenuk](https://ca.linkedin.com/in/natasha-kostenuk-p-eng-45713216) founded **Calgary Apraxia** approximately 10 years ago.
+
+* **Mission:** To support children with apraxia, a motor planning disorder that hinders the coordination of speech despite the child’s ability to understand language.  
+* **Growth:** The nonprofit started with a small summer camp for 11 children and has expanded to serve approximately 65 children over several weeks each summer.  
+* **Impact:** The organization provides a community for families and children to connect over shared communication challenges.
+
+"I think I have this ability lack of ability to step away from a gap like when I see a gap in something or something that somebody there there something that needs to be done something that needs to be fixed and I think I can help I have this non-ability to walk away from that maybe and I just have to step in and kind of help and try to try to fix it", [Natasha Kostenuk](https://ca.linkedin.com/in/natasha-kostenuk-p-eng-45713216)
+
+## **Conclusion**
+
+**Ayrton Energy** is positioned as a significant player in the hydrogen sector by focusing on the logistical challenges of energy transportation. Through the use of LOHC technology and the reuse of existing infrastructure, the company aims to lower the barriers to hydrogen adoption globally. Supported by a robust funding base and a culture of high performance and continuous learning, the organization continues to scale its operations while maintaining a focus on meaningful human impact.
