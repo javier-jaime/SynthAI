@@ -9,7 +9,7 @@ We need a Positive "Critical Thinking Loop" on a Second Brain.
 
 ![Critical Thinking Loop](images/CT_Loop.png)
 
-![(from NotebookLM)](https://notebooklm.google.com/notebook/23304edb-fd46-4d50-959f-49823c521b4e)
+(https://notebooklm.google.com/notebook/23304edb-fd46-4d50-959f-49823c521b4e)
 
 
 Using Google Tools (Keep, Books, Drive, Docs, Gemini, Illuminate) & NotebookLM as a SynthAI Engine.
