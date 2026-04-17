@@ -2198,3 +2198,122 @@ When expanding internationally, founders must be strategic about where they choo
 | **Defensive Publication** | If a company has technology it does not wish to patent but wants to prevent others from patenting, it can publicly disclose the invention to create prior art. |
 
 Ultimately, the goal of an IP strategy is to protect the company's revenue. Whether through patents, trade secrets, or branding, the strategy must ensure that the innovation remains a commercial asset that supports the growth of the business.
+
+# Episode 023
+
+# **Your Business is on the Line x Tech Thursday LIVE**
+
+## **Executive Summary**
+
+This document synthesizes the core themes, business pitches, and professional insights from the live recording of the podcast Your Business is on the Line, hosted by **Tech Thursday**. The event featured [April Hicke](https://ca.linkedin.com/in/aprilhicke), CEO of **Toast**, and [Tate Hackert](https://ca.linkedin.com/in/tate-hackert), co-founder of **ZayZoon**, who provided expert feedback on several entrepreneurial ideas.
+
+The primary takeaways from the session include:
+
+* The proposal of Altitudes, a social credit system for air travelers designed to enforce etiquette through rewards and penalties.  
+* The announcement of a new nonprofit arm for **Toast** and its strategic partnerships with **Google** and **Harvard University**.  
+* A critical discussion on the financial barriers facing newcomers to Canada, specifically regarding the lack of a globalized credit rating system.  
+* The evaluation of localized tech solutions, such as **SnackRadar** for university food waste and **NestQuest** for real estate transactions.
+
+The session highlights a recurring theme of addressing modern frustrations, ranging from airline passenger behavior to the systemic inefficiencies of the traditional banking sector.
+
+## **Featured Business Profiles**
+
+The guest speakers represent two significant entities in the regional tech ecosystem.
+
+### **Toast**
+
+**Toast** is a recruitment platform focused on increasing gender diversity within the technology sector. CEO [April Hicke](https://ca.linkedin.com/in/aprilhicke) announced during the event that the organization has launched a nonprofit arm. The company maintains partnerships with **Google** and **Harvard University**. The platform's mission addresses the ongoing disparity of female representation in tech, a challenge [Hicke](https://ca.linkedin.com/in/aprilhicke) noted is frequently overlooked by male executives.
+
+### **ZayZoon**
+
+**ZayZoon** is a financial technology company specializing in earned wage access. The firm targets individuals living paycheck to paycheck, offering a service that allows employees to access their earned wages before their scheduled payday to avoid payday loans and overdraft fees. **ZayZoon** currently employs approximately 200 people. The company has a history of high-volume recruitment through **The New Network**, having filled 77 positions over a six-year period.
+
+## **Core Pitch Analysis: Altitudes**
+
+The central pitch of the event was Altitudes, a concept presented by [April Hicke](https://ca.linkedin.com/in/aprilhicke). The business is envisioned as a plugin or integration for the **Westjet** rewards program, functioning as a scorecard for passenger behavior. (Comment: Idea from Black Mirror “Nosedive” Episode)
+
+### **Purpose and Functionality**
+
+The application allows passengers to rate their seatmates anonymously. The system aims to solve the problem of deteriorating passenger behavior and the lack of accountability in public transit environments. Ratings are aggregated over time, ensuring that a single negative experience does not unfairly damage a flyer's score.
+
+### **Rating Metrics**
+
+The scorecard evaluates passengers based on several criteria:
+
+* **Space Etiquette:** Proper use of overhead bins, adhering to personal item limits, and respecting armrest boundaries (specifically noting that middle seats should have access to both armrests).  
+* **Noise and Odors:** Evaluations based on loud eating, watching content without headphones, and bringing strong food odors on board.  
+* **Social Behavior:** Kindness toward the flight crew and other passengers, snoring, and hygiene (specifically penalizing being barefoot in the cabin).  
+* **Positive Contributions:** Bonus points are awarded for helping others with luggage or switching seats to accommodate families.
+
+### **The Consequences Framework**
+
+The proposed reward and penalty system is structured to incentivize positive behavior through tiered access:
+
+| Rating | Classification | Perks / Penalties |
+| :---- | :---- | :---- |
+| 5 Stars | Elite Flyer | Priority boarding, free preferred seat selection, and lounge access. |
+| 4 Stars | Good Passenger | Early boarding group and free seat upgrades when available. |
+| 3 Stars | Neutral | Standard experience with no changes to current status. |
+| 2 Stars | Flagged | Restricted to middle seats only and placed in the final boarding group. |
+| 1 Star | Problem Passenger | Assigned to the rear of the plane, last to board, and flagged for crew awareness. |
+
+## **Supplementary Business Concepts**
+
+During the live session, several audience members presented diverse business ideas for evaluation.
+
+### **SnackRadar**
+
+Presented as an active platform at the **University of Lethbridge**, **SnackRadar** targets the reduction of food waste at campus events.
+
+* **Mechanism:** Event organizers post information about leftover free food, and students use the platform to locate it in real time.  
+* **Impact:** The founder reported that 100 people use the platform daily, and it has saved thousands of pounds of food from being wasted.
+
+### **NestQuest**
+
+**NestQuest** is described as a tinder for houses, utilizing a swipe based interface to connect potential buyers with real estate listings from the MLS.
+
+* **Revenue Model:** The platform proposes a 1% flat rate for all real estate services, regardless of the property's sale price.  
+* **Critique:** Feedback from the panel suggested that while the interface is engaging, the primary challenge for such platforms is achieving a critical mass of users and differentiating from established entities like **Realtor.ca**.
+
+### **Global Credit Rating System**
+
+A pitch for a democratization of global credit addressed the difficulties newcomers face when moving to Canada.
+
+* **The Problem:** Immigrants often have to wait two years to build a Canadian credit history, making it nearly impossible to secure mortgages, credit cards, or loans despite having good credit in their home countries.  
+* **Proposed Solution:** A system that ports international credit data into a standardized format for Canadian financial institutions.  
+* **Professional Context:** The discussion noted that while companies like **Nova Credit** exist, they still work primarily with big banks. The panel highlighted the need for more flexible onboarding systems and praised **ATB** for being more supportive of entrepreneurs and newcomers compared to other major banks like **Scotia Bank**.
+
+### **The Tissue Box Membrane**
+
+A niche product idea designed to solve the mechanical failure of standard tissue boxes.
+
+* **Innovation:** A spring loaded wrapper that ensures tissues are always accessible at the top of the box and prevents multiple tissues from being pulled out at once.  
+* **Evaluation:** The panel gave this idea a moderate score, acknowledging it solves a genuine, albeit infrequent, frustration.
+
+## **Industry Insights and Social Commentary**
+
+The event provided several observations regarding the startup ecosystem and professional environment.
+
+### **Recruitment and Growth**
+
+The discussion emphasized the importance of professional recruitment for scaling startups. **The New Network** was cited as a key partner for both **ZayZoon** and **Toast**. A critical comment was made regarding the reluctance of some Canadian startups to spend money on growth, identifying it as a barrier to scaling effectively.
+
+### **Gender Representation**
+
+[April Hicke](https://ca.linkedin.com/in/aprilhicke) highlighted the lack of gender diversity in tech panels, often referred to as manels. She noted the importance of having female perspectives in executive discussions and committed to holding organizers accountable for panel composition.
+
+### **Entrepreneurial Hardships**
+
+The panel discussed the personal and professional difficulties of entrepreneurship, including the struggle to secure mortgages without two years of personal income, even for successful founders who have been featured in **Forbes**.
+
+### **Notable Quotes**
+
+"I expect a fart-free environment, I'm not kidding you."
+
+"I think we need more men in tech. That's what we need right, lots more men."
+
+"It is a great company until about, until, until their like August last year."
+
+"I named the company altitudes and is going to be a plugin, to say your westjet rewards program, both of our spouses work at westjet so that's what i've got."
+
+"The democratization of global credit. I mean I think, like I think, incredible idea, I might join you."
