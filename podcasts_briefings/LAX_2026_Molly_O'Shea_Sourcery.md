@@ -3110,3 +3110,81 @@ The buildout of AI infrastructure is expected to continue scaling through at lea
 * **Vertical Integration:** While currently working with contract manufacturers to scale quickly, **ExoWatt** intends to vertically integrate further.  
 * **Job Creation:** While data centers themselves require few employees once built, the factories required to build the solar backbone infrastructure can create tens of thousands of jobs.  
 * **The Sustainability Shift:** There is a temporary trend where hyperscalers prioritize speed to power over sustainability. "It is now time to power right. I need power, I don't care how you make it." **ExoWatt** aims to provide a solution that fulfills the need for speed while maintaining sustainable standards.
+
+# Episode 132
+
+# **Leif Abraham on the Evolution of Public and the Future of AI-Driven Brokerages**
+
+## **Executive Summary**
+
+The financial services landscape is undergoing a significant transition as **Public** attempts to disrupt traditional incumbents like **Charles Schwab**, **Fidelity**, and **Vanguard**. By pivoting away from its early social investing roots and focusing on the top 25 percent of the wealth bracket, **Public** has built a multi-asset platform designed for long term wealth compounding. The company is currently spearheading an agentic shift in investing, using AI to automate complex financial workflows and high level investment strategies. This strategy positions the firm to capture a significant portion of the Great Wealth Transfer, as a more tech literate and self directed generation inherits assets currently managed by traditional financial advisors. Key takeaways include the platform's multi-asset defensibility across market cycles, the launch of agentic investing systems, and a cautionary outlook on the societal wealth disparity AI may accelerate.
+
+## **Strategic Positioning and the Level Up Initiative**
+
+In 2022, **Public** underwent a strategic internal shift referred to as Level Up, which refocused the company on the top quartile of the US population. This move was based on the economic reality that individuals below the top 75 percent often lack the excess capital necessary for market compounding, as they frequently live paycheck to paycheck.
+
+* Target Demographic: The platform focuses on serious investors with over 100,000 dollars in assets.  
+* Monetization Strategy: Unlike mass-market fintechs that may rely on loan speculation, interchange, or predatory lending, **Public** focuses on monetizing assets.  
+* Brand Identity: The brand has moved toward a serious and classic aesthetic, contrasting with the speculators and dodgy players in the broader mobile brokerage space.  
+* Asset Stickiness: By building for portfolio builders rather than speculators, the platform reports lifetimes of 25 years or more for its users.
+
+## **The Agentic Shift in Investing**
+
+**Public** has integrated AI and agentic systems to move the user experience from manual execution to the expression of intent. This transition allows users to automate complex strategies that were previously the domain of professional advisors or sophisticated traders.
+
+### **AI Agents and Automation**
+
+The platform's agents are designed to automate any workflow within a brokerage account, including trading strategies, money movements, and alerts. One primary application is the automation of covered calls to generate income, a process that traditionally involves high friction for individual investors. "With agents you can literally just be like 'Okay look at my portfolio um show me if I could do, you know five grand a month in income potential, on it um let me, like let me see what's there.'"
+
+### **Generated Assets**
+
+A unique product category called Generated Assets allows investors to create custom indices using AI prompts.
+
+* Process: Users input a thesis, such as founder-led companies with high growth and no debt.  
+* Execution: AI agents scan US stocks, build a custom index, and provide backtesting against the S\&P 500\.  
+* Adoption Trends: High performance has been noted in thematic generated assets, particularly those focused on defense and weapons manufacturers, with some seeing gains of 350 percent in a single month.
+
+## **Disruption of Traditional Financial Advisory**
+
+The brokerage anticipates a major displacement of traditional financial advisors driven by the aging advisor population and the increased financial literacy of younger generations.
+
+| Advisor Function | Status of AI Replacement |
+| :---- | :---- |
+| Grunt Work | Currently automated via agentic workflows and tax harvesting tools. |
+| Emotional Support | Potential for replacement via AI personalities and contextual data to calm investors. |
+| Subjective Advice | The hardest to replace but can be mitigated by data-driven historical results. |
+
+The company views the upcoming wealth transfer as a transfer of relationships. "85% of that money will be inherited by the top quartile, the top 25% and so that's literally where the money is at in our space." As millennials inherit wealth, they are expected to favor self directed platforms over the traditional, older advisor class.
+
+## **Multi-Asset Infrastructure and Market Resilience**
+
+**Public** has developed a proprietary holding system to ensure business stability across different market cycles. This system is a ledger that enables real-time money movements and consolidated reporting across diverse asset classes.
+
+* Low-Rate Cycles: Revenues typically shift toward active trading, options, and crypto.  
+* High-Rate Cycles: Revenues shift toward interest and bond products like treasuries.  
+* Operational Goal: Mission zero for the company is to bring assets onto the platform, as multi-asset support reduces volatility in the company's own revenue model.
+
+### **Platform Offerings**
+
+The platform’s expansion is categorized into four distinct pillars:
+
+* Asset Classes: Stocks, ETFs, crypto, options, treasuries, and corporate bonds.  
+* Account Types: Brokerage, margin, IRA, and upcoming trust and entity accounts.  
+* Platforms: Mobile, web, API, and agentic systems.  
+* Products: Unique layers like Generated Assets and treasury ladders.
+
+## **Perspectives on Market Structure and Private Equity**
+
+The document highlights the friction between public and private markets and the limitations of current technological solutions like tokenization.
+
+* Tokenization Critiques: The company argues that wrapping a stock in a token does not magically create 24/7 liquidity. Liquidity is a market function, not just a technological wrapper.  
+* Private Market Access: While there is a desire to democratize access to private companies like **SpaceX** or **Anthropic**, the current instruments, such as closed-end funds like **VCX**, are seen as potentially flawed due to low float and extreme speculation.  
+* Regulation: Sensible regulation is viewed as a necessity for market health and rule of law, which is why the US stock market remains the major leagues of global finance.
+
+## **Societal Impacts and the Dark Side of AI**
+
+Despite the excitement surrounding AI productivity, there are significant concerns regarding the resulting power and wealth disparity.
+
+* Power Disparity: There is a concern that concentrated ownership of AI and robotics, for instance by individuals like those leading **Tesla**, will lead to massive power imbalances.  
+* Societal Safety: Extreme wealth disparity could lead to a less safe society, where residential environments require armed security similar to Sao Paulo.  
+* Labor and Purpose: As AI causes job loss in a capitalistic system, there may be a need for Universal Basic Income (UBI). However, the company emphasizes that providing purpose is as critical as providing financial support to maintain social order. "I think it's ridiculous how quickly this is moving, financial advisors will have a really really really hard time moving forward."
