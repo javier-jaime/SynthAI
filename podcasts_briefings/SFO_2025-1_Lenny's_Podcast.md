@@ -1056,9 +1056,298 @@ The transition toward agentic systems requires a high degree of trust and a focu
 
 # Episode 243
 
+# **Uri Levine on Crisis Management in Startups**
+
+## **Executive Summary**
+
+This briefing document synthesizes the strategic and tactical advice provided by [Uri Levine](https://il.linkedin.com/in/uri-levine), co-founder of **Waze**, regarding the inevitability and management of crises within the startup lifecycle. The analysis is based on [Levine](https://il.linkedin.com/in/uri-levine)'s experiences building and advising dozens of companies and is featured in the updated edition of his book, Fall in Love with the Problem, Not the Solution.
+
+The startup journey is characterized as a continuous progression from one crisis to the next. These crises generally fall into two categories, cash crises and the loss of product market fit. Effective management of these events requires founders to assume absolute responsibility for their company's destiny, act with rapid conviction to preserve optionality, and maintain radical transparency with their teams. Success is not defined by the absence of crisis, which is considered unavoidable, but by the readiness to leverage opportunity when it arises.
+
+## **Taxonomy of Startup Crises**
+
+Crises are defined as the sudden disappearance of a significant asset or market condition.  [Levine](https://il.linkedin.com/in/uri-levine) identifies two primary abstract types that founders must recognize.
+
+### **Cash Crises**
+
+A cash crisis occurs when a startup's financial roadmap is jeopardized. This may stem from,
+
+* The loss of a major customer or revenue stream.  
+* The disappearance of a committed or prospective investor.  
+* Dramatic price changes in the market or failed projections.  
+* Unexpected changes in interest rates or inflation.
+
+### **Loss of Product Market Fit (PMF)**
+
+This is considered more significant than a cash crisis because it requires the company to return to square one. PMF is defined by a single metric, retention. If customers do not return, the product is not creating value. PMF can disappear due to,
+
+* **Regulation Changes:** Examples include **Fibo**, a tax return startup that was shut down by the Israeli tax authority after increasing market filing by 25 percent.  
+* **Competition:** The launch of the **Apple** iPhone created a crisis for **Microsoft**, **Nokia**, and **Motorola** by changing what the market wanted.  
+* **Market Shifts:** External events like Covid-19 rendered the restaurant reservation engine **Order.Chat** irrelevant because restaurants were closed to guests.
+
+## **Leadership Behaviors and Responsibility**
+
+The survival of a startup during a crisis depends heavily on the behavior of the CEO and the management team.
+
+* **Absolute Responsibility:** [Levine](https://il.linkedin.com/in/uri-levine) emphasizes that founders must view the outcome of a crisis as their responsibility rather than their fault. "When you assume responsibility, you're basically saying, you know what, I control my own destiny."  
+* **Persistence:** The most important behavior for a successful startup CEO is never giving up. This involves continuously looking for ways to make the business work despite a journey of failures.  
+* **Conviction in Decision Making:** CEOs must make hard decisions with conviction to ensure the team follows their lead. "If you don't make them with conviction, then the team is not going to follow."  
+* **Transparency:** Maintaining trust during a crisis requires sharing the essence of the situation without sugarcoating the facts. This includes sharing key metrics and being specific about challenges, such as the number of investors who have declined to fund the company.
+
+## **Strategic Crisis Management Tactics**
+
+When a crisis is identified, founders must follow a specific analytical framework to determine their next steps.
+
+### **The Analytical Framework**
+
+1. **Identify Impact:** Determine exactly what is being impacted, such as run rate, the product itself, or the revenue stream.  
+2. **Determine Duration:** Assess if the crisis is a temporary event or a permanent change in the market landscape.  
+3. **Calculate Remaining Run Rate:** Establish exactly how much time is left before the company runs out of cash.
+
+### **The Necessity of Rapid Action**
+
+Decisions must be made immediately because the longer a founder waits, the fewer options they have. [Levine](https://il.linkedin.com/in/uri-levine) illustrates this with a burn rate example: if a company with six months of runway reduces its burn by 50 percent today, it extends its life to twelve months. Waiting three months to make that same cut results in only nine total months of runway. "The only ability to choose is today."
+
+### **Cost Reduction Options**
+
+Because 70 to 75 percent of a startup budget is typically personnel, significant cost reduction involves impacting the team. Options include,
+
+* **Layoffs:** Reducing the headcount by a specific percentage.  
+* **Salary Reductions:** Reducing pay across the organization, which may be preferred if the team is highly committed to one another.  
+* **Management Pay Cuts:** Leaders giving up their own salaries first to demonstrate leadership and increase the commitment of the rest of the organization.  
+* **Equity Re-engagement:** Diluting all shareholders to provide employees with significantly more equity (e.g., five times more) to maintain their loyalty when cash is scarce.
+
+## **The Process of Pivoting**
+
+A pivot is a response to a major failure where underlying assumptions are no longer valid. [Levine](https://il.linkedin.com/in/uri-levine) provides an algorithm for deciding whether to pivot or shut down.
+
+| Step | Action | Description |
+| :---- | :---- | :---- |
+| 1 | Validate the Problem | Ensure a significant problem still exists that people care about emotionally. |
+| 2 | Assess Assets | Determine if the company has the technology, team, or know-how to solve the new problem. |
+| 3 | Evaluate Passion | Confirm the founder has the energy to restart the journey from square one. |
+| 4 | Validate the Team | Ensure the team believes in the new path and wants to pursue it. |
+| 5 | Engage Investors | Return to existing or new investors for funding based on the company's established advantages. |
+
+[Levine](https://il.linkedin.com/in/uri-levine) suggests the "Start Today" framework for all aspects of life and business. "Knowing what I know today, would I do something different?" If the answer is yes, the change should be made immediately.
+
+## **Case Studies in Crisis and Resilience**
+
+The history of successful companies often involves near death experiences that are not visible to the public.
+
+* **Waze:** In 2010, **Google** announced free turn-by-turn navigation, which led investors to believe **Waze** was doomed. **Waze** survived by focusing on the specific use case of daily commuters and eventually secured investment from **Microsoft** and **Qualcomm Ventures** through a sense of FOMO (fear of missing out).  
+* **WeSki:** This company faced a total loss of revenue during Covid-19. It survived by executing a pay to play round that forced existing investors to participate or face severe dilution, while also resizing the company to be extremely lean.  
+* **Pontera (formerly FeeX):** This company pivoted twice over twelve years due to changes in market focus and shifting regulations under different U.S. administrations.  
+* **Shopify:** The president of **Shopify**, [Harley Finkelstein](https://ca.linkedin.com/in/harleyf), and [Levine](https://il.linkedin.com/in/uri-levine) have exchanged stories about how their respective companies nearly died multiple times before reaching success.
+
+## **Conclusion on Crisis Avoidance**
+
+[Levine](https://il.linkedin.com/in/uri-levine) asserts that there is no way to avoid crisis. The best preparation is maintaining a high level of cash in the bank, ideally 18 months of runway, to provide a comfort zone for execution and adaptation. Ultimately, founders must accept that "building a startup is a journey from one crisis to the next." Readiness, combined with opportunity, is the only practical definition of luck in the entrepreneurial journey.
+
 # Episode 244
 
+# **Bob Moesta’s Job Moves: A Framework for Career Progress and Alignment**
+
+## **Executive Summary**
+
+The following document synthesizes insights from [Bob Moesta](https://www.linkedin.com/in/bobmoesta), co-founder of **The ReWired Group**, regarding his research into how individuals navigate career transitions. Drawing from over one thousand interviews conducted over fifteen years, the analysis identifies why people leave roles and how they can more effectively find work they love by focusing on experiences rather than features.
+
+The central premise of the Job Moves framework is that career changes are not random, they are caused by a lack of progress. Most individuals switch jobs without a clear understanding of themselves, often resulting in a new position that is worse than their previous one. Progress is defined by the context an individual is in and the outcomes they desire. To achieve a successful move, workers must distinguish between job features, such as salary and title, and job experiences, which are the actual drivers of retention and satisfaction. By identifying their specific career quest and analyzing their personal energy drivers and drains, individuals can move from attributing their career success to luck to a state of prepared opportunity.
+
+## **Core Themes and Philosophical Shifts**
+
+The research suggests a fundamental shift in how employment is viewed, emphasizing that employees hire companies more than companies hire employees.
+
+### **Features versus Experiences**
+
+Traditional job searching focuses on features, which are static attributes of a role.
+
+* Job Features: These include salary, title, and benefits. While salary is often used as a surrogate for respect or financial security, its impact depreciates over time.  
+* Job Experiences: These involve how attributes work through time and space. Experiences are what keep a person at a job and determine whether they feel they are making progress.
+
+### **The Role of Progress**
+
+Progress is the primary motivator for staying in or leaving a role. The moment an individual stops making progress in their career is the moment they begin looking for another job. This progress is highly contextual and changes throughout an individual's life.
+
+## **The Four Career Quests**
+
+Interviews reveal that reasons for leaving a job fall into four distinct categories or quests. Understanding which quest an individual is on helps them determine the design requirements for their next role.
+
+| Quest | Definition and Motivations |
+| :---- | :---- |
+| Get Out | The individual is in a situation that is sucking their energy. They often cannot think clearly about the next step and simply need to leave to breathe and recover. |
+| Take the Next Step | The individual has mastered their current role but sees no further path for growth or skill building within their current organization. |
+| Regain Control | This occurs when work, often in high pressure environments like startups, overwhelms personal and home life. The individual seeks to manage their time and yourself. |
+| Realign | The individual has been stretched or promoted into a role that does not align with what they are good at or what they love to do, such as a product lover being forced into people management. |
+
+## **Energy Management: Drivers and Drains**
+
+A critical component of the Job Moves framework is the identification of energy drivers and drains. This self awareness allows an individual to treat themselves as a product with specific requirements.
+
+* Energy Drivers: These are activities or contexts that leave an individual with more energy after the task than they had before. Examples include learning new things, helping others find their way, or working in specific team dynamics.  
+* Energy Drains: These are tasks that suck the life out of an individual. While everyone must perform some draining work, a successful career move aims to improve the ratio of drivers to drains.  
+* Strength Finders: [Moesta](https://www.linkedin.com/in/bobmoesta) suggests using the bottom five results from a Strength Finders assessment to identify energy drains, as these are often the areas where an individual lacks innate talent and experiences the most stress.
+
+## **Strategic Tactics for Job Seekers**
+
+The transition process involves moving from internal reflection to external prototyping.
+
+### **Jobcation**
+
+For those on the Get Out quest, [Moesta](https://www.linkedin.com/in/bobmoesta) recommends a jobcation. This is a job an individual can do with one hand tied behind their back. It provides a period of rest and recovery, allowing the mind and body to reset from high stress environments like those found in companies like **Shopify** or high growth startups.
+
+### **Prototyping and Informational Interviews**
+
+Before applying for roles, seekers should prototype job positions.
+
+* Conduct informational interviews with strangers who currently hold the target role.  
+* Use these conversations to understand the daily reality of the job and whether it meets the seeker's design requirements.  
+* This practice builds confidence and provides a realistic view of the role, helping to avoid jobs that are merely a side step into a similar or worse situation.
+
+### **Handling Trade-offs**
+
+No job is perfect, and making a successful move requires acknowledging trade-offs. Satisfaction often comes from being comfortable with what is being given up to get what is wanted. For example, an individual might accept a lower salary from a company like **The ReWired Group** in exchange for the experience of learning a specific skill set.
+
+## **The Employer and Hiring Perspective**
+
+The framework also provides insights for those looking to hire and keep talent.
+
+* Job Descriptions: Most job descriptions are made up and focus on features or requirements like five years of experience. Employers should instead describe the context of the role, what progress looks like, and the experiences the employee will have.  
+* Fitting the Job to the Person: Rather than finding a person to fit a static job description, successful managers at companies like **Vanta**, **Ramp**, or **Atlassian** may find better results by reshaping the job to fit the specific strengths and energy drivers of a talented candidate.  
+* Retention: To keep amazing people, managers must ensure the employee is making progress. This requires regular conversations about what progress means to the individual and adapting the role to maintain alignment.
+
+## **Narrative Construction: The Career Story**
+
+[Moesta](https://www.linkedin.com/in/bobmoesta) utilizes a template inspired by **Pixar** to help individuals concisely communicate their value and journey.
+
+* Once upon a time... (Setting the core skills and background)  
+* Every day... (Describing the routine or superpower)  
+* One day... (The catalyst for change or a realization)  
+* Because of that... (The journey or shift in approach)  
+* Until finally... (The current state or new method)  
+* Ever since that day... (The vision or purpose moving forward)
+
+## **Direct Quotes from the Source**
+
+"The moment you stop making progress in your career is the moment you start looking for another job", [Bob Moesta](https://www.linkedin.com/in/bobmoesta)
+
+"I think there's a billion people a year who switched jobs and ultimately most of them end up with a job that's worse than the one they were at, but they don't know how to find it", [Bob Moesta](https://www.linkedin.com/in/bobmoesta)
+
+"I call it a jobcation, which is a job I can go do with one hand tied behind my back, so I can rest and recover to go do something else", [Bob Moesta](https://www.linkedin.com/in/bobmoesta)
+
+"It's very simple, very similar to product. There's difference between product features and product experiences, and what you start to realize is it's the experiences that keep you at your job", [Bob Moesta](https://www.linkedin.com/in/bobmoesta)
+
+"Money is a surrogate for respect, or I've got bills to pay or I'm falling behind", [Bob Moesta](https://www.linkedin.com/in/bobmoesta)
+
+"Employees hire companies more than companies hire employees", [Bob Moesta](https://www.linkedin.com/in/bobmoesta)
+
+"Luck is when opportunity meets preparedness", [Bob Moesta](https://www.linkedin.com/in/bobmoesta)
+
+"If legal and finance had a baby, it would be HR", [Bob Moesta](https://www.linkedin.com/in/bobmoesta)
+
+"When you're in a startup, it changes who you are and the moment that you get out of that environment, you need to take the time to reset your mind and your body", [Bob Moesta](https://www.linkedin.com/in/bobmoesta)
+
+"The moment you are comfortable doing nothing, you know who you are again, and you can actually figure this out", [Bob Moesta](https://www.linkedin.com/in/bobmoesta)
+
 # Episode 245
+
+# **Inside the Development and Mechanics of Community Notes**
+
+## **Executive Summary**
+
+Community Notes represents a paradigm shift in addressing online misinformation by moving away from centralized editorial curation toward a decentralized, crowdsourced context sharing model. Originally developed under the project name Birdwatch at **Twitter**, the system has evolved into a foundational feature of **X** and has recently been adopted by **Meta** as a primary fact checking tool. The program relies on a unique bridging based agreement algorithm that prioritizes accuracy by identifying consensus among individuals who have historically disagreed.
+
+The primary mission of Community Notes is to empower the public to add helpful context to potentially misleading posts. Unlike traditional fact checking, which often relies on professional journalists or internal trust and safety teams, Community Notes is open to all users who meet basic eligibility requirements. The system operates on three core principles: the voice of the people, total transparency, and the inclusion of all humanity.
+
+The program utilizes a machine learning algorithm based on matrix factorization to identify notes that earn agreement from polarized groups. Data indicates that when a note is applied to a post, engagement metrics such as likes and reposts drop by 50 to 60 percent, effectively halting the virality of false information. Under the leadership of [Elon Musk](https://en.wikipedia.org/wiki/Elon_Musk) at **X**, the team has maintained a lean, high output organizational structure that prioritizes rapid iteration and shared ownership over traditional corporate bureaucracy.
+
+## **The Bridging-Based Agreement Algorithm**
+
+The efficacy of Community Notes is rooted in its algorithmic ability to bypass partisan bias. Rather than relying on a majority vote, which would allow the most numerous group to dominate the discourse, the system looks for surprising agreement.
+
+### **Core Algorithmic Functions**
+
+* Matrix Factorization: The system uses this machine learning technique, fitted with gradient descent, to model user ratings.  
+* Bridging Agreement: For a note to be shown publicly, it must be rated as helpful by a broad range of people who typically hold opposing viewpoints.  
+* Helpfulness Threshold: Notes must exceed a specific threshold, approximately 0.4 on an internal scale, to be displayed.  
+* Reputation Filtering: The algorithm includes a reputation component that filters out users who consistently rate notes in a way that runs counter to the bridging based consensus.  
+* Anti-Manipulation: By requiring agreement across divides, the system is naturally resistant to voting rings or coordinated manipulation attempts.
+
+"We actually look for agreement from people who have disagreed in the past."
+
+## **Foundational Principles and Transparency**
+
+The success of the project is attributed to a strict adherence to founding principles that distinguish it from previous industry attempts to curb misinformation.
+
+### **Key Principles**
+
+1. Voice of the People: The company does not have a button to manually change the status of a note. The output is entirely determined by user ratings and the algorithm.  
+2. Open Participation: To ensure the system understands what humanity finds helpful, the program is open to anyone with a verified phone number. This prevents the perception of curated editorial decisions.  
+3. Absolute Transparency: All code used to determine which notes are shown is open source on **GitHub**. All rating data is published daily for public audit.  
+4. Pseudonymity: Contributors operate under pseudonyms rather than real names. Research conducted during the pilot phase revealed that people are more willing to cross partisan boundaries and provide honest ratings when they are not acting under a public identity.
+
+"If there's a problem with a note that's so bad, you want to do something about it's a problem with the system."
+
+## **Organizational Structure: The Thermal Model**
+
+The development of Community Notes followed a specialized organizational framework known as a Thermal project. This model was designed to protect small, ambitious teams from the bureaucratic friction common in large technology companies.
+
+### **Attributes of a Thermal Project**
+
+* Founder Driver: The project is led by a single clear owner who functions like a startup founder.  
+* Direct Leadership Access: The team bypasses middle management and reports directly to a senior decision-maker. In the current iteration at **X**, this is [Elon Musk](https://en.wikipedia.org/wiki/Elon_Musk).  
+* 100 Percent Focus: Team members are entirely dedicated to the project, preventing momentum loss caused by competing priorities.  
+* Dynamic Goal Setting: The team eschews quarterly OKRs in favor of setting milestones based on immediate product needs.  
+* Lean Staffing: The original team was composed of approximately five individuals, covering essential functions.
+
+| Function | Staffing Level |
+| :---- | :---- |
+| Machine Learning Engineering | 1 |
+| Client Engineering | 1 |
+| Backend Engineering | 1 |
+| Design | 1 |
+| Research | 1 |
+
+"I've been amazed with just how much the team is able to accomplish with a small group, and I think because of a small group."
+
+## **Impact on Platform Health and User Behavior**
+
+Community Notes has demonstrated a significant measurable impact on how information spreads across social media. The system is particularly effective at taking the wind out of viral stories that lack context.
+
+### **Statistical Performance**
+
+| Metric | 2023 Data | 2024 Data |
+| :---- | :---- | :---- |
+| Notes Displayed | 37,000 | 95,000 |
+| Total Note Views | 14 Billion | 30 Billion |
+| Active Contributors | N/A | \~950,000 |
+
+### **Behavioral Changes**
+
+* Engagement Reduction: A/B tests show a 30 to 40 percent drop in likes and reposts immediately after a note is applied.  
+* Virality Suppression: External research indicates a 50 to 60 percent drop in total reposts over the lifetime of a noted post.  
+* Post Deletion: Authors are 80 percent more likely to delete a post after it receives a Community Note.  
+* Media Literacy: Exposure to notes encourages users to look at information more skeptically, acting as a form of broad media education.
+
+"The notes just totally take the wind out of these stories."
+
+## **Case Studies in Scale and Speed**
+
+The Israel-Hamas conflict in late 2023 served as a critical stress test for the system. During the first three days of the conflict, the system processed 500 notes covering out-of-context imagery and AI generated content, such as simulated footage from the video game Arma 3\.
+
+The median time from a post going live to a note appearing was approximately five hours. This speed was achieved through technical updates that reduced processing time and a feature that automatically matches notes to all posts containing the same image or video. This allows a single note to provide context for thousands of identical posts across the platform simultaneously.
+
+"Imagine if we could use the same kind of approaches we use with notes, but to find agreement on legislation, or policies, or things like that that people want the government or the world to do, "
+
+## **Technical Infrastructure and Future Frontiers**
+
+The team at **X** prioritizes lean technical operations, including the deletion of unnecessary code to reduce maintenance burdens. Moving forward, the project is exploring how artificial intelligence and Large Language Models (LLMs) can assist human contributors.
+
+### **Supernotes and AI Integration**
+
+A project called Supernotes, developed outside the company, demonstrates the potential for LLMs to generate note variants. This system uses a simulated jury to predict how a representative group of contributors would rate these variants. This allows AI to assist in the writing process while keeping humans as the final arbiters of helpfulness. The ultimate goal is for the product to be built by the people, with the public contributing not just to the content, but to the scoring algorithms themselves.
+
+"It's the internet, it's of the internet, that's why it works."
 
 # Episode 246
 
@@ -1089,4 +1378,14 @@ The transition toward agentic systems requires a high degree of trust and a focu
 # Episode 259
 
 # Episode 260
+
+# Episode 261
+
+# Episode 262
+
+# Episode 263
+
+# Episode 264
+
+# Episode 265
 
