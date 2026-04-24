@@ -3295,3 +3295,83 @@ The firm has launched the **General Catalyst** Institute to engage with policy i
 * **General Catalyst IPO:** CEO [Hemant Taneja](https://www.linkedin.com/in/hemanttaneja) explicitly denied rumors that the firm plans to go public. "We're not going public."  
 * **Palo Alto Networks:** [Nikesh Arora](https://www.linkedin.com/in/nikesh-arora-02894670) has joined **General Catalyst** as a lead independent director to provide mentorship and scale-oriented guidance to the team.  
 * **Percepta:** A core engineering and transformation team within the ecosystem focused on driving AI adoption in enterprises.
+
+# Episode 134
+
+# **Skydio Series F Funding, Product Strategy, and Operational Expansion**
+
+## **Executive Summary**
+
+**Skydio** recently announced its Series F funding round, securing $110 million at a $4.4 billion post-money valuation. Led by insider investors, the round reflects a company with rapidly declining capital needs despite aggressive expansion into new product categories. The organization is currently transitioning its technology toward flying agentic AI, aiming to provide autonomous robots with domain expertise for critical, high stakes industries. With a customer base of approximately 4,000 entities, including all branches of the US Department of War and 1,200 public safety agencies, **Skydio** is scaling production at its Hayward, California factory to meet explosive demand. Strategic priorities include maintaining a secure, US based supply chain independent of China and delivering end-to-end solutions that integrate seamlessly into existing industry workflows.
+
+## **Series F Funding and Financial Position**
+
+The recent $110 million funding round marks a significant milestone for **Skydio**, positioning the company as a rare entity in the robotics and AI sector with decreasing capital requirements.
+
+* Valuation and Investment: The Series F round, led by insiders, resulted in a $4.4 billion post-money valuation.  
+* Capital Efficiency: The relatively small size of the raise compared to the valuation is attributed to the strength of the core business and an elite team capable of operating efficiently.  
+* Production Goals: **Skydio** plans to triple drone production over the course of the year to address a massive backlog in demand.  
+* Contractual Growth: High-volume orders have become common, exemplified by a recent 50 million dollar contract with the US Army for 3,000 drones.  
+* Revenue Status: The company currently generates hundreds of millions of dollars in annual revenue, producing thousands of drones per month.
+
+## **Product Strategy and Technological Evolution**
+
+**Skydio** is moving beyond its original focus on a single medium sized quadcopter to develop a family of flying robots optimized for diverse tasks.
+
+### **Core Autonomy and Agentic AI**
+
+The foundational bet of the company is that autonomy is the essential layer for drone utility. By removing the requirement for an expert pilot, the technology becomes accessible for persistent use. "The course that we're charting is towards flying agentic AI that can have the intelligence and domain expertise." The company leverages a rich simulation environment and automation infrastructure to test hardware with real physics in the loop, allowing for a software-like iteration speed.
+
+### **Product Portfolio**
+
+The current product lineup and development roadmap include:
+
+| Product | Description/Status |
+| :---- | :---- |
+| X10 | The current flagship autonomous drone, matured over millions of flights. |
+| Dock for X10 | Enables remote and autonomous deployment without on-site operators. |
+| R10 | A new indoor drone designed for dangerous work in confined spaces. |
+| F10 | A fixed wing drone designed to cover longer ranges and fly at higher speeds. |
+
+## **Sector Applications and Impact**
+
+**Skydio** focuses on critical infrastructure and life saving missions rather than general consumer applications.
+
+### **Public Safety and Law Enforcement**
+
+The most visible application is the use of drones to respond to 911 calls. Drones often arrive at scenes 70 to 80 percent of the time before ground officers, providing critical situational awareness.
+
+* Crime Reduction: San Francisco reported a 42 percent reduction in auto theft following the launch of its drone program.  
+* Transparency: Drones act as flying body cameras, documenting interactions between suspects and officers to ensure accountability.  
+* Life Saving Incidents: In Santa Fe, a drone located an overdose victim in a large park, allowing officers to perform life saving CPR. In San Francisco, a drone identified a reported rifle as a broomstick, preventing a potentially tragic confrontation.
+
+### **Infrastructure and Energy**
+
+For utilities, **Skydio** provides persistent inspection solutions to find defects in conductors before they cause outages or fires. This replaces the dangerous and expensive process of having personnel climb poles or fly manned helicopters.
+
+### **Military and Austere Environments**
+
+Through partnerships with **Armada**, **Starlink**, and **Axon**, **Skydio** drones operate in remote areas using off-grid setups involving solar panels and edge computing. **Skydio** functions as the drone spoke that plugs into the **Axon** hub, which many agencies use for evidence management.
+
+## **Manufacturing and Global Competition**
+
+A central pillar of **Skydio** is its commitment to US based manufacturing and supply chain security, particularly in opposition to Chinese dominance in the sector.
+
+* The Underdog Position: **Skydio** has spent 12 years competing as a US underdog against **DJI**, a state sponsored Chinese industry leader.  
+* Chinese Sanctions: Approximately 18 months ago, the Chinese government sanctioned **Skydio**, attempting to kill the company by shutting down its remaining Chinese suppliers.  
+* Supply Chain Independence: Following the sanctions, **Skydio** developed what is described as the most secure drone supply chain in the world, independent of China.  
+* Manufacturing Philosophy: The company maintains its primary factory in Hayward, California. "America is stepping on the gas with re-industrialization and bringing manufacturing back to the country."  
+* Strategic Differentiation: While **DJI** may lead in certain hardware specifications, **Skydio** focuses on end-to-end autonomous solutions that Chinese companies cannot offer due to regulatory restrictions and technological focus.
+
+## **Leadership and Talent Philosophy**
+
+The leadership at **Skydio** emphasizes technical depth, humility, and a focus on long-term substance over market hype.
+
+* Engineering Led Management: Inspired by the leadership culture at **Apple** during the return of [Steve Jobs](https://en.wikipedia.org/wiki/Steve_Jobs), **Skydio** requires its senior executives to be exceptional engineers capable of solving deep technical problems.  
+* Small Team Dynamics: The CEO advocates for organizing the company into the smallest possible teams to maximize authority and effectiveness.  
+* Hiring Criteria: The company looks for a spark of capability and the horsepower to get things done rather than just specific experience. Many employees are alumni of **Tesla**, having been trained in the high pressure environment of the Model 3 production.  
+* Long-term Vision: The company adheres to a "get rich slowly" framework, prioritizing enduring impact and world leading products over vanity metrics or press coverage. "I think that enduring value and enduring impact is built on a lot of patience and a lot of hard work."
+
+## **Future Outlook**
+
+The default expectation for the next five years is that drone response to emergencies will become a global standard. "I think a default expectation in 5 years, if there's an emergency you call 911 a drone shows up in a few seconds, and that's going to be everywhere in the US hopefully everywhere in the world." While the CEO acknowledges a likely period of pain and carnage for recent robotics startups that do not understand the difficulties of the physical world, he maintains that the substance of the technology will eventually win out. **Skydio** intends to continue scaling its public safety business and expanding its end-to-end solutions for site security and energy inspections throughout the coming year.
