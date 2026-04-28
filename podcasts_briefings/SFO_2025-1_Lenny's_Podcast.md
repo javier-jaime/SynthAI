@@ -1,6 +1,6 @@
 # 2025-1 Lenny's Podcast
 
-| Expert Name | Primary Framework or Concept | Key Leadership Principle | Product Strategy Advice | Personal Growth Method |
+| Expert Name | Primary Concept | Key Leadership Principle | Product Strategy Advice | Personal Growth Method |
 | :---- | :---- | :---- | :---- | :---- |
 | [Dmitry Zlokazov](https://uk.linkedin.com/in/zlokazov/en) | The "Local CEO" Model | Hiring for raw intellect and hunger over experience; prioritize end-to-end ownership in cross-functional teams. | Obsess over building "wow" products; functionality can be cut to critical features but never compromise on quality, UX, or aesthetics. | Optimize learning by finding startups or companies with high entrepreneurial spirit to simulate founder mode. |
 | [Bob Baxley](https://www.linkedin.com/in/bbaxley) | Design Tenets vs. Design Principles | Focus on choreography over control; ensure every employee feels like a "maker" who is part of the inception of an idea. | Wait as long as possible to draw a picture or create high-res comps; use "block brain diagrams" to solidify the conceptual model first. | Use AI as a life coach to reflect back patterns in your "undermind" and identify outdated mindsets through targeted prompting. |
