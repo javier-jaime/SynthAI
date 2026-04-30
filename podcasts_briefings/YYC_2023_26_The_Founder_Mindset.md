@@ -18,7 +18,7 @@ This briefing document synthesizes key insights from [Alice Reimer](https://ca.l
 
 * **The Hustler:** The external face of the business, responsible for uncovering opportunities, networking, and securing investment. [Reimer](https://ca.linkedin.com/in/alice-reimer) identifies herself in this role.  
 * **The Designer:** Focused on the user experience and product aesthetics.  
-* **The Hack:** The technical architect capable of building and scaling the technology stack (e.g., **Fillip**’s CTO, [Ted O’Grady](https://ca.linkedin.com/in/ogradyt)).
+* **The Hacker:** The technical architect capable of building and scaling the technology stack (e.g., **Fillip**’s CTO, [Ted O’Grady](https://ca.linkedin.com/in/ogradyt)).
 
 ### **Key Philosophies on Starting a Venture**
 
@@ -3681,3 +3681,102 @@ Driven by a self-described inability to walk away from identified gaps in societ
 ## **Conclusion**
 
 **Ayrton Energy** is positioned as a significant player in the hydrogen sector by focusing on the logistical challenges of energy transportation. Through the use of LOHC technology and the reuse of existing infrastructure, the company aims to lower the barriers to hydrogen adoption globally. Supported by a robust funding base and a culture of high performance and continuous learning, the organization continues to scale its operations while maintaining a focus on meaningful human impact.
+
+# Season 3 Episode 17
+
+# **David de Graaf and Reverb Therapeutics on the Founder Mindset**
+
+## **Executive Summary**
+
+This document synthesizes key insights from a discussion with [David de Graaf](https://www.linkedin.com/in/davidd12), the co-founder and CEO of **Reverb Therapeutics**, regarding the complexities of the biotechnology industry, the scientific innovations behind immune system modulation, and the psychological resilience required of entrepreneurs. Biotechnology is characterized by a 15 year development cycle and extreme capital intensity, requiring an average of 450 million dollars to bring a drug to market. **Reverb Therapeutics** focuses on precision medicines that localize immune signals to treat cancer and autoimmune conditions more effectively than existing therapies. The discussion highlights that successful entrepreneurship in this field relies on a combination of scientific rigor, strategic financial planning, and a deep commitment to patient outcomes rather than personal gain.
+
+## **The Nature of Biotech Entrepreneurship**
+
+Entrepreneurship in the biotechnology sector differs significantly from other high tech industries due to the specialized nature of the product and the prolonged timeline for success.
+
+### **Transition from Scientist to Founder**
+
+[David de Graaf](https://www.linkedin.com/in/davidd12) describes his shift from academia to the corporate world as an unintended consequence of personal necessity rather than a lofty vision. After working for several large pharmaceutical companies, which he describes as freight trains or ocean miners that are efficient but difficult to redirect, he moved into the biotech space to gain agility. He identifies the following aspects as central to the entrepreneurial appeal:
+
+* The ability to see an idea come to fruition in a relatively short period.  
+* The challenge of solving a 1,000 piece puzzle when only 20 or 30 pieces are available.  
+* The necessity of constant pivoting to align science, financing, and personnel.
+
+### **The Three Pillars of Biotech**
+
+Success in building a biotech company is predicated on three fundamental factors:
+
+* **Science:** The underlying biological innovation.  
+* **People:** The talent required to execute complex research and clinical trials.  
+* **Finance:** Managing capital cycles that are often shorter than the drug development cycle itself.
+
+## **Business Models and Financial Realities**
+
+The financial structure of biotechnology requires a deep understanding of value inflection points and long term capital requirements.
+
+### **The Development Timeline and Cost**
+
+Biotech is a long game where a product takes approximately 15 years to move from idea to market.
+
+* **Total Cost:** The average cost for a successful program from inception through Phase 3 is approximately 450 million dollars, though this can reach billions for complex diseases like Alzheimer’s.  
+* **Funding Stages:** **Reverb Therapeutics** raised a seed round of 12 million US dollars (approximately 17 million Canadian dollars) to reach the candidate drug stage. Subsequent Series A rounds for similar companies typically range from 50 to 70 million dollars.  
+* **Revenue Paradox:** Biotech companies often sell products or are acquired before they have made any money, as they spend the entire development process in a pre-revenue state.
+
+### **Strategic Planning for Acquisition**
+
+Because most biotech companies do not become vertically integrated pharmaceutical entities, founders must understand what potential acquirers value.
+
+* Founders must provide investors and future acquirers with a clear path that minimizes risk.  
+* Clinical trials should ideally serve as confirmation of thorough preclinical research rather than a stage for discovering new, unexpected biological traits.
+
+## **Scientific Innovation at Reverb Therapeutics**
+
+**Reverb Therapeutics** was formed through a partnership between [David de Graaf](https://www.linkedin.com/in/davidd12) and [Surjt Dixit](https://ca.linkedin.com/in/surjit-dixit-711b44), combining expertise in protein design and biological signaling.
+
+### **Cytokine Modulation and Localization**
+
+The company’s name is derived from the goal of making immune signals reverberate longer.
+
+* **The Problem:** Cytokines are the immune system’s alarm bells. Naturally, they are local and brief. When used as drugs, they can act on the whole body for too long, leading to systemic toxicity.  
+* **The Solution:** **Reverb Therapeutics** uses bispecific antibody drugs to protect cytokines from quick removal and to ensure the signal only occurs in a specific location, such as a tumor.
+
+### **The AMP1 Program**
+
+The company’s lead program, AMP1, targets the limitations of existing oncology drugs like **Keytruda**.
+
+* Current drugs block PD1, an inhibitory checkpoint that tumors use to mask themselves from the immune system.  
+* **Reverb Therapeutics** adds Interleukin-15 (IL-15) to this blockade.  
+* "What Interleukin-15 does is it says to immune cells I want more of you to replicate and I want you to be better at attacking the tumor."
+
+## **The Founder Mindset: Resilience and Strategy**
+
+Building a company involves continuous do or die moments that require significant emotional and mental fortitude.
+
+### **Managing Failure and Mental Health**
+
+[David de Graaf](https://www.linkedin.com/in/davidd12) emphasizes that associating company failure with personal failure is a common but damaging pitfall for entrepreneurs.
+
+* **The Role of Therapy:** Professional support is highlighted as essential for maintaining the ability to separate self-worth from business outcomes.  
+* **Continuous Experimentation:** He compares the entrepreneurial process to a series of experiments. "I need to do 10 experiments before one works."
+
+### **Pattern Recognition and Mentorship**
+
+Experience allows founders to move from putting out fires to proactive planning.
+
+* First time founders are encouraged to surround themselves with experienced mentors who can identify upcoming regulatory or operational hurdles.  
+* **Triangulation:** For critical decisions, CEOs should seek secondary, independent opinions to stress, test their ideas. "It's your job as a CEO to hear the other side of every single thing and then you get to decide."
+
+## **Impact and Patient Centricity**
+
+The ultimate driver for biotech innovation is the measurable impact on patient lives, which requires looking beyond the perspective of physicians.
+
+### **Defining Success Through Patient Experience**
+
+While doctors focus on efficacy and clinical side effects like cytokine release syndrome, patients prioritize different quality of life issues.
+
+* **Example of Misalignment:** "When we asked patients, they said can we please have a drug that doesn't give me diarrhea, I look after I get treated I'm on a toilet for two or three days and I feel so weak and so horrible everything is running through me, I get dehydrated, that never came up with the physicians patients are at home when that happens."  
+* Meaningful impact is achieved by understanding the daily struggles of patients and providing solutions that do not carry prohibitive side effects.
+
+### **Long term Vision**
+
+The goal for **Reverb Therapeutics** is to build a culture that can exploit its core scientific concepts to help more patients in more ways. [de Graaf](https://www.linkedin.com/in/davidd12) expresses a commitment to the process of drug discovery over the mechanics of commercialization. "Don't worry about that, I worry about helping patients and establishing value and the rest will take care of itself."
