@@ -3528,3 +3528,152 @@ The United States currently faces a significant threat regarding its munition st
 * **The 11-Day Window:** Some models suggest that in a large-scale conflict with China, the United States would run out of munitions in only 11 days.  
 * **Rebuilding Capacity:** If half the naval fleet were destroyed in a conflict, it would take the United States an estimated 25 years to rebuild it to current levels.  
 * **The Thucydides Trap:** History shows that when a rising power threatens an established power, conflict is likely. **Anduril** aims to change the math of this trap by providing a credible, high volume deterrent that prevents the conflict from ever starting. "Military superiority is frontrun by industrial superiority."
+
+# Episode 137
+
+# **Inside Figure: The Race for Humanoid Robotics and Physical Intelligence**
+
+## **Executive Summary**
+
+The humanoid robotics sector represents a massive economic opportunity, as human labor accounts for slightly less than half of the world's Gross Domestic Product. **Figure** aims to capitalize on this by developing autonomous humanoid robots capable of performing useful work at scale. The company has moved away from external AI partnerships, specifically with **OpenAI**, to prioritize internal development of its Helix AI models. By maintaining a vertically integrated structure, **Figure** controls the design and manufacturing of critical components, including motors and batteries. The strategic roadmap involves transitioning from thousands of units in current production to a long-term goal of one million units per year. Beyond **Figure**, concurrent ventures like **Cover** and **Hark** are applying specialized technology to school safety and personalized AI hardware, respectively.
+
+## **The Economic and Strategic Landscape of Humanoid Robotics**
+
+The primary challenge in modern robotics is the development of a functioning humanoid robot. Solving this problem is expected to create the largest business entity globally due to the scale of the labor market.
+
+* **Market Scale:** Human labor constitutes a significant portion of global economic activity. "A little under half the world's GDP is human labor."  
+* **Revenue Potential:** Successful commercialization could lead to tens of trillions of dollars in revenue. Tech companies in this space could potentially trade at valuations reaching ten trillion dollars if they achieve significant revenue milestones.  
+* **The Meta Problem:** The goal is to achieve general robotics, which refers to a robot capable of performing any task a human can. This involves a combination of reasoning, visual understanding, and physical dexterity.
+
+## **Vertical Integration and Manufacturing at Figure**
+
+**Figure** distinguishes itself through a highly vertically integrated engineering and supply chain strategy. This approach is intended to ensure reliability and control over the production timeline.
+
+### **Internal Engineering and Design**
+
+The company designs nearly every component of the robot internally to avoid reliance on external vendors. This includes:
+
+* Electric motors and joint kinematics.  
+* Structural components and sensors.  
+* High-performance battery packs.  
+* Proprietary software and AI stacks.
+
+### **Production Scaling**
+
+**Figure** is currently in a phase of rapid production growth.
+
+* **Production Milestones:** The company achieved record production in March and aimed to triple that output by May.  
+* **Unit Goals:** The immediate target is to produce thousands of robots, with a long-term vision of reaching one million units per year.  
+* **Commercial Demand:** There is an overwhelming amount of commercial interest, but the current bottleneck is ensuring the robots can perform autonomous operations at a human level of reliability before mass deployment.
+
+## **Evolution of AI and the OpenAI Partnership**
+
+A significant shift in **Figure**'s strategy involved the termination of its primary AI collaboration. While **OpenAI** led the series B funding round and initially collaborated on language and robotics models, **Figure** eventually internalised these efforts.
+
+* **Internal Capability:** The internal team at **Figure** proved more effective at designing and testing models for robotics than the external partners. "It got to a point where our team internally that was designing these models were running circles around OpenAI."  
+* **Helix 2 Model:** Following a pilot program with **BMW**, **Figure** refactored its approach, leading to the launch of the Helix 2 AI model. This system focuses on autonomous operations without the need for teleoperation.  
+* **Physical Intelligence:** The ultimate goal is to see Artificial General Intelligence (AGI) manifest in the physical world, allowing robots to look at and reason about their environment.
+
+## **Operational Risks and Security**
+
+Building humanoid robots involves extreme technical difficulty and significant security concerns.
+
+* **Technical Faults:** Early iterations, such as Figure 1, experienced frequent faults. Improvements in Figure 2 and Figure 3 have reduced these faults significantly, though managing a growing fleet remains a challenge as the absolute number of issues rises with scale.  
+* **Reliability Standards:** The objective is for a robot to perform seven to ten hours of daily work for years without human intervention. "The most important thing is to be able to do end-to-end useful work over a long time horizon."  
+* **Security Measures:** Due to high Intellectual Property risk, **Figure** maintains strict physical and digital security. This includes tented windows to prevent drone surveillance and restricted access to engineering areas.
+
+## **Leadership Philosophy and Portfolio Ventures**
+
+The leadership at **Figure** emphasizes a hardcore approach to engineering and product development, often at the expense of traditional corporate activities.
+
+### **Concurrent Ventures**
+
+* **Cover:** This company uses terahertz imaging radar technology, originally developed at **NASA**'s **Jet Propulsion Lab**, to detect weapons in schools from a distance. **Cover** is currently self-funded and aims to deploy to 130,000 schools.  
+* **Hark:** An AI lab focused on personalized intelligence and new hardware interfaces for AI interaction, moving away from traditional phones and computers.  
+* **Archer:** [Brett Adcock](https://www.linkedin.com/in/brettadcock)'s previous company focused on electric aviation, which successfully reached a public offering and is now moving toward aircraft certification.
+
+### **Leadership Style**
+
+Leadership focus is prioritized on unblocking pernicious problems in product and engineering rather than public relations or trade shows. The founder emphasizes working in the bullpen with the engineering team to stay grounded in the technical realities of the project. This philosophy involves a recursive improvement process, drawing inspiration from leaders like [Steve Jobs](https://en.wikipedia.org/wiki/Steve_Jobs) and [Jeff Bezos](https://en.wikipedia.org/wiki/Jeff_Bezos), the latter of whom is an investor in **Figure**.
+
+# Episode 138
+
+# **Figure Humanoid Robotics Operations and Development**
+
+## **Executive Summary**
+
+The following document provides a comprehensive overview of **Figure**, a robotics company dedicated to the development of general purpose humanoid robots. Based on a detailed tour of their headquarters and manufacturing facilities, the document outlines the convergence of advanced hardware engineering and artificial intelligence through the Helix neural network. Key takeaways include the successful deployment of robots at a **BMW** manufacturing facility, the transition from traditional robotics code to a purely AI driven control strategy, and the roadmap for bringing humanoids into domestic environments. **Figure** operates a vertically integrated campus encompassing design, testing, and mass manufacturing, with a focus on achieving human level reliability and dexterity. The company has moved rapidly through three generations of hardware, achieving a ninety percent cost reduction between recent iterations, and is currently preparing for the release of its fourth generation robot.
+
+## **Mission and Core Objectives**
+
+**Figure** aims to create advanced artificial intelligence integrated into a general purpose humanoid form factor. The humanoid body is selected because it allows the hardware to navigate a world built for humans, using arms, hands, head, feet, and legs to perform a wide variety of tasks.
+
+* **Hardware Versatility:** The goal is to ship a single piece of hardware capable of performing diverse roles in housework, manufacturing, healthcare, and logistics.  
+* **AI Integration:** The robots are designed to function autonomously using onboard AI, enabling them to reason through tasks like laundry, dishes, and assembly line work.  
+* **Operational Scale:** The company intends to deploy robots at a scale where they eventually outnumber humans within their own facilities and beyond.
+
+## **The Helix AI Policy and Control Systems**
+
+A defining characteristic of the **Figure** technical strategy is the transition away from traditional C++ coding toward an AI first approach. The robots are governed by a neural network architecture called Helix.
+
+### **Neural Network Architecture**
+
+Helix is a vision-language-action model designed to interpret pixels from camera space and output joint movements, including position and torque for the motors. This inference occurs onboard the robot at a frequency of 50 to 200 times per second.
+
+* **Data Collection:** **Figure** employs dedicated teams for large scale data collection, including humans wearing tracking suits to map movements that the AI can learn.  
+* **Simulation to Real World Transfer:** The robots are trained in a physics simulator that mirrors real world conditions like gravity and friction. This allows the controller to learn robust behaviors for edge cases and stability in a synthetic environment before being loaded onto physical hardware.  
+* **Reasoning and Reaction:** The system uses a transformer policy to predict actions. "We train an AI policy to do this work of what cod used to do and learn this." This enables the robot to react in real time to dynamic environments, such as grabbing moving plastic packages in logistics settings.
+
+### **Failure Mitigation and the Never Fall Initiative**
+
+**Figure** has established an internal initiative called Never Fall to address the inherent instability of bipedal robots.
+
+* **Project Vulcan:** This project focuses on joint redundancy. If a robot loses power or communication to a knee or ankle, the system can velocity lock the joint and allow the robot to hobble to a docking station rather than falling.  
+* **Fault Analysis:** The system integration and test team performs daily stress tests, including yoga like movements and external physical force, to identify potential hardware or software failures before they occur at client sites.
+
+## **Hardware Evolution and Manufacturing**
+
+**Figure** maintains a fast-paced development cycle, producing a new robot generation approximately every year. The transition from **Figure** 1 to **Figure** 3 has seen significant improvements in cost, reliability, and form factor.
+
+### **Hardware Generations**
+
+| Generation | Key Characteristics |
+| :---- | :---- |
+| **Figure** 1 | First generation, CNC manufactured, hundreds of thousands of dollars per unit, wires exposed, used for early AI proof of concept. |
+| **Figure** 2 | Integrated battery into the torso, tripled compute power, exoskeleton structure where skin takes the load, next generation hands. |
+| **Figure** 3 | Soft wrapped with foam, slimmer design, ninety percent cost reduction from previous versions, camera tactile sensors in hands, inclusion of a toe box for natural gait. |
+| **Figure** 4 | Currently in detail design, described as a radical step up and potentially the first true iPhone moment for the company. |
+
+### **Vertical Integration and BCube**
+
+The manufacturing facility, known as BCube, handles the production of over 100 custom printed circuit boards, motor controllers, and battery packs.
+
+* **Battery Technology:** The robots use a 2.25 kilowatt hour battery pack. "The pack is structural take loads so in case we fall even on sharp objects or corners and things like this we can never propagate inside the pack the cells itself." This prevents thermal runaway and ensures fire safety.  
+* **End of Line Testing:** Every subsystem, including the sensor heavy heads, undergoes rigorous end of line checks and a multi-hour burn-in process to ensure nominal operation before deployment.  
+* **Proprietary Components:** **Figure** designs its own gearboxes, motors, and actuators to avoid limitations found in off the shelf components.
+
+## **Deployment and Commercial Operations**
+
+**Figure** has already demonstrated real world utility in high-stakes environments and has established a roadmap for both commercial and domestic markets.
+
+* **BMW Partnership:** For six months, **Figure** robots operated on the **BMW** body shop factory line. This collaboration resulted in the first car in the world built by a humanoid robot.  
+* **White House Demonstration:** **Figure** humanoids were the first of their kind to be featured at the White House, where they greeted guests and interacted with the First Lady.  
+* **Domestic Use Cases:** The company is testing robots in simulated home environments to perform tasks such as tidying rooms, spraying and cleaning tables, and folding laundry.  
+* **Business Model:** For the domestic market, the company considers a lease model similar to a car, potentially costing between 400 and 600 dollars per month.  
+* **The Grid:** This facility runs robots 24/7 to simulate heavy operations at client sites, serving as the last line of defense for software and hardware validation.
+
+## **Technical Specifications and Infrastructure**
+
+The hardware is designed for 24/7 operations through autonomous docking and high-speed charging.
+
+* **Power and Charging:** Robots can operate for four to five hours and then autonomously dock to a wireless inductive charging stand. They charge at two kilowatts, meaning one hour of charging enables several more hours of work.  
+* **Connectivity:** Robots are equipped with 5G, Wi-Fi, and Bluetooth, but they run Helix onboard so they can continue working even if internet connection is lost.  
+* **Physicality:** A standard **Figure** robot weighs approximately 135 pounds and features over 40 degrees of freedom. "Mathematically like how many states it could be in like body positions is 360 to the power of 40."
+
+## **Future Outlook**
+
+The company leadership views the current state of humanoid robotics as being in the flip phone era, with more significant advancements expected in the near future. There is a strong belief that real world interaction data is the missing piece to achieving Artificial General Intelligence.
+
+"It actually might be the case that we get to artificial general intelligence first in this embodiment."
+
+**Figure** continues to focus on data generalization to ensure robots can function in any environment worldwide, with an eventual goal of achieving full lights out manufacturing where robots are responsible for building, boxing, and shipping other robots.
