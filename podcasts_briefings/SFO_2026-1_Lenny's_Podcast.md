@@ -2407,3 +2407,80 @@ The current year is a turning point where **Snap** must prove several key metric
 * **Profitability:** Demonstrating that the business can be net income profitable after years of heavy investment.  
 * **Engagement Growth:** Continuing to expand user reach and engagement across features like spotlight and gaming.  
 * **Hardware Validation:** Launching Specs to consumers to define the next chapter of the company's journey and provide a tangible look at the future of computing.
+
+# Episode 342
+
+# **Max Schoening on Agency and the Future of Product Building in the AI Era**
+
+## **Executive Summary**
+
+This document synthesizes insights from [Max Schoening](https://www.linkedin.com/in/max-schoening), head of product at **Notion**, regarding the shifting landscape of software development, the importance of individual agency, and the evolution of product roles in the age of artificial intelligence.
+
+The emergence of powerful AI models has shifted the bottleneck of product development from technical skill acquisition to individual agency. While AI has made the first 10% of any project essentially free, the difficulty of achieving high software quality and refined taste remains constant. The industry is moving toward a future defined by malleable software, where tools are designed to be adapted by users rather than dictated by creators. Success in this new era requires a mastery of the medium, a focus on a tiny core superpower within products, and an unwavering commitment to obviously good craftsmanship.
+
+## **The Primacy of Agency over Skills**
+
+In a world where AI models can assist with coding, designing, and writing, the distribution of skills is becoming more level. Consequently, agency, the internal drive to affect change and the realization that the world is malleable, has become the most critical differentiator for success.
+
+* **Definition of Agency:** It is the understanding that the world is made up of people no smarter than you and that you can change things.  
+* **The Drive It Like It Is Stolen Mindset:** High agency individuals do not wait for permission or stick strictly to job descriptions. They contribute across disciplines to affect change, whether through recruiting, prototyping, or strategy.  
+* **Cultivating Agency:** Agency is developed through tinkering and making things. By creating physical or digital objects, individuals realize the lack of difficulty in learning how to build and tweak the world around them.
+
+"One day you wake up and you realize the world is made up by people no smarter than you."
+
+## **The Evolution of Product Roles and the Software Medium**
+
+The boundaries between designers, product managers, and engineers are collapsing. This is not necessarily about increasing production utility but about interrogating the material of software.
+
+### **Prototyping as Thinking**
+
+At **Notion**, designers and PMs are encouraged to use code for prototyping. This approach forces them to consider the medium and understand how agent loops work. This mastery of the material is more valuable than acting as a cog in a delivery mechanism.
+
+### **The Risks of Role Merging**
+
+While roles are merging, there is a risk of losing specialists on the edges. [Schoening](https://www.linkedin.com/in/max-schoening) uses physical metaphors to distinguish between a prototype and an engineered product.
+
+* **Prototypes:** Similar to 3D printing, where layer lines are visible and the focus is on utility.  
+* **Engineering:** Similar to factory optimization, ensuring a product works with precision for millions or billions of people.  
+* **Design Craft:** The risk of losing the delight in craft when everyone relies on off the shelf design systems.
+
+## **Malleable Software and the SAS Landscape**
+
+Malleable software refers to tools that work closer to the interests of the user than the corporation that created them. This concept challenges the traditional app model, which often feels like a rigid environment where users cannot rearrange their digital living rooms.
+
+* **Ownership of Computing Life:** Malleable software provides users with ownership over their tools without requiring them to build everything from scratch.  
+* **The Service in SAS:** The SAS apocalypse is exaggerated because most users do not want to maintain their own full stack of software. They pay for the maintenance and the expertise of specialists who tend to the software like a garden.  
+* **Return to General Tools:** Software is trending back toward the general purpose tools of the 1990s, such as word processors and spreadsheets, but enhanced by AI to act as tutors for users.
+
+## **Product Excellence and the Tiny Core**
+
+The most successful products are rarely defined by their total feature count. Instead, they possess a tiny core that functions as a superpower.
+
+| Company | Tiny Core Superpower |
+| :---- | :---- |
+| **GitHub** | The pull request, allowing anyone to suggest changes. |
+| **Heroku** | The git push command, simplifying deployment to a single line. |
+| **Dropbox** | The menu bar icon that signaled reliable file synchronization. |
+| **Snapchat** | The concept of the disappearing photo. |
+| **Notion** | Blocks and slash commands that create a flexible workspace. |
+
+### **The Death Spiral of Features**
+
+A common pitfall for failing products is the belief that adding one more feature will finally make the product great. This rarely works. Instead, teams should focus on making the product obviously good, a bar that is recognizable upon first contact.
+
+## **Artificial Intelligence and Future Trends**
+
+AI is accelerating the process of software eating the world by reducing the cost of encoding business practices into software.
+
+* **The 10% Rule:** The first 10% of any project, such as building a version 0.8 of a startup, is now nearly free. However, the final 10% of polish and reliability still requires 90% of the effort.  
+* **Intelligence Saturation:** Society may not be capped by intelligence but by UX and speed. Once a model is good enough for a task, users will likely prioritize models that are faster, cheaper, and run locally over those with higher absolute intelligence.  
+* **The Coding Agent Dominance:** Winning agents will likely be coding agents that build the skills they need to solve a problem, rather than agents with a fixed set of capabilities.  
+* **Software Quality:** There is a current lack of Apple-esque, machined quality in AI generated software. Quality and reliability have not necessarily increased in the last 12 months, even if the volume of software has.
+
+## **Critical Takeaways on Taste and Career**
+
+* **Defining Taste:** Taste is the ability to run a virtual machine in your head to predict whether a certain in-group will like an idea. It is developed through high frequency repetitions and exposure to tasteful things.  
+* **Universal Basic Income (UBI):** [Schoening](https://www.linkedin.com/in/max-schoening) jokingly refers to knowledge work as a form of UBI, noting that humans are inventive in inserting themselves into the loop of work even as automation increases.  
+* **Career Longevity:** History repeats itself more than it creates completely novel situations. Individuals should focus on what they are passionate about and work hard early in their careers rather than being distracted by the frenzy of the latest trend.
+
+"Taste actually means you're able to run a virtual machine in your head, where given an idea you can predict for a certain in-group whether they're going to like it or not."
