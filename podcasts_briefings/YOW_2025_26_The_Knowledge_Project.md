@@ -466,3 +466,138 @@ Institutional investors have historically moved from zero to nearly 50% allocati
 "The productivity advances we see over the next 20 years probably will be unprecedented."
 
 "Success in investing isn't about making a lot of money in a short period of time, what it's really about is earning reasonable returns over very long periods of time."
+
+# Episode 223
+
+# **Pierre Poilievre’s Economic and Policy Vision for Canada**
+
+## **Executive Summary**
+
+The following document synthesizes the economic, social, and political perspectives of [Pierre Poilievre](https://en.wikipedia.org/wiki/Pierre_Poilievre), leader of the Conservative Party of Canada, as presented in a detailed interview. The core mission of his proposed governance is centered on restoring the Canadian promise, which he defines as the ability for any individual to achieve success through hard work regardless of their starting point.
+
+Central to this vision is a significant reduction in the size and scope of the federal government. Key policy pillars include the elimination of the carbon tax, a hard cap on government spending through a dollar for dollar law, and a dramatic reduction in regulatory hurdles to unlock natural resource exports. [Poilievre](https://en.wikipedia.org/wiki/Pierre_Poilievre) advocates for a bottom up approach to economic growth, emphasizing that current fiscal policies have facilitated a wealth transfer from the working class to the affluent. His platform prioritizes national sovereignty, particularly in Arctic waters, and seeks to reposition Canada as a global leader in energy and technology by streamlining permits and lowering taxes on domestic reinvestment.
+
+## **Leadership Philosophy and the Canadian Promise**
+
+The leadership approach outlined focuses on the individual rather than group identities. There is a stated commitment to ending identity politics, which is viewed as a tool of division used to maintain political power. Instead, the focus is on a national identity where citizens are judged by their personal character and conduct.
+
+### **The Role of the Opposition and Personal Motivation**
+
+The adversarial nature of the House of Commons is described as a necessary function of the democratic system to hold the government to account. Personal motivations for seeking office are rooted in a belief in upward mobility, cited through personal history and family experiences. This includes a commitment to creating a stable future for all families, particularly those facing unique challenges such as raising children with special needs.
+
+### **Unity and Assimilation**
+
+The document highlights a desire to move away from sectarian divisions. The proposed approach encourages immigrants to bring their cultures and traditions while leaving foreign conflicts behind to unite under a shared national flag. The goal is a return to a culture of assimilation where all citizens are Canadians first, above any other identity.
+
+## **Economic Policy and Fiscal Discipline**
+
+The economic strategy focuses on addressing the productivity gap between Canada and the United States. Current data suggests a significant disparity in economic value generated per hour worked.
+
+### **The Productivity and Investment Gap**
+
+| Metric | Canada | United States |
+| :---- | :---- | :---- |
+| GDP generated per hour worked | $53 USD | $78 USD |
+| Business investment per worker per year | $15,000 | $28,000 |
+
+The disparity is attributed to a lack of tools, technology, and capital for Canadian workers. To address this, the proposed Canada first reinvestment tax cut would offer zero capital gains for money reinvested within the country. This is intended to prevent the outflow of capital and encourage companies to bring profits back to Canada.
+
+### **Fiscal Management and Inflation**
+
+To curb inflation, described as a silent thief that erodes purchasing power, the following fiscal measures are proposed:
+
+* **Dollar for Dollar Law:** A requirement that every new dollar of government spending be offset by a dollar of savings.  
+* **Bureaucratic Attrition:** Reducing the size of the public service by not filling all vacancies left by the 17,000 annual retirees.  
+* **Consultant Reductions:** Cutting the $21 billion currently spent on external consultants.  
+* **Foreign Aid Cuts:** Reducing foreign aid to prioritize domestic needs like housing and clean water on First Nations reserves.  
+* **Lower Income Taxes:** A commitment to lowering income taxes by 15 percent for the average worker and senior.
+
+## **Regulatory Reform and Resource Development**
+
+A primary goal is to make Canada the fastest place in the OECD to obtain building permits. This involves a fundamental shift in how the government handles large scale projects.
+
+### **Streamlining Approval Processes**
+
+Current regulations, such as C-69 and C-48, are identified as no development laws that strangle the ability to build pipelines, mines, and LNG plants. Proposed reforms include:
+
+* **Targeted Permitting Times:** Reducing major project approvals to six or seven months.  
+* **Shovel Ready Zones:** Creating zones where environmental research and standards are pre-approved, providing immediate certainty for investors.  
+* **Two for One Rule:** A requirement to eliminate two existing regulations for every new one introduced, overseen by an independent auditor.
+
+### **Natural Resource Sovereignty**
+
+Unlocking natural resources is framed as the key to national wealth. This includes:
+
+* **LNG Expansion:** Leveraging the 25 percent lower cost of liquefaction due to cold weather and the shorter shipping times to Asia compared to the US Gulf Coast.  
+* **National Energy Corridor:** Creating a pre-approved corridor for pipelines to move oil and gas east, west, and north.  
+* **First Nations Partnerships:** Ensuring First Nations have a stake in royalty revenues from projects on their lands.
+
+## **Public Safety and Healthcare**
+
+The vision for social systems emphasizes accountability and the removal of bureaucratic barriers to service delivery.
+
+### **Crime and Justice Reform**
+
+Current crime rates are attributed to catch and release policies. Proposed legislative changes include:
+
+* **Repealing Bill C-75 and C-5:** Ending easy bail and house arrest for serious offenders.  
+* **Three Strikes Law:** Permanent ineligibility for bail, parole, or house arrest for those convicted of three serious violent offenses.  
+* **Border Security:** Hiring 2,000 additional CBSA officers and increasing shipping container scanning to stop the flow of illegal drugs and firearms.  
+* **Addiction Treatment:** Funding treatment for 50,000 individuals to break the cycle of addiction and crime.
+
+### **Healthcare Innovation**
+
+While maintaining the universal nature of the Canada Health Act, the focus is on increasing the supply of medical professionals through:
+
+* **Blue Seal Testing:** A national, voluntary licensing test for immigrant doctors and nurses to prove their qualifications quickly.  
+* **Drug Approval Recognition:** Automatically recognizing drug approvals from advanced jurisdictions like the US and EU to provide faster access to life saving medications.
+
+## **Trade and Foreign Relations**
+
+The relationship with the United States is viewed as the most critical partnership, though one that requires a firm stance on trade.
+
+### **Tariff Strategy and CUSMA**
+
+In response to US tariffs, a policy of retaliation is advocated as a necessary deterrent. The proposed strategy involves:
+
+* **Immediate Negotiations:** Offering a 100 to 120 day tariff free window to renegotiate the CUSMA (USMCA) agreement.  
+* **Continental Defense:** Offering increased investment in shared North American defense, including Arctic sovereignty, as a trade lever.
+
+### **Global Competitiveness and China**
+
+The document outlines a need to stand up against Chinese foreign interference and unfair trade practices. Strengthening the North American economic bloc is presented as the primary way to counter the global influence of Beijing. This includes reducing dependence on the US by developing independent export routes for Canadian energy to Europe and Asia.
+
+## **Media, Free Speech, and Technology**
+
+The approach to information and technology emphasizes decentralization and the protection of individual expression.
+
+### **Freedom of Expression**
+
+There is a commitment to repealing Bill C-11, which is characterized as a censorship law that grants the government power to control online content. The perspective shared is that the government should not subsidize media outlets, as this creates a perception of bias and undermines the independence of the press.
+
+### **Artificial Intelligence and Cyber Defense**
+
+The military of the future is envisioned as one centered on AI, advanced robotics, and drone technology.
+
+* **Cyber Warfare:** Prioritizing the defense of critical infrastructure against malware and data attacks.  
+* **AI Regulation:** Proposing the criminalization of unapproved use of AI generated intimate images while ensuring that government regulation does not become a tool for controlling information flow.
+
+## **Selected Direct Quotes**
+
+"I think right now people are more divided than ever in Canada."
+
+"I think it's better to treat everyone like an individual and give them a chance."
+
+"We believe that this is a country where you can start anywhere and get anywhere."
+
+"I call income tax the fine we pay for the crime of hard work."
+
+"Decline is a choice."
+
+"Inflation is the silent thief that creeps up whenever the government is spending more than it brings in."
+
+"Capital goes where capital grows."
+
+"I don't think that we should use that as an excuse to take away legitimate political discourse on the internet."
+
+"I want people to go to the polls not because they're angry but because they're hopeful."
