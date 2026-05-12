@@ -3780,3 +3780,103 @@ While doctors focus on efficacy and clinical side effects like cytokine release 
 ### **Long term Vision**
 
 The goal for **Reverb Therapeutics** is to build a culture that can exploit its core scientific concepts to help more patients in more ways. [de Graaf](https://www.linkedin.com/in/davidd12) expresses a commitment to the process of drug discovery over the mechanics of commercialization. "Don't worry about that, I worry about helping patients and establishing value and the rest will take care of itself."
+
+# Season 3 Episode 18
+
+# **Alberta Innovation Ecosystem: Strategic Partnerships and Economic Growth**
+
+## **Executive Summary**
+
+The Alberta innovation ecosystem, particularly in Calgary, has undergone a significant cultural and economic shift, moving from a cyclical energy dependent economy to a burgeoning technology hub. This transition is characterized by a high degree of collaboration, a unique regulatory environment that supports emerging industries like cryptocurrency, and a strategic focus on sector specific innovation nodes. Key partners, including **ATB Financial**, **Artemis Canada**, and **Calgary Economic Development**, provide the necessary infrastructure for founders to scale through advisory banking, strategic talent acquisition, and milestone based grants. The region is positioning itself as the innovation capital of Canada by leveraging its high concentration of corporate head offices and open data access to solve global challenges in life sciences, aerospace, agriculture, and energy transition.
+
+## **The Unique Alberta Mindset and Collaborative Culture**
+
+The Alberta ecosystem is distinguished by a culture of collaboration and a willingness to engage in unconventional business practices to support growth. Unlike larger hubs, the community emphasizes collective growth over individual success.
+
+* **Handshake Deals and Proximity:** The community allows for significant business agreements to be reached through personal trust and proximity. "if you're here and you're a good person, the community will help, support you and grow, because everybody here wants the community to grow together, it's not just the individuals, it's not like that anywhere else, and you can get handshake deals done here, that means something"  
+* **Belief and Momentum:** There is a tangible shift in local confidence, evidenced by $11 billion worth of deals completed in Calgary within a two week period.  
+* **Collision Points:** The frequency of in person events and a higher requirement for in office work compared to cities like Toronto or Vancouver fosters natural collaboration and innovation through collision.  
+* **Open Data Access:** The City of Calgary provides the best open data source in North America, allowing innovators to access information that helps solve real world problems.
+
+## **Banking as an Advisory and Scaling Partner**
+
+Founders are encouraged to view banking institutions as strategic advisors rather than mere service providers. **ATB Financial** emphasizes that a banking partner should scale with a business and offer bespoke solutions rather than forcing startups into standard commercial frameworks.
+
+### **The Role of ATB Financial in Emerging Sectors**
+
+**ATB Financial** has established itself as a leader in supporting high risk or emerging sectors before they achieve mainstream regulatory clarity.
+
+* **Cryptocurrency Leadership:** Approximately nine years ago, **ATB Financial** decided to support the crypto industry when other major banks declined. The bank currently serves 75 percent of the regulated crypto industry in Canada.  
+* **Regulatory Frameworks:** The bank collaborated with the **Alberta Securities Commission** to create sandboxes where crypto companies can operate without penalties while frameworks are developed.  
+* **Client Scaling Examples:**  
+  * **Shakepay:** A crypto exchange that grew to 1.6 million clients. "if it wasn't for ATB we wouldn't exist"  
+  * **Neo Financial:** **ATB Financial** provided the initial credit card backbone for **Neo Financial** before the company grew large enough to issue its own.  
+  * **Quickly:** A receivables and payables technology company that started in an entrepreneurial center and scaled to the capital markets business.
+
+### **Technical and Risk Innovation**
+
+**ATB Financial** utilizes tech forward core systems and payment engines that differ from the legacy systems used by the big five banks. This allows them to better understand and manage the risks associated with intangible assets like tech receivables, which are more difficult to lend against than traditional sectors like Real Estate or Oil and Gas.
+
+## **Strategic Talent Acquisition and the Talent Flywheel**
+
+Great companies are powered by great people, and strategic hiring is critical at inflection points such as Series A funding or leadership transitions. **Artemis Canada** works with founders to ensure hires fit the specific domain and scale of the organization.
+
+* **The Talent Flywheel:** Innovation hubs benefit from a flywheel effect, where talent from successful companies, or even layoffs, circulates to start new ventures, or bolster existing ones. For example, talent from **Neo Financial** has moved on to support net new initiatives like **Questbank**.  
+* **Cross Industry Talent:** Calgary is uniquely open to bringing in talent from other sectors, such as Oil and Gas, and applying their operational excellence to technology.  
+* **Human Impact:** Recruitment is viewed through the lens of long term human impact, where one strategic hire can change the trajectory of an entire industry.
+
+## **Economic Diversification through the Opportunity Calgary Investment Fund**
+
+The **Opportunity Calgary Investment Fund** (**OCIF**), a wholly owned subsidiary of the **City of Calgary**, was established in 2017 with $100 million to diversify the economy following a downturn in oil prices.
+
+### **The Shift to an Ecosystem Model**
+
+Initially functioning as an intake portal, **OCIF** faced challenges with a backlog of diverse applications and a risk negative shareholder environment. The strategy evolved from direct company investment to a focus on creating an environment for innovation to flourish.
+
+* **The Thesis (Find, Fuel, Foster):**  
+  * **Find:** Curating the right opportunities rather than just accepting applications.  
+  * **Fuel:** Providing grant based, non dilutive, milestone based capital.  
+  * **Foster:** Ensuring investments grow the community and build long term diversification.  
+* **Fund of Funds:** To move money effectively, **OCIF** partnered with venture firms like **Thin Air Labs**, **Sandstone Asset Management**, **AEC** (Alberta Enterprise Corporation), and **Yaletown Partners** to manage pre seed funds focused on local companies.
+
+### **The Transition to a Sector-Specific Node Strategy**
+
+**OCIF** has moved away from a broad innovation strategy toward a deep neural network model of specialized hubs.
+
+| Innovation Node | Focus Area |
+| :---- | :---- |
+| Life Sciences Innovation Hub | Pharmaceuticals, diagnostics, and health tech |
+| Aviation Innovation Hub (Correction: AIH stands for Aerospace Innovation Hub). | Aerospace and commercialization |
+| Julius Commercialization Hub  (Correction: It is called Xpand Commercialization Hub) | Defense and technology |
+| Ag Innovation Hub (Correction: it is called AgSphere) | Agricultural technology |
+| Energy Transition Piece (Correction: The Energy Transition Centre was renamed the ETC Foundation). | Sustainable energy solutions |
+| Transportation and Logistics (Correction: The Alberta Logistics Centre of Excellence (ALCoE) is at Mont Royal University (MRU)  | Supply chain and movement technology |
+
+The goal is to foster collisions not just within these sectors, but between them, such as applying life sciences innovation to the agriculture space.
+
+## **Future Innovations and Emerging Technologies**
+
+The Alberta ecosystem is currently focused on high-growth areas that promise to redefine traditional industries.
+
+### **Blockchain, Tokenization, and Digital Assets**
+
+**ATB Financial** is exploring distributed ledger technology (DLT) and programmable money to create organizational efficiency and new investment opportunities.
+
+* **Stablecoins:** Projects like the one launched by **Tetra Trust** are expected to transform how money is moved and collected globally.  
+* **Tokenization of Real Assets:** There is an active movement in Calgary to tokenize large scale assets. "I've had conversations in the last couple of weeks, or a couple months, I should say with a large agricultural client, that's tokenizing a billion dollars worth of farmland"  
+* **Office Tower Tokenization:** A Calgary office tower valued at approximately $1 billion is being tokenized to attract global investors because traditional pension funds are currently hesitant to invest at that scale in the local market.
+
+### **Scaling and De-risking Innovation**
+
+A primary objective for the coming years is to help more companies move beyond the startup phase into the scaling phase. This involves creating sandboxes to derisk innovation and shifting the cultural mentality toward accepting failure. "government shouldn't invest directly into companies, that's not our job, that's what the market, what we have to do, is help create the environment where innovation innovators can flourish"
+
+## **Impact and Long-term Community Goals**
+
+The partners emphasize that innovation must result in meaningful human and community impact.
+
+* **Mental Wellness and Diversity:** **ATB Financial** focuses on mental wellness for founders and supports specific demographics through initiatives like **W by ATB** for women entrepreneurs and specialized teams for indigenous and agricultural sectors.  
+* **Infrastructure for Employment:** **OCIF** facilitates deals that create long term career funnels. A deal involving **Lufthansa Technik**, the airport authority, and **WestJet** brought a unique engine test facility to Calgary, creating high paying roles for local engineering graduates from **SAIT** or the **University of Calgary**.  
+* **Aerospace and Defense:** Strategic coordination between **MRU**, **CAE**, **WestJet**, and the government, has secured flight simulator time and training hours, positioning Calgary as a global hub for aviation commercialization.
+
+The collective vision for these organizations is to tell the stories of the founders they support, while establishing the region as a premier destination for global technology and investment. "We want to be and will be the innovation capital of this country."
+
