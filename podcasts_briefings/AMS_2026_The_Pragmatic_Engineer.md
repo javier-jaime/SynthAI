@@ -1250,3 +1250,132 @@ As the industry moves toward 2027, the speakers anticipate several shifts in the
 "The best possible spec is the software itself."
 
 "We all need to slow the f\* down."
+
+# Episode 060
+
+# **Programming Language Evolution and the Impact of Artificial Intelligence**
+
+## **Executive Summary**
+
+This document synthesizes the technical insights and historical perspectives of [Anders Hejlsberg](https://en.wikipedia.org/wiki/Anders_Hejlsberg), covering over 40 years of programming language design. It details the development of industry standard tools and the shifting landscape of software engineering in the era of artificial intelligence.
+
+The history of programming languages is defined by 10 year cycles where version three typically represents the point of peak adoption and refinement. The evolution from Turbo Pascal to TypeScript demonstrates a consistent movement toward integrated experiences where the compiler and the Integrated Development Environment (IDE), function as a single, symbiotic unit. Critical technical shifts, such as the introduction of async/await in C\# and the open sourcing of TypeScript, were driven by both architectural necessity and the changing preferences of the developer ecosystem. As artificial intelligence becomes a central tool in code generation, the role of the software engineer is transitioning from a writer of code to a reviewer and architect, with an increased focus on determinism, locality, and semantic verification.
+
+## **Historical Evolution of Programming Tools**
+
+The development of modern programming environments began with highly constrained hardware that required deep visibility into the machine's bottom layers.
+
+### **The Genesis of Turbo Pascal**
+
+Turbo Pascal, released in 1983 by **Borland**, transformed the development cycle by prioritizing speed and interactivity.
+
+* **Design Philosophy:** The name Turbo was inspired by the fast **Audi** Quattro and turbos of the era. The goal was to provide an experience that matched the interactivity of interpreted Basic but with the performance and syntax of a compiled language.  
+* **Commercial Impact:** At a price of $49.95, it was approximately 10 times better and a tenth of the price of competing compilers, which often cost $500 and lacked integrated editors.  
+* **The Integrated Experience:** From its inception, the product was designed not just as a compiler but as an entire cycle including editing, running, and debugging.
+
+### **Delphi and the Graphical User Interface**
+
+The transition from DOS text mode to the Windows Graphical User Interface (GUI), led to the creation of Delphi.
+
+* **Competitive Strategy:** While initially intended to compete with **Microsoft** Visual Basic, Delphi differentiated itself by providing a true compiler and targeting client-server enterprise applications.  
+* **Legacy Systems:** The robustness of Delphi is evidenced by its long term use in production environments, including its role in the original development of the **Skype** application.
+
+## **The Development of C\# and .NET**
+
+The creation of C\# was influenced significantly by legal and strategic challenges between **Microsoft** and **Sun Microsystems** over the Java language.
+
+### **Design Goals and Team Structure**
+
+C\# was developed to combine the power and productivity of C++ with the ease of use found in Visual Basic.
+
+* **Technical Goals:** The architects sought to build an object oriented language for managed code, featuring garbage collection, exception handling, and a unified object system.  
+* **The Design Process:** A small team of six to seven experienced language designers met three times a week for two hour sessions. "Language design is 90% the same and 10% new for pretty much every language."  
+* **Standardization:** The team prioritized creating a standardized language to level the playing field for developers.
+
+### **Innovation in Asynchronous Programming**
+
+C\# introduced the async/await pattern, which has since been adopted by JavaScript, Python, and Rust.
+
+* **State Machine Transformation:** Compilers are better suited than humans for the painful transformation of serial code into state machines. Await allows the compiler to handle continuation processing while the developer writes sequential looking code.  
+* **Function Coloring:** While powerful, async/await introduces function coloring where async functions must call other async functions, a constraint avoided by the green threads or Go routines found in the Go language.
+
+## **TypeScript and the Open Source Shift**
+
+TypeScript was developed to address the scalability issues of JavaScript as it became the dominant cross-platform language for web and mobile devices.
+
+### **Tooling and Type Systems**
+
+The primary motivation for TypeScript was to enable better tooling, such as statement completion, refactoring, and navigation.
+
+* **The Erasable Type System:** TypeScript adds a type system that is erased during compilation. This allows for great tooling without changing the runtime behavior of JavaScript.  
+* **Popularity:** TypeScript recently became the most popular language on **GitHub** as developers increasingly preferred formalizing intent through types to manage large scale codebases.
+
+### **Open Source and Open Development**
+
+The release of TypeScript marked a significant cultural shift inside **Microsoft**.
+
+* **Strategic Necessity:** The team realized the JavaScript ecosystem would not adopt a proprietary language.  
+* **Evolution of Workflow:** Moving the project from the internal **Microsoft** repository Codeplex to **GitHub** in 2014 transitioned the project from open source to open development, where the entire workflow occurs in the public eye.
+
+## **Modern Compiler Architecture**
+
+Traditional compiler design, which focuses on batch processing, is insufficient for modern IDE requirements.
+
+### **The Compiler as a Service**
+
+Modern compilers must function as interactive services to support real-time feedback in tools like VS Code.
+
+* **Latency Requirements:** Features like statement completion must occur within 200 milliseconds to avoid the perception of slowness.  
+* **Lazy and Deferred Processing:** Instead of recompiling an entire project of 500,000 lines, the compiler only updates the active file and resolves only the types necessary for the current operation.
+
+### **Compilation Pipeline Stages**
+
+| Stage | Function |
+| :---- | :---- |
+| Lexer / Scanner | Converts text into tokens. |
+| Parser | Constructs Abstract Syntax Trees, or ASTs, and checks grammar. |
+| Binder | Connects symbol information, builds symbol tables, and creates control flow graphs. |
+| Type Checker | Performs semantic analysis to ensure the program is correct. |
+| Emitter | Erases type annotations and generates JavaScript code or declaration files. |
+
+## **Artificial Intelligence in Software Engineering**
+
+The rise of AI is fundamentally altering the craft of programming, though it introduces new challenges regarding determinism and verification.
+
+### **The Stochastic vs. Deterministic Conflict**
+
+AI is inherently non deterministic, which conflicts with the requirement for deterministic behavior in applications like banking.
+
+* **Programmatic Solutions:** A more effective way to use AI is to ask it to write a program that computes an answer rather than asking for the answer directly.  
+* **Determinism:** "Don't ask it for the answer. Ask it to write a program that computes the answer and you will know that, that will be deterministic."
+
+### **Shifting Engineer Roles**
+
+As AI agents generate more code, the human engineer's role is evolving.
+
+* **Project Management:** Engineers are increasingly functioning as project managers, overseeing an army of junior programmer agents.  
+* **Code Review:** The primary task is shifting from writing code to reviewing and architecting systems.  
+* **Responsibility:** AI cannot be held responsible for its output, meaning the legal and functional responsibility for software remains with the human programmer.
+
+### **Optimization for AI Training**
+
+Languages that AI has seen most frequently in its training sets, such as JavaScript and Python, remain the most suited for AI usage.
+
+* **Locality:** Languages that emphasize locality and avoid global states are easier for AI to process within limited context windows.  
+* **Type Inference:** TypeScript is particularly useful because types provide context to the AI, while inference reduces the number of tokens required.
+
+## **Verification and Testing in the AI Era**
+
+The surge in AI generated code has created a bottleneck in testing and verification, as software is changing at superhuman speeds.
+
+* **Verification Limits:** AI cannot verify itself. Traditional tests may miss issues in complex, machine generated codebases.  
+* **Realistic Faults:** "The only way to verify that software works is to run it with realistic faults."  
+* **Industry Trends:** There is an increased focus on testing and verification tools, such as those used by **Citadel** and **Jane Street**, to ensure correctness before production deployment.
+
+## **Philosophy of Language Design**
+
+Successful languages are built on long term commitment and a focus on the total developer experience.
+
+* **Productivity First:** Developers care most about being in the zone where their tools feel like an extension of their fingertips.  
+* **The Ten-Year Cycle:** Creating a programming language is a long play. Version one often has issues, version two fixes them, and version three achieves excellence, followed by a long period of convincing the industry to adopt it.  
+* **Integrated Tooling:** The compiler is not the standalone product. The product is the entire cycle of editing, compiling, running, and debugging. "You can't have one without the other."
